@@ -40,22 +40,32 @@ the procedure they will provide (link to KIP_audio).
 
 ## Metadata
 
-Each participant is associated to a series of metadata, that can be found in the
-[`metadata/participants.tsv`](metadata/participants.tsv) file.
+Each participant and each conversation are associated to a series of metadata, that can be found in the
+[`metadata/participants.tsv`](metadata/participants.tsv) and [`metadata/conversations.tsv`](metadata/conversations.tsv) fils.
 Metadata is to be interpreted as follows:
 
-- `code`: unique anonymized 5-char identifier for each participant. Unknown, occasional participants
-  to conversations are associated with a special `???` code.
-- `gender`: either `M` for masculine or `F` for feminine
-- `age-range`: 5 years range in which the age of the participant is included
-- `school-region`: Italian region[^1] where the participant has completed their school years.
-  In case the participant completed school outside Italy, the label `estero` is used
-- `occupation`: either `student` or `intellectual`. In this module, participants whose occupation
-  is `intellectual` are University professors.
-
-Additionally, the [`metadata/participants.tsv`](metadata/participants.tsv) also contains a `conversations`
+1. Participants metadata:
+    - `code`: unique anonymized 5-char identifier for each participant. Unknown, occasional participants
+     to conversations are associated with a special `???` code.
+    - `gender`: either `M` for masculine or `F` for feminine
+    - `age-range`: 5 years range in which the age of the participant is included
+    - `school-region`: Italian region[^1] where the participant has completed their school years.
+     In case the participant completed school outside Italy, the label `estero` is used
+    - `occupation`: either `student` or `intellectual`. In this module, participants whose occupation
+     is `intellectual` are University professors.
+	- Additionally, the [`metadata/participants.tsv`](metadata/participants.tsv) also contains a `conversations`
 colum that summarizes the conversations in which the participant appears.
-
+2. Conversations metadata:
+   - `code`: unique identifier for conversation
+   - `type`: type of interaction, possible values are `exam`, `free-conversation`, `lecture`, `office-hours` (i.e., professor - student meetings), `semistructured-interview`
+   - `duration`: duration of the conversation, expressed in `hh:mm:ss` format
+   - `participants-number`: number of participants to the conversation
+   - `participants-relationship`: relation, either symmetric or asymmetric, holding among speakers
+   - `moderator`: presence of a moderator
+   - `topic`: either free or fixed
+   - `year`: year of collection
+   - `collection-point`: two letter code of the area where the conversation was collected. Possible values for this module are `BO` for Bologna and `TO` for Turin.
+   - Additionally, the [`metadata/conversations.tsv`](metadata/conversations.tsv) also contains a `participants` field that recaps the codes of the participants to that conversation
 
 [^1]: `abruzzo`, `basilicata`, `calabria`, `campania`, `emilia-romagna`, `friuli-venezia-giulia`, `lazio`, `liguria`, `lombardia`, `marche`, `molise`, `piemonte`, `puglia`, `sardegna`, `sicilia`, `toscana`, `trentino-alto-adige`, `umbria`, `valle-d-aosta`, `veneto`
 -----
