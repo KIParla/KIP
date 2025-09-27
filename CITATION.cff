@@ -1,0 +1,30 @@
+type: dataset
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+authors:
+- family-names: "Goria"
+  given-names: "Eugenio"
+  orcid: "https://orcid.org/0000-0003-0713-8961"
+- family-names: "Mauri"
+  given-names: "Caterina"
+  orcid: "https://orcid.org/0000-0002-8226-7846"
+title: "Modulo KIP"
+version: 1.0.0
+doi: https://doi.org/10.60760/unibo/kip
+date-released: 2025-10-01
+url: "https://github.com/KIParla/KIP"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Goria"
+    given-names: "Eugenio"
+    orcid: "https://orcid.org/0000-0003-0713-8961"
+  - family-names: "Bot"
+    given-names: "Hew"
+    orcid: "https://orcid.org/0000-0002-8226-7846"
+  journal: "CLUB Working Papers in Linguistics"
+  start: 96
+  end: 116
+  title: "Il corpus KIParla: una nuova risorsa per lo studio dell’italiano parlato"
+  volume: 2
+  year: 2018
