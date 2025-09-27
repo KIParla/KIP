@@ -2,7 +2,6 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-
 The KIP corpus is part of the larger [KIParla collection](www.kiparla.it),
 which can be freely queried through the [NoSketch Engine interface](https://kiparla.it/search/).
 
@@ -39,6 +38,26 @@ restricted-access license.
 To gain access to the audio files, it is necessary to contact the corpus coordinators and follow
 the procedure they will provide (link to KIP_audio).
 
+## Metadata
+
+Each participant is associated to a series of metadata, that can be found in the
+[`metadata/participants.tsv`](metadata/participants.tsv) file.
+Metadata is to be interpreted as follows:
+
+- `code`: unique anonymized 5-char identifier for each participant. Unknown, occasional participants
+  to conversations are associated with a special `???` code.
+- `gender`: either `M` for masculine or `F` for feminine
+- `age-range`: 5 years range in which the age of the participant is included
+- `school-region`: Italian region[^1] where the participant has completed their school years.
+  In case the participant completed school outside Italy, the label `estero` is used
+- `occupation`: either `student` or `intellectual`. In this module, participants whose occupation
+  is `intellectual` are University professors.
+
+Additionally, the [`metadata/participants.tsv`](metadata/participants.tsv) also contains a `conversations`
+colum that summarizes the conversations in which the participant appears.
+
+
+[^1]: `abruzzo`, `basilicata`, `calabria`, `campania`, `emilia-romagna`, `friuli-venezia-giulia`, `lazio`, `liguria`, `lombardia`, `marche`, `molise`, `piemonte`, `puglia`, `sardegna`, `sicilia`, `toscana`, `trentino-alto-adige`, `umbria`, `valle-d-aosta`, `veneto`
 -----
 
 This work is licensed under a
