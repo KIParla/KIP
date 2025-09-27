@@ -17,6 +17,8 @@ free conversations (among students).
 
 The transcriptions have been anonymized.
 
+Overall, the module is made up of 121 conversations and includes 184 speakers.
+
 The KIP folder is available for download and contains:
 
 For the entire module:
