@@ -2874,7 +2874,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 375-1	TO045	375	un'	un'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 375-2	TO045	375	altra	altra	linguistic	none	_	_	_	_	_	_
 375-3	TO045	375	cosa	cosa	linguistic	none	_	_	_	_	_	_
-375-4	TO045	375	stra-tipica,	stra-tipica,	error	none	_	End=1161.463	_	_	_	_
+375-4	TO045	375	stra-tipica,	stra-tipica	linguistic	none	Intonation=weakly_rising	End=1161.463	_	_	_	_
 376-0	TO045	376	è	è	linguistic	none	_	Begin=1161.618	_	_	_	_
 376-1	TO045	376	una	una	linguistic	none	_	_	_	_	_	_
 376-2	TO045	376	bevanda,	bevanda	linguistic	none	Intonation=weakly_rising	End=1162.678	_	_	_	_
@@ -3466,7 +3466,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 467-5	TO045	467	l]o	lo	linguistic	none	_	_	_	_	_	0-1(68)
 467-6	TO045	467	smog,	smog	linguistic	none	Intonation=weakly_rising	End=1372.408	_	_	_	_
 468-0	TO055	468	[è	è	linguistic	none	_	Begin=1370.65	_	_	_	0-1(68)
-468-1	TO055	468	stra-inquinato].	stra-inquinato.	error	none	_	End=1371.759	_	_	_	0-14(68)
+468-1	TO055	468	stra-inquinato]	stra-inquinato	linguistic	none	Intonation=falling	End=1371.759	_	_	_	0-14(68)
 469-0	TO045	469	che	che	linguistic	none	_	Begin=1372.504	_	_	_	_
 469-1	TO045	469	sembra	sembra	linguistic	none	_	_	_	_	_	_
 469-2	TO045	469	sempre	sempre	linguistic	none	_	_	_	_	_	_

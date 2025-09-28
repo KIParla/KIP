@@ -1482,7 +1482,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 202-8	BO073	202	casa	casa	linguistic	none	_	_	_	_	_	_
 202-9	BO073	202	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 202-10	BO073	202	a	a	linguistic	none	_	_	_	_	_	_
-202-11	BO073	202	@nomeluogo,	@nomeluogo,	anonymized	none	_	End=511.974	_	_	_	_
+202-11	BO073	202	@nomeluogo,	@nomeluogo,	linguistic	none	_	End=511.974	_	_	_	_
 203-0	BO073	203	che	che	linguistic	none	_	Begin=512.019	_	_	_	_
 203-1	BO073	203	io	io	linguistic	none	_	_	_	_	_	_
 203-2	BO073	203	ho	ho	linguistic	none	_	_	_	_	_	_
@@ -2026,8 +2026,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 281-0	BO021	281	e	e	linguistic	none	_	Begin=709.69	_	_	_	_
 281-1	BO021	281	fann	fann	linguistic	none	_	_	_	_	_	_
 281-2	BO021	281	pur	pur	linguistic	none	_	_	_	_	_	_
-281-3	BO021	281	'	'	error	none	_	_	_	_	_	_
-281-4	BO021	281	e	e	linguistic	none	_	_	_	_	_	_
+281-4	BO021	281	'e	'e	linguistic	none	Truncated=Yes	_	_	_	_	_
 281-5	BO021	281	strunz	strunz	linguistic	none	_	End=710.9	_	_	_	_
 282-0	BO073	282	si	si	linguistic	none	_	Begin=710.981	_	_	_	_
 282-1	BO073	282	sentono	sentono	linguistic	none	_	_	_	_	_	_
@@ -2079,8 +2078,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 286-4	BO073	286	napoletani::::	napoletani	linguistic	none	_	End=724.956	9x4	_	_	_
 287-0	BO021	287	t'(	t'	linguistic	none	SpaceAfter=No	Begin=725.25	_	_	_	_
 287-1	BO021	287	fann	fann	linguistic	none	_	_	_	_	_	_
-287-2	BO021	287	'	'	error	none	_	_	_	_	_	_
-287-3	BO021	287	o	o	linguistic	none	_	_	_	_	_	_
+287-3	BO021	287	'o	'o	linguistic	none	Truncated=Yes	_	_	_	_	_
 287-4	BO021	287	pacch'	pacch'	linguistic	none	Truncated=Yes	End=726.38	_	_	_	_
 288-0	BO073	288	ti	ti	linguistic	none	_	Begin=726.404	_	_	_	_
 288-1	BO073	288	fanno	fanno	linguistic	none	_	_	_	_	_	_
@@ -3705,9 +3703,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 510-2	BO021	510	giurisprudenz	giurisprudenz	linguistic	none	_	_	_	_	_	_
 510-3	BO021	510	e	e	linguistic	none	_	_	_	_	_	_
 510-4	BO021	510	piglj	piglj	linguistic	none	_	_	_	_	_	_
-510-5	BO021	510	'	'	error	none	_	_	_	_	_	_
-510-6	BO021	510	a	a	linguistic	none	_	_	_	_	_	_
-510-7	BO021	510	zapp	zapp	linguistic	none	_	End=1273.788	_	_	_	_
+510-6	BO021	510	'a	'a	linguistic	none	Truncated=Yes	_	_	_	_	_
+510-7	BO021	510	zapp'	zapp'	linguistic	none	Truncated=Yes	End=1273.788	_	_	_	_
 511-0	BO073	511	ma	ma	linguistic	none	_	Begin=1273.788	_	_	_	_
 511-1	BO073	511	si	si	linguistic	none	_	_	_	_	_	_
 511-2	BO073	511	ma	ma	linguistic	none	_	_	_	_	_	_
@@ -4223,8 +4220,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 579-2	BO073	579	è	è	linguistic	none	_	_	_	_	_	_
 579-3	BO073	579	terribile	terribile	linguistic	none	_	End=1447.778	_	_	_	_
 580-0	BO073	580	cioè	cioè	linguistic	none	_	Begin=1448.413	_	_	_	_
-580-1	BO073	580	tu	tu	linguistic	none	_	_	_	_	_	_
-580-2	BO073	580	~	~	error	none	_	_	_	_	_	_
+580-1	BO073	580	tu~	tu~	linguistic	none	Interrupted=Yes	_	_	_	_	_
 580-3	BO073	580	tutte	tutte	linguistic	none	_	_	_	_	_	_
 580-4	BO073	580	le	le	linguistic	none	_	_	_	_	_	_
 580-5	BO073	580	stanze	stanze	linguistic	none	_	_	_	_	_	_

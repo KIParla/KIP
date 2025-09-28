@@ -2557,7 +2557,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 462-6	BO145	462	tipo	tipo	linguistic	none	_	_	_	_	_	_
 462-7	BO145	462	nei	nei	linguistic	none	_	_	_	_	_	_
 462-8	BO145	462	periodi	periodi	linguistic	none	_	_	_	_	_	_
-462-9	BO145	462	de:~delle	de:~delle	error	none	_	_	_	_	_	_
+462-9	BO145	462	de~	de~	linguistic	none	Interrupted=Yes	_	_	_	_	_
+462-9bis	BO145	462	delle	delle	linguistic	none	_	_	_	_	_	_
 462-10	BO145	462	guerre	guerre	linguistic	none	_	_	_	_	_	_
 462-11	BO145	462	oppure	oppure	linguistic	none	_	End=956.12	_	_	_	_
 463-0	BO145	463	[e::]:h	eh	linguistic	none	_	Begin=956.27|End=957.11	0x3	_	_	0-1(85)

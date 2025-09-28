@@ -2546,7 +2546,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 408-2	TO017	408	stavo	stavo	linguistic	none	_	_	_	_	_	_
 408-3	TO017	408	dimenticando.	dimenticando	linguistic	none	Intonation=falling	End=1184.845	_	_	_	_
 409-0	TO017	409	e::ccola	eccola	linguistic	none	_	Begin=1187.455	0x2	_	_	_
-409-1	TO017	409	qua..	qua..	error	none	_	End=1187.865	_	_	_	_
+409-1	TO017	409	qua.	qua.	linguistic	none	Intonation=falling	End=1187.865	_	_	_	_
 410-0	TO017	410	allora	allora	linguistic	none	_	Begin=1188.165|End=1188.885	_	_	_	_
 411-0	TO017	411	la	la	linguistic	none	_	Begin=1189.19	_	_	_	_
 411-1	TO017	411	lezione	lezione	linguistic	none	_	_	_	_	_	_
@@ -7104,7 +7104,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1298-15	TO017	1298	nessuno.	nessuno	linguistic	none	Intonation=falling	End=3079.41	_	_	_	_
 1299-0	TO017	1299	facciamo	facciamo	linguistic	none	_	Begin=3080.51	_	_	_	_
 1299-1	TO017	1299	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-1299-2	TO017	1299	un.,	un.,	error	none	_	End=3081.5	_	_	_	_
+1299-2	TO017	1299	un.	un.	linguistic	none	Intonation=falling	End=3081.5	_	_	_	_
 1300-0	TO017	1300	>(allora)	allora	linguistic	none	_	Begin=3081.62	_	Fast=0-6(0)	0-6(0)	_
 1300-1	TO017	1300	l'	l'	linguistic	none	SpaceAfter=No	_	_	Fast=0-2(0)	_	_
 1300-2	TO017	1300	arabo	arabo	linguistic	none	_	_	_	Fast=0-5(0)	_	_

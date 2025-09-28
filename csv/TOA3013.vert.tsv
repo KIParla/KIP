@@ -1540,7 +1540,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 318-5	TO092	318	[di]	di	linguistic	none	_	End=525.58	_	_	_	0-2(83)
 319-0	TO085	319	[di	di	linguistic	none	_	Begin=525.255	_	_	_	0-2(83)
 319-1	TO085	319	na]scita	nascita	linguistic	none	_	End=526.259	_	_	_	0-2(83)
-320-0	TO085	320	@nomeluogo	@nomeluogo	anonymized	none	_	Begin=530.913	_	_	_	_
+320-0	TO085	320	@nomeluogo	@nomeluogo	linguistic	none	_	Begin=530.913	_	_	_	_
 320-1	TO085	320	non	non	linguistic	none	_	_	_	_	_	_
 320-2	TO085	320	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 320-3	TO085	320	avrei	avrei	linguistic	none	_	_	_	_	_	_

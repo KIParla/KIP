@@ -4538,9 +4538,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 655-3	TO056	655	dall'	dall'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 655-4	TO056	655	orribile	orribile	linguistic	none	_	_	_	_	_	_
 655-5	TO056	655	nome	nome	linguistic	none	_	End=1540.276	_	_	_	_
-656-0	TO056	656	@nomeluogo	@nomeluogo	anonymized	none	_	Begin=1540.458|End=1541.317	_	_	_	_
+656-0	TO056	656	@nomeluogo	@nomeluogo	linguistic	none	_	Begin=1540.458|End=1541.317	_	_	_	_
 657-0	TO071	657	[eh]	eh	linguistic	none	_	Begin=1540.492|End=1540.718	_	_	_	0-2(131)
-658-0	TO071	658	@nomeluogo	@nomeluogo	anonymized	none	_	Begin=1541.328|End=1541.896	_	_	_	_
+658-0	TO071	658	@nomeluogo	@nomeluogo	linguistic	none	_	Begin=1541.328|End=1541.896	_	_	_	_
 659-0	TO071	659	che	che	linguistic	none	_	Begin=1543.848	_	_	_	_
 659-1	TO071	659	era	era	linguistic	none	_	_	_	_	_	_
 659-2	TO071	659	la:	la	linguistic	none	_	_	1x1	_	_	_
@@ -4561,10 +4561,10 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 660-8	TO071	660	di:]	di	linguistic	none	_	End=1548.598	1x1	_	_	0-2(132)
 661-0	TO056	661	[ma	ma	linguistic	none	_	Begin=1546.831	_	_	_	0-2(132)
 661-1	TO056	661	no	no	linguistic	none	_	_	_	_	_	0-2(132)
-661-2	TO056	661	@nomeluogo]	@nomeluogo	anonymized	none	_	End=1548.581	_	_	_	0-10(132)
+661-2	TO056	661	@nomeluogo]	@nomeluogo	linguistic	none	_	End=1548.581	_	_	_	0-10(132)
 662-0	TO071	662	che	che	linguistic	none	_	Begin=1549.223	_	_	_	_
 662-1	TO071	662	è	è	linguistic	none	_	_	_	_	_	_
-662-2	TO071	662	@nomeluogo	@nomeluogo	anonymized	none	_	End=1549.886	_	_	_	_
+662-2	TO071	662	@nomeluogo	@nomeluogo	linguistic	none	_	End=1549.886	_	_	_	_
 663-0	TO071	663	addis	addis	linguistic	none	_	Begin=1550.225	_	_	_	_
 663-1	TO071	663	abeba	abeba	linguistic	none	_	_	_	_	_	_
 663-2	TO071	663	quelle	quelle	linguistic	none	_	_	_	_	_	_
@@ -4657,7 +4657,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 675-0	TO071	675	mh	mh	linguistic	none	_	Begin=1576.516|End=1576.749	_	_	_	_
 676-0	TO056	676	quindi	quindi	linguistic	none	_	Begin=1577.075	_	_	_	_
 676-1	TO056	676	via	via	linguistic	none	_	_	_	_	_	_
-676-2	TO056	676	@nomeluogo,	@nomeluogo,	anonymized	none	_	End=1578.209	_	_	_	_
+676-2	TO056	676	@nomeluogo,	@nomeluogo,	linguistic	none	_	End=1578.209	_	_	_	_
 677-0	TO056	677	e:h	eh	linguistic	none	_	Begin=1578.366	0x1	_	_	_
 677-1	TO056	677	traversa:	traversa	linguistic	none	_	_	7x1	_	_	_
 677-2	TO056	677	di	di	linguistic	none	_	_	_	_	_	_

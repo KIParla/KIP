@@ -2758,9 +2758,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 322-9	???	322	pianista	pianista	linguistic	none	_	_	_	_	_	_
 322-10	???	322	non	non	linguistic	none	_	_	_	_	_	_
 322-11	???	322	suona	suona	linguistic	none	_	_	_	_	_	_
-322-12	???	322	[proprio.	proprio	linguistic	none	Intonation=falling	_	_	_	_	_
-322-13	???	322	((xxx_xxx_xxx))	((xxx_xxx_xxx))	nonverbalbehavior	none	_	_	_	_	_	_
-322-14	???	322	[].	.	error	none	_	End=1618.569	_	_	_	_
+322-12	???	322	[proprio.]	proprio	linguistic	none	Intonation=falling	_	_	_	_	0-7(?)
+322-13	???	322	((incomprensibile))	((incomprensibile))	nonverbalbehavior	none	_	End=1618.569	_	_	_	_
 323-0	BO103	323	[eh	eh	linguistic	none	_	Begin=1616.99	_	_	_	0-2(4)
 323-1	BO103	323	beh	beh	linguistic	none	_	_	_	_	_	0-3(4)
 323-2	BO103	323	è	è	linguistic	none	_	_	_	_	_	0-1(4)
@@ -4533,8 +4532,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 535-13	BO103	535	okay.	okay	linguistic	none	Intonation=falling	End=2331.91	_	_	_	_
 536-0	BO103	536	((canta_e_suona))	((canta_e_suona))	nonverbalbehavior	none	_	Begin=2332.528|End=2333.02	_	_	_	_
 537-0	BO103	537	okay	okay	linguistic	none	_	Begin=2341.94	_	_	_	_
-537-1	BO103	537	((ride))	((ride))	nonverbalbehavior	none	_	_	_	_	_	_
-537-2	BO103	537	.	.	error	none	_	End=2342.72	_	_	_	_
+537-1	BO103	537	((ride))	((ride))	nonverbalbehavior	none	_	End=2342.72	_	_	_	_
 538-0	BO103	538	e	e	linguistic	none	_	Begin=2343.996	_	_	_	_
 538-1	BO103	538	poi	poi	linguistic	none	_	_	_	_	_	_
 538-2	BO103	538	torna,	torna	linguistic	none	Intonation=weakly_rising	_	_	_	_	_

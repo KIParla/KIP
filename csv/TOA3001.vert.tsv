@@ -400,7 +400,6 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 52-0	TO033	52	xxx	x	unknown	none	_	Begin=165.137	_	_	_	_
 52-1	TO033	52	marina	marina	linguistic	none	_	_	_	_	_	_
 52-2	TO033	52	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-52-3	TO033	52	,	,	error	none	_	_	_	_	_	_
 52-4	TO033	52	e::hm	ehm	linguistic	none	_	_	0x2	_	_	_
 52-5	TO033	52	che	che	linguistic	none	_	_	_	_	_	_
 52-6	TO033	52	ovviamente	ovviamente	linguistic	none	_	_	_	_	_	_
@@ -4214,7 +4213,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 493-17	TO034	493	normale]	normale	linguistic	none	_	End=1425.546	_	_	_	0-7(148)
 494-0	TO029	494	[no	no	linguistic	none	_	Begin=1422.912	_	_	_	0-2(148)
 494-1	TO029	494	ma	ma	linguistic	none	_	_	_	_	_	0-2(148)
-494-2	TO029	494	s~~	s~~	error	none	_	_	_	_	_	0-3(148)
+494-2	TO029	494	s~	s~	linguistic	none	Interrupted=Yes	_	_	_	_	0-3(148)
 494-3	TO029	494	xx	x	unknown	none	_	_	_	_	_	0-2(148)
 494-4	TO029	494	x	x	unknown	none	_	_	_	_	_	0-1(148)
 494-5	TO029	494	xxx	x	unknown	none	_	_	_	_	_	0-3(148)

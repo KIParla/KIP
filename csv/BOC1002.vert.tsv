@@ -3257,8 +3257,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 492-4	BO087	492	dove?	dove	linguistic	none	Intonation=rising	End=1180.863	_	_	_	_
 493-0	BO089	493	((ride))	((ride))	nonverbalbehavior	none	_	Begin=1177.59|End=1180.725	_	_	_	_
 494-0	BO089	494	a	a	linguistic	none	_	Begin=1180.909	_	_	_	_
-494-1	BO089	494	((nome_luogo))	((nome_luogo))	nonverbalbehavior	none	_	_	_	_	_	_
-494-2	BO089	494	.	.	error	none	_	End=1181.701	_	_	_	_
+494-1	BO089	494	@nomeluogo.	@nomeluogo	linguistic	none	Intonation=falling	End=1181.701	_	_	_	_
 495-0	BO087	495	ah	ah	linguistic	none	_	Begin=1181.781	_	_	_	_
 495-1	BO087	495	stupe:[nda,	stupenda	linguistic	none	Intonation=weakly_rising	_	4x1	_	_	5-8(145)
 495-2	BO087	495	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	0-3(145)
@@ -3282,12 +3281,12 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 498-3	BO087	498	la	la	linguistic	none	_	_	_	_	_	0-2(147)
 498-4	BO087	498	calcografia]	calcografia	linguistic	none	_	_	_	_	_	0-11(147)
 498-5	BO087	498	di	di	linguistic	none	_	_	_	_	_	_
-498-6	BO087	498	((nome_luogo))	((nome_luogo))	nonverbalbehavior	none	_	_	_	_	_	_
+498-6	BO087	498	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 498-7	BO087	498	[è],	è	linguistic	none	Intonation=weakly_rising	End=1188.41	_	_	_	0-1(148)
 499-0	BO089	499	[non	non	linguistic	none	_	Begin=1185.98	_	_	_	0-3(147)
 499-1	BO089	499	proprio	proprio	linguistic	none	_	_	_	_	_	0-7(147)
 499-2	BO089	499	a	a	linguistic	none	_	_	_	_	_	0-1(147)
-499-3	BO089	499	((nome_luogo))	((nome_luogo))	nonverbalbehavior	none	_	_	_	_	_	0-12(147)
+499-3	BO089	499	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	0-12(147)
 499-4	BO089	499	però].	però	linguistic	none	Intonation=falling	End=1187.914	_	_	_	0-4(147)
 500-0	BO089	500	[sì],	sì	linguistic	none	Intonation=weakly_rising	Begin=1188.206	_	_	_	0-2(?)
 500-1	BO089	500	sì,	sì	linguistic	none	Intonation=weakly_rising	_	_	_	_	_

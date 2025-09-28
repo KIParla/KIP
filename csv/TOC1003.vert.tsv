@@ -113,7 +113,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 20-5	TO008	20	da	da	linguistic	none	_	_	_	_	_	0-2(3)
 20-6	TO008	20	parte	parte	linguistic	none	_	_	_	_	_	0-5(3)
 20-7	TO008	20	dell'	dell'	linguistic	none	SpaceAfter=No	_	_	_	_	0-5(3)
-20-8	TO008	20	imprenditore]..	imprenditore..	error	none	_	End=64.811	_	_	_	0-12(3)
+20-8	TO008	20	imprenditore.]	imprenditore	linguistic	none	Intonation=falling	End=64.811	_	_	_	0-12(3)
 21-0	TO006	21	[l'	l'	linguistic	none	SpaceAfter=No	Begin=63.188	_	_	_	0-2(3)
 21-1	TO006	21	autorizzazione.	autorizzazione	linguistic	none	Intonation=falling	_	_	_	_	0-14(3)
 21-2	TO006	21	cer~.	cer~	linguistic	none	Intonation=falling	_	_	_	_	0-4(3)

@@ -15746,7 +15746,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1776-3	TO069	1776	ma	ma	linguistic	none	_	_	_	_	_	_
 1776-4	TO069	1776	era	era	linguistic	none	_	_	_	_	_	_
 1776-5	TO069	1776	del	del	linguistic	none	_	_	_	_	_	_
-1776-6	TO069	1776	tutto:.,	tutto:.,	error	none	_	_	_	_	_	_
+1776-6	TO069	1776	tutto:	tutto	linguistic	none	_	_	4x1	_	_	_
 1776-7	TO069	1776	appunto,	appunto	linguistic	none	Intonation=weakly_rising	End=7203.176	_	_	_	_
 1777-0	TO069	1777	lui	lui	linguistic	none	_	Begin=7203.618	_	_	_	_
 1777-1	TO069	1777	lo	lo	linguistic	none	_	_	_	_	_	_
@@ -16993,7 +16993,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1936-15	TO069	1936	fosse	fosse	linguistic	none	_	_	_	_	_	_
 1936-16	TO069	1936	diventato	diventato	linguistic	none	_	_	_	_	_	_
 1936-17	TO069	1936	troppo	troppo	linguistic	none	_	_	_	_	_	_
-1936-18	TO069	1936	potentecio.é,	potentecio.é,	error	none	_	End=7750.717	_	_	_	_
+1936-18	TO069	1936	potente	potente	linguistic	none	_	_	_	_	_	_
+1936-19	TO069	1936	cioè,	cioè	linguistic	none	Intonation=weakly_rising	End=7750.717	_	_	_	_
 1937-0	TO069	1937	non	non	linguistic	none	_	Begin=7751.887	_	_	_	_
 1937-1	TO069	1937	essendo	essendo	linguistic	none	_	_	_	_	_	_
 1937-2	TO069	1937	dunque	dunque	linguistic	none	_	_	_	_	_	_
@@ -17909,7 +17910,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 2049-4	TO069	2049	testo	testo	linguistic	none	_	_	_	_	_	_
 2049-5	TO069	2049	francese,	francese	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 2049-6	TO069	2049	il	il	linguistic	none	_	_	_	_	_	_
-2049-7	TO069	2049	contre-machiavel,	contre-machiavel,	error	none	_	End=8151.62	_	_	_	_
+2049-7	TO069	2049	contre-machiavel,	contre-machiavel	linguistic	none	Intonation=weakly_rising	End=8151.62	_	_	_	_
 2050-0	TO069	2050	è	è	linguistic	none	_	Begin=8152.367	_	_	_	_
 2050-1	TO069	2050	fondato,	fondato	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 2050-2	TO069	2050	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_

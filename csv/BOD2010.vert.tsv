@@ -19,7 +19,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 9-1	BO074	9	allor[a::],	allora	linguistic	none	Intonation=weakly_rising	_	5x2	_	_	5-6(0)
 9-2	BO074	9	vivo	vivo	linguistic	none	_	_	_	_	_	_
 9-3	BO074	9	a	a	linguistic	none	_	_	_	_	_	_
-9-4	BO074	9	@nomepaese	@nomepaese	anonymized	none	_	End=15.089	_	_	_	_
+9-4	BO074	9	@nomepaese	@nomepaese	linguistic	none	_	End=15.089	_	_	_	_
 10-0	BO049	10	[si]	si	linguistic	none	_	Begin=13.937|End=14.303	_	_	_	0-2(0)
 11-0	BO049	11	okay	okay	linguistic	none	_	Begin=15.089|End=15.406	_	_	_	_
 12-0	BO074	12	che	che	linguistic	none	_	Begin=15.641	_	_	_	_
@@ -50,7 +50,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 15-10	BO074	15	ho	ho	linguistic	none	_	_	_	_	_	_
 15-11	BO074	15	fatte	fatte	linguistic	none	_	_	_	_	_	_
 15-12	BO074	15	a	a	linguistic	none	_	_	_	_	_	_
-15-13	BO074	15	@nomepaese	@nomepaese	anonymized	none	_	End=26.717	_	_	_	_
+15-13	BO074	15	@nomepaese	@nomepaese	linguistic	none	_	End=26.717	_	_	_	_
 16-0	BO074	16	e::	e	linguistic	none	_	Begin=27.455	0x2	_	_	_
 16-1	BO074	16	poi	poi	linguistic	none	_	_	_	_	_	_
 16-2	BO074	16	anche	anche	linguistic	none	_	_	_	_	_	_
@@ -69,7 +69,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 17-0	BO049	17	sempre	sempre	linguistic	none	_	Begin=32.82	_	_	_	_
 17-1	BO049	17	vissuto	vissuto	linguistic	none	_	_	_	_	_	_
 17-2	BO049	17	a	a	linguistic	none	_	_	_	_	_	_
-17-3	BO049	17	@nomepaese	@nomepaese	anonymized	none	_	End=33.993	_	_	_	_
+17-3	BO049	17	@nomepaese	@nomepaese	linguistic	none	_	End=33.993	_	_	_	_
 18-0	BO074	18	esattamente.	esattamente	linguistic	none	Intonation=falling	Begin=34.005|End=34.71	_	_	_	_
 19-0	BO049	19	o:kay	okay	linguistic	none	_	Begin=35.407|End=35.939	0x1	_	_	_
 20-0	BO049	20	e	e	linguistic	none	_	Begin=36.375	_	_	_	_
@@ -1153,7 +1153,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 172-4	BO074	172	in	in	linguistic	none	_	_	_	_	_	_
 172-5	BO074	172	centro	centro	linguistic	none	_	_	_	_	_	_
 172-6	BO074	172	di	di	linguistic	none	_	_	_	_	_	_
-172-7	BO074	172	>@nomepaese<	@nomepaese	anonymized	none	_	_	_	Fast=0-10(0)	_	_
+172-7	BO074	172	>@nomepaese<	@nomepaese	linguistic	none	_	_	_	Fast=0-10(0)	_	_
 172-8	BO074	172	è	è	linguistic	none	_	_	_	_	_	_
 172-9	BO074	172	una	una	linguistic	none	_	_	_	_	_	_
 172-10	BO074	172	cosa	cosa	linguistic	none	_	_	_	_	_	_
@@ -1223,7 +1223,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 181-8	BO074	181	il	il	linguistic	none	_	_	_	_	_	_
 181-9	BO074	181	centro	centro	linguistic	none	_	_	_	_	_	_
 181-10	BO074	181	di	di	linguistic	none	_	_	_	_	_	_
-181-11	BO074	181	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+181-11	BO074	181	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 181-12	BO074	181	è	è	linguistic	none	_	_	_	_	_	_
 181-13	BO074	181	bello	bello	linguistic	none	_	End=463.525	_	_	_	_
 182-0	BO074	182	e:::	e	linguistic	none	_	Begin=464.512	0x3	_	_	_
@@ -3070,14 +3070,11 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 460-1	BO049	460	è	è	linguistic	none	_	_	_	_	_	_
 460-2	BO049	460	qua	qua	linguistic	none	_	_	_	_	_	_
 460-3	BO049	460	a	a	linguistic	none	_	_	_	_	_	_
-460-4	BO049	460	((nome	((nome	nonverbalbehavior	none	_	_	_	_	_	_
-460-5	BO049	460	[paese))]	paese))	error	none	_	End=1216.17	_	_	_	0-6(40)
+460-4	BO049	460	@nome[paese]	@nomepaese	linguistic	none	_	End=1216.17	_	_	_	4-9(40)
 461-0	BO074	461	[è]	è	linguistic	none	_	Begin=1215.955	_	_	_	0-1(40)
 461-1	BO074	461	qua	qua	linguistic	none	_	_	_	_	_	_
 461-2	BO074	461	a	a	linguistic	none	_	_	_	_	_	_
-461-3	BO074	461	((nome	((nome	nonverbalbehavior	none	_	_	_	_	_	_
-461-4	BO074	461	[paese]))	paese))	error	none	_	_	_	_	_	0-5(41)
-461-5	BO074	461	,	,	error	none	_	End=1216.961	_	_	_	_
+461-3	BO074	461	@nome[paese,]	@nomepaese	linguistic	none	Intonation=falling	End=1216.961	_	_	_	4-9(41)
 462-0	BO049	462	[okay]	okay	linguistic	none	_	Begin=1216.595|End=1216.961	_	_	_	0-4(41)
 463-0	BO074	463	sì	sì	linguistic	none	_	Begin=1216.968|End=1217.208	_	_	_	_
 464-0	BO074	464	è	è	linguistic	none	_	Begin=1217.244	_	_	_	_
@@ -3130,7 +3127,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 471-7	BO074	471	essendo:	essendo	linguistic	none	_	_	6x1	_	_	_
 471-8	BO074	471	di::	di	linguistic	none	_	_	1x2	_	_	_
 471-9	BO074	471	di	di	linguistic	none	_	_	_	_	_	_
-471-10	BO074	471	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+471-10	BO074	471	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 471-11	BO074	471	ci	ci	linguistic	none	_	_	_	_	_	_
 471-12	BO074	471	ved~	ved~	linguistic	none	Interrupted=Yes	End=1238.088	_	_	_	_
 472-0	BO074	472	ci	ci	linguistic	none	_	Begin=1238.366	_	_	_	_
@@ -3214,7 +3211,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 484-1	BO049	484	e	e	linguistic	none	_	_	_	_	_	_
 484-2	BO049	484	qua	qua	linguistic	none	_	_	_	_	_	_
 484-3	BO049	484	a	a	linguistic	none	_	_	_	_	_	_
-484-4	BO049	484	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+484-4	BO049	484	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 484-5	BO049	484	che::	che	linguistic	none	_	End=1271.702	2x2	_	_	_
 485-0	BO049	485	nel	nel	linguistic	none	_	Begin=1271.746	_	_	_	_
 485-1	BO049	485	tempo	tempo	linguistic	none	_	_	_	_	_	_
@@ -3432,7 +3429,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 514-5	BO074	514	m:h	mh	linguistic	none	_	_	0x1	_	_	_
 514-6	BO074	514	trasferirmi	trasferirmi	linguistic	none	_	_	_	_	_	_
 514-7	BO074	514	fuori	fuori	linguistic	none	_	_	_	_	_	_
-514-8	BO074	514	@nomepaese	@nomepaese	anonymized	none	_	End=1359.107	_	_	_	_
+514-8	BO074	514	@nomepaese	@nomepaese	linguistic	none	_	End=1359.107	_	_	_	_
 515-0	BO074	515	ancora:	ancora	linguistic	none	_	Begin=1359.157	5x1	_	_	_
 515-1	BO074	515	non	non	linguistic	none	_	_	_	_	_	_
 515-2	BO074	515	so	so	linguistic	none	_	_	_	_	_	_

@@ -890,7 +890,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 127-17	BO071	127	magari	magari	linguistic	none	_	_	_	_	_	_
 127-18	BO071	127	è	è	linguistic	none	_	_	_	_	_	_
 127-19	BO071	127	un	un	linguistic	none	_	_	_	_	_	_
-127-20	BO071	127	po'~,	po'~,	error	none	_	_	_	_	_	_
+127-20	BO071	127	po',	po'	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 127-21	BO071	127	è	è	linguistic	none	_	_	_	_	_	_
 127-22	BO071	127	velato.	velato	linguistic	none	Intonation=falling	End=296.9	_	_	_	_
 128-0	BO072	128	ti	ti	linguistic	none	_	Begin=296.92	_	_	_	_

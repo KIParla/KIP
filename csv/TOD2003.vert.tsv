@@ -130,8 +130,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 18-7	TO999	18	di?	di	linguistic	none	Intonation=rising	End=53.035	_	_	_	_
 19-0	TO083	19	sono	sono	linguistic	none	_	Begin=53.105	_	_	_	_
 19-1	TO083	19	di	di	linguistic	none	_	_	_	_	_	_
-19-2	TO083	19	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
-19-3	TO083	19	.	.	error	none	_	End=53.933	_	_	_	_
+19-2	TO083	19	@nomepaese.	@nomepaese	linguistic	none	Intonation=falling	End=53.933	_	_	_	_
 20-0	TO999	20	ah	ah	linguistic	none	_	Begin=54.008	_	_	_	_
 20-1	TO999	20	o[kay].	okay	linguistic	none	Intonation=falling	End=54.471	_	_	_	1-4(1)
 21-0	TO083	21	[cioè]	cioè	linguistic	none	_	Begin=54.248	_	_	_	0-4(1)
@@ -473,8 +472,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 69-3	TO999	69	sempre	sempre	linguistic	none	_	_	_	_	_	_
 69-4	TO999	69	vissuto	vissuto	linguistic	none	_	_	_	_	_	_
 69-5	TO999	69	a	a	linguistic	none	_	_	_	_	_	_
-69-6	TO999	69	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
-69-7	TO999	69	?	?	error	none	_	_	_	_	_	_
+69-6	TO999	69	@nomepaese?	@nomepaese	linguistic	none	Intonation=rising	_	_	_	_	_
 69-8	TO999	69	non	non	linguistic	none	_	_	_	_	_	_
 69-9	TO999	69	vivi	vivi	linguistic	none	_	_	_	_	_	_
 69-10	TO999	69	a	a	linguistic	none	_	_	_	_	_	_
@@ -941,7 +939,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 129-1	TO083	129	ultimo	ultimo	linguistic	none	_	_	_	_	_	_
 129-2	TO083	129	piano,	piano	linguistic	none	Intonation=weakly_rising	End=342.128	_	_	_	_
 130-0	TO083	130	a	a	linguistic	none	_	Begin=342.385	_	_	_	_
-130-1	TO083	130	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+130-1	TO083	130	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 130-2	TO083	130	con	con	linguistic	none	_	_	_	_	_	_
 130-3	TO083	130	una	una	linguistic	none	_	_	_	_	_	_
 130-4	TO083	130	vista	vista	linguistic	none	_	_	_	_	_	_
@@ -964,7 +962,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 133-0	TO083	133	poi	poi	linguistic	none	_	Begin=348.583	_	_	_	_
 133-1	TO083	133	essendo	essendo	linguistic	none	_	_	_	_	_	_
 133-2	TO083	133	che	che	linguistic	none	_	_	_	_	_	_
-133-3	TO083	133	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+133-3	TO083	133	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 133-4	TO083	133	è	è	linguistic	none	_	_	_	_	_	_
 133-5	TO083	133	in	in	linguistic	none	_	_	_	_	_	_
 133-6	TO083	133	collina	collina	linguistic	none	_	_	_	_	_	_
@@ -1062,8 +1060,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 148-1	TO999	148	perché?	perché	linguistic	none	Intonation=rising	End=382.818	_	_	_	_
 149-0	TO083	149	sono	sono	linguistic	none	_	Begin=383.355	_	_	_	_
 149-1	TO083	149	di	di	linguistic	none	_	_	_	_	_	_
-149-2	TO083	149	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
-149-3	TO083	149	.	.	error	none	_	End=384.481	_	_	_	_
+149-2	TO083	149	@nomepaese.	@nomepaese	linguistic	none	Intonation=falling	End=384.481	_	_	_	_
 150-0	TO083	150	na	na	linguistic	none	_	Begin=385.05	_	_	_	_
 150-1	TO083	150	na	na	linguistic	none	_	_	_	_	_	_
 150-2	TO083	150	na	na	linguistic	none	_	_	_	_	_	_
@@ -1271,7 +1268,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 174-9	TO083	174	cioè	cioè	linguistic	none	_	_	_	_	_	_
 174-10	TO083	174	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 174-11	TO083	174	a	a	linguistic	none	_	_	_	_	_	_
-174-12	TO083	174	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+174-12	TO083	174	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 174-13	TO083	174	davvero	davvero	linguistic	none	_	_	_	_	_	_
 174-14	TO083	174	se	se	linguistic	none	_	_	_	_	_	_
 174-15	TO083	174	tu	tu	linguistic	none	_	_	_	_	_	_
@@ -1329,7 +1326,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 180-2	TO083	180	n'	n'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 180-3	TO083	180	è	è	linguistic	none	_	_	_	_	_	_
 180-4	TO083	180	a	a	linguistic	none	_	_	_	_	_	_
-180-5	TO083	180	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+180-5	TO083	180	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 180-6	TO083	180	perché	perché	linguistic	none	_	_	_	_	_	_
 180-7	TO083	180	sono	sono	linguistic	none	_	_	_	_	_	_
 180-8	TO083	180	tutti	tutti	linguistic	none	_	_	_	_	_	_
@@ -1348,7 +1345,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 181-9	TO083	181	quindi,	quindi	linguistic	none	Intonation=weakly_rising	End=478.758	_	_	_	_
 182-0	TO083	182	e:h	eh	linguistic	none	_	Begin=479.026	0x1	_	_	_
 182-1	TO083	182	a	a	linguistic	none	_	_	_	_	_	_
-182-2	TO083	182	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+182-2	TO083	182	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 182-3	TO083	182	non	non	linguistic	none	_	_	_	_	_	_
 182-4	TO083	182	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 182-5	TO083	182	è	è	linguistic	none	_	_	_	_	_	_
@@ -2998,15 +2995,13 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 411-0	TO083	411	sono	sono	linguistic	none	_	Begin=1082.773	_	_	_	_
 411-1	TO083	411	nata	nata	linguistic	none	_	_	_	_	_	_
 411-2	TO083	411	a	a	linguistic	none	_	_	_	_	_	_
-411-3	TO083	411	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
-411-4	TO083	411	.	.	error	none	_	End=1083.985	_	_	_	_
+411-3	TO083	411	@nomepaese.	@nomepaese	linguistic	none	Intonation=falling	End=1083.985	_	_	_	_
 412-0	TO999	412	dove	dove	linguistic	none	_	Begin=1084.423	_	_	_	_
 412-1	TO999	412	hai	hai	linguistic	none	_	_	_	_	_	_
 412-2	TO999	412	fatto	fatto	linguistic	none	_	_	_	_	_	_
 412-3	TO999	412	le	le	linguistic	none	_	_	_	_	_	_
 412-4	TO999	412	superiori?	superiori	linguistic	none	Intonation=rising	End=1085.715	_	_	_	_
-413-0	TO083	413	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	Begin=1085.956	_	_	_	_
-413-1	TO083	413	.	.	error	none	_	End=1086.546	_	_	_	_
+413-0	TO083	413	@nomepaese.	@nomepaese	linguistic	none	Intonation=falling	Begin=1085.956|End=1086.546	_	_	_	_
 414-0	TO999	414	quante	quante	linguistic	none	_	Begin=1087.053	_	_	_	_
 414-1	TO999	414	lingue	lingue	linguistic	none	_	_	_	_	_	_
 414-2	TO999	414	parli?	parli	linguistic	none	Intonation=rising	End=1088.041	_	_	_	_
@@ -3029,7 +3024,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 419-4	TO083	419	miei	miei	linguistic	none	_	_	_	_	_	_
 419-5	TO083	419	non	non	linguistic	none	_	_	_	_	_	_
 419-6	TO083	419	sono	sono	linguistic	none	_	_	_	_	_	_
-419-7	TO083	419	@abitantipaese.	@abitantipaese.	anonymized	none	_	End=1095.643	_	_	_	_
+419-7	TO083	419	@abitantipaese.	@abitantipaese.	linguistic	none	_	End=1095.643	_	_	_	_
 420-0	TO999	420	okay	okay	linguistic	none	_	Begin=1096.83	_	_	_	_
 420-1	TO999	420	va	va	linguistic	none	_	_	_	_	_	_
 420-2	TO999	420	bene	bene	linguistic	none	_	_	_	_	_	_

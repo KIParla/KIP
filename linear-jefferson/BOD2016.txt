@@ -87,7 +87,7 @@ BO120	[persona::le],
 BO119	personale sì 
 BO120	e quanto sei stato in [quella]? 
 BO120	[m:]:h 
-BO120	quanto sono stato, (.) in casa, (.) in via  
+BO120	quanto sono stato, (.) in casa, (.) in via @nomeluogo? 
 BO119	due anni 
 BO120	((ride)) non te lo ricor[di] 
 BO119	[due] anni pen~ [due an]ni due anni sì due anni no due anni sì 
@@ -181,8 +181,8 @@ BO119	[sempre] là (.) è la nostra casa:::
 BO120	state tutto~ tutta l'estate, 
 BO120	è la nostra casa~ la dimora estiva della famiglia 
 BO120	perché anche lì i miei nonni costruirono una casa, 
-BO120	dove~ un palazzo dove::: poter stare tutti insieme (.) come hanno fatto per  così hanno fatto per:: 
-BO120	per  che è il posto:: 
+BO120	dove~ un palazzo dove::: poter stare tutti insieme (.) come hanno fatto per @nomeluogo così hanno fatto per:: 
+BO120	per @nomeluogo che è il posto:: 
 BO119	dove andiamo noi l'estate 
 BO120	ed è lontano? 
 BO119	[da::: la mia città è] un'ora di distanza 

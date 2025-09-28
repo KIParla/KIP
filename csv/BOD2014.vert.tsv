@@ -152,7 +152,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 29-8	BO115	29	'sti	'sti	linguistic	none	Truncated=Yes	_	_	_	_	_
 29-9	BO115	29	giorni?	giorni	linguistic	none	Intonation=rising	End=81.756	_	_	_	_
 30-0	BO113	30	a	a	linguistic	none	_	Begin=81.775	_	_	_	_
-30-1	BO113	30	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	End=82.711	_	_	_	_
+30-1	BO113	30	@nomepaese	@nomepaese	linguistic	none	_	End=82.711	_	_	_	_
 31-0	BO115	31	[che	che	linguistic	none	_	Begin=82.25	_	_	_	0-3(3)
 31-1	BO115	31	situa]	situa	linguistic	none	_	_	_	_	_	0-5(3)
 31-2	BO115	31	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	_
@@ -500,11 +500,11 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 79-0	BO115	79	((ride))	((ride))	nonverbalbehavior	none	_	Begin=219.906|End=221.986	_	_	_	_
 80-0	BO115	80	e::	e	linguistic	none	_	Begin=222.68	0x2	_	_	_
 80-1	BO115	80	a	a	linguistic	none	_	_	_	_	_	_
-80-2	BO115	80	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+80-2	BO115	80	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 80-3	BO115	80	invece,	invece	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 80-4	BO115	80	com'	com'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 80-5	BO115	80	è?	è	linguistic	none	Intonation=rising	End=224.68	_	_	_	_
-81-0	BO113	81	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	Begin=225.423	_	_	_	_
+81-0	BO113	81	@nomepaese	@nomepaese	linguistic	none	_	Begin=225.423	_	_	_	_
 81-1	BO113	81	ci	ci	linguistic	none	_	_	_	_	_	_
 81-2	BO113	81	sta.	sta	linguistic	none	Intonation=falling	End=226.415	_	_	_	_
 82-0	BO113	82	>cioè<	cioè	linguistic	none	ProsodicLink=Yes	Begin=226.613	_	Fast=0-4(0)	_	_
@@ -515,7 +515,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 83-3	BO113	83	un	un	linguistic	none	_	_	_	_	_	_
 83-4	BO113	83	sacco	sacco	linguistic	none	_	_	_	_	_	_
 83-5	BO113	83	a	a	linguistic	none	_	_	_	_	_	_
-83-6	BO113	83	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+83-6	BO113	83	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 83-7	BO113	83	in	in	linguistic	none	_	_	_	_	_	_
 83-8	BO113	83	sto	sto	linguistic	none	_	_	_	_	_	_
 83-9	BO113	83	periodo:	periodo	linguistic	none	_	End=232.396	6x1	_	_	_
@@ -1823,7 +1823,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 234-0	BO113	234	[buo]na,	buona	linguistic	none	Intonation=weakly_rising	Begin=703.561|End=704.305	_	_	_	0-3(12)
 235-0	BO113	235	e:::	e	linguistic	none	_	Begin=705.733|End=707.055	0x3	_	_	_
 236-0	BO113	236	a	a	linguistic	none	_	Begin=707.855	_	_	_	_
-236-1	BO113	236	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+236-1	BO113	236	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 236-2	BO113	236	quindi:	quindi	linguistic	none	_	_	5x1	_	_	_
 236-3	BO113	236	dai.	dai	linguistic	none	Intonation=falling	_	_	_	_	_
 236-4	BO113	236	alla	alla	linguistic	none	_	_	_	_	_	_
@@ -2255,7 +2255,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 309-0	BO113	309	[e::]	e	linguistic	none	_	Begin=873.468|End=873.95	0x2	_	_	0-1(21)
 310-0	BO113	310	poi:::	poi	linguistic	none	_	Begin=877.793|End=879.018	2x3	_	_	_
 311-0	BO113	311	a	a	linguistic	none	_	Begin=880.18	_	_	_	_
-311-1	BO113	311	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	End=881.21	_	_	_	_
+311-1	BO113	311	@nomepaese	@nomepaese	linguistic	none	_	End=881.21	_	_	_	_
 312-0	BO113	312	suono,	suono	linguistic	none	Intonation=weakly_rising	Begin=882.4|End=883.3	_	_	_	_
 313-0	BO115	313	mh	mh	linguistic	none	_	Begin=883.766|End=884.223	_	_	_	_
 314-0	BO113	314	un	un	linguistic	none	_	Begin=884.305	_	_	_	_

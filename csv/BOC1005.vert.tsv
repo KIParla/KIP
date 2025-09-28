@@ -1069,8 +1069,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 126-0	BO104	126	[mh	mh	linguistic	none	_	Begin=476.7	_	_	_	0-2(23)
 126-1	BO104	126	mh]	mh	linguistic	none	_	End=477.32	_	_	_	0-2(23)
 127-0	BO105	127	[a]	a	linguistic	none	_	Begin=476.711	_	_	_	0-1(23)
-127-1	BO105	127	((nome_luogo))	((nome_luogo))	nonverbalbehavior	none	_	_	_	_	_	_
-127-2	BO105	127	,	,	error	none	_	End=477.308	_	_	_	_
+127-1	BO105	127	@nomeluogo,	@nomeluogo	linguistic	none	Intonation=weakly_rising	End=477.308	_	_	_	_
 128-0	BO105	128	e:	e	linguistic	none	_	Begin=477.465	0x1	_	_	_
 128-1	BO105	128	ho	ho	linguistic	none	_	_	_	_	_	_
 128-2	BO105	128	corretto::	corretto	linguistic	none	_	_	7x2	_	_	_
@@ -1657,7 +1656,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 196-12	BO104	196	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 196-13	BO104	196	della	della	linguistic	none	_	_	_	_	_	_
 196-14	BO104	196	certificazione	certificazione	linguistic	none	_	_	_	_	_	_
-196-15	BO104	196	[no]?.	no?.	error	none	_	_	_	_	_	0-2(?)
+196-15	BO104	196	[no?]	no	linguistic	none	Intonation=rising	_	_	_	_	0-2(?)
 196-16	BO104	196	la	la	linguistic	none	_	_	_	_	_	_
 196-17	BO104	196	certificazione	certificazione	linguistic	none	_	_	_	_	_	_
 196-18	BO104	196	non	non	linguistic	none	_	_	_	_	_	_

@@ -121,7 +121,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 13-1	TO071	13	ah	ah	linguistic	none	_	End=46.633	_	_	_	_
 14-0	TO073	14	e::h	eh	linguistic	none	_	Begin=46.639	0x2	_	_	_
 14-1	TO073	14	a	a	linguistic	none	_	_	_	_	_	_
-14-2	TO073	14	nomepaese	nomepaese	linguistic	none	_	_	_	_	_	_
+14-2	TO073	14	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 14-3	TO073	14	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 14-4	TO073	14	che	che	linguistic	none	_	_	_	_	_	_
 14-5	TO073	14	è	è	linguistic	none	_	_	_	_	_	_
@@ -1422,7 +1422,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 114-3	TO073	114	camera	camera	linguistic	none	_	_	_	Fast=0-6(0)	_	_
 114-4	TO073	114	mia<	mia	linguistic	none	_	_	_	Fast=0-3(0)	_	_
 114-5	TO073	114	di	di	linguistic	none	_	_	_	_	_	_
-114-6	TO073	114	nomepaese	nomepaese	linguistic	none	_	End=446.35	_	_	_	_
+114-6	TO073	114	@nomepaese	@nomepaese	linguistic	none	_	End=446.35	_	_	_	_
 115-0	TO071	115	mh	mh	linguistic	none	_	Begin=446.36	_	_	_	_
 115-1	TO071	115	mh	mh	linguistic	none	_	End=446.908	_	_	_	_
 116-0	TO073	116	>ha	ha	linguistic	none	_	Begin=447.17	_	Fast=0-2(0)	_	_

@@ -17,7 +17,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 2-0	BO098	2	vivo:::	vivo	linguistic	none	_	Begin=10.688	3x3	_	_	_
 2-1	BO098	2	in	in	linguistic	none	_	_	_	_	_	_
 2-2	BO098	2	via	via	linguistic	none	_	_	_	_	_	_
-2-3	BO098	2	@nomeluogo,	@nomeluogo,	anonymized	none	_	End=13.335	_	_	_	_
+2-3	BO098	2	@nomeluogo,	@nomeluogo,	linguistic	none	_	End=13.335	_	_	_	_
 3-0	BO098	3	((ride))	((ride))	nonverbalbehavior	none	_	Begin=13.488|End=13.976	_	_	_	_
 4-0	BO098	4	con:	con	linguistic	none	_	Begin=14.708	2x1	_	_	_
 4-1	BO098	4	quattro::	quattro	linguistic	none	_	_	6x2	_	_	_
@@ -512,7 +512,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 95-0	BO098	95	era	era	linguistic	none	_	Begin=303.718	_	_	_	_
 95-1	BO098	95	in	in	linguistic	none	_	_	_	_	_	_
 95-2	BO098	95	via	via	linguistic	none	_	_	_	_	_	_
-95-3	BO098	95	@nomeluogo,	@nomeluogo,	anonymized	none	_	End=305.206	_	_	_	_
+95-3	BO098	95	@nomeluogo,	@nomeluogo,	linguistic	none	_	End=305.206	_	_	_	_
 96-0	BO098	96	una	una	linguistic	none	_	Begin=305.743	_	_	_	_
 96-1	BO098	96	via	via	linguistic	none	_	_	_	_	_	_
 96-2	BO098	96	b~	b~	linguistic	none	Interrupted=Yes	_	_	_	_	_
@@ -578,7 +578,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 112-6	BO098	112	casa,	casa	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 112-7	BO098	112	in	in	linguistic	none	_	_	_	_	_	_
 112-8	BO098	112	via	via	linguistic	none	_	_	_	_	_	_
-112-9	BO098	112	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+112-9	BO098	112	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 112-10	BO098	112	che::	che	linguistic	none	_	End=347.978	2x2	_	_	_
 113-0	BO098	113	appunto	appunto	linguistic	none	_	Begin=348.645	_	_	_	_
 113-1	BO098	113	è	è	linguistic	none	_	_	_	_	_	_
@@ -1491,7 +1491,6 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 257-4	BO098	257	stata	stata	linguistic	none	_	_	_	_	_	_
 257-5	BO098	257	qui::in	quiin	linguistic	none	_	_	2x2	_	_	_
 257-6	BO098	257	casa:	casa	linguistic	none	_	_	3x1	_	_	_
-257-7	BO098	257	(:)	:	error	none	_	_	_	_	_	_
 257-8	BO098	257	m	m	linguistic	none	_	_	_	_	_	_
 257-9	BO098	257	per	per	linguistic	none	_	_	_	_	_	_
 257-10	BO098	257	sete	sete	linguistic	none	_	_	_	_	_	_

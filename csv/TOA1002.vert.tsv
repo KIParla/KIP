@@ -11,8 +11,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 6-0	TO026	6	ha	ha	linguistic	none	_	Begin=12.879	_	_	_	_
 6-1	TO026	6	già	già	linguistic	none	_	_	_	_	_	_
 6-2	TO026	6	incontrato	incontrato	linguistic	none	_	_	_	_	_	_
-6-3	TO026	6	((nome_raccoglitore))	((nome_raccoglitore))	nonverbalbehavior	none	_	_	_	_	_	_
-6-4	TO026	6	?	?	error	none	_	End=14.163	_	_	_	_
+6-3	TO026	6	@nomepersona?	@nomepersona	linguistic	none	Intonation=rising	End=14.163	_	_	_	_
 7-0	TO028	7	sì	sì	linguistic	none	_	Begin=14.648	_	_	_	_
 7-1	TO028	7	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 7-2	TO028	7	[e	e	linguistic	none	_	_	_	_	_	0-1(1)

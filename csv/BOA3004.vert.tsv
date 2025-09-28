@@ -6105,7 +6105,6 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 832-1	BO021	832	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 832-2	BO021	832	oggi	oggi	linguistic	none	_	_	_	_	_	_
 832-3	BO021	832	che	che	linguistic	none	_	_	_	_	_	_
-832-4	BO021	832	~?,	~?,	error	none	_	_	_	_	_	_
 832-5	BO021	832	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 832-6	BO021	832	oggi	oggi	linguistic	none	_	_	_	_	_	_
 832-7	BO021	832	è	è	linguistic	none	_	_	_	_	_	_
@@ -8181,7 +8180,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1187-4	BO046	1187	frequentato	frequentato	linguistic	none	_	_	_	_	_	_
 1187-5	BO046	1187	le	le	linguistic	none	_	_	_	_	_	_
 1187-6	BO046	1187	superiori	superiori	linguistic	none	_	End=2952.357	_	_	_	_
-1188-0	BO046	1188	((nome_luogo))	((nome_luogo))	nonverbalbehavior	none	_	Begin=2952.41|End=2953.0	_	_	_	_
+1188-0	BO046	1188	@nomeluogo	@nomeluogo	linguistic	none	_	Begin=2952.41|End=2953.0	_	_	_	_
 1189-0	BO046	1189	attività	attività	linguistic	none	_	Begin=2955.284	_	_	_	_
 1189-1	BO046	1189	principale,	principale	linguistic	none	Intonation=weakly_rising	End=2956.6	_	_	_	_
 1190-0	BO046	1190	studentessa.	studentessa	linguistic	none	Intonation=falling	Begin=2957.311|End=2958.459	_	_	_	_
@@ -8586,7 +8585,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1250-4	BO046	1250	a	a	linguistic	none	_	_	_	_	_	_
 1250-5	BO046	1250	correre,	correre	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 1250-6	BO046	1250	poi	poi	linguistic	none	_	_	_	_	_	_
-1250-7	BO046	1250	ri-ristudio,	ri-ristudio,	error	none	_	_	_	_	_	_
+1250-7	BO046	1250	ri-ristudio,	ri-ristudio	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 1250-8	BO046	1250	finisco	finisco	linguistic	none	_	_	_	_	_	_
 1250-9	BO046	1250	il	il	linguistic	none	_	_	_	_	_	_
 1250-10	BO046	1250	mio	mio	linguistic	none	_	_	_	_	_	_

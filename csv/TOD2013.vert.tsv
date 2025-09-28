@@ -142,7 +142,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 28-7	TO057	28	anno	anno	linguistic	none	_	_	_	_	_	_
 28-8	TO057	28	duemiladiociotto,	duemiladiociotto	linguistic	none	Intonation=weakly_rising	End=54.923	_	_	_	_
 29-0	TO057	29	i:n	in	linguistic	none	_	Begin=55.083	0x1	_	_	_
-29-1	TO057	29	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+29-1	TO057	29	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 29-2	TO057	29	qua	qua	linguistic	none	_	_	_	_	_	_
 29-3	TO057	29	a	a	linguistic	none	_	_	_	_	_	_
 29-4	TO057	29	torino.	torino	linguistic	none	Intonation=falling	End=56.771	_	_	_	_
@@ -3635,7 +3635,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 443-8	TO058	443	sono	sono	linguistic	none	_	_	_	_	_	_
 443-9	TO058	443	trasferita	trasferita	linguistic	none	_	_	_	_	_	_
 443-10	TO058	443	in	in	linguistic	none	_	_	_	_	_	_
-443-11	TO058	443	@nomeluogo.	@nomeluogo.	anonymized	none	_	End=1085.359	_	_	_	_
+443-11	TO058	443	@nomeluogo.	@nomeluogo.	linguistic	none	_	End=1085.359	_	_	_	_
 444-0	TO057	444	mh	mh	linguistic	none	_	Begin=1086.054|End=1086.203	_	_	_	_
 445-0	TO058	445	okay	okay	linguistic	none	_	Begin=1086.375	_	_	_	_
 445-1	TO058	445	che	che	linguistic	none	_	_	_	_	_	_
@@ -3753,7 +3753,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 459-0	TO058	459	[no	no	linguistic	none	_	Begin=1119.032	_	_	_	0-2(150)
 459-1	TO058	459	io:]	io	linguistic	none	_	_	1x1	_	_	0-2(150)
 459-2	TO058	459	io:	io	linguistic	none	_	_	1x1	_	_	_
-459-3	TO058	459	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+459-3	TO058	459	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 459-4	TO058	459	quindi	quindi	linguistic	none	_	_	_	_	_	_
 459-5	TO058	459	son	son	linguistic	none	_	_	_	_	_	_
 459-6	TO058	459	proprio	proprio	linguistic	none	_	_	_	_	_	_
@@ -3940,7 +3940,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 490-6	TO057	490	[perché	perché	linguistic	none	_	_	_	_	_	0-6(?)
 490-7	TO057	490	vi]vevo	vivevo	linguistic	none	_	_	_	_	_	0-2(?)
 490-8	TO057	490	in	in	linguistic	none	_	_	_	_	_	_
-490-9	TO057	490	@nomeluogo	@nomeluogo	anonymized	none	_	End=1169.759	_	_	_	_
+490-9	TO057	490	@nomeluogo	@nomeluogo	linguistic	none	_	End=1169.759	_	_	_	_
 491-0	TO071	491	[pure	pure	linguistic	none	_	Begin=1166.177	_	_	_	0-4(165)
 491-1	TO071	491	tu	tu	linguistic	none	_	_	_	_	_	0-2(165)
 491-2	TO071	491	scen~	scen~	linguistic	none	Interrupted=Yes	_	_	_	_	0-5(165)
@@ -4058,7 +4058,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 514-2	TO057	514	centro	centro	linguistic	none	_	_	_	_	_	_
 514-3	TO057	514	in	in	linguistic	none	_	_	_	_	_	_
 514-4	TO057	514	via	via	linguistic	none	_	_	_	_	_	_
-514-5	TO057	514	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+514-5	TO057	514	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 514-6	TO057	514	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 514-7	TO057	514	istituto	istituto	linguistic	none	_	_	_	_	_	_
 514-8	TO057	514	vittorio	vittorio	linguistic	none	_	_	_	_	_	_
@@ -4126,7 +4126,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 525-2	TO057	525	andata	andata	linguistic	none	_	_	_	_	_	_
 525-3	TO057	525	in	in	linguistic	none	_	_	_	_	_	_
 525-4	TO057	525	via	via	linguistic	none	_	_	_	_	_	_
-525-5	TO057	525	@nomeluogo.	@nomeluogo.	anonymized	none	_	End=1229.842	_	_	_	_
+525-5	TO057	525	@nomeluogo.	@nomeluogo.	linguistic	none	_	End=1229.842	_	_	_	_
 526-0	TO057	526	dove	dove	linguistic	none	_	Begin=1230.236	_	_	_	_
 526-1	TO057	526	parlavamo:::	parlavamo	linguistic	none	_	End=1231.242	8x3	_	_	_
 527-0	TO071	527	oka::y	okay	linguistic	none	_	Begin=1231.372	2x2	_	_	_
@@ -4820,7 +4820,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 609-21	TO057	609	nu[ova]	nuova	linguistic	none	_	_	_	_	_	2-5(198)
 609-22	TO057	609	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 609-23	TO057	609	via	via	linguistic	none	_	_	_	_	_	_
-609-24	TO057	609	@nomeluogo,	@nomeluogo,	anonymized	none	_	End=1481.284	_	_	_	_
+609-24	TO057	609	@nomeluogo,	@nomeluogo,	linguistic	none	_	End=1481.284	_	_	_	_
 610-0	TO071	610	[mhmh].	mhmh	linguistic	none	Intonation=falling	Begin=1479.567|End=1479.885	_	_	_	0-4(198)
 611-0	TO057	611	e::h	eh	linguistic	none	_	Begin=1481.999	0x2	_	_	_
 611-1	TO057	611	dimentico	dimentico	linguistic	none	_	_	_	_	_	_

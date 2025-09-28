@@ -835,11 +835,11 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 71-1	TO046	71	nella	nella	linguistic	none	_	_	_	_	_	_
 71-2	TO046	71	zona::	zona	linguistic	none	_	_	3x2	_	_	_
 71-3	TO046	71	di	di	linguistic	none	_	_	_	_	_	_
-71-4	TO046	71	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+71-4	TO046	71	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 71-5	TO046	71	precisamente	precisamente	linguistic	none	_	_	_	_	_	_
 71-6	TO046	71	in	in	linguistic	none	_	_	_	_	_	_
 71-7	TO046	71	fondo	fondo	linguistic	none	_	_	_	_	_	_
-71-8	TO046	71	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+71-8	TO046	71	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 71-9	TO046	71	cioè	cioè	linguistic	none	_	_	_	_	_	_
 71-10	TO046	71	[siamo	siamo	linguistic	none	_	_	_	_	_	0-5(15)
 71-11	TO046	71	ancora	ancora	linguistic	none	_	_	_	_	_	0-6(15)
@@ -1089,7 +1089,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 89-4	TO055	89	((ride))	((ride))	nonverbalbehavior	none	_	End=439.485	_	_	_	_
 90-0	TO046	90	[esatto.	esatto	linguistic	none	Intonation=falling	Begin=436.393	_	_	_	0-6(23)
 90-1	TO046	90	come,	come	linguistic	none	Intonation=weakly_rising	_	_	_	_	0-4(23)
-90-2	TO046	90	coh~.,	coh~.,	error	none	_	_	_	_	_	0-4(23)
+90-2	TO046	90	co~	co~	linguistic	none	_	_	_	_	_	0-4(23)
 90-3	TO046	90	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	0-3(23)
 90-4	TO046	90	come	come	linguistic	none	_	_	_	_	_	0-4(23)
 90-5	TO046	90	struttura:	struttura	linguistic	none	_	_	8x1	_	_	0-9(23)
@@ -1277,8 +1277,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 106-2	TO055	106	sei?	sei	linguistic	none	Intonation=rising	End=510.434	_	_	_	_
 107-0	TO046	107	sono	sono	linguistic	none	_	Begin=510.785	_	_	_	_
 107-1	TO046	107	di	di	linguistic	none	_	_	_	_	_	_
-107-2	TO046	107	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
-107-3	TO046	107	,	,	error	none	_	End=511.69	_	_	_	_
+107-2	TO046	107	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	End=511.69	_	_	_	_
 108-0	TO055	108	okay,	okay	linguistic	none	Intonation=weakly_rising	Begin=511.786|End=512.371	_	_	_	_
 109-0	TO046	109	una	una	linguistic	none	_	Begin=512.51	_	_	_	_
 109-1	TO046	109	ridente	ridente	linguistic	none	_	_	_	_	_	_
@@ -1353,8 +1352,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 121-9	TO046	121	permette	permette	linguistic	none	_	_	_	_	_	_
 121-10	TO046	121	di:	di	linguistic	none	_	_	1x1	_	_	_
 121-11	TO046	121	apprezzare::	apprezzare	linguistic	none	_	_	9x2	_	_	_
-121-12	TO046	121	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
-121-13	TO046	121	,	,	error	none	_	End=543.37	_	_	_	_
+121-12	TO046	121	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	End=543.37	_	_	_	_
 122-0	TO055	122	okay,	okay	linguistic	none	Intonation=weakly_rising	Begin=543.394|End=543.982	_	_	_	_
 123-0	TO046	123	quel	quel	linguistic	none	_	Begin=544.015	_	_	_	_
 123-1	TO046	123	tanto	tanto	linguistic	none	_	_	_	_	_	_
@@ -1636,8 +1634,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 146-9	TO046	146	di	di	linguistic	none	_	_	_	_	_	_
 146-10	TO046	146	essere	essere	linguistic	none	_	_	_	_	_	_
 146-11	TO046	146	a	a	linguistic	none	_	_	_	_	_	_
-146-12	TO046	146	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
-146-13	TO046	146	,	,	error	none	_	_	_	_	_	_
+146-12	TO046	146	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 146-14	TO046	146	e:::h	eh	linguistic	none	_	_	0x3	_	_	_
 146-15	TO046	146	accentua	accentua	linguistic	none	_	_	_	_	_	_
 146-16	TO046	146	questo	questo	linguistic	none	_	_	_	_	_	_
@@ -1646,8 +1643,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 147-0	TO055	147	[a	a	linguistic	none	_	Begin=663.366	_	_	_	0-1(43)
 147-1	TO055	147	cinquan]t'	cinquant'	linguistic	none	SpaceAfter=No	_	_	_	_	0-7(43)
 147-2	TO055	147	anni	anni	linguistic	none	_	_	_	_	_	_
-147-3	TO055	147	magahri.	magahri	linguistic	none	Intonation=falling	_	_	_	_	_
-147-4	TO055	147	dihci::.,	dihci::.,	error	none	_	_	_	_	_	_
+147-3	TO055	147	magari.	magari	linguistic	none	Intonation=falling	_	_	_	_	_
+147-4	TO055	147	dici::,	dici::,	linguistic	none	Intonation=weakly_rising	_	3x2	_	_	_
 147-5	TO055	147	vabbè	vabbè	linguistic	none	_	_	_	_	_	_
 147-6	TO055	147	torniamo[ci	torniamoci	linguistic	none	_	_	_	_	_	8-10(44)
 147-7	TO055	147	però::],	però	linguistic	none	Intonation=weakly_rising	End=667.678	3x2	_	_	0-4(44)
@@ -1660,7 +1657,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 148-6	TO046	148	con	con	linguistic	none	_	_	_	_	_	_
 148-7	TO046	148	occhi	occhi	linguistic	none	_	_	_	_	_	_
 148-8	TO046	148	diversi::	diversi	linguistic	none	_	_	6x2	_	_	_
-148-9	TO046	148	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+148-9	TO046	148	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 148-10	TO046	148	può	può	linguistic	none	_	_	_	_	_	_
 148-11	TO046	148	essere	essere	linguistic	none	_	_	_	_	_	_
 148-12	TO046	148	apprezzata	apprezzata	linguistic	none	_	_	_	_	_	_
@@ -2075,7 +2072,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 187-0	TO055	187	mhmh,	mhmh	linguistic	none	Intonation=weakly_rising	Begin=830.903|End=831.303	_	_	_	_
 188-0	TO055	188	l'	l'	linguistic	none	SpaceAfter=No	Begin=831.637	_	_	_	_
 188-1	TO055	188	hai	hai	linguistic	none	_	_	_	_	_	_
-188-2	TO055	188	trovahta.,	trovahta.,	error	none	_	End=832.365	_	_	_	_
+188-2	TO055	188	trovata,	trovata	linguistic	none	Intonation=weakly_rising	End=832.365	_	_	_	_
 189-0	TO046	189	non	non	linguistic	none	_	Begin=832.51	_	_	_	_
 189-1	TO046	189	credo	credo	linguistic	none	_	_	_	_	_	_
 189-2	TO046	189	di	di	linguistic	none	_	_	_	_	_	_

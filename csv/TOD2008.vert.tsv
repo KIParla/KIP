@@ -558,7 +558,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 80-4	TO044	80	conosciuto	conosciuto	linguistic	none	_	_	_	_	_	_
 80-5	TO044	80	delle	delle	linguistic	none	_	_	_	_	_	_
 80-6	TO044	80	persone	persone	linguistic	none	_	_	_	_	_	_
-80-7	TO044	80	super-simpatiche:	super-simpatiche:	error	none	_	_	_	_	_	_
+80-7	TO044	80	super-simpatiche	super-simpatiche	linguistic	none	_	_	_	_	_	_
 80-8	TO044	80	e::	e	linguistic	none	_	End=221.173	0x2	_	_	_
 81-0	TO044	81	e::h	eh	linguistic	none	ProsodicLink=Yes	Begin=221.573	0x2	_	_	_
 81-1	TO044	81	m:h	mh	linguistic	none	_	_	0x1	_	_	_
@@ -4246,7 +4246,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 541-18	TO044	541	era	era	linguistic	none	_	_	_	_	_	_
 541-19	TO044	541	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 541-20	TO044	541	un	un	linguistic	none	_	_	_	_	_	_
-541-21	TO044	541	disco-pub,	disco-pub,	error	none	_	End=1439.082	_	_	_	_
+541-21	TO044	541	disco-pub,	disco-pub	linguistic	none	Intonation=weakly_rising	End=1439.082	_	_	_	_
 542-0	TO044	542	che	che	linguistic	none	_	Begin=1440.027	_	_	_	_
 542-1	TO044	542	lì	lì	linguistic	none	_	_	_	_	_	_
 542-2	TO044	542	vanno	vanno	linguistic	none	_	_	_	_	_	_

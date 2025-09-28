@@ -131,7 +131,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 20-0	BO140	20	io	io	linguistic	none	_	Begin=57.735	_	_	_	_
 20-1	BO140	20	abito	abito	linguistic	none	_	_	_	_	_	_
 20-2	BO140	20	a	a	linguistic	none	_	_	_	_	_	_
-20-3	BO140	20	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+20-3	BO140	20	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 20-4	BO140	20	e::	e	linguistic	none	_	_	0x2	_	_	_
 20-5	BO140	20	a	a	linguistic	none	_	_	_	_	_	_
 20-6	BO140	20	piedi:	piedi	linguistic	none	_	_	4x1	_	_	_
@@ -203,7 +203,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 25-1	BO140	25	nazionale::	nazionale	linguistic	none	_	_	8x2	_	_	_
 25-2	BO140	25	che	che	linguistic	none	_	_	_	_	_	_
 25-3	BO140	25	collega	collega	linguistic	none	_	_	_	_	_	_
-25-4	BO140	25	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+25-4	BO140	25	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 25-5	BO140	25	con	con	linguistic	none	_	_	_	_	_	_
 25-6	BO140	25	altre:	altre	linguistic	none	_	_	4x1	_	_	_
 25-7	BO140	25	altri	altri	linguistic	none	_	_	_	_	_	_
@@ -664,7 +664,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 68-5	BO140	68	una	una	linguistic	none	_	_	_	_	_	_
 68-6	BO140	68	periferia	periferia	linguistic	none	_	_	_	_	_	_
 68-7	BO140	68	(cioè)	cioè	linguistic	none	_	_	_	_	0-4(0)	_
-68-8	BO140	68	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+68-8	BO140	68	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 68-9	BO140	68	è	è	linguistic	none	_	_	_	_	_	_
 68-10	BO140	68	piccola.	piccola	linguistic	none	Intonation=falling	End=271.13	_	_	_	_
 69-0	BO140	69	quindi	quindi	linguistic	none	_	Begin=271.485	_	_	_	_
@@ -1040,7 +1040,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 97-1	BO118	97	((ride))	((ride))	nonverbalbehavior	none	_	End=391.03	_	_	_	_
 98-0	BO118	98	che	che	linguistic	none	_	Begin=391.902	_	_	_	_
 98-1	BO118	98	po:i	poi	linguistic	none	_	_	1x1	_	_	_
-98-2	BO118	98	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+98-2	BO118	98	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 98-3	BO118	98	è	è	linguistic	none	_	_	_	_	_	_
 98-4	BO118	98	fatta	fatta	linguistic	none	_	_	_	_	_	_
 98-5	BO118	98	tut~	tut~	linguistic	none	Interrupted=Yes	_	_	_	_	_
@@ -1142,7 +1142,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 112-4	BO140	112	era	era	linguistic	none	_	_	_	_	_	_
 112-5	BO140	112	in	in	linguistic	none	_	_	_	_	_	_
 112-6	BO140	112	via	via	linguistic	none	_	_	_	_	_	_
-112-7	BO140	112	@nomeluogo,	@nomeluogo,	anonymized	none	_	End=432.04	_	_	_	_
+112-7	BO140	112	@nomeluogo,	@nomeluogo,	linguistic	none	_	End=432.04	_	_	_	_
 113-0	BO118	113	okay	okay	linguistic	none	_	Begin=432.06|End=432.745	_	_	_	_
 114-0	BO140	114	e:	e	linguistic	none	_	Begin=432.745	0x1	_	_	_
 114-1	BO140	114	proprio	proprio	linguistic	none	_	_	_	_	_	_
@@ -1362,10 +1362,10 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 134-2	BO140	134	perché	perché	linguistic	none	_	_	_	_	_	_
 134-3	BO140	134	in	in	linguistic	none	_	_	_	_	_	_
 134-4	BO140	134	via	via	linguistic	none	_	_	_	_	_	_
-134-5	BO140	134	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+134-5	BO140	134	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 134-6	BO140	134	cioè	cioè	linguistic	none	_	_	_	_	_	_
 134-7	BO140	134	via	via	linguistic	none	_	_	_	_	_	_
-134-8	BO140	134	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+134-8	BO140	134	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 134-9	BO140	134	è	è	linguistic	none	_	_	_	_	_	_
 134-10	BO140	134	una:::	una	linguistic	none	_	_	2x3	_	_	_
 134-11	BO140	134	è	è	linguistic	none	_	_	_	_	_	_
@@ -1573,7 +1573,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 154-3	BO140	154	comunque	comunque	linguistic	none	_	_	_	_	_	_
 154-4	BO140	154	essendo	essendo	linguistic	none	_	_	_	_	_	_
 154-5	BO140	154	zona	zona	linguistic	none	_	_	_	_	_	_
-154-6	BO140	154	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+154-6	BO140	154	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 154-7	BO140	154	e::	e	linguistic	none	_	_	0x2	_	_	_
 154-8	BO140	154	pe:r	per	linguistic	none	_	_	1x1	_	_	_
 154-9	BO140	154	andare	andare	linguistic	none	_	_	_	_	_	_
@@ -2728,13 +2728,13 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 261-6	BO118	261	ok::ay	okay	linguistic	none	_	_	1x2	_	_	_
 261-7	BO118	261	alla	alla	linguistic	none	_	_	_	_	_	_
 261-8	BO118	261	fine	fine	linguistic	none	_	_	_	_	_	_
-261-9	BO118	261	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+261-9	BO118	261	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 261-10	BO118	261	non	non	linguistic	none	_	_	_	_	_	_
 261-11	BO118	261	è	è	linguistic	none	_	_	_	_	_	_
 261-12	BO118	261	pistoia	pistoia	linguistic	none	_	_	_	_	_	_
 261-13	BO118	261	cioè	cioè	linguistic	none	_	_	_	_	_	_
 261-14	BO118	261	a	a	linguistic	none	_	_	_	_	_	_
-261-15	BO118	261	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+261-15	BO118	261	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 261-16	BO118	261	non	non	linguistic	none	_	_	_	_	_	_
 261-17	BO118	261	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 261-18	BO118	261	è	è	linguistic	none	_	_	_	_	_	_
@@ -3001,8 +3001,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 281-21	BO140	281	centro	centro	linguistic	none	_	_	_	_	_	_
 281-22	BO140	281	piccolo	piccolo	linguistic	none	_	_	_	_	_	_
 281-23	BO140	281	come	come	linguistic	none	_	_	_	_	_	_
-281-24	BO140	281	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
-281-25	BO140	281	.	.	error	none	_	End=1101.42	_	_	_	_
+281-24	BO140	281	@nomepaese.	@nomepaese	linguistic	none	Intonation=falling	End=1101.42	_	_	_	_
 282-0	BO118	282	°okay°	okay	linguistic	none	Volume=low	Begin=1101.67|End=1102.179	_	_	_	_
 283-0	BO140	283	perché	perché	linguistic	none	_	Begin=1102.216	_	_	_	_
 283-1	BO140	283	non::	non	linguistic	none	_	End=1103.523	2x2	_	_	_
@@ -3013,7 +3012,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 284-4	BO140	284	non	non	linguistic	none	_	_	_	_	_	_
 284-5	BO140	284	offre	offre	linguistic	none	_	_	_	_	_	_
 284-6	BO140	284	niente	niente	linguistic	none	_	_	_	_	_	_
-284-7	BO140	284	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+284-7	BO140	284	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 284-8	BO140	284	non	non	linguistic	none	_	_	_	_	_	_
 284-9	BO140	284	mh	mh	linguistic	none	_	_	_	_	_	_
 284-10	BO140	284	cioè	cioè	linguistic	none	_	_	_	_	_	_
@@ -3093,7 +3092,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 287-5	BO140	287	mia	mia	linguistic	none	_	_	_	_	_	_
 287-6	BO140	287	vita	vita	linguistic	none	_	_	_	_	_	_
 287-7	BO140	287	a	a	linguistic	none	_	_	_	_	_	_
-287-8	BO140	287	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+287-8	BO140	287	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 287-9	BO140	287	e	e	linguistic	none	_	_	_	_	_	_
 287-10	BO140	287	non	non	linguistic	none	_	_	_	_	_	_
 287-11	BO140	287	lo	lo	linguistic	none	_	_	_	_	_	_
@@ -3139,7 +3138,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 289-14	BO140	289	in	in	linguistic	none	_	_	_	_	_	_
 289-15	BO140	289	centro	centro	linguistic	none	_	_	_	_	_	_
 289-16	BO140	289	a	a	linguistic	none	_	_	_	_	_	_
-289-17	BO140	289	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	End=1152.7	_	_	_	_
+289-17	BO140	289	@nomepaese	@nomepaese	linguistic	none	_	End=1152.7	_	_	_	_
 290-0	BO118	290	n[o:]?	no	linguistic	none	Intonation=rising	Begin=1153.116|End=1153.49	1x1	_	_	1-2(56)
 291-0	BO140	291	[pe]rché	perché	linguistic	none	_	Begin=1153.345	_	_	_	0-2(56)
 291-1	BO140	291	non:	non	linguistic	none	_	_	2x1	_	_	_
@@ -3153,8 +3152,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 292-3	BO118	292	anch'	anch'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 292-4	BO118	292	io	io	linguistic	none	_	_	_	_	_	_
 292-5	BO118	292	a	a	linguistic	none	_	_	_	_	_	_
-292-6	BO118	292	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
-292-7	BO118	292	.	.	error	none	_	End=1158.01	_	_	_	_
+292-6	BO118	292	@nomepaese.	@nomepaese	linguistic	none	Intonation=falling	End=1158.01	_	_	_	_
 293-0	BO118	293	cioè	cioè	linguistic	none	_	Begin=1158.17	_	_	_	_
 293-1	BO118	293	non	non	linguistic	none	_	_	_	_	_	_
 293-2	BO118	293	ho	ho	linguistic	none	_	_	_	_	_	_
@@ -3162,10 +3160,10 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 293-4	BO118	293	che	che	linguistic	none	_	_	_	_	_	_
 293-5	BO118	293	uscissi	uscissi	linguistic	none	_	_	_	_	_	_
 293-6	BO118	293	a	a	linguistic	none	_	_	_	_	_	_
-293-7	BO118	293	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+293-7	BO118	293	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 293-8	BO118	293	o	o	linguistic	none	_	_	_	_	_	_
 293-9	BO118	293	a	a	linguistic	none	_	_	_	_	_	_
-293-10	BO118	293	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+293-10	BO118	293	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 293-11	BO118	293	con	con	linguistic	none	_	_	_	_	_	_
 293-12	BO118	293	i	i	linguistic	none	_	_	_	_	_	_
 293-13	BO118	293	miei	miei	linguistic	none	_	End=1161.713	_	_	_	_
@@ -3225,7 +3223,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 296-40	BO140	296	è	è	linguistic	none	_	_	_	_	_	_
 296-41	BO140	296	buona	buona	linguistic	none	_	End=1186.39	_	_	_	_
 297-0	BO140	297	però	però	linguistic	none	_	Begin=1186.912	_	_	_	_
-297-1	BO140	297	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+297-1	BO140	297	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 297-2	BO140	297	secondo	secondo	linguistic	none	_	_	_	_	_	_
 297-3	BO140	297	me	me	linguistic	none	_	_	_	_	_	_
 297-4	BO140	297	per	per	linguistic	none	_	_	_	_	_	_
@@ -3424,7 +3422,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 314-4	BO140	314	piccolo	piccolo	linguistic	none	_	_	_	_	_	_
 314-5	BO140	314	centro	centro	linguistic	none	_	_	_	_	_	_
 314-6	BO140	314	come	come	linguistic	none	_	_	_	_	_	_
-314-7	BO140	314	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+314-7	BO140	314	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 314-8	BO140	314	dove	dove	linguistic	none	_	_	_	_	_	_
 314-9	BO140	314	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 314-10	BO140	314	è	è	linguistic	none	_	_	_	_	_	_
@@ -3556,7 +3554,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 322-12	BO140	322	collega:	collega	linguistic	none	_	_	6x1	_	_	_
 322-13	BO140	322	pesaro	pesaro	linguistic	none	_	_	_	_	_	_
 322-14	BO140	322	a	a	linguistic	none	_	_	_	_	_	_
-322-15	BO140	322	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+322-15	BO140	322	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 322-16	BO140	322	e:::	e	linguistic	none	_	End=1302.94	0x3	_	_	_
 323-0	BO140	323	non	non	linguistic	none	_	Begin=1303.33	_	_	_	_
 323-1	BO140	323	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	_
@@ -3761,7 +3759,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 349-12	BO140	349	piacerebbe	piacerebbe	linguistic	none	_	_	_	_	_	_
 349-13	BO140	349	vivere	vivere	linguistic	none	_	_	_	_	_	_
 349-14	BO140	349	a	a	linguistic	none	_	_	_	_	_	_
-349-15	BO140	349	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+349-15	BO140	349	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 349-16	BO140	349	o	o	linguistic	none	_	_	_	_	_	_
 349-17	BO140	349	in	in	linguistic	none	_	_	_	_	_	_
 349-18	BO140	349	un	un	linguistic	none	_	_	_	_	_	_
@@ -3833,7 +3831,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 355-8	BO118	355	più	più	linguistic	none	_	_	_	_	_	_
 355-9	BO118	355	grande	grande	linguistic	none	_	_	_	_	_	_
 355-10	BO118	355	di	di	linguistic	none	_	_	_	_	_	_
-355-11	BO118	355	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	End=1403.57	_	_	_	_
+355-11	BO118	355	@nomepaese	@nomepaese	linguistic	none	_	End=1403.57	_	_	_	_
 356-0	BO140	356	[centomi:la	centomila	linguistic	none	_	Begin=1401.315	6x1	_	_	0-9(68)
 356-1	BO140	356	perlom~]	perlom~	linguistic	none	Interrupted=Yes	End=1402.57	_	_	_	0-7(68)
 357-0	BO118	357	poi	poi	linguistic	none	_	Begin=1403.91	_	_	_	_
@@ -3845,7 +3843,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 357-6	BO118	357	né	né	linguistic	none	_	_	_	_	_	_
 357-7	BO118	357	pesaro	pesaro	linguistic	none	_	_	_	_	_	_
 357-8	BO118	357	né	né	linguistic	none	_	_	_	_	_	_
-357-9	BO118	357	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	End=1406.387	_	_	_	_
+357-9	BO118	357	@nomepaese	@nomepaese	linguistic	none	_	End=1406.387	_	_	_	_
 358-0	BO140	358	[si:]	si	linguistic	none	_	Begin=1404.2|End=1404.79	1x1	_	_	0-2(69)
 359-0	BO140	359	no	no	linguistic	none	_	Begin=1406.61	_	_	_	_
 359-1	BO140	359	a	a	linguistic	none	_	_	_	_	_	_
@@ -3860,7 +3858,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 361-1	BO140	361	che:::	che	linguistic	none	_	_	2x3	_	_	_
 361-2	BO140	361	no	no	linguistic	none	_	_	_	_	_	_
 361-3	BO140	361	beh	beh	linguistic	none	_	_	_	_	_	_
-361-4	BO140	361	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+361-4	BO140	361	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 361-5	BO140	361	in	in	linguistic	none	_	_	_	_	_	_
 361-6	BO140	361	realtà	realtà	linguistic	none	_	_	_	_	_	_
 361-7	BO140	361	conta:	conta	linguistic	none	_	_	4x1	_	_	_
@@ -3887,7 +3885,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 365-5	BO140	365	in	in	linguistic	none	_	_	_	_	_	_
 365-6	BO140	365	realtà	realtà	linguistic	none	_	_	_	_	_	_
 365-7	BO140	365	di	di	linguistic	none	_	_	_	_	_	_
-365-8	BO140	365	@abitantipaese	@abitantipaese	anonymized	none	_	_	_	_	_	_
+365-8	BO140	365	@abitantipaese	@abitantipaese	linguistic	none	_	_	_	_	_	_
 365-9	BO140	365	ce	ce	linguistic	none	_	_	_	_	_	_
 365-10	BO140	365	ne	ne	linguistic	none	_	_	_	_	_	_
 365-11	BO140	365	sono	sono	linguistic	none	_	_	_	_	_	_
@@ -3902,7 +3900,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 365-20	BO140	365	scappan	scappan	linguistic	none	_	_	_	_	_	_
 365-21	BO140	365	tutti	tutti	linguistic	none	_	_	_	_	_	_
 365-22	BO140	365	da	da	linguistic	none	_	_	_	_	_	_
-365-23	BO140	365	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+365-23	BO140	365	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 365-24	BO140	365	perché:	perché	linguistic	none	_	_	5x1	_	_	_
 365-25	BO140	365	non	non	linguistic	none	_	_	_	_	_	_
 365-26	BO140	365	ti	ti	linguistic	none	_	_	_	_	_	_
@@ -3952,7 +3950,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 371-12	BO118	371	pesaro,	pesaro	linguistic	none	Intonation=weakly_rising	End=1444.38	_	_	_	_
 372-0	BO118	372	tipo	tipo	linguistic	none	_	Begin=1444.53	_	_	_	_
 372-1	BO118	372	vicino	vicino	linguistic	none	_	_	_	_	_	_
-372-2	BO118	372	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+372-2	BO118	372	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 372-3	BO118	372	non	non	linguistic	none	_	_	_	_	_	_
 372-4	BO118	372	so	so	linguistic	none	_	_	_	_	_	_
 372-5	BO118	372	se	se	linguistic	none	_	_	_	_	_	_

@@ -1612,8 +1612,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 252-5	BO013	252	di	di	linguistic	none	_	_	_	_	_	_
 252-6	BO013	252	dopo	dopo	linguistic	none	_	_	_	_	_	_
 252-7	BO013	252	pranzo	pranzo	linguistic	none	_	_	_	_	_	_
-252-8	BO013	252	'	'	error	none	_	_	_	_	_	_
-252-9	BO013	252	a	a	linguistic	none	_	_	_	_	_	_
+252-9	BO013	252	'a	'a	linguistic	none	Truncated=Yes	_	_	_	_	_
 252-10	BO013	252	mamma'	mamma'	linguistic	none	Truncated=Yes	_	_	_	_	_
 252-11	BO013	252	lo	lo	linguistic	none	_	_	_	_	_	_
 252-12	BO013	252	lavò	lavò	linguistic	none	_	_	_	_	_	_
@@ -1981,8 +1980,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 288-1	BO013	288	stesse	stesse	linguistic	none	_	_	_	_	_	_
 288-2	BO013	288	che	che	linguistic	none	_	_	_	_	_	_
 288-3	BO013	288	fumava	fumava	linguistic	none	_	_	_	_	_	_
-288-4	BO013	288	'	'	error	none	_	_	_	_	_	_
-288-5	BO013	288	u	u	linguistic	none	_	_	_	_	_	_
+288-5	BO013	288	'u	'u	linguistic	none	Truncated=Yes	_	_	_	_	_
 288-6	BO013	288	papà	papà	linguistic	none	_	_	_	_	_	_
 288-7	BO013	288	e	e	linguistic	none	_	_	_	_	_	_
 288-8	BO013	288	che	che	linguistic	none	_	_	_	_	_	_
@@ -1998,8 +1996,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 289-0	BO013	289	dopo	dopo	linguistic	none	_	Begin=1243.796	_	_	_	_
 289-1	BO013	289	tanticchia	tanticchia	linguistic	none	_	_	_	_	_	_
 289-2	BO013	289	comparse	comparse	linguistic	none	_	_	_	_	_	_
-289-3	BO013	289	'	'	error	none	_	_	_	_	_	_
-289-4	BO013	289	a	a	linguistic	none	_	_	_	_	_	_
+289-4	BO013	289	'a	'a	linguistic	none	Truncated=Yes	_	_	_	_	_
 289-5	BO013	289	mammà	mammà	linguistic	none	_	_	_	_	_	_
 289-6	BO013	289	con	con	linguistic	none	_	_	_	_	_	_
 289-7	BO013	289	la	la	linguistic	none	_	_	_	_	_	_
@@ -2049,8 +2046,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 293-11	BO013	293	si	si	linguistic	none	_	_	_	_	_	_
 293-12	BO013	293	vede.	vede	linguistic	none	Intonation=falling	_	_	_	_	_
 293-13	BO013	293	((legge))	((legge))	nonverbalbehavior	none	_	End=1260.356	_	_	_	_
-294-0	BO013	294	'	'	error	none	_	Begin=1261.475	_	_	_	_
-294-1	BO013	294	a	a	linguistic	none	_	_	_	_	_	_
+294-1	BO013	294	'a	'a	linguistic	none	Truncated=Yes	Begin=1261.475	_	_	_	_
 294-2	BO013	294	mammà	mammà	linguistic	none	_	_	_	_	_	_
 294-3	BO013	294	arrussicò	arrussicò	linguistic	none	_	_	_	_	_	_
 294-4	BO013	294	((legge))	((legge))	nonverbalbehavior	none	_	End=1262.737	_	_	_	_
@@ -2637,8 +2633,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 345-7	BO013	345	mezz'	mezz'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 345-8	BO013	345	orata	orata	linguistic	none	_	_	_	_	_	_
 345-9	BO013	345	e	e	linguistic	none	_	_	_	_	_	_
-345-10	BO013	345	'	'	error	none	_	_	_	_	_	_
-345-11	BO013	345	a	a	linguistic	none	_	_	_	_	_	_
+345-11	BO013	345	'a	'a	linguistic	none	Truncates=Yes	_	_	_	_	_
 345-12	BO013	345	mamma'	mamma'	linguistic	none	Truncated=Yes	_	_	_	_	_
 345-13	BO013	345	ancora	ancora	linguistic	none	_	_	_	_	_	_
 345-14	BO013	345	non	non	linguistic	none	_	_	_	_	_	_
@@ -2723,8 +2718,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 350-19	BO013	350	faccia	faccia	linguistic	none	_	_	_	_	_	_
 350-20	BO013	350	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 350-21	BO013	350	eh?	eh	linguistic	none	Intonation=rising	End=1513.636	_	_	_	_
-351-0	BO013	351	'	'	error	none	_	Begin=1514.681	_	_	_	_
-351-1	BO013	351	a	a	linguistic	none	_	_	_	_	_	_
+351-1	BO013	351	'a	'a	linguistic	none	_	Begin=1514.681	_	_	_	_
 351-2	BO013	351	mammà	mammà	linguistic	none	_	_	_	_	_	_
 351-3	BO013	351	lo	lo	linguistic	none	_	_	_	_	_	_
 351-4	BO013	351	trovò	trovò	linguistic	none	_	_	_	_	_	_
@@ -2738,8 +2732,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 351-12	BO013	351	dalla	dalla	linguistic	none	_	_	_	_	_	_
 351-13	BO013	351	chiesa	chiesa	linguistic	none	_	_	_	_	_	_
 351-14	BO013	351	((legge))	((legge))	nonverbalbehavior	none	_	End=1518.562	_	_	_	_
-352-0	BO013	352	'	'	error	none	_	Begin=1518.975	_	_	_	_
-352-1	BO013	352	a	a	linguistic	none	_	_	_	_	_	_
+352-1	BO013	352	'a	'a	linguistic	none	Truncated=Yes	Begin=1518.975	_	_	_	_
 352-2	BO013	352	mammà,	mammà	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 352-3	BO013	352	era	era	linguistic	none	_	_	_	_	_	_
 352-4	BO013	352	russa	russa	linguistic	none	_	_	_	_	_	_
@@ -3174,8 +3167,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 396-5	BO013	396	come	come	linguistic	none	_	_	_	_	_	_
 396-6	BO013	396	lo	lo	linguistic	none	_	_	_	_	_	_
 396-7	BO013	396	chiamava	chiamava	linguistic	none	_	_	_	_	_	_
-396-8	BO013	396	'	'	error	none	_	_	_	_	_	_
-396-9	BO013	396	a	a	linguistic	none	_	_	_	_	_	_
+396-9	BO013	396	'a	'a	linguistic	none	Truncated=Yes	_	_	_	_	_
 396-10	BO013	396	mammà	mammà	linguistic	none	_	_	_	_	_	_
 396-11	BO013	396	((legge))	((legge))	nonverbalbehavior	none	_	End=1667.229	_	_	_	_
 397-0	BO013	397	l'	l'	linguistic	none	SpaceAfter=No	Begin=1667.905	_	_	_	_
@@ -3242,8 +3234,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 406-0	BO013	406	michilino	michilino	linguistic	none	_	Begin=1689.629	_	_	_	_
 406-1	BO013	406	obbidì	obbidì	linguistic	none	_	_	_	_	_	_
 406-2	BO013	406	((legge))	((legge))	nonverbalbehavior	none	_	End=1690.429	_	_	_	_
-407-0	BO013	407	'	'	error	none	_	Begin=1690.966	_	_	_	_
-407-1	BO013	407	u	u	linguistic	none	_	_	_	_	_	_
+407-1	BO013	407	'u	'u	linguistic	none	Truncated=Yes	Begin=1690.966	_	_	_	_
 407-2	BO013	407	parrinu	parrinu	linguistic	none	_	_	_	_	_	_
 407-3	BO013	407	tastiò	tastiò	linguistic	none	_	_	_	_	_	_
 407-4	BO013	407	con	con	linguistic	none	_	_	_	_	_	_
@@ -3289,8 +3280,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 412-6	BO013	412	mi	mi	linguistic	none	_	_	_	_	_	_
 412-7	BO013	412	scusi	scusi	linguistic	none	_	_	_	_	_	_
 412-8	BO013	412	disse	disse	linguistic	none	_	_	_	_	_	_
-412-9	BO013	412	'	'	error	none	_	_	_	_	_	_
-412-10	BO013	412	a	a	linguistic	none	_	_	_	_	_	_
+412-10	BO013	412	'a	'a	linguistic	none	Truncated=Yes	_	_	_	_	_
 412-11	BO013	412	mammà	mammà	linguistic	none	_	_	_	_	_	_
 412-12	BO013	412	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 412-13	BO013	412	michilino	michilino	linguistic	none	_	_	_	_	_	_
@@ -3904,8 +3894,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 462-12	BO013	462	((legge))	((legge))	nonverbalbehavior	none	_	End=1941.806	_	_	_	_
 463-0	BO013	463	giusto	giusto	linguistic	none	_	Begin=1942.326	_	_	_	_
 463-1	BO013	463	fece	fece	linguistic	none	_	_	_	_	_	_
-463-2	BO013	463	'	'	error	none	_	_	_	_	_	_
-463-3	BO013	463	a	a	linguistic	none	_	_	_	_	_	_
+463-3	BO013	463	'a	'a	linguistic	none	Truncated=Yes	_	_	_	_	_
 463-4	BO013	463	mammà	mammà	linguistic	none	_	_	_	_	_	_
 463-5	BO013	463	((legge))	((legge))	nonverbalbehavior	none	_	End=1943.366	_	_	_	_
 464-0	BO013	464	e	e	linguistic	none	_	Begin=1943.98	_	_	_	_
@@ -7308,8 +7297,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 758-5	BO013	758	che	che	linguistic	none	_	_	_	_	_	_
 758-6	BO013	758	totò	totò	linguistic	none	_	_	_	_	_	_
 758-7	BO013	758	maraventa:no	maraventano	linguistic	none	_	_	8x1	_	_	_
-758-8	BO013	758	'	'	error	none	_	_	_	_	_	_
-758-9	BO013	758	u	u	linguistic	none	_	_	_	_	_	_
+758-9	BO013	758	'u	'u	linguistic	none	Truncated=Yes	_	_	_	_	_
 758-10	BO013	758	sarto.	sarto	linguistic	none	Intonation=falling	_	_	_	_	_
 758-11	BO013	758	è	è	linguistic	none	_	_	_	_	_	_
 758-12	BO013	758	il	il	linguistic	none	_	_	_	_	_	_
@@ -10850,8 +10838,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1060-19	BO013	1060	totò	totò	linguistic	none	_	_	_	_	_	_
 1060-20	BO013	1060	maraventano	maraventano	linguistic	none	_	_	_	_	_	_
 1060-21	BO013	1060	((legge))	((legge))	nonverbalbehavior	none	_	End=4412.973	_	_	_	_
-1061-0	BO013	1061	'	'	error	none	_	Begin=4413.63	_	_	_	_
-1061-1	BO013	1061	u	u	linguistic	none	_	_	_	_	_	_
+1061-1	BO013	1061	'u	'u	linguistic	none	Truncated=Yes	Begin=4413.63	_	_	_	_
 1061-2	BO013	1061	sartu	sartu	linguistic	none	_	_	_	_	_	_
 1061-3	BO013	1061	il	il	linguistic	none	_	_	_	_	_	_
 1061-4	BO013	1061	gran	gran	linguistic	none	_	_	_	_	_	_

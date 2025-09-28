@@ -8070,7 +8070,6 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1072-7	BO112	1072	cinico	cinico	linguistic	none	_	_	_	_	_	_
 1072-8	BO112	1072	che:	che	linguistic	none	_	End=3478.058	2x1	_	_	_
 1073-0	BO112	1073	in	in	linguistic	none	_	Begin=3479.106	_	_	_	_
-1073-1	BO112	1073	~	~	error	none	_	_	_	_	_	_
 1073-2	BO112	1073	in~	in~	linguistic	none	Interrupted=Yes	_	_	_	_	_
 1073-3	BO112	1073	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 1073-4	BO112	1073	io	io	linguistic	none	_	_	_	_	_	_

@@ -46,7 +46,7 @@ BO049	bene bene
 BO051	e attualmente dove vivi 
 BO049	attualmente vivo con i miei genitori 
 BO051	okay 
-BO049	mia madre è a  
+BO049	mia madre è a @nomepaese 
 BO051	okay e il luogo dove non so vivi in un palazzo in una villa 
 BO049	sí abitiamo al primo piano di un condominio 
 BO051	okay 
@@ -246,7 +246,7 @@ BO049	capita capita a volte non di vedersi non per non per uscite di coppia dici
 BO049	bene 
 BO051	e la sala in cui fate le prove dove si trova 
 BO051	m 
-BO051	é unn casolare in campagna eh fuori  quindi nella campagna corregese 
+BO051	é unn casolare in campagna eh fuori @nomepaese quindi nella campagna corregese 
 BO049	e 
 BO051	ma é in una stanza piccola é in uno studio di piú sale 
 BO051	no é una grande sala prova 

@@ -568,7 +568,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 82-1	BO007	82	quella	quella	linguistic	none	_	_	_	_	_	_
 82-2	BO007	82	volta	volta	linguistic	none	_	_	_	_	_	_
 82-3	BO007	82	all'	all'	linguistic	none	SpaceAfter=No	_	_	_	_	_
-82-4	BO007	82	((nome_luogo))	((nome_luogo))	nonverbalbehavior	none	_	_	_	_	_	_
+82-4	BO007	82	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 82-5	BO007	82	che	che	linguistic	none	_	_	_	_	_	_
 82-6	BO007	82	non	non	linguistic	none	_	_	_	_	_	_
 82-7	BO007	82	ne	ne	linguistic	none	_	_	_	_	_	_
@@ -872,7 +872,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 112-16	BO009	112	preso	preso	linguistic	none	_	_	_	_	_	_
 112-17	BO009	112	insieme	insieme	linguistic	none	_	_	_	_	_	_
 112-18	BO009	112	in	in	linguistic	none	_	_	_	_	_	_
-112-19	BO009	112	((nome_luogo))	((nome_luogo))	nonverbalbehavior	none	_	_	_	_	_	_
+112-19	BO009	112	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 112-20	BO009	112	e	e	linguistic	none	_	_	_	_	_	_
 112-21	BO009	112	dentro	dentro	linguistic	none	_	_	_	_	_	_
 112-22	BO009	112	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	_

@@ -2745,7 +2745,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 371-0	BO091	371	e:h	eh	linguistic	none	_	Begin=998.55	0x1	_	_	_
 371-1	BO091	371	manuale,	manuale	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 371-2	BO091	371	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-371-3	BO091	371	or,.	or,.	error	none	_	_	_	_	_	_
+371-3	BO091	371	or,	or	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 371-4	BO091	371	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 371-5	BO091	371	latino,	latino	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 371-6	BO091	371	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
@@ -3193,7 +3193,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 434-16	BO091	434	venuto.	venuto	linguistic	none	Intonation=falling	End=1145.572	_	_	_	_
 435-0	BO087	435	sì	sì	linguistic	none	_	Begin=1145.6	_	_	_	_
 435-1	BO087	435	però	però	linguistic	none	_	_	_	_	_	_
-435-2	BO087	435	n~[non	n~non	error	none	_	_	_	_	_	2-5(91)
+435-2	BO087	435	[non	non	linguistic	none	_	_	_	_	_	0-3(91)
 435-3	BO087	435	è	è	linguistic	none	_	_	_	_	_	0-1(91)
 435-4	BO087	435	il	il	linguistic	none	_	_	_	_	_	0-2(91)
 435-5	BO087	435	massimo	massimo	linguistic	none	_	_	_	_	_	0-7(91)
@@ -3284,7 +3284,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 442-29	BO087	442	[di	di	linguistic	none	_	_	_	_	_	0-2(95)
 442-30	BO087	442	co]gnome.	cognome	linguistic	none	Intonation=falling	End=1164.464	_	_	_	0-2(95)
 443-0	BO091	443	[sì],	sì	linguistic	none	Intonation=weakly_rising	Begin=1163.791|End=1164.142	_	_	_	0-2(95)
-444-0	BO087	444	m:h?,	m:h?,	error	none	_	Begin=1164.644|End=1164.8	_	_	_	_
+444-0	BO087	444	m:h?	mh	linguistic	none	Intonation=rising	Begin=1164.644|End=1164.8	1x1	_	_	_
 445-0	BO091	445	e	e	linguistic	none	_	Begin=1164.8	_	_	_	_
 445-1	BO091	445	quindi	quindi	linguistic	none	_	_	_	_	_	_
 445-2	BO091	445	tentare	tentare	linguistic	none	_	_	_	_	_	_

@@ -4468,7 +4468,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 575-0	TO043	575	che	che	linguistic	none	_	Begin=1469.109	_	_	_	_
 575-1	TO043	575	è	è	linguistic	none	_	_	_	_	_	_
 575-2	TO043	575	pratiacamente	pratiacamente	linguistic	none	_	_	_	_	_	_
-575-3	TO043	575	pre-crocet[ta].	pre-crocetta.	error	none	_	End=1471.181	_	_	_	10-12(152)
+575-3	TO043	575	pre-crocet[ta]	pre-crocetta	linguistic	none	_	End=1471.181	_	_	_	10-12(152)
 576-0	TO055	576	[o]ka[y].	okay	linguistic	none	Intonation=falling	Begin=1471.015|End=1471.577	_	_	_	0-1(152),3-4(153)
 577-0	TO043	577	[v]icino	vicino	linguistic	none	_	Begin=1471.511	_	_	_	0-1(153)
 577-1	TO043	577	alla	alla	linguistic	none	_	_	_	_	_	_

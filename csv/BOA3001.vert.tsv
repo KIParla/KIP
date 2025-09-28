@@ -5290,7 +5290,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 907-1	BO002	907	infamato	infamato	linguistic	none	_	_	_	_	_	_
 907-2	BO002	907	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 907-3	BO002	907	mezza	mezza	linguistic	none	_	_	_	_	_	_
-907-4	BO002	907	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+907-4	BO002	907	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 907-5	BO002	907	e	e	linguistic	none	_	_	_	_	_	_
 907-6	BO002	907	mez[za	mezza	linguistic	none	_	_	_	_	_	_
 907-7	BO002	907	bo]logna]	bologna	linguistic	none	_	_	_	_	_	_
@@ -9932,7 +9932,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1703-8	BO002	1703	non	non	linguistic	none	_	_	_	_	_	_
 1703-9	BO002	1703	andare	andare	linguistic	none	_	_	_	_	_	_
 1703-10	BO002	1703	a	a	linguistic	none	_	_	_	_	_	_
-1703-11	BO002	1703	twilighht.,	twilighht.,	error	none	_	_	_	_	_	_
+1703-11	BO002	1703	twilighht.	twilighht	linguistic	none	Intonation=falling	_	_	_	_	_
 1703-12	BO002	1703	rimani	rimani	linguistic	none	_	_	_	_	_	_
 1703-13	BO002	1703	con	con	linguistic	none	_	_	_	_	_	_
 1703-14	BO002	1703	noi	noi	linguistic	none	_	End=3869.001	_	_	_	_
@@ -9989,7 +9989,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1715-4	BO003	1715	son	son	linguistic	none	_	_	_	_	_	_
 1715-5	BO003	1715	tutte	tutte	linguistic	none	_	_	_	_	_	_
 1715-6	BO003	1715	donne	donne	linguistic	none	_	End=3893.361	_	_	_	_
-1716-0	BO002	1716	ve:[ro].,	ve:ro.,	error	none	_	Begin=3893.886|End=3895.146	_	_	_	2-4(524)
+1716-0	BO002	1716	ve:[ro],	ve:ro,	linguistic	none	Intonation=weakly_rising	Begin=3893.886|End=3895.146	_	_	_	2-4(524)
 1717-0	BO003	1717	[eh	eh	linguistic	none	_	Begin=3894.545	_	_	_	0-2(524)
 1717-1	BO003	1717	sì]	sì	linguistic	none	_	_	_	_	_	0-2(524)
 1717-2	BO003	1717	più	più	linguistic	none	_	_	_	_	_	_

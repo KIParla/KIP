@@ -654,13 +654,13 @@ TO071	allora sono stata concepita
 TO056	eh 
 TO056	 
 TO056	in una via dall'orribile nome 
-TO071	 
+TO071	@nomeluogo 
 TO071	eh 
-TO071	 
+TO071	@nomeluogo 
 TO071	che era la un'agenzia del lavoro in abruzzo 
 TO056	a palermo evidentemente è qu~ eh è qualcosa di 
-TO071	ma no  
-TO071	che è  
+TO071	ma no @nomeluogo 
+TO071	che è @nomeluogo 
 TO056	addis abeba quelle cose fasciste lì xx ah okay 
 TO056	esatto  
 TO056	quelle cose fasciste 
@@ -674,7 +674,7 @@ TO071	cioè sono ritornata in questo quartiere dopo altre case esatto
 TO056	dopo tanti giri ah 
 TO071	ma ora c'arriveremo 
 TO056	mh 
-TO056	quindi via  
+TO056	quindi via @nomeluogo, 
 TO056	eh traversa di via con tutti i vari nomi di tutte 
 TO071	di tutta la gloriosa storia coloniale  italiana 
 TO071	delle co~ ex ex colonie 

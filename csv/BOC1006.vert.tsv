@@ -2835,7 +2835,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 321-0	BO143	321	e	e	linguistic	none	_	Begin=947.92	_	_	_	_
 321-1	BO143	321	poi,	poi	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 321-2	BO143	321	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-321-3	BO143	321	il,(:)	il,:	error	none	_	_	_	_	_	_
+321-3	BO143	321	il,	il	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 321-4	BO143	321	test	test	linguistic	none	_	_	_	_	_	_
 321-5	BO143	321	appunto	appunto	linguistic	none	_	_	_	_	_	_
 321-6	BO143	321	comunicativo,	comunicativo	linguistic	none	Intonation=weakly_rising	End=950.29	_	_	_	_
@@ -3072,7 +3072,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 346-24	BO143	346	fare.	fare	linguistic	none	Intonation=falling	End=1027.53	_	_	_	_
 347-0	BO092	347	m::h,	mh	linguistic	none	Intonation=weakly_rising	Begin=1027.588|End=1028.069	0x2	_	_	_
 348-0	BO143	348	però	però	linguistic	none	_	Begin=1028.38	_	_	_	_
-348-1	BO143	348	naturalmen[te:],,	naturalmente:,,	error	none	_	End=1029.303	_	_	_	10-12(62)
+348-1	BO143	348	naturalmen[te],	naturalmente	linguistic	none	Intonation=weakly_rising	End=1029.303	_	_	_	10-12(62)
 349-0	BO092	349	[però]	però	linguistic	none	_	Begin=1029.04	_	_	_	0-4(62)
 349-1	BO092	349	gli	gli	linguistic	none	_	_	_	_	_	_
 349-2	BO092	349	aspe~	aspe~	linguistic	none	Interrupted=Yes	_	_	_	_	_

@@ -1152,8 +1152,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 72-4	TO047	72	torino,	torino	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 72-5	TO047	72	abito::	abito	linguistic	none	_	_	4x2	_	_	_
 72-6	TO047	72	a	a	linguistic	none	_	_	_	_	_	_
-72-7	TO047	72	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
-72-8	TO047	72	,	,	error	none	_	_	_	_	_	_
+72-7	TO047	72	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 72-9	TO047	72	che::	che	linguistic	none	ProsodicLink=Yes	_	2x2	_	_	_
 72-10	TO047	72	è	è	linguistic	none	_	_	_	_	_	_
 72-11	TO047	72	a	a	linguistic	none	_	_	_	_	_	_
@@ -1175,7 +1174,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 73-9	TO047	73	che	che	linguistic	none	_	_	_	_	_	_
 73-10	TO047	73	abitano	abitano	linguistic	none	_	_	_	_	_	_
 73-11	TO047	73	a	a	linguistic	none	_	_	_	_	_	_
-73-12	TO047	73	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
+73-12	TO047	73	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 73-13	TO047	73	con	con	linguistic	none	_	_	_	_	_	_
 73-14	TO047	73	me,	me	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 73-15	TO047	73	e:::h	eh	linguistic	none	_	_	0x3	_	_	_
@@ -1447,8 +1446,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 78-33	TO047	78	tutte	tutte	linguistic	none	_	_	_	_	_	_
 78-34	TO047	78	studentesse	studentesse	linguistic	none	_	_	_	_	_	_
 78-35	TO047	78	di	di	linguistic	none	_	_	_	_	_	_
-78-36	TO047	78	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
-78-37	TO047	78	,	,	error	none	_	End=595.899	_	_	_	_
+78-36	TO047	78	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	End=595.899	_	_	_	_
 79-0	TO047	79	e:::	e	linguistic	none	ProsodicLink=Yes	Begin=596.366	0x3	_	_	_
 79-1	TO047	79	m::::h	mh	linguistic	none	_	_	0x4	_	_	_
 79-2	TO047	79	mi	mi	linguistic	none	_	_	_	_	_	_
@@ -1492,8 +1490,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 82-3	TO047	82	delle	delle	linguistic	none	_	_	_	_	_	_
 82-4	TO047	82	studentesse::	studentesse	linguistic	none	_	_	10x2	_	_	_
 82-5	TO047	82	di	di	linguistic	none	_	_	_	_	_	_
-82-6	TO047	82	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
-82-7	TO047	82	,	,	error	none	_	_	_	_	_	_
+82-6	TO047	82	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 82-8	TO047	82	per	per	linguistic	none	_	_	_	_	_	_
 82-9	TO047	82	tre	tre	linguistic	none	_	_	_	_	_	_
 82-10	TO047	82	anni::::	anni	linguistic	none	_	_	3x4	_	_	_
@@ -1566,8 +1563,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 83-51	TO047	83	e	e	linguistic	none	_	_	_	_	_	_
 83-52	TO047	83	tre	tre	linguistic	none	_	_	_	_	_	_
 83-53	TO047	83	di	di	linguistic	none	_	_	_	_	_	_
-83-54	TO047	83	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
-83-55	TO047	83	,	,	error	none	_	End=639.988	_	_	_	_
+83-54	TO047	83	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 84-0	TO047	84	e::h	eh	linguistic	none	ProsodicLink=Yes	Begin=640.547	0x2	_	_	_
 84-1	TO047	84	m:::h	mh	linguistic	none	_	_	0x3	_	_	_
 84-2	TO047	84	questa	questa	linguistic	none	_	_	_	_	_	_
@@ -2016,8 +2012,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 112-4	TO047	112	sempre	sempre	linguistic	none	_	_	_	_	_	_
 112-5	TO047	112	fatta	fatta	linguistic	none	_	_	_	_	_	_
 112-6	TO047	112	a	a	linguistic	none	_	_	_	_	_	_
-112-7	TO047	112	((nomepaese))	((nomepaese))	nonverbalbehavior	none	_	_	_	_	_	_
-112-8	TO047	112	.	.	error	none	_	_	_	_	_	_
+112-7	TO047	112	@nomepaese.	@nomepaese	linguistic	none	Intonation=falling	_	_	_	_	_
 112-9	TO047	112	e:::h	eh	linguistic	none	ProsodicLink=Yes	_	0x3	_	_	_
 112-10	TO047	112	m:::h	mh	linguistic	none	_	_	0x3	_	_	_
 112-11	TO047	112	ho	ho	linguistic	none	_	_	_	_	_	_

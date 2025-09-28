@@ -856,9 +856,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 138-0	TO080	138	e::	e	linguistic	none	_	Begin=299.557	0x2	_	_	_
 138-1	TO080	138	sì	sì	linguistic	none	_	_	_	_	_	_
 138-2	TO080	138	è	è	linguistic	none	_	_	_	_	_	_
-138-3	TO080	138	nomepaese,	nomepaese	linguistic	none	Intonation=weakly_rising	End=301.193	_	_	_	_
+138-3	TO080	138	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	End=301.193	_	_	_	_
 139-0	TO071	139	è	è	linguistic	none	_	Begin=301.193	_	_	_	_
-139-1	TO071	139	nomepaese,	nomepaese	linguistic	none	Intonation=weakly_rising	End=302.11	_	_	_	_
+139-1	TO071	139	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	End=302.11	_	_	_	_
 140-0	TO080	140	che	che	linguistic	none	_	Begin=302.11	_	_	_	_
 140-1	TO080	140	adesso	adesso	linguistic	none	_	_	_	_	_	_
 140-2	TO080	140	è	è	linguistic	none	_	_	_	_	_	_
@@ -1010,7 +1010,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 169-0	TO071	169	quanti	quanti	linguistic	none	_	Begin=359.729	_	_	_	_
 169-1	TO071	169	abitanti	abitanti	linguistic	none	_	_	_	_	_	_
 169-2	TO071	169	fa	fa	linguistic	none	_	_	_	_	_	_
-169-3	TO071	169	@nomepaese?	@nomepaese?	anonymized	none	_	End=360.937	_	_	_	_
+169-3	TO071	169	@nomepaese?	@nomepaese?	linguistic	none	_	End=360.937	_	_	_	_
 170-0	TO080	170	e:	e	linguistic	none	_	Begin=360.937	0x1	_	_	_
 170-1	TO080	170	ventitremila	ventitremila	linguistic	none	_	End=361.927	_	_	_	_
 171-0	TO071	171	okay,	okay	linguistic	none	Intonation=weakly_rising	Begin=361.98	_	_	_	_
@@ -1197,10 +1197,10 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 209-1	TO080	209	io	io	linguistic	none	_	End=427.575	_	_	_	_
 210-0	TO071	210	sempre	sempre	linguistic	none	_	Begin=427.613	_	_	_	_
 210-1	TO071	210	a	a	linguistic	none	_	_	_	_	_	_
-210-2	TO071	210	nomepaese?	nomepaese	linguistic	none	Intonation=rising	End=428.413	_	_	_	_
+210-2	TO071	210	@nomepaese?	@nomepaese	linguistic	none	Intonation=rising	End=428.413	_	_	_	_
 211-0	TO080	211	sempre	sempre	linguistic	none	_	Begin=428.413	_	_	_	_
 211-1	TO080	211	a	a	linguistic	none	_	_	_	_	_	_
-211-2	TO080	211	nomepaese	nomepaese	linguistic	none	_	_	_	_	_	_
+211-2	TO080	211	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 211-3	TO080	211	sì	sì	linguistic	none	_	End=429.246	_	_	_	_
 212-0	TO071	212	okay	okay	linguistic	none	_	Begin=430.308|End=431.071	_	_	_	_
 213-0	TO071	213	ehm	ehm	linguistic	none	_	Begin=431.235|End=431.999	_	_	_	_
@@ -1751,7 +1751,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 337-4	TO080	337	sempre	sempre	linguistic	none	_	_	_	_	_	_
 337-5	TO080	337	vissuto	vissuto	linguistic	none	_	_	_	_	_	_
 337-6	TO080	337	a	a	linguistic	none	_	_	_	_	_	_
-337-7	TO080	337	nomepaese	nomepaese	linguistic	none	_	End=627.294	_	_	_	_
+337-7	TO080	337	@nomepaese	@nomepaese	linguistic	none	_	End=627.294	_	_	_	_
 338-0	TO071	338	okay	okay	linguistic	none	_	Begin=627.416|End=627.736	_	_	_	_
 339-0	TO080	339	prima	prima	linguistic	none	_	Begin=627.736	_	_	_	_
 339-1	TO080	339	di,	di	linguistic	none	Intonation=weakly_rising	End=628.368	_	_	_	_
@@ -1940,7 +1940,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 376-5	TO071	376	anche	anche	linguistic	none	_	_	_	_	_	_
 376-6	TO071	376	rispetto	rispetto	linguistic	none	_	_	_	_	_	_
 376-7	TO071	376	a	a	linguistic	none	_	_	_	_	_	_
-376-8	TO071	376	nomepaese	nomepaese	linguistic	none	_	_	_	_	_	_
+376-8	TO071	376	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 376-9	TO071	376	fa	fa	linguistic	none	_	_	_	_	_	_
 376-10	TO071	376	settecento	settecento	linguistic	none	_	_	_	_	_	_
 376-11	TO071	376	abitan[ti	abitanti	linguistic	none	_	_	_	_	_	6-8(58)
@@ -3784,7 +3784,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 737-9	TO071	737	casa	casa	linguistic	none	_	_	_	_	_	_
 737-10	TO071	737	tu	tu	linguistic	none	_	_	_	_	_	_
 737-11	TO071	737	a	a	linguistic	none	_	_	_	_	_	_
-737-12	TO071	737	nomepaese?	nomepaese	linguistic	none	Intonation=rising	End=1386.198	_	_	_	_
+737-12	TO071	737	@nomepaese?	@nomepaese	linguistic	none	Intonation=rising	End=1386.198	_	_	_	_
 738-0	TO071	738	gli	gli	linguistic	none	_	Begin=1386.23	_	_	_	_
 738-1	TO071	738	originari?	originari	linguistic	none	Intonation=rising	End=1387.315	_	_	_	_
 739-0	TO080	739	no	no	linguistic	none	_	Begin=1388.406	_	_	_	_
@@ -3994,7 +3994,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 772-5	TO080	772	barboncino.	barboncino	linguistic	none	Intonation=falling	End=1456.615	_	_	_	_
 773-0	TO071	773	lì	lì	linguistic	none	_	Begin=1456.615	_	_	_	_
 773-1	TO071	773	a	a	linguistic	none	_	_	_	_	_	_
-773-2	TO071	773	nomepaese?	nomepaese	linguistic	none	Intonation=rising	End=1457.448	_	_	_	_
+773-2	TO071	773	@nomepaese?	@nomepaese	linguistic	none	Intonation=rising	End=1457.448	_	_	_	_
 774-0	TO080	774	sì.	sì	linguistic	none	Intonation=falling	Begin=1457.686|End=1458.046	_	_	_	_
 775-0	TO071	775	quanti	quanti	linguistic	none	_	Begin=1458.448	_	_	_	_
 775-1	TO071	775	anni	anni	linguistic	none	_	_	_	_	_	_

@@ -461,7 +461,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 56-13	TO019	56	negli	negli	linguistic	none	_	_	_	_	_	_
 56-14	TO019	56	ultimi	ultimi	linguistic	none	_	_	_	_	_	_
 56-15	TO019	56	giorni	giorni	linguistic	none	_	_	_	_	_	_
-56-16	TO019	56	pre-partum,	pre-partum,	error	none	_	End=157.296	_	_	_	_
+56-16	TO019	56	pre-partum,	pre-partum	linguistic	none	Intonation=weakly_rising	End=157.296	_	_	_	_
 57-0	TO019	57	la	la	linguistic	none	_	Begin=157.585	_	_	_	_
 57-1	TO019	57	razione	razione	linguistic	none	_	_	_	_	_	_
 57-2	TO019	57	e:h	eh	linguistic	none	ProsodicLink=Yes	_	0x1	_	_	_

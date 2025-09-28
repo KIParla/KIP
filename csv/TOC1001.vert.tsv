@@ -1504,7 +1504,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 148-3	TO002	148	parla	parla	linguistic	none	_	_	_	_	_	0-5(35)
 148-4	TO002	148	di	di	linguistic	none	_	_	_	_	_	0-2(35)
 148-5	TO002	148	legami	legami	linguistic	none	_	_	_	_	_	0-6(35)
-148-6	TO002	148	int]er-transnazionale	inter-transnazionale	error	none	_	_	_	_	_	0-3(35)
+148-6	TO002	148	int]er-transnazionale	inter-transnazionale	linguistic	none	_	_	_	_	_	0-3(35)
 148-7	TO002	148	si	si	linguistic	none	_	_	_	_	_	_
 148-8	TO002	148	parla	parla	linguistic	none	_	_	_	_	_	_
 148-9	TO002	148	sì	sì	linguistic	none	_	_	_	_	_	_
@@ -1844,16 +1844,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 184-0	TO003	184	[sì	sì	linguistic	none	ProsodicLink=Yes	Begin=666.878	_	_	_	0-2(45)
 184-1	TO003	184	sì]	sì	linguistic	none	_	_	_	_	_	0-2(45)
 184-2	TO003	184	prego.	prego	linguistic	none	Intonation=falling	End=667.5	_	_	_	_
-185-0	TO002	185	((il	((il	nonverbalbehavior	none	_	Begin=667.5	_	_	_	_
-185-1	TO002	185	docente	docente	linguistic	none	_	_	_	_	_	_
-185-2	TO002	185	interrompe	interrompe	linguistic	none	_	_	_	_	_	_
-185-3	TO002	185	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	_
-185-4	TO002	185	interrogazione	interrogazione	linguistic	none	_	_	_	_	_	_
-185-5	TO002	185	per	per	linguistic	none	_	_	_	_	_	_
-185-6	TO002	185	consultarsi	consultarsi	linguistic	none	_	_	_	_	_	_
-185-7	TO002	185	con	con	linguistic	none	_	_	_	_	_	_
-185-8	TO002	185	il	il	linguistic	none	_	_	_	_	_	_
-185-9	TO002	185	collega))	collega))	error	none	_	End=669.6	_	_	_	_
+185-0	TO002	185	((il_docente_interrompe_interrogazione_per_consultarsi_con_collega))	((il_docente_interrompe_interrogazione_per_consultarsi_con_collega))	nonverbalbehavior	none	_	Begin=667.5|End=669.6	_	_	_	_
 186-0	???	186	okay	okay	linguistic	none	_	Begin=667.5	_	_	_	_
 186-1	???	186	quest~	quest~	linguistic	none	Interrupted=Yes	_	_	_	_	_
 186-2	???	186	è	è	linguistic	none	_	_	_	_	_	_

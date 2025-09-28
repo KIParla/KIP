@@ -21,7 +21,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 5-1	BO057	5	dove	dove	linguistic	none	_	_	_	_	_	_
 5-2	BO057	5	vieni?	vieni	linguistic	none	Intonation=rising	End=13.2	_	_	_	_
 6-0	BO070	6	da	da	linguistic	none	_	Begin=13.445	_	_	_	_
-6-1	BO070	6	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+6-1	BO070	6	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 6-2	BO070	6	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 6-3	BO070	6	in	in	linguistic	none	_	_	_	_	_	_
 6-4	BO070	6	provincia	provincia	linguistic	none	_	_	_	_	_	_
@@ -2331,7 +2331,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 325-6	BO070	325	una	una	linguistic	none	_	_	_	_	_	_
 325-7	BO070	325	ragazza	ragazza	linguistic	none	_	_	_	_	_	_
 325-8	BO070	325	di	di	linguistic	none	_	_	_	_	_	_
-325-9	BO070	325	@nomepaese,	@nomepaese,	anonymized	none	_	End=960.031	_	_	_	_
+325-9	BO070	325	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	End=960.031	_	_	_	_
 326-0	BO070	326	e::::h	eh	linguistic	none	_	Begin=961.006	0x4	_	_	_
 326-1	BO070	326	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 326-2	BO070	326	martina,	martina	linguistic	none	Intonation=weakly_rising	End=962.698	_	_	_	_
@@ -2343,7 +2343,6 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 327-5	BO070	327	grazie	grazie	linguistic	none	_	_	_	_	_	_
 327-6	BO070	327	alla::	alla	linguistic	none	_	_	3x2	_	_	_
 327-7	BO070	327	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-327-8	BO070	327	:	:	error	none	_	_	_	_	_	_
 327-9	BO070	327	alla	alla	linguistic	none	_	_	_	_	_	_
 327-10	BO070	327	politica,	politica	linguistic	none	Intonation=weakly_rising	End=966.76	_	_	_	_
 328-0	BO070	328	diciamo	diciamo	linguistic	none	_	Begin=967.259	_	_	_	_
@@ -2664,7 +2663,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 365-2	BO057	365	tra	tra	linguistic	none	_	_	_	_	_	_
 365-3	BO057	365	bologna	bologna	linguistic	none	_	_	_	_	_	_
 365-4	BO057	365	e	e	linguistic	none	_	_	_	_	_	_
-365-5	BO057	365	@nomepaese?	@nomepaese?	anonymized	none	_	End=1096.04	_	_	_	_
+365-5	BO057	365	@nomepaese?	@nomepaese	linguistic	none	Intonation=rising	End=1096.04	_	_	_	_
 366-0	BO070	366	°m:h°	mh	linguistic	none	Volume=low	Begin=1096.97	0x1	_	_	_
 366-1	BO070	366	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 366-2	BO070	366	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	_

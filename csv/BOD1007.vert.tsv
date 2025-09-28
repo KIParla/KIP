@@ -9764,7 +9764,6 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 727-5	BO100	727	diversi.	diversi	linguistic	none	Intonation=falling	End=4345.405	_	_	_	_
 728-0	BO100	728	per	per	linguistic	none	_	Begin=4346.685	_	_	_	_
 728-1	BO100	728	cui	cui	linguistic	none	_	_	_	_	_	_
-728-2	BO100	728	(,)	,	error	none	_	_	_	_	_	_
 728-3	BO100	728	ci	ci	linguistic	none	_	_	_	_	_	_
 728-4	BO100	728	sono	sono	linguistic	none	_	_	_	_	_	_
 728-5	BO100	728	alcuni	alcuni	linguistic	none	_	_	_	_	_	_
@@ -10590,7 +10589,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 802-14	BO100	802	cosa	cosa	linguistic	none	_	_	_	_	_	_
 802-15	BO100	802	succede.	succede	linguistic	none	Intonation=falling	End=4677.223	_	_	_	_
 803-0	BO100	803	di	di	linguistic	none	_	Begin=4677.406	_	_	_	_
-803-1	BO100	803	x-factor	x-factor	error	none	_	_	_	_	_	_
+803-1	BO100	803	x-factor	x-factor	linguistic	none	_	_	_	_	_	_
 803-2	BO100	803	anche.	anche	linguistic	none	Intonation=falling	End=4678.998	_	_	_	_
 804-0	BO100	804	l'	l'	linguistic	none	SpaceAfter=No	Begin=4679.184	_	_	_	_
 804-1	BO100	804	interazione	interazione	linguistic	none	_	_	_	_	_	_
@@ -10822,7 +10821,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 819-7	BO100	819	le	le	linguistic	none	_	_	_	_	_	_
 819-8	BO100	819	varie	varie	linguistic	none	_	_	_	_	_	_
 819-9	BO100	819	possibili	possibili	linguistic	none	_	_	_	_	_	_
-819-10	BO100	819	properties,ç	properties,ç	error	none	_	End=4769.878	_	_	_	_
+819-10	BO100	819	properties,	properties	linguistic	none	Intonation=weakly_rising	End=4769.878	_	_	_	_
 820-0	BO100	820	la	la	linguistic	none	_	Begin=4770.08	_	_	_	_
 820-1	BO100	820	rilettura	rilettura	linguistic	none	_	_	_	_	_	_
 820-2	BO100	820	delle	delle	linguistic	none	_	_	_	_	_	_
@@ -12963,8 +12962,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 980-6	BO100	980	o	o	linguistic	none	_	_	_	_	_	_
 980-7	BO100	980	in	in	linguistic	none	_	_	_	_	_	_
 980-8	BO100	980	essos	essos	linguistic	none	_	_	_	_	_	_
-980-9	BO100	980	((??))	((??))	nonverbalbehavior	none	_	_	_	_	_	_
-980-10	BO100	980	,	,	error	none	_	_	_	_	_	_
+980-9	BO100	980	((incomprensibile))	((incomprensibile))	nonverbalbehavior	none	_	_	_	_	_	_
 980-11	BO100	980	i	i	linguistic	none	_	_	_	_	_	_
 980-12	BO100	980	miei	miei	linguistic	none	_	_	_	_	_	_
 980-13	BO100	980	dannati	dannati	linguistic	none	_	_	_	_	_	_

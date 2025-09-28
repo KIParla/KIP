@@ -736,7 +736,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 107-7	TO071	107	vissut]o	vissuto	linguistic	none	_	_	_	_	_	0-6(30)
 107-8	TO071	107	in:	in	linguistic	none	_	_	1x1	_	_	_
 107-9	TO071	107	(in:)	in	linguistic	none	_	_	1x1	_	0-2(0)	_
-107-10	TO071	107	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+107-10	TO071	107	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 107-11	TO071	107	ho	ho	linguistic	none	_	_	_	_	_	_
 107-12	TO071	107	vissuto	vissuto	linguistic	none	_	_	_	_	_	_
 107-13	TO071	107	che	che	linguistic	none	_	_	_	_	_	_
@@ -1926,7 +1926,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 279-7	TO060	279	marche.	marche	linguistic	none	Intonation=falling	End=632.844	_	_	_	_
 280-0	TO071	280	mhm.	mhm	linguistic	none	Intonation=falling	Begin=632.872|End=633.184	_	_	_	_
 281-0	TO060	281	a	a	linguistic	none	_	Begin=633.17	_	_	_	_
-281-1	TO060	281	nomepaese	nomepaese	linguistic	none	_	_	_	_	_	_
+281-1	TO060	281	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 281-2	TO060	281	che	che	linguistic	none	_	_	_	_	_	_
 281-3	TO060	281	è	è	linguistic	none	_	_	_	_	_	_
 281-4	TO060	281	in	in	linguistic	none	_	_	_	_	_	_
@@ -2578,13 +2578,13 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 367-8	TO071	367	un	un	linguistic	none	_	_	_	_	_	_
 367-9	TO071	367	nome	nome	linguistic	none	_	_	_	_	_	_
 367-10	TO071	367	suppon[go].	suppongo	linguistic	none	Intonation=falling	End=832.723	_	_	_	6-8(114)
-368-0	TO060	368	@nomeluogo	@nomeluogo	anonymized	none	_	Begin=832.484	_	_	_	_
+368-0	TO060	368	@nomeluogo	@nomeluogo	linguistic	none	_	Begin=832.484	_	_	_	_
 368-1	TO060	368	((ride))	((ride))	nonverbalbehavior	none	_	End=838.676	_	_	_	_
-369-0	TO071	369	@nomeluogo	@nomeluogo	anonymized	none	_	Begin=833.238	_	_	_	_
+369-0	TO071	369	@nomeluogo	@nomeluogo	linguistic	none	_	Begin=833.238	_	_	_	_
 369-1	TO071	369	okay.	okay	linguistic	none	Intonation=falling	End=834.63	_	_	_	_
 370-0	TO071	370	[quindi	quindi	linguistic	none	_	Begin=835.923	_	_	_	0-6(?)
 370-1	TO071	370	sarebbe	sarebbe	linguistic	none	_	_	_	_	_	0-7(?)
-370-2	TO071	370	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	0-10(?)
+370-2	TO071	370	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	0-10(?)
 370-3	TO071	370	di:	di	linguistic	none	_	_	1x1	_	_	0-2(?)
 370-4	TO071	370	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	0-3(?)
 370-5	TO071	370	(°com'	com'	linguistic	none	SpaceAfter=No|Volume=low	_	_	_	0-4(0)	0-4(?)

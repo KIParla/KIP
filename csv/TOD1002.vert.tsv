@@ -186,7 +186,6 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 37-7	TO004	37	il	il	linguistic	none	_	_	_	_	_	_
 37-8	TO004	37	tempo	tempo	linguistic	none	_	_	_	_	_	_
 37-9	TO004	37	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-37-10	TO004	37	,	,	error	none	_	_	_	_	_	_
 37-11	TO004	37	a	a	linguistic	none	_	_	_	_	_	_
 37-12	TO004	37	m:essaggiare,	messaggiare	linguistic	none	Intonation=weakly_rising	End=99.283	0x1	_	_	_
 38-0	TO004	38	con	con	linguistic	none	_	Begin=99.957	_	_	_	_
@@ -2172,7 +2171,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 367-6	TO004	367	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 367-7	TO004	367	è	è	linguistic	none	_	_	_	_	_	_
 367-8	TO004	367	un'	un'	linguistic	none	SpaceAfter=No	_	_	_	_	_
-367-9	TO004	367	ottima,,	ottima,,	error	none	_	End=1138.25	_	_	_	_
+367-9	TO004	367	ottima,	ottima	linguistic	none	Intonation=weakly_rising	End=1138.25	_	_	_	_
 368-0	TO004	368	è	è	linguistic	none	_	Begin=1138.525	_	_	_	_
 368-1	TO004	368	un'	un'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 368-2	TO004	368	ottima	ottima	linguistic	none	_	_	_	_	_	_
@@ -4715,7 +4714,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 811-15	TO004	811	parla	parla	linguistic	none	_	_	_	_	_	_
 811-16	TO004	811	di	di	linguistic	none	_	_	_	_	_	_
 811-17	TO004	811	di	di	linguistic	none	_	_	_	_	_	_
-811-18	TO004	811	ro:ck,,	ro:ck,,	error	none	_	End=2451.463	_	_	_	_
+811-18	TO004	811	ro:ck,	rock	linguistic	none	Intonation=weakly_rising	End=2451.463	1x1	_	_	_
 812-0	TO004	812	e	e	linguistic	none	_	Begin=2451.517	_	_	_	_
 812-1	TO004	812	così	così	linguistic	none	_	_	_	_	_	_
 812-2	TO004	812	via::.	via	linguistic	none	Intonation=falling	_	2x2	_	_	_
@@ -8752,7 +8751,6 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1595-2	TO004	1595	colore	colore	linguistic	none	_	_	_	_	_	_
 1595-3	TO004	1595	fa	fa	linguistic	none	_	_	_	_	_	_
 1595-4	TO004	1595	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-1595-5	TO004	1595	,	,	error	none	_	_	_	_	_	_
 1595-6	TO004	1595	la	la	linguistic	none	_	_	_	_	_	_
 1595-7	TO004	1595	differenza.	differenza	linguistic	none	Intonation=falling	End=4812.878	_	_	_	_
 1596-0	TO004	1596	e	e	linguistic	none	_	Begin=4813.818	_	_	_	_

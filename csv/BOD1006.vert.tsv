@@ -9872,7 +9872,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1185-9	BO099	1185	autonomia,	autonomia	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 1185-10	BO099	1185	una	una	linguistic	none	_	_	_	_	_	_
 1185-11	BO099	1185	loro	loro	linguistic	none	_	_	_	_	_	_
-1185-12	BO099	1185	mh..	mh..	error	none	_	End=4986.577	_	_	_	_
+1185-12	BO099	1185	mh.	mh	linguistic	none	Intonation=falling	End=4986.577	_	_	_	_
 1186-0	BO099	1186	e::h	eh	linguistic	none	_	Begin=4986.939|End=4988.411	0x2	_	_	_
 1187-0	BO099	1187	potenzialità	potenzialità	linguistic	none	_	Begin=4988.611	_	_	_	_
 1187-1	BO099	1187	di	di	linguistic	none	_	_	_	_	_	_

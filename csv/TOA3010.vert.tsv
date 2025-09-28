@@ -2045,11 +2045,11 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 367-4	TO085	367	a	a	linguistic	none	_	_	_	_	_	_
 367-5	TO085	367	dante	dante	linguistic	none	_	End=1153.592	_	_	_	_
 368-0	TO085	368	no	no	linguistic	none	_	Begin=1154.274|End=1154.824	_	_	_	_
-369-0	TO086	369	@nomeluogo	@nomeluogo	anonymized	none	_	Begin=1154.826|End=1155.577	_	_	_	_
-370-0	TO085	370	@nomeluogo	@nomeluogo	anonymized	none	_	Begin=1155.581|End=1156.363	_	_	_	_
+369-0	TO086	369	@nomeluogo	@nomeluogo	linguistic	none	_	Begin=1154.826|End=1155.577	_	_	_	_
+370-0	TO085	370	@nomeluogo	@nomeluogo	linguistic	none	_	Begin=1155.581|End=1156.363	_	_	_	_
 371-0	TO086	371	[xx]	x	unknown	none	_	Begin=1155.874	_	_	_	0-2(60)
 371-1	TO086	371	xxx	x	unknown	none	_	End=1157.273	_	_	_	_
-372-0	TO085	372	@nomeluogo	@nomeluogo	anonymized	none	_	Begin=1157.272	_	_	_	_
+372-0	TO085	372	@nomeluogo	@nomeluogo	linguistic	none	_	Begin=1157.272	_	_	_	_
 372-1	TO085	372	è	è	linguistic	none	_	_	_	_	_	_
 372-2	TO085	372	prima	prima	linguistic	none	_	_	_	_	_	_
 372-3	TO085	372	di	di	linguistic	none	_	_	_	_	_	_

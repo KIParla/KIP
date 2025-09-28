@@ -812,7 +812,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 89-6	BO120	89	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 89-7	BO120	89	in	in	linguistic	none	_	_	_	_	_	_
 89-8	BO120	89	via	via	linguistic	none	_	_	_	_	_	_
-89-9	BO120	89	@nomeluogo?	@nomeluogo?	anonymized	none	_	End=310.481	_	_	_	_
+89-9	BO120	89	@nomeluogo?	@nomeluogo?	linguistic	none	_	End=310.481	_	_	_	_
 90-0	BO120	90	due	due	linguistic	none	_	Begin=313.175	_	_	_	_
 90-1	BO120	90	anni	anni	linguistic	none	_	End=313.799	_	_	_	_
 91-0	BO119	91	((ride))	((ride))	nonverbalbehavior	none	_	Begin=317.225	_	_	_	_
@@ -1429,13 +1429,13 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 183-10	BO120	183	hanno	hanno	linguistic	none	_	_	_	_	_	_
 183-11	BO120	183	fatto	fatto	linguistic	none	_	_	_	_	_	_
 183-12	BO120	183	per	per	linguistic	none	_	_	_	_	_	_
-183-13	BO120	183	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+183-13	BO120	183	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 183-14	BO120	183	così	così	linguistic	none	_	_	_	_	_	_
 183-15	BO120	183	hanno	hanno	linguistic	none	_	_	_	_	_	_
 183-16	BO120	183	fatto	fatto	linguistic	none	_	_	_	_	_	_
 183-17	BO120	183	per::	per	linguistic	none	_	End=568.35	2x2	_	_	_
 184-0	BO120	184	per	per	linguistic	none	_	Begin=568.972	_	_	_	_
-184-1	BO120	184	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+184-1	BO120	184	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 184-2	BO120	184	che	che	linguistic	none	_	_	_	_	_	_
 184-3	BO120	184	è	è	linguistic	none	_	_	_	_	_	_
 184-4	BO120	184	il	il	linguistic	none	_	_	_	_	_	_

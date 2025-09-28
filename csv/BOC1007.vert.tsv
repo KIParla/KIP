@@ -3443,7 +3443,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 511-5	BO104	511	dimensione	dimensione	linguistic	none	_	_	_	_	_	_
 511-6	BO104	511	di	di	linguistic	none	_	_	_	_	_	_
 511-7	BO104	511	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-511-8	BO104	511	co-costruzione,	co-costruzione,	error	none	_	End=1366.24	_	_	_	_
+511-8	BO104	511	co-costruzione,	co-costruzione	linguistic	none	Intonation=weakly_rising	End=1366.24	_	_	_	_
 512-0	BO104	512	che	che	linguistic	none	_	Begin=1366.24	_	_	_	_
 512-1	BO104	512	viene	viene	linguistic	none	_	_	_	_	_	_
 512-2	BO104	512	veicola:ta,	veicolata	linguistic	none	Intonation=weakly_rising	End=1367.396	6x1	_	_	_

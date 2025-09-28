@@ -1191,7 +1191,6 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 211-0	TO074	211	e~	e~	linguistic	none	Interrupted=Yes	Begin=499.828	_	_	_	_
 211-1	TO074	211	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 211-2	TO074	211	lin~	lin~	linguistic	none	Interrupted=Yes	_	_	_	_	_
-211-3	TO074	211	(~)	~	error	none	_	_	_	_	0-1(0)	_
 211-4	TO074	211	linee	linee	linguistic	none	_	End=501.904	_	_	_	_
 212-0	TO074	212	famiglie	famiglie	linguistic	none	_	Begin=501.986	_	_	_	_
 212-1	TO074	212	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_

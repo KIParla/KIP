@@ -88,12 +88,12 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 18-9	BO053	18	e::	e	linguistic	none	_	_	0x2	_	_	_
 18-10	BO053	18	vivo	vivo	linguistic	none	_	_	_	_	_	_
 18-11	BO053	18	a	a	linguistic	none	_	_	_	_	_	_
-18-12	BO053	18	@nomepaese	@nomepaese	anonymized	none	_	End=47.569	_	_	_	_
+18-12	BO053	18	@nomepaese	@nomepaese	linguistic	none	_	End=47.569	_	_	_	_
 19-0	BO049	19	sì	sì	linguistic	none	_	Begin=48.308	_	_	_	_
 19-1	BO049	19	[sì]	sì	linguistic	none	_	End=48.636	_	_	_	0-2(3)
 20-0	BO053	20	[vivo]	vivo	linguistic	none	_	Begin=48.469	_	_	_	0-4(3)
 20-1	BO053	20	a	a	linguistic	none	_	_	_	_	_	_
-20-2	BO053	20	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+20-2	BO053	20	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 20-3	BO053	20	eh::	eh	linguistic	none	_	_	1x2	_	_	_
 20-4	BO053	20	quindi::	quindi	linguistic	none	_	_	5x2	_	_	_
 20-5	BO053	20	prendo::	prendo	linguistic	none	_	_	5x2	_	_	_
@@ -157,10 +157,10 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 26-0	BO049	26	quindi	quindi	linguistic	none	_	Begin=74.137	_	_	_	_
 26-1	BO049	26	vivi	vivi	linguistic	none	_	_	_	_	_	_
 26-2	BO049	26	a	a	linguistic	none	_	_	_	_	_	_
-26-3	BO049	26	@nomepaese	@nomepaese	anonymized	none	_	End=75.117	_	_	_	_
+26-3	BO049	26	@nomepaese	@nomepaese	linguistic	none	_	End=75.117	_	_	_	_
 27-0	BO053	27	vivo	vivo	linguistic	none	_	Begin=75.117	_	_	_	_
 27-1	BO053	27	a	a	linguistic	none	_	_	_	_	_	_
-27-2	BO053	27	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+27-2	BO053	27	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 27-3	BO053	27	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 27-4	BO053	27	in	in	linguistic	none	_	_	_	_	_	_
 27-5	BO053	27	provincia	provincia	linguistic	none	_	_	_	_	_	_
@@ -219,7 +219,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 31-4	BO053	31	quartieree	quartieree	linguistic	none	_	_	_	_	_	_
 31-5	BO053	31	residenziale	residenziale	linguistic	none	_	_	_	_	_	_
 31-6	BO053	31	di	di	linguistic	none	_	_	_	_	_	_
-31-7	BO053	31	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+31-7	BO053	31	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 31-8	BO053	31	vicino:::	vicino	linguistic	none	_	End=96.273	5x3	_	_	_
 32-0	BO053	32	vicino	vicino	linguistic	none	_	Begin=97.003	_	_	_	_
 32-1	BO053	32	al	al	linguistic	none	_	_	_	_	_	_
@@ -716,7 +716,6 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 79-13	BO053	79	le	le	linguistic	none	_	_	_	_	_	_
 79-14	BO053	79	lotte	lotte	linguistic	none	_	_	_	_	_	_
 79-15	BO053	79	per	per	linguistic	none	_	_	_	_	_	_
-79-16	BO053	79	~	~	error	none	_	_	_	_	_	_
 79-17	BO053	79	per	per	linguistic	none	_	_	_	_	_	_
 79-18	BO053	79	accaparrarsela	accaparrarsela	linguistic	none	_	_	_	_	_	_
 79-19	BO053	79	però::	però	linguistic	none	_	End=303.13	3x2	_	_	_
@@ -904,7 +903,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 98-8	BO053	98	zona	zona	linguistic	none	_	_	_	_	_	_
 98-9	BO053	98	limitrofa	limitrofa	linguistic	none	_	_	_	_	_	_
 98-10	BO053	98	a	a	linguistic	none	_	_	_	_	_	_
-98-11	BO053	98	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+98-11	BO053	98	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 98-12	BO053	98	[in	in	linguistic	none	_	_	_	_	_	0-2(19)
 98-13	BO053	98	un]~	un~	linguistic	none	Interrupted=Yes	_	_	_	_	0-2(19)
 98-14	BO053	98	in	in	linguistic	none	_	_	_	_	_	_
@@ -913,7 +912,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 98-17	BO053	98	che	che	linguistic	none	_	_	_	_	_	_
 98-18	BO053	98	si	si	linguistic	none	_	_	_	_	_	_
 98-19	BO053	98	chiama	chiama	linguistic	none	_	_	_	_	_	_
-98-20	BO053	98	@nomepaese,	@nomepaese,	anonymized	none	_	_	_	_	_	_
+98-20	BO053	98	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 98-21	BO053	98	veramente	veramente	linguistic	none	_	_	_	_	_	_
 98-22	BO053	98	a::	a	linguistic	none	_	_	0x2	_	_	_
 98-23	BO053	98	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
@@ -921,7 +920,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 98-25	BO053	98	tre	tre	linguistic	none	_	_	_	_	_	_
 98-26	BO053	98	chilometri	chilometri	linguistic	none	_	_	_	_	_	_
 98-27	BO053	98	da	da	linguistic	none	_	_	_	_	_	_
-98-28	BO053	98	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+98-28	BO053	98	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 98-29	BO053	98	quindi	quindi	linguistic	none	_	_	_	_	_	_
 98-30	BO053	98	molto	molto	linguistic	none	_	_	_	_	_	_
 98-31	BO053	98	vicino.	vicino	linguistic	none	Intonation=falling	End=383.428	_	_	_	_
@@ -933,7 +932,6 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 100-4	BO053	100	che	che	linguistic	none	_	_	_	_	_	_
 100-5	BO053	100	è	è	linguistic	none	_	_	_	_	_	_
 100-6	BO053	100	molto	molto	linguistic	none	_	_	_	_	_	_
-100-7	BO053	100	~	~	error	none	_	_	_	_	_	_
 100-8	BO053	100	è	è	linguistic	none	_	_	_	_	_	_
 100-9	BO053	100	molto	molto	linguistic	none	_	_	_	_	_	_
 100-10	BO053	100	gestibile	gestibile	linguistic	none	_	_	_	_	_	_
@@ -1208,7 +1206,6 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 125-0	BO053	125	[in	in	linguistic	none	_	Begin=503.561	_	_	_	0-2(22)
 125-1	BO053	125	un]	un	linguistic	none	_	_	_	_	_	0-2(22)
 125-2	BO053	125	nel	nel	linguistic	none	_	_	_	_	_	_
-125-3	BO053	125	~	~	error	none	_	_	_	_	_	_
 125-4	BO053	125	nel	nel	linguistic	none	_	_	_	_	_	_
 125-5	BO053	125	primo	primo	linguistic	none	_	_	_	_	_	_
 125-6	BO053	125	periodo	periodo	linguistic	none	_	_	_	_	_	_
@@ -1864,7 +1861,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 187-4	BO049	187	vorresti	vorresti	linguistic	none	_	_	_	_	_	_
 187-5	BO049	187	rimanere	rimanere	linguistic	none	_	_	_	_	_	_
 187-6	BO049	187	a	a	linguistic	none	_	_	_	_	_	_
-187-7	BO049	187	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+187-7	BO049	187	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 187-8	BO049	187	vorresti	vorresti	linguistic	none	_	_	_	_	_	_
 187-9	BO049	187	sposta::rti	spostarti	linguistic	none	_	_	5x2	_	_	_
 187-10	BO049	187	dove	dove	linguistic	none	_	_	_	_	_	_
@@ -2023,7 +2020,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 198-2	BO053	198	abbastanza	abbastanza	linguistic	none	_	_	_	_	_	_
 198-3	BO053	198	grande	grande	linguistic	none	_	_	_	_	_	_
 198-4	BO053	198	come	come	linguistic	none	_	_	_	_	_	_
-198-5	BO053	198	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+198-5	BO053	198	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 198-6	BO053	198	che	che	linguistic	none	_	_	_	_	_	_
 198-7	BO053	198	però	però	linguistic	none	_	_	_	_	_	_
 198-8	BO053	198	ha	ha	linguistic	none	_	_	_	_	_	_

@@ -1213,7 +1213,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 123-1	TO023	123	okay].	okay	linguistic	none	Intonation=falling	End=553.044	_	_	_	0-4(43)
 124-0	TO023	124	[sì.	sì	linguistic	none	Intonation=falling	Begin=554.115	_	_	_	0-2(44)
 124-1	TO023	124	e	e	linguistic	none	_	_	_	_	_	0-1(44)
-124-2	TO023	124	poi].,	poi.,	error	none	_	End=555.197	_	_	_	0-3(44)
+124-2	TO023	124	poi.]	poi	linguistic	none	Intonation=falling	End=555.197	_	_	_	0-3(44)
 125-0	TO023	125	[mh	mh	linguistic	none	ProsodicLink=Yes	Begin=563.608	_	_	_	0-2(45)
 125-1	TO023	125	mh].	mh	linguistic	none	Intonation=falling	End=563.98	_	_	_	0-2(45)
 126-0	TO023	126	quindi,	quindi	linguistic	none	Intonation=weakly_rising	Begin=567.3	_	_	_	_

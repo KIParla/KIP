@@ -2818,7 +2818,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 289-2	BO121	289	diciamo	diciamo	linguistic	none	_	_	_	_	_	_
 289-3	BO121	289	a::	a	linguistic	none	_	_	0x2	_	_	_
 289-4	BO121	289	frequentare	frequentare	linguistic	none	_	_	_	_	_	_
-289-5	BO121	289	@abitantipaese,	@abitantipaese,	anonymized	none	_	End=1056.418	_	_	_	_
+289-5	BO121	289	@abitantipaese,	@abitantipaese,	linguistic	none	_	End=1056.418	_	_	_	_
 290-0	BO121	290	verso	verso	linguistic	none	_	Begin=1056.592	_	_	_	_
 290-1	BO121	290	la:::	la	linguistic	none	_	_	1x3	_	_	_
 290-2	BO121	290	fine	fine	linguistic	none	_	_	_	_	_	_
@@ -2838,7 +2838,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 292-6	BO121	292	da	da	linguistic	none	_	_	_	_	_	_
 292-7	BO121	292	tutti	tutti	linguistic	none	_	_	_	_	_	_
 292-8	BO121	292	i	i	linguistic	none	_	_	_	_	_	_
-292-9	BO121	292	@abitantipaese	@abitantipaese	anonymized	none	_	End=1064.349	_	_	_	_
+292-9	BO121	292	@abitantipaese	@abitantipaese	linguistic	none	_	End=1064.349	_	_	_	_
 293-0	BO121	293	proprio	proprio	linguistic	none	_	Begin=1064.525	_	_	_	_
 293-1	BO121	293	era	era	linguistic	none	_	_	_	_	_	_
 293-2	BO121	293	una	una	linguistic	none	_	_	_	_	_	_
@@ -2943,7 +2943,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 301-3	BO121	301	degli	degli	linguistic	none	_	_	_	_	_	_
 301-4	BO121	301	incontri	incontri	linguistic	none	_	_	_	_	_	_
 301-5	BO121	301	con	con	linguistic	none	_	_	_	_	_	_
-301-6	BO121	301	@abitantipaese	@abitantipaese	anonymized	none	_	_	_	_	_	_
+301-6	BO121	301	@abitantipaese	@abitantipaese	linguistic	none	_	_	_	_	_	_
 301-7	BO121	301	quindi	quindi	linguistic	none	_	_	_	_	_	_
 301-8	BO121	301	cioè	cioè	linguistic	none	_	_	_	_	_	_
 301-9	BO121	301	non	non	linguistic	none	_	_	_	_	_	_
@@ -2962,7 +2962,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 301-22	BO121	301	stare	stare	linguistic	none	_	_	_	_	_	_
 301-23	BO121	301	dietro	dietro	linguistic	none	_	_	_	_	_	_
 301-24	BO121	301	ai	ai	linguistic	none	_	_	_	_	_	_
-301-25	BO121	301	@abitantipaese	@abitantipaese	anonymized	none	_	_	_	_	_	_
+301-25	BO121	301	@abitantipaese	@abitantipaese	linguistic	none	_	_	_	_	_	_
 301-26	BO121	301	[ma	ma	linguistic	none	_	_	_	_	_	0-2(17)
 301-27	BO121	301	andare	andare	linguistic	none	_	_	_	_	_	0-6(17)
 301-28	BO121	301	e	e	linguistic	none	_	_	_	_	_	0-1(17)

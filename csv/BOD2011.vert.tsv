@@ -348,7 +348,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 54-6	BO049	54	vivi?	vivi	linguistic	none	Intonation=rising	End=119.59	_	_	_	_
 55-0	BO075	55	vivo	vivo	linguistic	none	_	Begin=119.85	_	_	_	_
 55-1	BO075	55	a	a	linguistic	none	_	_	_	_	_	_
-55-2	BO075	55	@nomepaese.	@nomepaese.	anonymized	none	_	End=120.81	_	_	_	_
+55-2	BO075	55	@nomepaese.	@nomepaese	linguistic	none	Intonation=falling	End=120.81	_	_	_	_
 56-0	BO049	56	okay	okay	linguistic	none	_	Begin=120.996	_	_	_	_
 56-1	BO049	56	vivi	vivi	linguistic	none	_	_	_	_	_	_
 56-2	BO049	56	da	da	linguistic	none	_	_	_	_	_	_
@@ -394,7 +394,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 63-5	BO075	63	m:h	mh	linguistic	none	_	End=135.09	0x1	_	_	_
 64-0	BO075	64	vivo	vivo	linguistic	none	_	Begin=135.22	_	_	_	_
 64-1	BO075	64	a	a	linguistic	none	_	_	_	_	_	_
-64-2	BO075	64	@nomepaese,	@nomepaese,	anonymized	none	_	_	_	_	_	_
+64-2	BO075	64	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 64-3	BO075	64	eh	eh	linguistic	none	_	_	_	_	_	_
 64-4	BO075	64	in	in	linguistic	none	_	_	_	_	_	_
 64-5	BO075	64	una	una	linguistic	none	_	_	_	_	_	_
@@ -549,9 +549,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 85-6	BO075	85	zona	zona	linguistic	none	_	_	_	_	_	_
 85-7	BO075	85	ospedaliera	ospedaliera	linguistic	none	_	_	_	_	_	_
 85-8	BO075	85	di	di	linguistic	none	_	_	_	_	_	_
-85-9	BO075	85	((nome	((nome	nonverbalbehavior	none	_	_	_	_	_	_
-85-10	BO075	85	[paese))	paese))	error	none	_	_	_	_	_	0-6(21)
-85-11	BO075	85	,	,	error	none	_	_	_	_	_	_
+85-9	BO075	85	@nome[paese,	@nomepaese	linguistic	none	Intonation=weakly_rising	_	_	_	_	4-9(21)
 85-12	BO075	85	eh]	eh	linguistic	none	_	_	_	_	_	0-2(21)
 85-13	BO075	85	zona	zona	linguistic	none	_	_	_	_	_	_
 85-14	BO075	85	straordinaria,	straordinaria	linguistic	none	Intonation=weakly_rising	End=178.8	_	_	_	_
@@ -3871,9 +3869,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 651-0	BO075	651	e::h	eh	linguistic	none	ProsodicLink=Yes	Begin=1175.691	0x2	_	_	_
 651-1	BO075	651	m::h	mh	linguistic	none	_	End=1177.33	0x2	_	_	_
 652-0	BO075	652	sì.	sì	linguistic	none	Intonation=falling	Begin=1178.53	_	_	_	_
-652-1	BO075	652	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+652-1	BO075	652	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 652-2	BO075	652	eh	eh	linguistic	none	_	_	_	_	_	_
-652-3	BO075	652	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+652-3	BO075	652	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 652-4	BO075	652	e::h	eh	linguistic	none	_	_	0x2	_	_	_
 652-5	BO075	652	io:	io	linguistic	none	_	_	1x1	_	_	_
 652-6	BO075	652	spero.	spero	linguistic	none	Intonation=falling	End=1181.51	_	_	_	_
@@ -4004,7 +4002,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 670-8	BO075	670	ca~	ca~	linguistic	none	Interrupted=Yes	_	_	_	_	_
 670-9	BO075	670	mi	mi	linguistic	none	_	_	_	_	_	_
 670-10	BO075	670	piace	piace	linguistic	none	_	_	_	_	_	_
-670-11	BO075	670	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+670-11	BO075	670	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 670-12	BO075	670	perché	perché	linguistic	none	_	End=1219.26	_	_	_	_
 671-0	BO075	671	è	è	linguistic	none	_	Begin=1220.5	_	_	_	_
 671-1	BO075	671	una	una	linguistic	none	_	_	_	_	_	_

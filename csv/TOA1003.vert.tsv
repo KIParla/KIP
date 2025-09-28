@@ -7664,7 +7664,6 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1336-3	TO065	1336	che	che	linguistic	none	_	End=2800.779	_	_	_	_
 1337-0	TO065	1337	eh	eh	linguistic	none	_	Begin=2800.947	_	_	_	_
 1337-1	TO065	1337	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-1337-2	TO065	1337	.	.	error	none	_	_	_	_	_	_
 1337-3	TO065	1337	sì	sì	linguistic	none	_	_	_	_	_	_
 1337-4	TO065	1337	no.	no	linguistic	none	Intonation=falling	End=2801.703	_	_	_	_
 1338-0	TO065	1338	tutte	tutte	linguistic	none	_	Begin=2802.0	_	_	_	_

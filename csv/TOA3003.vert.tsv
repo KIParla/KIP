@@ -3953,9 +3953,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 656-12	TO037	656	tutti::	tutti	linguistic	none	_	End=1485.392	4x2	_	_	_
 657-0	TO036	657	enorme	enorme	linguistic	none	_	Begin=1482.889|End=1483.895	_	_	_	_
 658-0	TO029	658	i	i	linguistic	none	_	Begin=1485.395	_	_	_	_
-658-1	TO029	658	check-in?	check-in?	error	none	_	End=1486.392	_	_	_	_
+658-1	TO029	658	check-in?	check-in	linguistic	none	Intonation=rising	End=1486.392	_	_	_	_
 659-0	TO037	659	i	i	linguistic	none	_	Begin=1486.392	_	_	_	_
-659-1	TO037	659	check-in	check-in	error	none	_	_	_	_	_	_
+659-1	TO037	659	check-in	check-in	linguistic	none	_	_	_	_	_	_
 659-2	TO037	659	così:	così	linguistic	none	_	_	3x1	_	_	_
 659-3	TO037	659	però	però	linguistic	none	_	_	_	_	_	_
 659-4	TO037	659	>cioè<	cioè	linguistic	none	_	_	_	Fast=0-4(0)	_	_

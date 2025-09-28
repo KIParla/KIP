@@ -2210,7 +2210,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 377-0	TO068	377	mh	mh	linguistic	none	_	Begin=861.336	_	_	_	_
 377-1	TO068	377	mh,	mh	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 377-2	TO068	377	ho	ho	linguistic	none	_	_	_	_	_	_
-377-3	TO068	377	capito[s,ì]	capitos,ì	error	none	_	End=862.805	_	_	_	6-8(53)
+377-3	TO068	377	capito	capito	linguistic	none	_	_	_	_	_	_
+377-4	TO068	377	[sì,]	sì	linguistic	none	_	End=862.805	_	_	_	0-2(53)
 378-0	???	378	[una]	una	linguistic	none	_	Begin=862.112	_	_	_	0-3(53)
 378-1	???	378	costumista	costumista	linguistic	none	_	_	_	_	_	_
 378-2	???	378	[appunto]	appunto	linguistic	none	_	End=863.896	_	_	_	0-7(54)
@@ -18271,7 +18272,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 3294-3	TO068	3294	ha	ha	linguistic	none	_	_	_	_	_	_
 3294-4	TO068	3294	fondato	fondato	linguistic	none	_	_	_	_	_	_
 3294-5	TO068	3294	una	una	linguistic	none	_	_	_	_	_	_
-3294-6	TO068	3294	start-up,	start-up,	error	none	_	End=8603.39	_	_	_	_
+3294-6	TO068	3294	start-up,	start-up	linguistic	none	Intonation=weakly_rising	End=8603.39	_	_	_	_
 3295-0	TO068	3295	a	a	linguistic	none	_	Begin=8603.457	_	_	_	_
 3295-1	TO068	3295	detroit	detroit	linguistic	none	_	_	_	_	_	_
 3295-2	TO068	3295	molto	molto	linguistic	none	_	_	_	_	_	_

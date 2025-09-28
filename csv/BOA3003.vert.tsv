@@ -1748,7 +1748,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 350-2	BO019	350	presa	presa	linguistic	none	_	_	_	_	_	_
 350-3	BO019	350	per	per	linguistic	none	_	_	_	_	_	_
 350-4	BO019	350	il	il	linguistic	none	_	_	_	_	_	_
-350-5	BO019	350	[cuhlo]..	cuhlo..	error	none	_	End=545.926	_	_	_	0-5(498)
+350-5	BO019	350	[culo].	culo.	linguistic	none	Intonation=falling	End=545.926	_	_	_	0-5(498)
 351-0	BO016	351	[no	no	linguistic	none	_	Begin=545.637	_	_	_	0-2(498)
 351-1	BO016	351	no,	no	linguistic	none	Intonation=weakly_rising	_	_	_	_	0-2(498)
 351-2	BO016	351	io	io	linguistic	none	_	_	_	_	_	0-2(498)
@@ -1815,7 +1815,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 367-17	BO018	367	a	a	linguistic	none	_	_	_	_	_	_
 367-18	BO018	367	ca[sa].	casa	linguistic	none	Intonation=falling	End=566.775	_	_	_	2-4(105)
 368-0	BO016	368	[mh]	mh	linguistic	none	ProsodicLink=Yes	Begin=566.665	_	_	_	0-2(105)
-368-1	BO016	368	mh,.	mh,.	error	none	_	End=567.141	_	_	_	_
+368-1	BO016	368	mh.	mh	linguistic	none	Intonation=falling	End=567.141	_	_	_	_
 369-0	BO018	369	eh	eh	linguistic	none	ProsodicLink=Yes	Begin=567.938	_	_	_	_
 369-1	BO018	369	mh:,	mh	linguistic	none	Intonation=weakly_rising	_	1x1	_	_	_
 369-2	BO018	369	mi	mi	linguistic	none	_	_	_	_	_	_
@@ -3498,7 +3498,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 678-18	BO019	678	soh]no.	sohno	linguistic	none	Intonation=falling	_	_	_	_	0-3(174)
 678-19	BO019	678	dovuhta.	dovuhta	linguistic	none	Intonation=falling	_	_	_	_	_
 678-20	BO019	678	andahre.	andahre	linguistic	none	Intonation=falling	_	_	_	_	_
-678-21	BO019	678	giùh..	giùh..	error	none	_	End=1191.72	_	_	_	_
+678-21	BO019	678	giù.	giù	linguistic	none	Intonation=falling	End=1191.72	_	_	_	_
 679-0	BO016	679	[mh].	mh	linguistic	none	Intonation=falling	Begin=1190.548|End=1190.749	_	_	_	0-2(174)
 680-0	BO018	680	((ride))	((ride))	nonverbalbehavior	none	_	Begin=1191.736|End=1192.239	_	_	_	_
 681-0	BO018	681	hai	hai	linguistic	none	ProsodicLink=Yes	Begin=1192.658	_	_	_	_
@@ -4346,9 +4346,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 832-16	BO016	832	fra	fra	linguistic	none	_	_	_	_	_	_
 832-17	BO016	832	le	le	linguistic	none	_	_	_	_	_	_
 832-18	BO016	832	ma[ni],	mani	linguistic	none	Intonation=weakly_rising	End=1431.211	_	_	_	2-4(216)
-833-0	BO019	833	[e:h].,	e:h.,	error	none	_	Begin=1431.131	_	_	_	_
+833-0	BO019	833	[e:h],	e:h	linguistic	none	Intonation=weakly_rising	Begin=1431.131	_	_	_	_
 833-1	BO019	833	qui	qui	linguistic	none	_	_	_	_	_	_
-833-2	BO019	833	tiehne.,	tiehne.,	error	none	_	_	_	_	_	_
+833-2	BO019	833	tiene,	tiene	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 833-3	BO019	833	la	la	linguistic	none	_	_	_	_	_	_
 833-4	BO019	833	testa	testa	linguistic	none	_	_	_	_	_	_
 833-5	BO019	833	di	di	linguistic	none	_	_	_	_	_	_
@@ -4437,7 +4437,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 845-8	BO016	845	m'	m'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 845-9	BO016	845	ha	ha	linguistic	none	_	_	_	_	_	_
 845-10	BO016	845	rotto.	rotto	linguistic	none	Intonation=falling	_	_	_	_	_
-845-11	BO016	845	proprio..	proprio..	error	none	_	End=1452.65	_	_	_	_
+845-11	BO016	845	proprio.	proprio	linguistic	none	Intonation=falling	End=1452.65	_	_	_	_
 846-0	BO019	846	[cespo].	cespo	linguistic	none	Intonation=falling	Begin=1450.724|End=1451.407	_	_	_	0-5(220)
 847-0	BO019	847	complesso	complesso	linguistic	none	_	Begin=1452.671	_	_	_	_
 847-1	BO019	847	di	di	linguistic	none	_	_	_	_	_	_
@@ -4698,11 +4698,11 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 888-8	BO019	888	ci,)	ci	linguistic	none	Intonation=weakly_rising	_	_	_	0-2(0)	_
 888-9	BO019	888	ce	ce	linguistic	none	_	_	_	_	_	_
 888-10	BO019	888	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	_
-888-11	BO019	888	avre-hsti	avre-hsti	error	none	_	_	_	_	_	_
-888-12	BO019	888	ancheh.	ancheh	linguistic	none	Intonation=falling	_	_	_	_	_
-888-13	BO019	888	tuh.	tuh	linguistic	none	Intonation=falling	End=1527.146	_	_	_	_
+888-11	BO019	888	avresti	avresti	linguistic	none	_	_	_	_	_	_
+888-12	BO019	888	anche	anche	linguistic	none	_	_	_	_	_	_
+888-13	BO019	888	tu	tu	linguistic	none	_	End=1527.146	_	_	_	_
 889-0	BO016	889	((ride))	((ride))	nonverbalbehavior	none	_	Begin=1525.526|End=1526.249	_	_	_	_
-890-0	BO018	890	avrehmo.	avrehmo	linguistic	none	Intonation=falling	Begin=1527.851	_	_	_	_
+890-0	BO018	890	avremo	avremo	linguistic	none	_	Begin=1527.851	_	_	_	_
 890-1	BO018	890	tutte	tutte	linguistic	none	_	_	_	_	_	_
 890-2	BO018	890	linguistica	linguistica	linguistic	none	_	_	_	_	_	_
 890-3	BO018	890	ingle~	ingle~	linguistic	none	Interrupted=Yes	End=1528.9	_	_	_	_
@@ -4831,7 +4831,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 905-2	BO018	905	mica	mica	linguistic	none	_	_	_	_	_	_
 905-3	BO018	905	tutte	tutte	linguistic	none	_	_	_	_	_	_
 905-4	BO018	905	le	le	linguistic	none	_	_	_	_	_	_
-905-5	BO018	905	domahnde?.	domahnde?.	error	none	_	End=1556.147	_	_	_	_
+905-5	BO018	905	domande?	domande	linguistic	none	Intonation=rising	End=1556.147	_	_	_	_
 906-0	BO019	906	no?	no	linguistic	none	Intonation=rising	Begin=1556.435|End=1556.782	_	_	_	_
 907-0	BO018	907	ma	ma	linguistic	none	_	Begin=1557.182	_	_	_	_
 907-1	BO018	907	come	come	linguistic	none	_	_	_	_	_	_
@@ -4984,7 +4984,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 932-2	BO016	932	sulla	sulla	linguistic	none	_	_	_	_	_	_
 932-3	BO016	932	s-bahn,	s-bahn	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 932-4	BO016	932	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-932-5	BO016	932	((nome_luogo))	((nome_luogo))	nonverbalbehavior	none	_	End=1609.354	_	_	_	_
+932-5	BO016	932	@nomeluogo	@nomeluogo	linguistic	none	_	End=1609.354	_	_	_	_
 933-0	BO016	933	xxx.	xxx	linguistic	none	Intonation=falling	Begin=1609.665|End=1610.178	_	_	_	_
 934-0	BO019	934	uh,	uh	linguistic	none	Intonation=weakly_rising	Begin=1610.258	_	_	_	_
 934-1	BO019	934	che	che	linguistic	none	_	_	_	_	_	_
@@ -5421,8 +5421,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1007-8	BO016	1007	è,	è	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 1007-9	BO016	1007	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 1007-10	BO016	1007	a	a	linguistic	none	_	_	_	_	_	_
-1007-11	BO016	1007	((nome_luogo))	((nome_luogo))	nonverbalbehavior	none	_	_	_	_	_	_
-1007-12	BO016	1007	.	.	error	none	_	_	_	_	_	_
+1007-11	BO016	1007	@nomeluogo.	@nomeluogo	linguistic	none	Intonation=falling	_	_	_	_	_
 1007-13	BO016	1007	avec	avec	linguistic	none	_	_	_	_	_	_
 1007-14	BO016	1007	julie]eh,	julieeh	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 1007-15	BO016	1007	eh:,	eh	linguistic	none	Intonation=weakly_rising	_	1x1	_	_	_
@@ -5655,8 +5654,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1052-6	BO016	1052	lei	lei	linguistic	none	_	_	_	_	_	0-3(299)
 1052-7	BO016	1052	torna	torna	linguistic	none	_	_	_	_	_	0-5(299)
 1052-8	BO016	1052	a]	a	linguistic	none	_	_	_	_	_	0-1(299)
-1052-9	BO016	1052	((nome_luogo))	((nome_luogo))	nonverbalbehavior	none	_	_	_	_	_	_
-1052-10	BO016	1052	,	,	error	none	_	_	_	_	_	_
+1052-9	BO016	1052	@nomeluogo,	@nomeluogo	nonverbalbehavior	none	Intonation=weakly_rising	_	_	_	_	_
 1052-11	BO016	1052	forse:,	forse	linguistic	none	Intonation=weakly_rising	End=1796.164	4x1	_	_	_
 1053-0	BO019	1053	quando	quando	linguistic	none	_	Begin=1792.975	_	_	_	_
 1053-1	BO019	1053	lei	lei	linguistic	none	_	_	_	_	_	_
@@ -5710,8 +5708,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1058-1	BO019	1058	ci	ci	linguistic	none	_	_	_	_	_	_
 1058-2	BO019	1058	vediamo	vediamo	linguistic	none	_	_	_	_	_	_
 1058-3	BO019	1058	a	a	linguistic	none	_	_	_	_	_	_
-1058-4	BO019	1058	((nome_luogo))	((nome_luogo))	nonverbalbehavior	none	_	_	_	_	_	_
-1058-5	BO019	1058	.	.	error	none	_	End=1810.054	_	_	_	_
+1058-4	BO019	1058	@nomeluogo.	@nomeluogo	linguistic	none	Intonation=falling	End=1810.054	_	_	_	_
 1059-0	BO016	1059	eh:,	eh	linguistic	none	Intonation=weakly_rising	Begin=1810.088	1x1	_	_	_
 1059-1	BO016	1059	e	e	linguistic	none	_	_	_	_	_	_
 1059-2	BO016	1059	io	io	linguistic	none	_	_	_	_	_	_
@@ -5727,10 +5724,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1059-12	BO016	1059	mary],	mary	linguistic	none	Intonation=weakly_rising	End=1812.971	_	_	_	0-4(525)
 1060-0	BO019	1060	[certo].	certo	linguistic	none	Intonation=falling	Begin=1811.363|End=1811.928	_	_	_	0-5(525)
 1061-0	BO018	1061	[a]	a	linguistic	none	_	Begin=1811.793	_	_	_	0-1(525)
-1061-1	BO018	1061	((nome_luogo))	((nome_luogo))	nonverbalbehavior	none	_	End=1812.844	_	_	_	_
+1061-1	BO018	1061	@nomeluogo	@nomeluogo	linguistic	none	_	End=1812.844	_	_	_	_
 1062-0	BO019	1062	a	a	linguistic	none	_	Begin=1812.984	_	_	_	_
-1062-1	BO019	1062	((nome_luogo))	((nome_luogo))	nonverbalbehavior	none	_	_	_	_	_	_
-1062-2	BO019	1062	.	.	error	none	_	_	_	_	_	_
+1062-1	BO019	1062	@nomeluogo.	@nomeluogo	linguistic	none	Intonation=falling	_	_	_	_	_
 1062-3	BO019	1062	(facciamo)	facciamo	linguistic	none	_	_	_	_	0-8(0)	_
 1062-4	BO019	1062	[anche	anche	linguistic	none	_	_	_	_	_	0-5(302)
 1062-5	BO019	1062	il	il	linguistic	none	_	_	_	_	_	0-2(302)
@@ -6102,7 +6098,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1122-4	BO016	1122	l	l	linguistic	none	ProsodicLink=Yes	_	_	_	_	_
 1122-5	BO016	1122	eh:,	eh	linguistic	none	Intonation=weakly_rising	_	1x1	_	_	_
 1122-6	BO016	1122	da	da	linguistic	none	_	_	_	_	_	_
-1122-7	BO016	1122	lo:roda.,	lo:roda.,	error	none	_	_	_	_	_	_
+1122-7	BO016	1122	lo:ro	loro	linguistic	none	_	_	1x1	_	_	_
 1122-8	BO016	1122	da	da	linguistic	none	_	_	_	_	_	_
 1122-9	BO016	1122	da	da	linguistic	none	_	_	_	_	_	_
 1122-10	BO016	1122	da	da	linguistic	none	_	_	_	_	_	_
@@ -6358,7 +6354,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1164-1	BO019	1164	(let'	let'	linguistic	none	SpaceAfter=No	_	_	_	0-4(0)	_
 1164-2	BO019	1164	s)	s	linguistic	none	_	_	_	_	0-1(0)	_
 1164-3	BO019	1164	going	going	linguistic	none	_	_	_	_	_	_
-1164-4	BO019	1164	onlet.'	onlet.'	error	none	SpaceAfter=No	_	_	_	_	_
+1164-4	BO019	1164	on	on	linguistic	none	_	_	_	_	_	_
+1164-4	BO019	1164	let'	let'	linguistic	none	SpaceAfter=No	_	_	_	_	_
+
 1164-5	BO019	1164	s	s	linguistic	none	_	_	_	_	_	_
 1164-6	BO019	1164	go~,	go~	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 1164-7	BO019	1164	[let'	let'	linguistic	none	SpaceAfter=No	_	_	_	_	0-4(348)
@@ -7403,7 +7401,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1325-7	BO017	1325	insegnano	insegnano	linguistic	none	_	_	_	_	_	_
 1325-8	BO017	1325	sai	sai	linguistic	none	_	_	_	_	_	_
 1325-9	BO017	1325	qual	qual	linguistic	none	_	_	_	_	_	_
-1325-10	BO017	1325	èh?.	èh?.	error	none	_	End=2278.508	_	_	_	_
+1325-10	BO017	1325	è?	è	linguistic	none	Intonation=rising	End=2278.508	_	_	_	_
 1326-0	BO016	1326	no.	no	linguistic	none	Intonation=falling	Begin=2278.607|End=2278.786	_	_	_	_
 1327-0	BO017	1327	è	è	linguistic	none	_	Begin=2279.057	_	_	_	_
 1327-1	BO017	1327	che	che	linguistic	none	_	_	_	_	_	_
@@ -7437,7 +7435,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1328-12	BO017	1328	chiamare	chiamare	linguistic	none	_	_	_	_	_	_
 1328-13	BO017	1328	ragazzi.	ragazzi	linguistic	none	Intonation=falling	_	_	_	_	_
 1328-14	BO017	1328	eh	eh	linguistic	none	ProsodicLink=Yes	_	_	_	_	_
-1328-15	BO017	1328	[io.],	io.,	error	none	_	End=2288.7	_	_	_	0-2(401)
+1328-15	BO017	1328	[io.]	io	linguistic	none	Intonation=falling	End=2288.7	_	_	_	0-2(401)
 1329-0	BO016	1329	[no].	no	linguistic	none	Intonation=falling	Begin=2288.501	_	_	_	0-2(401)
 1329-1	BO016	1329	son	son	linguistic	none	_	_	_	_	_	_
 1329-2	BO016	1329	bambini	bambini	linguistic	none	_	End=2289.419	_	_	_	_
@@ -7479,7 +7477,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1333-12	BO017	1333	difficile.	difficile	linguistic	none	Intonation=falling	_	_	_	_	_
 1333-13	BO017	1333	capito?	capito	linguistic	none	Intonation=rising	End=2299.225	_	_	_	_
 1334-0	BO016	1334	mh	mh	linguistic	none	ProsodicLink=Yes	Begin=2299.225	_	_	_	_
-1334-1	BO016	1334	mh.,	mh.,	error	none	_	End=2299.851	_	_	_	_
+1334-1	BO016	1334	mh,	mh	linguistic	none	Intonation=weakly_rising	End=2299.851	_	_	_	_
 1335-0	BO017	1335	>cioè<,	cioè	linguistic	none	Intonation=weakly_rising	Begin=2301.587	_	Fast=0-4(0)	_	_
 1335-1	BO017	1335	boh.	boh	linguistic	none	Intonation=falling	_	_	_	_	_
 1335-2	BO017	1335	sarà	sarà	linguistic	none	_	_	_	_	_	_
@@ -9741,8 +9739,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1677-4	BO017	1677	tre	tre	linguistic	none	_	_	_	_	_	_
 1677-5	BO017	1677	finora.	finora	linguistic	none	Intonation=falling	End=3909.049	_	_	_	_
 1678-0	BO016	1678	figo.	figo	linguistic	none	Intonation=falling	Begin=3909.049|End=3909.561	_	_	_	_
-1679-0	BO017	1679	o:	o	linguistic	none	ProsodicLink=Yes	Begin=3914.516	0x1	_	_	_
-1679-1	BO017	1679	kay,.	kay,.	error	none	_	End=3915.145	_	_	_	_
+1679-0	BO017	1679	o:kay.	okay	linguistic	none	Intonation=falling	Begin=3914.516|End=3915.145	0x1	_	_	_
 1680-0	BO017	1680	allora.	allora	linguistic	none	Intonation=falling	Begin=3916.045	_	_	_	_
 1680-1	BO017	1680	scrivi	scrivi	linguistic	none	_	_	_	_	_	_
 1680-2	BO017	1680	scrivi	scrivi	linguistic	none	_	_	_	_	_	_
@@ -9927,7 +9924,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1708-1	BO017	1708	problema	problema	linguistic	none	_	_	_	_	_	_
 1708-2	BO017	1708	era	era	linguistic	none	_	_	_	_	_	_
 1708-3	BO017	1708	il	il	linguistic	none	_	_	_	_	_	_
-1708-4	BO017	1708	maiuhscol.o.	maiuhscol.o.	error	none	_	End=4010.793	_	_	_	_
+1708-4	BO017	1708	maiuscolo.	maiuscolo	linguistic	none	Intonation=falling	End=4010.793	_	_	_	_
 1709-0	BO017	1709	pen~	pen~	linguistic	none	Interrupted=Yes|ProsodicLink=Yes	Begin=4010.934	_	_	_	_
 1709-1	BO017	1709	cioè.	cioè	linguistic	none	Intonation=falling	_	_	_	_	_
 1709-2	BO017	1709	pensa	pensa	linguistic	none	_	_	_	_	_	_

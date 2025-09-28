@@ -6,15 +6,15 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1-2	TO999	1	tu	tu	linguistic	none	_	_	_	_	_	_
 1-3	TO999	1	sei	sei	linguistic	none	_	_	_	_	_	_
 1-4	TO999	1	di?	di	linguistic	none	Intonation=rising	End=7.1	_	_	_	_
-2-0	BO014	2	@nomepaese,	@nomepaese,	anonymized	none	_	Begin=7.237|End=7.92	_	_	_	_
+2-0	BO014	2	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	Begin=7.237|End=7.92	_	_	_	_
 3-0	TO999	3	sei	sei	linguistic	none	_	Begin=8.032	_	_	_	_
 3-1	TO999	3	di	di	linguistic	none	_	_	_	_	_	_
-3-2	TO999	3	@nomepaese,	@nomepaese,	anonymized	none	_	_	_	_	_	_
+3-2	TO999	3	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 3-3	TO999	3	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 3-4	TO999	3	e	e	linguistic	none	_	_	_	_	_	_
 3-5	TO999	3	vivi	vivi	linguistic	none	_	_	_	_	_	_
 3-6	TO999	3	a	a	linguistic	none	_	_	_	_	_	_
-3-7	TO999	3	@nomepaese,	@nomepaese,	anonymized	none	_	_	_	_	_	_
+3-7	TO999	3	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 3-8	TO999	3	o	o	linguistic	none	_	_	_	_	_	_
 3-9	TO999	3	vi[vi	vivi	linguistic	none	_	_	_	_	_	2-4(0)
 3-10	TO999	3	a	a	linguistic	none	_	_	_	_	_	0-1(0)
@@ -23,10 +23,10 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 4-1	BO014	4	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 4-2	BO014	4	vivo	vivo	linguistic	none	_	_	_	_	_	_
 4-3	BO014	4	a	a	linguistic	none	_	_	_	_	_	_
-4-4	BO014	4	@nomepaese	@nomepaese	anonymized	none	_	End=11.96	_	_	_	_
+4-4	BO014	4	@nomepaese	@nomepaese	linguistic	none	_	End=11.96	_	_	_	_
 5-0	TO999	5	vivi	vivi	linguistic	none	_	Begin=12.217	_	_	_	_
 5-1	TO999	5	a	a	linguistic	none	_	_	_	_	_	_
-5-2	TO999	5	@nomepaese,	@nomepaese,	anonymized	none	_	_	_	_	_	_
+5-2	TO999	5	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 5-3	TO999	5	okay	okay	linguistic	none	_	_	_	_	_	_
 5-4	TO999	5	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 5-5	TO999	5	e:::	e	linguistic	none	_	_	0x3	_	_	_
@@ -130,7 +130,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 16-2	BO014	16	perché	perché	linguistic	none	_	_	_	_	_	_
 16-3	BO014	16	diciamo	diciamo	linguistic	none	_	_	_	_	_	_
 16-4	BO014	16	che	che	linguistic	none	_	_	_	_	_	_
-16-5	BO014	16	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+16-5	BO014	16	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 16-6	BO014	16	bologna	bologna	linguistic	none	_	_	_	_	_	_
 16-7	BO014	16	sono	sono	linguistic	none	_	_	_	_	_	_
 16-8	BO014	16	mezz'	mezz'	linguistic	none	SpaceAfter=No	_	_	_	_	_
@@ -186,7 +186,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 20-2	BO014	20	più	più	linguistic	none	_	_	_	_	_	_
 20-3	BO014	20	o	o	linguistic	none	_	_	_	_	_	_
 20-4	BO014	20	meno,	meno	linguistic	none	Intonation=weakly_rising	End=70.021	_	_	_	_
-21-0	BO014	21	@nomepaese	@nomepaese	anonymized	none	_	Begin=70.126	_	_	_	_
+21-0	BO014	21	@nomepaese	@nomepaese	linguistic	none	_	Begin=70.126	_	_	_	_
 21-1	BO014	21	è	è	linguistic	none	_	_	_	_	_	_
 21-2	BO014	21	una	una	linguistic	none	_	_	_	_	_	_
 21-3	BO014	21	città	città	linguistic	none	_	_	_	_	_	_
@@ -241,7 +241,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 25-8	TO999	25	si	si	linguistic	none	_	_	_	_	_	_
 25-9	TO999	25	esce	esce	linguistic	none	_	_	_	_	_	_
 25-10	TO999	25	a	a	linguistic	none	_	_	_	_	_	_
-25-11	TO999	25	@nomepaese?	@nomepaese?	anonymized	none	_	End=90.125	_	_	_	_
+25-11	TO999	25	@nomepaese?	@nomepaese	linguistic	none	Intonation=rising	End=90.125	_	_	_	_
 26-0	BO014	26	((ride))	((ride))	nonverbalbehavior	none	_	Begin=90.209|End=90.499	_	_	_	_
 27-0	BO014	27	>allora<	allora	linguistic	none	_	Begin=90.571|End=91.401	_	Fast=0-6(0)	_	_
 28-0	BO014	28	e::hm	ehm	linguistic	none	_	Begin=91.636|End=92.476	0x2	_	_	_
@@ -507,7 +507,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 48-14	TO999	48	hai	hai	linguistic	none	_	_	_	_	_	_
 48-15	TO999	48	parlato	parlato	linguistic	none	_	_	_	_	_	_
 48-16	TO999	48	a	a	linguistic	none	_	_	_	_	_	_
-48-17	TO999	48	@nomepaese,	@nomepaese,	anonymized	none	_	_	_	_	_	_
+48-17	TO999	48	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 48-18	TO999	48	[non	non	linguistic	none	_	_	_	_	_	0-3(6)
 48-19	TO999	48	pe]riodi	periodi	linguistic	none	_	_	_	_	_	0-2(6)
 48-20	TO999	48	all'	all'	linguistic	none	SpaceAfter=No	_	_	_	_	_

@@ -171,7 +171,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 48-1	BO051	48	madre	madre	linguistic	none	_	_	_	_	_	0-5(5)
 48-2	BO051	48	è]	è	linguistic	none	_	_	_	_	_	0-1(5)
 48-3	BO051	48	a	a	linguistic	none	_	_	_	_	_	_
-48-4	BO051	48	@nomepaese	@nomepaese	anonymized	none	_	End=79.33	_	_	_	_
+48-4	BO051	48	@nomepaese	@nomepaese	linguistic	none	_	End=79.33	_	_	_	_
 49-0	BO049	49	okay	okay	linguistic	none	_	Begin=79.34	_	_	_	_
 49-1	BO049	49	e	e	linguistic	none	_	_	_	_	_	_
 49-2	BO049	49	il	il	linguistic	none	_	_	_	_	_	_
@@ -1666,7 +1666,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 248-4	BO051	248	campagna,	campagna	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 248-5	BO051	248	e::h	eh	linguistic	none	_	_	0x2	_	_	_
 248-6	BO051	248	fuori	fuori	linguistic	none	_	_	_	_	_	_
-248-7	BO051	248	@nomepaese,	@nomepaese,	anonymized	none	_	_	_	_	_	_
+248-7	BO051	248	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 248-8	BO051	248	quindi	quindi	linguistic	none	_	_	_	_	_	_
 248-9	BO051	248	nella	nella	linguistic	none	_	_	_	_	_	_
 248-10	BO051	248	campagna::	campagna	linguistic	none	_	_	7x2	_	_	_

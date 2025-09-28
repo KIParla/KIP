@@ -2566,7 +2566,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 679-5	BO149	679	cos'	cos'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 679-6	BO149	679	è	è	linguistic	none	_	End=745.975	_	_	_	_
 680-0	BO150	680	((ride))	((ride))	nonverbalbehavior	none	_	Begin=745.933|End=746.847	_	_	_	_
-681-0	BO151	681	mado'::	mado'::	error	none	_	Begin=746.413|End=747.304	_	_	_	_
+681-0	BO151	681	mado::'	mado'	linguistic	none	Truncated=Yes	Begin=746.413|End=747.304	_	_	_	_
 682-0	BO149	682	((ride))	((ride))	nonverbalbehavior	none	_	Begin=746.608|End=747.876	_	_	_	_
 683-0	BO150	683	>cioè<	cioè	linguistic	none	_	Begin=747.31	_	Fast=0-4(0)	_	_
 683-1	BO150	683	io	io	linguistic	none	_	_	_	_	_	_

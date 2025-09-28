@@ -47,7 +47,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 11-3	BO052	11	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 11-4	BO052	11	abito	abito	linguistic	none	_	_	_	_	_	_
 11-5	BO052	11	a	a	linguistic	none	_	_	_	_	_	_
-11-6	BO052	11	@nomepaese,	@nomepaese,	anonymized	none	_	End=21.09	_	_	_	_
+11-6	BO052	11	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	End=21.09	_	_	_	_
 12-0	BO049	12	okay	okay	linguistic	none	_	Begin=21.09|End=21.837	_	_	_	_
 13-0	BO052	13	in	in	linguistic	none	_	Begin=22.125	_	_	_	_
 13-1	BO052	13	una:::	una	linguistic	none	_	_	2x3	_	_	_
@@ -909,7 +909,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 138-0	BO052	138	e::hm	ehm	linguistic	none	_	Begin=319.97	0x2	_	_	_
 138-1	BO052	138	diciamo	diciamo	linguistic	none	_	_	_	_	_	_
 138-2	BO052	138	che	che	linguistic	none	_	_	_	_	_	_
-138-3	BO052	138	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+138-3	BO052	138	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 138-4	BO052	138	è	è	linguistic	none	_	_	_	_	_	_
 138-5	BO052	138	una	una	linguistic	none	_	_	_	_	_	_
 138-6	BO052	138	città	città	linguistic	none	_	_	_	_	_	_
@@ -961,7 +961,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 142-3	BO049	142	ti	ti	linguistic	none	_	_	_	_	_	_
 142-4	BO049	142	muovi	muovi	linguistic	none	_	_	_	_	_	_
 142-5	BO049	142	per	per	linguistic	none	_	_	_	_	_	_
-142-6	BO049	142	@nomepaese?	@nomepaese?	anonymized	none	_	End=343.801	_	_	_	_
+142-6	BO049	142	@nomepaese?	@nomepaese	linguistic	none	Intonation=rising	End=343.801	_	_	_	_
 143-0	BO052	143	[e::h]	eh	linguistic	none	_	Begin=341.422|End=342.117	0x2	_	_	0-2(22)
 144-0	BO049	144	che	che	linguistic	none	_	Begin=344.593	_	_	_	_
 144-1	BO049	144	mezzi	mezzi	linguistic	none	_	_	_	_	_	_
@@ -1034,7 +1034,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 155-15	BO052	155	della	della	linguistic	none	_	_	_	_	_	_
 155-16	BO052	155	città	città	linguistic	none	_	_	_	_	_	_
 155-17	BO052	155	perché	perché	linguistic	none	_	_	_	_	_	_
-155-18	BO052	155	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+155-18	BO052	155	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 155-19	BO052	155	è	è	linguistic	none	_	_	_	_	_	_
 155-20	BO052	155	dalla	dalla	linguistic	none	_	_	_	_	_	_
 155-21	BO052	155	parte	parte	linguistic	none	_	_	_	_	_	_
@@ -1690,7 +1690,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 237-15	BO052	237	cosa	cosa	linguistic	none	_	_	_	_	_	_
 237-16	BO052	237	rispetto	rispetto	linguistic	none	_	_	_	_	_	_
 237-17	BO052	237	a	a	linguistic	none	_	_	_	_	_	_
-237-18	BO052	237	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+237-18	BO052	237	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 237-19	BO052	237	che	che	linguistic	none	_	_	_	_	_	_
 237-20	BO052	237	è	è	linguistic	none	_	_	_	_	_	_
 237-21	BO052	237	che	che	linguistic	none	_	_	_	_	_	_
@@ -2049,7 +2049,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 274-13	BO052	274	sempre	sempre	linguistic	none	_	_	_	_	_	_
 274-14	BO052	274	qui	qui	linguistic	none	_	_	_	_	_	_
 274-15	BO052	274	a	a	linguistic	none	_	_	_	_	_	_
-274-16	BO052	274	@nomepaese,	@nomepaese,	anonymized	none	_	_	_	_	_	_
+274-16	BO052	274	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 274-17	BO052	274	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 274-18	BO052	274	[]	x	unknown	none	_	_	_	_	_	_
 274-19	BO052	274	però	però	linguistic	none	_	_	_	_	_	_
@@ -2351,8 +2351,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 313-11	BO049	313	oppure	oppure	linguistic	none	_	_	_	_	_	_
 313-12	BO049	313	una	una	linguistic	none	_	_	_	_	_	_
 313-13	BO049	313	baracca::	baracca	linguistic	none	_	_	6x2	_	_	_
-313-14	BO049	313	[(gigante	gigante	linguistic	none	ProsodicLink=Yes	_	_	_	0-7(0)	0-7(83)
-313-15	BO049	313	)]?	?	error	none	_	_	_	_	_	_
+313-14	BO049	313	[(gigante?)]	gigante	linguistic	none	Intonation=rising	_	_	_	0-7(0)	0-7(83)
 313-16	BO049	313	((ride))	((ride))	nonverbalbehavior	none	_	End=789.371	_	_	_	_
 314-0	BO052	314	[°però°]	però	linguistic	none	Volume=low	Begin=781.251|End=781.614	_	_	_	0-4(81)
 315-0	BO052	315	e::h	eh	linguistic	none	_	Begin=783.418	0x2	_	_	_
@@ -2435,7 +2434,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 327-2	BO049	327	piacerebbe	piacerebbe	linguistic	none	_	_	_	_	_	_
 327-3	BO049	327	rimanere	rimanere	linguistic	none	_	_	_	_	_	_
 327-4	BO049	327	a	a	linguistic	none	_	_	_	_	_	_
-327-5	BO049	327	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+327-5	BO049	327	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 327-6	BO049	327	nonostante::	nonostante	linguistic	none	_	_	9x2	_	_	_
 327-7	BO049	327	sia	sia	linguistic	none	_	_	_	_	_	_
 327-8	BO049	327	una	una	linguistic	none	_	_	_	_	_	_
@@ -2444,7 +2443,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 328-0	BO052	328	ma	ma	linguistic	none	_	Begin=813.447	_	_	_	_
 328-1	BO052	328	sì	sì	linguistic	none	_	_	_	_	_	_
 328-2	BO052	328	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-328-3	BO052	328	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+328-3	BO052	328	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 328-4	BO052	328	si	si	linguistic	none	_	_	_	_	_	_
 328-5	BO052	328	>vive<	vive	linguistic	none	_	_	_	Fast=0-4(0)	_	_
 328-6	BO052	328	bene	bene	linguistic	none	_	_	_	_	_	_
@@ -2516,7 +2515,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 335-10	BO052	335	sì	sì	linguistic	none	_	_	_	_	_	_
 335-11	BO052	335	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 335-12	BO052	335	a	a	linguistic	none	_	_	_	_	_	_
-335-13	BO052	335	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+335-13	BO052	335	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 335-14	BO052	335	insomma	insomma	linguistic	none	_	_	_	_	_	_
 335-15	BO052	335	sto	sto	linguistic	none	_	_	_	_	_	_
 335-16	BO052	335	abbastanza	abbastanza	linguistic	none	_	_	_	_	_	_
@@ -2625,7 +2624,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 345-23	BO052	345	invece::	invece	linguistic	none	_	End=869.378	5x2	_	_	_
 346-0	BO052	346	sempre	sempre	linguistic	none	_	Begin=870.516	_	_	_	_
 346-1	BO052	346	a	a	linguistic	none	_	_	_	_	_	_
-346-2	BO052	346	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+346-2	BO052	346	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 346-3	BO052	346	però::	però	linguistic	none	_	_	3x2	_	_	_
 346-4	BO052	346	un	un	linguistic	none	_	_	_	_	_	_
 346-5	BO052	346	po'	po'	linguistic	none	_	_	_	_	_	_
@@ -2672,7 +2671,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 348-11	BO052	348	andare	andare	linguistic	none	_	End=880.985	_	_	_	_
 349-0	BO052	349	però	però	linguistic	none	_	Begin=881.201	_	_	_	_
 349-1	BO052	349	cioè	cioè	linguistic	none	_	_	_	_	_	_
-349-2	BO052	349	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+349-2	BO052	349	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 349-3	BO052	349	alla	alla	linguistic	none	_	_	_	_	_	_
 349-4	BO052	349	fine	fine	linguistic	none	_	_	_	_	_	_
 349-5	BO052	349	t'(	t'	linguistic	none	SpaceAfter=No	_	_	_	_	_
@@ -2951,7 +2950,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 380-9	BO049	380	anche	anche	linguistic	none	_	_	_	_	_	_
 380-10	BO049	380	[loro	loro	linguistic	none	_	_	_	_	_	0-4(96)
 380-11	BO049	380	a	a	linguistic	none	_	_	_	_	_	0-1(96)
-380-12	BO049	380	@nomepaese]?,	@nomepaese?,	anonymized	none	_	End=958.867	_	_	_	0-10(96)
+380-12	BO049	380	@nomepaese]?	@nomepaese	linguistic	none	Intonation=rising	End=958.867	_	_	_	0-10(96)
 381-0	BO052	381	[sì	sì	linguistic	none	_	Begin=957.705	_	_	_	0-2(96)
 381-1	BO052	381	si	si	linguistic	none	_	_	_	_	_	0-2(96)
 381-2	BO052	381	no:]	no	linguistic	none	_	_	1x1	_	_	0-2(96)
@@ -2959,10 +2958,10 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 381-4	BO052	381	anche	anche	linguistic	none	_	_	_	_	_	_
 381-5	BO052	381	loro	loro	linguistic	none	_	_	_	_	_	_
 381-6	BO052	381	a	a	linguistic	none	_	_	_	_	_	_
-381-7	BO052	381	[@nomepaese],	@nomepaese,	anonymized	none	_	End=959.905	_	_	_	0-10(97)
+381-7	BO052	381	[@nomepaese],	@nomepaese	linguistic	none	Intonation=weakly_rising	End=959.905	_	_	_	0-10(97)
 382-0	BO049	382	[tutti]	tutti	linguistic	none	_	Begin=959.467	_	_	_	0-5(97)
 382-1	BO049	382	a	a	linguistic	none	_	_	_	_	_	_
-382-2	BO049	382	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+382-2	BO049	382	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 382-3	BO049	382	[bene]	bene	linguistic	none	_	End=960.477	_	_	_	0-4(98)
 383-0	BO052	383	[sì]	sì	linguistic	none	_	Begin=960.087	_	_	_	0-2(98)
 383-1	BO052	383	pratic~	pratic~	linguistic	none	Interrupted=Yes	End=960.967	_	_	_	_
@@ -2978,10 +2977,10 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 384-9	BO052	384	[il	il	linguistic	none	_	_	_	_	_	0-2(100)
 384-10	BO052	384	quartiere]	quartiere	linguistic	none	_	_	_	_	_	0-9(100)
 384-11	BO052	384	di	di	linguistic	none	_	_	_	_	_	_
-384-12	BO052	384	@nomeluogo	@nomeluogo	anonymized	none	_	End=964.677	_	_	_	_
+384-12	BO052	384	@nomeluogo	@nomeluogo	linguistic	none	_	End=964.677	_	_	_	_
 385-0	BO049	385	[tutti	tutti	linguistic	none	_	Begin=961.623	_	_	_	0-5(99)
 385-1	BO049	385	a	a	linguistic	none	_	_	_	_	_	0-1(99)
-385-2	BO049	385	@nomeluogo]	@nomeluogo	anonymized	none	_	End=962.46	_	_	_	0-10(99)
+385-2	BO049	385	@nomeluogo]	@nomeluogo	linguistic	none	_	End=962.46	_	_	_	0-10(99)
 386-0	BO049	386	[ah	ah	linguistic	none	_	Begin=963.22	_	_	_	0-2(100)
 386-1	BO049	386	okay]	okay	linguistic	none	_	End=963.617	_	_	_	0-4(100)
 387-0	BO052	387	e::h	eh	linguistic	none	_	Begin=964.967	0x2	_	_	_
@@ -4421,9 +4420,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 534-2	BO052	534	corro	corro	linguistic	none	_	_	_	_	_	_
 534-3	BO052	534	sempre	sempre	linguistic	none	_	_	_	_	_	_
 534-4	BO052	534	per	per	linguistic	none	_	_	_	_	_	_
-534-5	BO052	534	@nomeluogo	@nomeluogo	anonymized	none	_	End=1442.771	_	_	_	_
+534-5	BO052	534	@nomeluogo	@nomeluogo	linguistic	none	_	End=1442.771	_	_	_	_
 535-0	BO049	535	sempre	sempre	linguistic	none	_	Begin=1442.917	_	_	_	_
-535-1	BO049	535	@nomeluogo	@nomeluogo	anonymized	none	_	End=1443.754	_	_	_	_
+535-1	BO049	535	@nomeluogo	@nomeluogo	linguistic	none	_	End=1443.754	_	_	_	_
 536-0	BO052	536	[no]	no	linguistic	none	_	Begin=1443.613	_	_	_	0-2(148)
 536-1	BO052	536	però	però	linguistic	none	_	_	_	_	_	_
 536-2	BO052	536	diciamo	diciamo	linguistic	none	_	_	_	_	_	_
@@ -4440,7 +4439,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 536-13	BO052	536	fuori	fuori	linguistic	none	_	_	_	_	_	_
 536-14	BO052	536	proprio	proprio	linguistic	none	_	_	_	_	_	_
 536-15	BO052	536	dalla	dalla	linguistic	none	_	_	_	_	_	_
-536-16	BO052	536	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+536-16	BO052	536	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 536-17	BO052	536	residenziale	residenziale	linguistic	none	_	End=1451.122	_	_	_	_
 537-0	BO049	537	okay	okay	linguistic	none	_	Begin=1451.429|End=1451.991	_	_	_	_
 538-0	BO052	538	quasi	quasi	linguistic	none	_	Begin=1452.079	_	_	_	_
@@ -4929,7 +4928,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 592-11	BO052	592	altri	altri	linguistic	none	_	_	_	_	_	_
 592-12	BO052	592	paesini	paesini	linguistic	none	_	_	_	_	_	_
 592-13	BO052	592	tipo	tipo	linguistic	none	_	_	_	_	_	_
-592-14	BO052	592	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+592-14	BO052	592	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 592-15	BO052	592	cioè	cioè	linguistic	none	_	_	_	_	_	_
 592-16	BO052	592	pian	pian	linguistic	none	_	_	_	_	_	_
 592-17	BO052	592	piano::	piano	linguistic	none	_	End=1617.555	4x2	_	_	_
@@ -4964,7 +4963,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 598-0	BO052	598	[no]	no	linguistic	none	_	Begin=1626.044	_	_	_	0-2(162)
 598-1	BO052	598	e::hm	ehm	linguistic	none	_	_	0x2	_	_	_
 598-2	BO052	598	a	a	linguistic	none	_	_	_	_	_	_
-598-3	BO052	598	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+598-3	BO052	598	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 598-4	BO052	598	ce	ce	linguistic	none	_	_	_	_	_	_
 598-5	BO052	598	n'	n'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 598-6	BO052	598	è	è	linguistic	none	_	_	_	_	_	_
@@ -5050,7 +5049,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 610-4	BO052	610	di	di	linguistic	none	_	_	_	Fast=0-2(0)	_	_
 610-5	BO052	610	vista	vista	linguistic	none	_	_	_	Fast=0-5(0)	_	_
 610-6	BO052	610	lì<	lì	linguistic	none	_	_	_	Fast=0-2(0)	_	_
-610-7	BO052	610	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+610-7	BO052	610	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 610-8	BO052	610	è:::	è	linguistic	none	_	_	0x3	_	_	_
 610-9	BO052	610	è	è	linguistic	none	_	_	_	_	_	_
 610-10	BO052	610	una	una	linguistic	none	_	_	_	_	_	_

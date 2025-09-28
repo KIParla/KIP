@@ -1,14 +1,14 @@
 token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO056	0	io	io	linguistic	none	_	Begin=0.4	_	_	_	_
 0-1	BO056	0	da	da	linguistic	none	_	_	_	_	_	_
-0-2	BO056	0	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+0-2	BO056	0	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 0-3	BO056	0	un	un	linguistic	none	_	_	_	_	_	_
 0-4	BO056	0	anno	anno	linguistic	none	_	_	_	_	_	_
 0-5	BO056	0	s:ono	sono	linguistic	none	_	_	0x1	_	_	_
 0-6	BO056	0	venuto	venuto	linguistic	none	_	End=2.546	_	_	_	_
 1-0	BO056	1	anche	anche	linguistic	none	_	Begin=2.582	_	_	_	_
 1-1	BO056	1	se	se	linguistic	none	_	_	_	_	_	_
-1-2	BO056	1	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+1-2	BO056	1	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 1-3	BO056	1	è	è	linguistic	none	_	_	_	_	_	_
 1-4	BO056	1	un	un	linguistic	none	_	_	_	_	_	_
 1-5	BO056	1	quartiere	quartiere	linguistic	none	_	_	_	_	_	_
@@ -630,7 +630,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 57-3	BO054	57	xxxxx	x	unknown	none	_	End=149.886	_	_	_	_
 58-0	BO056	58	son'	son'	linguistic	none	Truncated=Yes	Begin=149.886	_	_	_	_
 58-1	BO056	58	di	di	linguistic	none	_	_	_	_	_	_
-58-2	BO056	58	@nomeluogo	@nomeluogo	anonymized	none	_	_	_	_	_	_
+58-2	BO056	58	@nomeluogo	@nomeluogo	linguistic	none	_	_	_	_	_	_
 58-3	BO056	58	come	come	linguistic	none	_	_	_	_	_	_
 58-4	BO056	58	tutta	tutta	linguistic	none	_	_	_	_	_	_
 58-5	BO056	58	la	la	linguistic	none	_	_	_	_	_	_

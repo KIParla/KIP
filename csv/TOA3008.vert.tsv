@@ -1260,8 +1260,6 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 215-6	TO052	215	[sta],	sta	linguistic	none	Intonation=weakly_rising	End=1298.275	_	_	_	0-3(20)
 216-0	TO048	216	[x]x	x	unknown	none	_	Begin=1298.06	_	_	_	0-1(20)
 216-1	TO048	216	x[x]	x	unknown	none	_	_	_	_	_	1-2(21)
-216-2	TO048	216	((ride))	((ride))	nonverbalbehavior	none	_	_	_	_	_	_
-216-3	TO048	216	.	.	error	none	_	End=1300.632	_	_	_	_
 217-0	TO052	217	[non	non	linguistic	none	_	Begin=1299.966	_	_	_	0-3(21)
 217-1	TO052	217	capisci]	capisci	linguistic	none	_	_	_	_	_	0-7(21)
 217-2	TO052	217	se	se	linguistic	none	_	_	_	_	_	_
@@ -2940,7 +2938,6 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 488-14	TO052	488	chiaro	chiaro	linguistic	none	_	_	_	_	_	_
 488-15	TO052	488	che	che	linguistic	none	_	_	_	_	_	_
 488-16	TO052	488	tanto	tanto	linguistic	none	_	_	_	_	_	_
-488-17	TO052	488	'	'	error	none	_	_	_	_	_	_
 488-18	TO052	488	è	è	linguistic	none	_	_	_	_	_	_
 488-19	TO052	488	stato	stato	linguistic	none	_	_	_	_	_	_
 488-20	TO052	488	un	un	linguistic	none	_	_	_	_	_	_
@@ -3440,7 +3437,6 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 543-19	TO052	543	xxx	x	unknown	none	_	_	_	_	_	_
 543-20	TO052	543	che	che	linguistic	none	_	_	_	_	_	_
 543-21	TO052	543	è	è	linguistic	none	_	_	_	_	_	_
-543-22	TO052	543	(~)	~	error	none	_	_	_	_	0-1(0)	_
 543-23	TO052	543	che	che	linguistic	none	_	_	_	_	_	_
 543-24	TO052	543	è	è	linguistic	none	_	_	_	_	_	_
 543-25	TO052	543	un	un	linguistic	none	_	_	_	_	_	_
@@ -12341,7 +12337,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1996-6	TO052	1996	bello.°	bello	linguistic	none	Intonation=falling|Volume=low	End=5453.953	_	_	_	_
 1997-0	TO052	1997	chiama	chiama	linguistic	none	_	Begin=5455.645	_	_	_	_
 1997-1	TO052	1997	<papà:>,	papà	linguistic	none	Intonation=weakly_rising	End=5456.893	3x1	Slow=0-4(0)	_	_
-1998-0	TO052	1998	<papà>.,	papà.,	error	none	_	Begin=5457.126|End=5457.788	_	Slow=0-4(0)	_	_
+1998-0	TO052	1998	<papà,>	papà	linguistic	none	Intonation=weakly_rising	Begin=5457.126|End=5457.788	_	Slow=0-4(0)	_	_
 1999-0	TO052	1999	ridendo,	ridendo	linguistic	none	Intonation=weakly_rising	Begin=5459.472	_	_	_	_
 1999-1	TO052	1999	((ride))	((ride))	nonverbalbehavior	none	_	End=5461.834	_	_	_	_
 2000-0	TO052	2000	(mi)	mi	linguistic	none	_	Begin=5462.275	_	_	0-2(0)	_

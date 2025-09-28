@@ -48,7 +48,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 3-12	BO086	3	svizzera	svizzera	linguistic	none	_	_	_	_	_	_
 3-13	BO086	3	italiana,	italiana	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 3-14	BO086	3	da	da	linguistic	none	_	_	_	_	_	_
-3-15	BO086	3	@nomepaese,	@nomepaese,	anonymized	none	_	End=21.378	_	_	_	_
+3-15	BO086	3	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	End=21.378	_	_	_	_
 4-0	BO086	4	che	che	linguistic	none	_	Begin=21.976	_	_	_	_
 4-1	BO086	4	è	è	linguistic	none	_	_	_	_	_	_
 4-2	BO086	4	un	un	linguistic	none	_	_	_	_	_	_
@@ -2007,7 +2007,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 171-4	BO086	171	meglio	meglio	linguistic	none	_	_	_	_	_	_
 171-5	BO086	171	[qui	qui	linguistic	none	_	_	_	_	_	0-3(23)
 171-6	BO086	171	eh].	eh	linguistic	none	Intonation=falling	End=713.208	_	_	_	0-2(23)
-172-0	BO115	172	[@nomepaese]	@nomepaese	anonymized	none	_	Begin=712.715|End=713.211	_	_	_	0-10(23)
+172-0	BO115	172	[@nomepaese]	@nomepaese	linguistic	none	_	Begin=712.715|End=713.211	_	_	_	0-10(23)
 173-0	BO086	173	sì	sì	linguistic	none	_	Begin=713.23	_	_	_	_
 173-1	BO086	173	sì.	sì	linguistic	none	Intonation=falling	End=713.805	_	_	_	_
 174-0	BO086	174	comunque:	comunque	linguistic	none	_	Begin=714.81	7x1	_	_	_
@@ -2018,12 +2018,12 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 174-5	BO086	174	son	son	linguistic	none	_	_	_	_	_	_
 174-6	BO086	174	proprio	proprio	linguistic	none	_	_	_	_	_	_
 174-7	BO086	174	di	di	linguistic	none	_	_	_	_	_	_
-174-8	BO086	174	@nomepaese,	@nomepaese,	anonymized	none	_	_	_	_	_	_
+174-8	BO086	174	@nomepaese,	@nomepaese	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
 174-9	BO086	174	però	però	linguistic	none	_	_	_	_	_	_
 174-10	BO086	174	sto	sto	linguistic	none	_	_	_	_	_	_
 174-11	BO086	174	vicino	vicino	linguistic	none	_	_	_	_	_	_
 174-12	BO086	174	a	a	linguistic	none	_	_	_	_	_	_
-174-13	BO086	174	@nomepaese.	@nomepaese.	anonymized	none	_	End=717.58	_	_	_	_
+174-13	BO086	174	@nomepaese.	@nomepaese	linguistic	none	Intonation=falling	End=717.58	_	_	_	_
 175-0	BO086	175	io	io	linguistic	none	_	Begin=719.016	_	_	_	_
 175-1	BO086	175	non	non	linguistic	none	_	_	_	_	_	_
 175-2	BO086	175	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
@@ -2037,7 +2037,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 176-1	BO086	176	senso	senso	linguistic	none	_	_	_	_	_	_
 176-2	BO086	176	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 176-3	BO086	176	a	a	linguistic	none	_	_	_	_	_	_
-176-4	BO086	176	@nomepaese	@nomepaese	anonymized	none	_	_	_	_	_	_
+176-4	BO086	176	@nomepaese	@nomepaese	linguistic	none	_	_	_	_	_	_
 176-5	BO086	176	o	o	linguistic	none	_	_	_	_	_	_
 176-6	BO086	176	in	in	linguistic	none	_	_	_	_	_	_
 176-7	BO086	176	ticino	ticino	linguistic	none	_	_	_	_	_	_
@@ -3120,7 +3120,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 281-1	BO115	281	quindi]	quindi	linguistic	none	_	_	_	_	_	0-6(51)
 281-2	BO115	281	vivi:tipo	vivitipo	linguistic	none	_	_	3x1	_	_	_
 281-3	BO115	281	in	in	linguistic	none	_	_	_	_	_	_
-281-4	BO115	281	@nomeluogo.	@nomeluogo.	anonymized	none	_	_	_	_	_	_
+281-4	BO115	281	@nomeluogo.	@nomeluogo.	linguistic	none	_	_	_	_	_	_
 281-5	BO115	281	l[ì:].	lì	linguistic	none	Intonation=falling	End=1083.018	1x1	_	_	1-2(54)
 282-0	BO086	282	[sì]	sì	linguistic	none	_	Begin=1082.75	_	_	_	0-2(54)
 282-1	BO086	282	sì,	sì	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
@@ -3178,7 +3178,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 288-13	BO086	288	dal	dal	linguistic	none	_	_	_	_	_	_
 288-14	BO086	288	toscano	toscano	linguistic	none	_	_	_	_	_	_
 288-15	BO086	288	in	in	linguistic	none	_	_	_	_	_	_
-288-16	BO086	288	@nomeluogo.	@nomeluogo.	anonymized	none	_	End=1102.69	_	_	_	_
+288-16	BO086	288	@nomeluogo.	@nomeluogo.	linguistic	none	_	End=1102.69	_	_	_	_
 289-0	BO086	289	gli	gli	linguistic	none	_	Begin=1102.761	_	_	_	_
 289-1	BO086	289	faccio	faccio	linguistic	none	_	_	_	_	_	_
 289-2	BO086	289	oddio,	oddio	linguistic	none	Intonation=weakly_rising	_	_	_	_	_

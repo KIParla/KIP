@@ -799,7 +799,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 167-8	TO085	167	torino,	torino	linguistic	none	Intonation=weakly_rising	End=269.988	_	_	_	_
 168-0	TO090	168	sì.	sì	linguistic	none	Intonation=falling	Begin=269.989|End=270.32	_	_	_	_
 169-0	TO085	169	dove?	dove	linguistic	none	Intonation=rising	Begin=271.275|End=271.705	_	_	_	_
-170-0	TO090	170	@nomeluogo	@nomeluogo	anonymized	none	_	Begin=272.32|End=273.057	_	_	_	_
+170-0	TO090	170	@nomeluogo	@nomeluogo	linguistic	none	_	Begin=272.32|End=273.057	_	_	_	_
 171-0	TO090	171	e::h	eh	linguistic	none	_	Begin=274.094	0x2	_	_	_
 171-1	TO090	171	dati	dati	linguistic	none	_	_	_	_	_	_
 171-2	TO090	171	sensibili	sensibili	linguistic	none	_	End=275.26	_	_	_	_

@@ -3227,7 +3227,6 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 297-4	BO102	297	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 297-5	BO102	297	autonoma	autonoma	linguistic	none	_	_	_	_	_	_
 297-6	BO102	297	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-297-7	BO102	297	,	,	error	none	_	_	_	_	_	_
 297-8	BO102	297	noi,	noi	linguistic	none	Intonation=weakly_rising	End=1667.528	_	_	_	_
 298-0	BO102	298	siamo	siamo	linguistic	none	_	Begin=1669.516	_	_	_	_
 298-1	BO102	298	in	in	linguistic	none	_	_	_	_	_	_
@@ -6466,7 +6465,6 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 653-0	BO102	653	ah,	ah	linguistic	none	Intonation=weakly_rising	Begin=3429.56	_	_	_	_
 653-1	BO102	653	gli	gli	linguistic	none	_	_	_	_	_	_
 653-2	BO102	653	italiani	italiani	linguistic	none	_	_	_	_	_	_
-653-3	BO102	653	(,)	,	error	none	_	_	_	_	_	_
 653-4	BO102	653	che	che	linguistic	none	_	_	_	_	_	_
 653-5	BO102	653	belli	belli	linguistic	none	_	_	_	_	_	_
 653-6	BO102	653	che	che	linguistic	none	_	_	_	_	_	_

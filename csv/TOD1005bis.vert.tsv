@@ -6402,8 +6402,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1047-2	TO017	1047	qua	qua	linguistic	none	_	_	_	_	_	_
 1047-3	TO017	1047	il	il	linguistic	none	_	_	_	_	_	_
 1047-4	TO017	1047	safaitico	safaitico	linguistic	none	_	_	_	_	_	_
-1047-5	TO017	1047	((l'	((l'	nonverbalbehavior	none	_	_	_	_	_	_
-1047-6	TO017	1047	ismaico))	ismaico))	error	none	_	_	_	_	_	_
+1047-5	TO017	1047	((l_ismaico))	((l_ismaico))	nonverbalbehavior	none	_	_	_	_	_	_
 1047-7	TO017	1047	avevano	avevano	linguistic	none	_	_	_	_	_	_
 1047-8	TO017	1047	aq	aq	linguistic	none	_	End=2706.109	_	_	_	_
 1048-0	TO017	1048	avevano	avevano	linguistic	none	_	Begin=2706.251	_	_	_	_

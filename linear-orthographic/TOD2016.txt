@@ -136,8 +136,8 @@ TO080	di una tua collega
 TO071	si 
 TO071	qui che hai incontrato al negozio 
 TO080	ma vabbè 
-TO071	e sì è nomepaese 
-TO080	è nomepaese 
+TO071	e sì è @nomepaese 
+TO080	è @nomepaese 
 TO071	che adesso è in provincia di monza e della brianza 
 TO080	mhmh 
 TO080	prima era sotto milano 
@@ -167,7 +167,7 @@ TO071	non è un paesino non è neanche una  città
 TO080	okay 
 TO080	enorme almeno 
 TO071	e noi comunque stiamo un po'  più verso la periferia se si può definire periferia 
-TO080	quanti abitanti fa  
+TO080	quanti abitanti fa @nomepaese? 
 TO071	e ventitremila 
 TO080	okay comunque una cittadina 
 TO080	una cittadina sì 
@@ -208,8 +208,8 @@ TO080	ahah
 TO071	però io non me lo ricordo perché ci siamo trasferiti che io avevo due anni 
 TO080	ah okay 
 TO071	quindi io 
-TO080	sempre a nomepaese 
-TO071	sempre a nomepaese sì 
+TO080	sempre a @nomepaese 
+TO071	sempre a @nomepaese sì 
 TO071	okay 
 TO071	ehm 
 TO080	poi se non ricordo male l'altra volta parlavamo tu mi hai detto di avere eh origini pugliesi 
@@ -335,7 +335,7 @@ TO071	ehm vediamo un po'
 TO071	mettendo  a 
 TO071	ah  hai visssuto domanda preliminare  hai vissuto in altre citttà più o meno grandi 
 TO080	ne~ ne~ ne~ nella tua vita 
-TO071	no eh ho  sempre vissuto a nomepaese 
+TO071	no eh ho  sempre vissuto a @nomepaese 
 TO080	okay 
 TO080	prima di 
 TO071	torino 
@@ -374,7 +374,7 @@ TO080	anche di notte sento i clacson alle tre di notte
 TO080	poi qua esagerano coi clacson quindi 
 TO071	e però è bella 
 TO071	ti capisco benissimo perché io  arrivo da un paese che 
-TO080	come dire è un paese anche rispetto a nomepaese fa settecento abitanti il mio paese 
+TO080	come dire è un paese anche rispetto a @nomepaese fa settecento abitanti il mio paese 
 TO080	eh sì 
 TO071	molto più piccolo 
 TO080	anch'io casetta isolata eccetera eccetera sono venuto qui non ho dormito per due mesi 
@@ -735,7 +735,7 @@ TO071	può essere
 TO080	dici costituiamo una nicchia 
 TO071	esatto 
 TO071	oh 
-TO071	ehm invece i vicini mh quelli che avevi a casa tu a nomepaese 
+TO071	ehm invece i vicini mh quelli che avevi a casa tu a @nomepaese 
 TO080	gli originari 
 TO080	no quelli vabbè hanno proprio problemi un figlio grande che non è mai stato curato 
 TO080	e cioè proprio non 
@@ -771,7 +771,7 @@ TO071	che si è spaventata a morte sentendo il rumore
 TO071	chiaro 
 TO080	okay  animali invece ne hai mai avuti 
 TO071	sì ho un cagnolino un barboncino 
-TO080	lì a nomepaese 
+TO080	lì a @nomepaese 
 TO071	sì 
 TO080	quanti anni ha 
 TO071	mh quasi dieci 

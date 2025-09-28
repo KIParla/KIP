@@ -1795,10 +1795,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 217-4	TO081	217	pausa.	pausa	linguistic	none	Intonation=falling	End=576.375	_	_	_	_
 218-0	TO999	218	[come]	come	linguistic	none	_	Begin=576.106	_	_	_	0-4(11)
 218-1	TO999	218	stai?	stai	linguistic	none	Intonation=rising	_	_	_	_	_
-218-2	TO999	218	((verso	((verso	nonverbalbehavior	none	_	_	_	_	_	_
-218-3	TO999	218	un'	un'	linguistic	none	SpaceAfter=No	_	_	_	_	_
-218-4	TO999	218	altra	altra	linguistic	none	_	_	_	_	_	_
-218-5	TO999	218	persona))	persona))	error	none	_	End=576.582	_	_	_	_
+218-2	TO999	218	((verso_altra_persona))	((verso_altra_persona))	nonverbalbehavior	none	_	End=576.582	_	_	_	_
 219-0	TO081	219	no	no	linguistic	none	_	Begin=576.72	_	_	_	_
 219-1	TO081	219	non	non	linguistic	none	_	_	_	_	_	_
 219-2	TO081	219	ho	ho	linguistic	none	_	_	_	_	_	_

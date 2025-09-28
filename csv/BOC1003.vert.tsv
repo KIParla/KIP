@@ -616,7 +616,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 75-2	BO090	75	sì	sì	linguistic	none	_	_	_	_	_	_
 75-3	BO090	75	[sì	sì	linguistic	none	_	_	_	_	_	0-2(11)
 75-4	BO090	75	sì].	sì	linguistic	none	Intonation=falling	End=221.947	_	_	_	0-2(11)
-76-0	BO087	76	[epura:]tequeas,te	epura:tequeas,te	error	none	_	Begin=221.42	_	_	_	0-5(11)
+76-0	BO087	76	[epura:]te	epurate	linguistic	none	_	Begin=221.42	4x1	_	_	0-5(11)
+76-0	BO087	76	queste	queste	linguistic	none	_		_	_	_	_
 76-1	BO087	76	[condizioni].	condizioni	linguistic	none	Intonation=falling	End=223.35	_	_	_	0-10(12)
 77-0	BO090	77	[che	che	linguistic	none	_	Begin=222.5	_	_	_	0-3(12)
 77-1	BO090	77	già	già	linguistic	none	_	_	_	_	_	0-3(12)

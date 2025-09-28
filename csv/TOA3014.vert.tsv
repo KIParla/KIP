@@ -1,14 +1,5 @@
 token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
-0-0	TO085	0	((è	((è	nonverbalbehavior	none	_	Begin=0.14	_	_	_	_
-0-1	TO085	0	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	_
-0-2	TO085	0	unica	unica	linguistic	none	_	_	_	_	_	_
-0-3	TO085	0	lombarda,	lombarda	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
-0-4	TO085	0	le	le	linguistic	none	_	_	_	_	_	_
-0-5	TO085	0	altre	altre	linguistic	none	_	_	_	_	_	_
-0-6	TO085	0	due	due	linguistic	none	_	_	_	_	_	_
-0-7	TO085	0	sono	sono	linguistic	none	_	_	_	_	_	_
-0-8	TO085	0	di	di	linguistic	none	_	_	_	_	_	_
-0-9	TO085	0	perugia))	perugia))	error	none	_	End=1.37	_	_	_	_
+0-0	TO085	0	((è_unica_lombarda_le_altre_due_sono_di_perugia))	((è_unica_lombarda_le_altre_due_sono_di_perugia))	nonverbalbehavior	none	_	Begin=0.14|End=1.37	_	_	_	_
 1-0	TO095	1	((è_la_persona_più_vicina_al_microfono))	((è_la_persona_più_vicina_al_microfono))	nonverbalbehavior	none	_	Begin=0.174|End=1.364	_	_	_	_
 2-0	TO095	2	cioè	cioè	linguistic	none	_	Begin=2.47	_	_	_	_
 2-1	TO095	2	come	come	linguistic	none	_	_	_	_	_	_
