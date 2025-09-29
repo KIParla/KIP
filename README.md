@@ -2,6 +2,12 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
+- [KIP](#kip)
+  - [Repository organization](#repository-organization)
+  - [Metadata](#metadata)
+  - [Verticalized content](#verticalized-content)
+  - [How to cite](#how-to-cite)
+
 The KIP corpus is part of the larger [KIParla collection](www.kiparla.it),
 which can be freely queried through the [NoSketch Engine interface](https://kiparla.it/search/).
 
@@ -18,6 +24,8 @@ free conversations (among students).
 The transcriptions have been anonymized.
 
 Overall, the module is made up of 121 conversations and includes 184 speakers.
+
+## Repository organization
 
 This repository contains:
 
@@ -78,8 +86,40 @@ colum that summarizes the conversations in which the participant appears.
 
 ## Verticalized content
 
-blabla
+Each file in the [`tsv/`](./tsv/) folder contains 12 columns, as follows:
 
+1. `token_id`: unique token identifier within the conversation
+2. `speaker`:
+3. `tu_id`:
+4. `span`:
+5. `form`:
+6. `type`:
+7. `jefferson_feats`:
+8. `align`:
+9. `prolongations`:
+10. `pace`:
+11. `guesses`:
+12. `overlaps`:
+
+
+## How to cite
+
+To cite this module please include
+
+> Goria, E., & Mauri, C. (2018). Il corpus KIParla: una nuova risorsa per lo studio dell’italiano parlato. _CLUB Working Papers in Linguistics_, 2, 96–116
+
+in your references
+
+```bibtex
+  @article{Goria_Il_corpus_KIParla_2018,
+    author = {Goria, Eugenio and Mauri, Caterina},
+    journal = {CLUB Working Papers in Linguistics},
+    pages = {96--116},
+    title = {{Il corpus KIParla: una nuova risorsa per lo studio dell’italiano parlato}},
+    volume = {2},
+    year = {2018}
+  }
+```
 
 -----
 
