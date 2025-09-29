@@ -19,21 +19,26 @@ The transcriptions have been anonymized.
 
 Overall, the module is made up of 121 conversations and includes 184 speakers.
 
-The KIP folder is available for download and contains:
+This repository contains:
 
-For the entire module:
-
-* A .csv file and a .json file with a list of speaker codes and their associated metadata
-  (gender, age group, education level, profession, region of origin).
-* A .csv file and a .json file with a list of conversation codes and their associated metadata
-  (type of interaction, collection site, year).
-* Set of conventions used in the module, .yml
+* metadata for both speakers and conversations, in the [`metadata`](./metadata/) subfolder (see [metadata](#metadata) section below)
+* descriptions of the set of transcription conventions used for this module ([Transcription conventions](./transcription-conventions.md))
 
 For each conversation:
 
-* Orthographic transcription in .txt format
-* Transcription following Jefferson (2004) conventions in .txt format
-* Transcription following Jefferson (2004) conventions in .eaf format
+* `.eaf` file in [`eaf/`](./eaf/) folder: these files contain time-aligned Jefferson-style transcriptions
+  and can be opened with [ELAN]() software
+* `.txt` file in [`linear-jefferson/`](./linear-jefferson/) folder: linearized version of the
+  Jeffersonian-style transcription
+* `.txt` file in [`linear-orthographic/`](./linear-orthographic/) folder: linearized version of the
+  transcription, retaining only orthographic words
+* `.tsv` file in [`tsv/`](./tsv/) folder: this file containes a verticalized version of the transcription,
+  with Jefferson-style information decoupled from text as features. See [verticalized-content](#verticalized-content) for more information.
+  information
+
+Both files in the [`linear-jefferson/`](./linear-jefferson/) and [`linear-orthographic/`](./linear-orthographic/) transcription contain one Transcription Unit per line, each line is composed of
+two colums, the first containing the speaker code.
+Transcription Units are sorted by their starting time.
 
 Due to GDPR restrictions, the pseudo-anonymized audio files in mp3 format are available under a
 restricted-access license.
@@ -70,6 +75,12 @@ colum that summarizes the conversations in which the participant appears.
    - Additionally, the [`metadata/conversations.tsv`](metadata/conversations.tsv) also contains a `participants` field that recaps the codes of the participants to that conversation
 
 [^1]: `abruzzo`, `basilicata`, `calabria`, `campania`, `emilia-romagna`, `friuli-venezia-giulia`, `lazio`, `liguria`, `lombardia`, `marche`, `molise`, `piemonte`, `puglia`, `sardegna`, `sicilia`, `toscana`, `trentino-alto-adige`, `umbria`, `valle-d-aosta`, `veneto`
+
+## Verticalized content
+
+blabla
+
+
 -----
 
 This work is licensed under a
