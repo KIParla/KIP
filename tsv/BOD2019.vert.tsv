@@ -99,7 +99,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 22-0	BO122	22	come	come	linguistic	_	Begin=51.286	_	_	_	_
 22-1	BO122	22	se	se	linguistic	_	_	_	_	_	_
 22-2	BO122	22	po'	po'	linguistic	_	_	_	_	_	_
-22-3	BO122	22	di'?	di'	linguistic	Intonation=rising	End=52.024	_	_	_	_
+22-3	BO122	22	di'?	di'	linguistic	Intonation=Rising	End=52.024	_	_	_	_
 23-0	BO122	23	e::h	eh	linguistic	_	Begin=52.624	0x2	_	_	_
 23-1	BO122	23	protagonista	protagonista	linguistic	_	_	_	_	_	_
 23-2	BO122	23	de	de	linguistic	_	_	_	_	_	_
@@ -125,7 +125,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 24-9	BO122	24	non	non	linguistic	_	_	_	_	_	_
 24-10	BO122	24	devo	devo	linguistic	_	_	_	_	_	_
 24-11	BO122	24	stare	stare	linguistic	_	_	_	_	_	_
-24-12	BO122	24	[attento]?	attento	linguistic	Intonation=rising	End=61.496	_	_	_	0-7(1)
+24-12	BO122	24	[attento]?	attento	linguistic	Intonation=Rising	End=61.496	_	_	_	0-7(1)
 25-0	BO119	25	[allora]	allora	linguistic	_	Begin=61.007	_	_	_	0-6(1)
 25-1	BO119	25	in	in	linguistic	_	_	_	_	_	_
 25-2	BO119	25	realtà:::	realtà	linguistic	_	End=61.868	5x3	_	_	_
@@ -225,7 +225,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 48-0	BO122	48	ha::	ha	linguistic	_	Begin=101.059	1x2	_	_	_
 48-1	BO122	48	u::na	una	linguistic	_	_	0x2	_	_	_
 48-2	BO122	48	living	living	linguistic	_	_	_	_	_	_
-48-3	BO122	48	room?	room	linguistic	Intonation=rising	_	_	_	_	_
+48-3	BO122	48	room?	room	linguistic	Intonation=Rising	_	_	_	_	_
 48-4	BO122	48	in	in	linguistic	_	_	_	_	_	_
 48-5	BO122	48	cui	cui	linguistic	_	_	_	_	_	_
 48-6	BO122	48	c'	c'	linguistic	SpaceAfter=No	_	_	_	_	_
@@ -266,7 +266,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 54-1	BO119	54	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
 54-2	BO119	54	avete	avete	linguistic	_	_	_	_	_	_
 54-3	BO119	54	cambiato	cambiato	linguistic	_	_	_	_	_	_
-54-4	BO119	54	voi?	voi	linguistic	Intonation=rising	End=116.494	_	_	_	_
+54-4	BO119	54	voi?	voi	linguistic	Intonation=Rising	End=116.494	_	_	_	_
 55-0	BO122	55	appena	appena	linguistic	_	Begin=116.505	_	_	_	_
 55-1	BO122	55	arrivati	arrivati	linguistic	_	_	_	_	_	_
 55-2	BO122	55	abbiamo	abbiamo	linguistic	_	_	_	_	_	_
@@ -286,7 +286,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 56-6	BO119	56	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	0-2(12)
 56-7	BO119	56	hanno	hanno	linguistic	_	_	_	_	_	0-5(12)
 56-8	BO119	56	dato	dato	linguistic	_	_	_	_	_	0-4(12)
-56-9	BO119	56	loro]?	loro	linguistic	Intonation=rising	_	_	_	_	0-4(12)
+56-9	BO119	56	loro]?	loro	linguistic	Intonation=Rising	_	_	_	_	0-4(12)
 56-10	BO119	56	ah	ah	linguistic	_	_	_	_	_	_
 56-11	BO119	56	beh	beh	linguistic	_	_	_	_	_	_
 56-12	BO119	56	[cavolo]	cavolo	linguistic	_	End=122.102	_	_	_	0-6(13)
@@ -631,7 +631,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 109-21	BO122	109	a	a	linguistic	_	_	_	_	_	0-1(29)
 109-22	BO122	109	bologna]	bologna	linguistic	_	End=239.546	_	_	_	0-7(29)
 110-0	BO119	110	[infatti	infatti	linguistic	_	Begin=237.752	_	_	_	0-7(29)
-110-1	BO119	110	sì.	sì	linguistic	Intonation=falling	_	_	_	_	0-2(29)
+110-1	BO119	110	sì.	sì	linguistic	Intonation=Falling	_	_	_	_	0-2(29)
 110-2	BO119	110	io	io	linguistic	_	_	_	_	_	0-2(29)
 110-3	BO119	110	spero	spero	linguistic	_	_	_	_	_	0-5(29)
 110-4	BO119	110	in	in	linguistic	_	_	_	_	_	0-2(29)
@@ -644,11 +644,11 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 113-2	BO119	113	vabbè	vabbè	linguistic	_	_	_	_	_	_
 113-3	BO119	113	per	per	linguistic	_	_	_	_	_	_
 113-4	BO119	113	il	il	linguistic	_	_	_	_	_	_
-113-5	BO119	113	resto?	resto	linguistic	Intonation=rising	_	_	_	_	_
+113-5	BO119	113	resto?	resto	linguistic	Intonation=Rising	_	_	_	_	_
 113-6	BO119	113	con	con	linguistic	_	_	_	_	_	_
 113-7	BO119	113	gli	gli	linguistic	_	_	_	_	_	_
 113-8	BO119	113	altri	altri	linguistic	_	_	_	_	_	_
-113-9	BO119	113	coinquilini?	coinquilini	linguistic	Intonation=rising	End=244.579	_	_	_	_
+113-9	BO119	113	coinquilini?	coinquilini	linguistic	Intonation=Rising	End=244.579	_	_	_	_
 114-0	BO122	114	eh	eh	linguistic	_	Begin=245.098	_	_	_	_
 114-1	BO122	114	con	con	linguistic	_	_	_	_	_	_
 114-2	BO122	114	gli	gli	linguistic	_	_	_	_	_	_
@@ -669,7 +669,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 116-4	BO122	116	non	non	linguistic	_	_	_	_	_	_
 116-5	BO122	116	li	li	linguistic	_	_	_	_	_	_
 116-6	BO122	116	scegli	scegli	linguistic	_	_	_	_	_	_
-116-7	BO122	116	no?	no	linguistic	Intonation=rising	_	_	_	_	_
+116-7	BO122	116	no?	no	linguistic	Intonation=Rising	_	_	_	_	_
 116-8	BO122	116	la	la	linguistic	_	_	_	_	_	_
 116-9	BO122	116	grande	grande	linguistic	_	_	_	_	_	_
 116-10	BO122	116	legge	legge	linguistic	_	End=254.768	_	_	_	_
@@ -789,11 +789,11 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 131-5	BO119	131	son	son	linguistic	_	_	_	_	_	_
 131-6	BO119	131	tutti	tutti	linguistic	_	_	_	_	_	_
 131-7	BO119	131	di	di	linguistic	_	_	_	_	_	_
-131-8	BO119	131	nomepaese?	nomepaese	linguistic	Intonation=rising	_	_	_	_	_
+131-8	BO119	131	nomepaese?	nomepaese	linguistic	Intonation=Rising	_	_	_	_	_
 131-9	BO119	131	quindi	quindi	linguistic	_	_	_	_	_	_
 131-10	BO119	131	della	della	linguistic	_	_	_	_	_	_
 131-11	BO119	131	tua	tua	linguistic	_	_	_	_	_	_
-131-12	BO119	131	cit[tà]?	città	linguistic	Intonation=rising	End=293.9	_	_	_	3-5(35)
+131-12	BO119	131	cit[tà]?	città	linguistic	Intonation=Rising	End=293.9	_	_	_	3-5(35)
 132-0	BO122	132	[e:h]	eh	linguistic	_	Begin=293.518|End=293.904	0x1	_	_	0-2(35)
 133-0	BO122	133	questo	questo	linguistic	_	Begin=294.079	_	_	_	_
 133-1	BO122	133	forse	forse	linguistic	_	_	_	_	_	_
@@ -992,14 +992,14 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 160-8	BO119	160	quindi	quindi	linguistic	_	End=360.066	_	_	_	_
 161-0	BO119	161	che	che	linguistic	_	Begin=360.633	_	_	_	_
 161-1	BO119	161	ne	ne	linguistic	_	_	_	_	_	_
-161-2	BO119	161	sai?	sai	linguistic	Intonation=rising	End=361.262	_	_	_	_
+161-2	BO119	161	sai?	sai	linguistic	Intonation=Rising	End=361.262	_	_	_	_
 162-0	BO119	162	e:::hm	ehm	linguistic	_	Begin=361.899	0x3	_	_	_
 162-1	BO119	162	vabbè	vabbè	linguistic	_	_	_	_	_	_
 162-2	BO119	162	comunque,	comunque	linguistic	Intonation=weakly_rising	End=364.269	_	_	_	_
 163-0	BO119	163	e:::hm	ehm	linguistic	_	Begin=364.905	0x3	_	_	_
 163-1	BO119	163	la	la	linguistic	_	_	_	_	_	_
 163-2	BO119	163	zona	zona	linguistic	_	_	_	_	_	_
-163-3	BO119	163	no?	no	linguistic	Intonation=rising	_	_	_	_	_
+163-3	BO119	163	no?	no	linguistic	Intonation=Rising	_	_	_	_	_
 163-4	BO119	163	di	di	linguistic	_	_	_	_	_	_
 163-5	BO119	163	casa	casa	linguistic	_	_	_	_	_	_
 163-6	BO119	163	tua	tua	linguistic	_	_	_	_	_	_
@@ -1027,7 +1027,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 165-3	BO119	165	mai	mai	linguistic	_	_	_	_	_	_
 165-4	BO119	165	[pesata	pesata	linguistic	_	_	_	_	_	0-6(42)
 165-5	BO119	165	sta	sta	linguistic	_	_	_	_	_	0-3(42)
-165-6	BO119	165	cosa]?	cosa	linguistic	Intonation=rising	End=374.129	_	_	_	0-4(42)
+165-6	BO119	165	cosa]?	cosa	linguistic	Intonation=Rising	End=374.129	_	_	_	0-4(42)
 166-0	BO122	166	[a	a	linguistic	_	Begin=372.865	_	_	_	0-1(42)
 166-1	BO122	166	me	me	linguistic	_	_	_	_	_	0-2(42)
 166-2	BO122	166	non	non	linguistic	_	_	_	_	_	0-3(42)
@@ -1252,7 +1252,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 192-9	BO122	192	locali	locali	linguistic	_	_	_	_	_	_
 192-10	BO122	192	tutti	tutti	linguistic	_	_	_	_	_	_
 192-11	BO122	192	intorno	intorno	linguistic	_	_	_	_	_	_
-192-12	BO122	192	capito?	capito	linguistic	Intonation=rising	_	_	_	_	_
+192-12	BO122	192	capito?	capito	linguistic	Intonation=Rising	_	_	_	_	_
 192-13	BO122	192	quindi	quindi	linguistic	_	End=443.506	_	_	_	_
 193-0	BO119	193	certo	certo	linguistic	_	Begin=443.506	_	_	_	_
 193-1	BO119	193	no	no	linguistic	_	_	_	_	_	_
@@ -1376,10 +1376,10 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 208-2	BO119	208	i	i	linguistic	_	_	_	_	_	0-1(53)
 208-3	BO119	208	mezzi	mezzi	linguistic	_	_	_	_	_	0-5(53)
 208-4	BO119	208	a	a	linguistic	_	_	_	_	_	0-1(53)
-208-5	BO119	208	bolo::gna?	bologna	linguistic	Intonation=rising	_	3x2	_	_	0-7(53)
+208-5	BO119	208	bolo::gna?	bologna	linguistic	Intonation=Rising	_	3x2	_	_	0-7(53)
 208-6	BO119	208	sem]pre	sempre	linguistic	_	_	_	_	_	0-3(53)
 208-7	BO119	208	a	a	linguistic	_	_	_	_	_	_
-208-8	BO119	208	piedi.	piedi	linguistic	Intonation=falling	End=474.826	_	_	_	_
+208-8	BO119	208	piedi.	piedi	linguistic	Intonation=Falling	End=474.826	_	_	_	_
 209-0	BO122	209	[me	me	linguistic	_	Begin=472.292	_	_	_	0-2(53)
 209-1	BO122	209	s~	s~	linguistic	Interrupted=Yes	_	_	_	_	0-2(53)
 209-2	BO122	209	me	me	linguistic	_	_	_	_	_	0-2(53)
@@ -1613,7 +1613,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 234-20	BO122	234	come	come	linguistic	_	_	_	_	_	_
 234-21	BO122	234	fai	fai	linguistic	_	_	_	_	_	_
 234-22	BO122	234	in	in	linguistic	_	_	_	_	_	_
-234-23	BO122	234	bici?	bici	linguistic	Intonation=rising	_	_	_	_	_
+234-23	BO122	234	bici?	bici	linguistic	Intonation=Rising	_	_	_	_	_
 234-24	BO122	234	cioè	cioè	linguistic	_	_	_	_	_	_
 234-25	BO122	234	è	è	linguistic	_	_	_	_	_	_
 234-26	BO122	234	assolutamente	assolutamente	linguistic	_	_	_	_	_	_
@@ -1698,8 +1698,8 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 246-5	BO119	246	trova'	trova'	linguistic	Truncated=Yes	_	_	_	_	_
 246-6	BO119	246	'sta	'sta	linguistic	Truncated=Yes	_	_	_	_	_
 246-7	BO119	246	casa	casa	linguistic	_	_	_	_	_	_
-246-8	BO119	246	no?	no	linguistic	Intonation=rising	End=576.572	_	_	_	_
-247-0	BO122	247	sì?	sì	linguistic	Intonation=rising	Begin=576.674|End=577.054	_	_	_	_
+246-8	BO119	246	no?	no	linguistic	Intonation=Rising	End=576.572	_	_	_	_
+247-0	BO122	247	sì?	sì	linguistic	Intonation=Rising	Begin=576.674|End=577.054	_	_	_	_
 248-0	BO119	248	col	col	linguistic	_	Begin=577.054	_	_	_	_
 248-1	BO119	248	fatto	fatto	linguistic	_	_	_	_	_	_
 248-2	BO119	248	appunto	appunto	linguistic	_	_	_	_	_	_
@@ -1733,7 +1733,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 251-1	BO119	251	più	più	linguistic	_	_	_	_	_	_
 251-2	BO119	251	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 251-3	BO119	251	flessibili	flessibili	linguistic	_	_	_	_	_	_
-251-4	BO119	251	no?	no	linguistic	Intonation=rising	End=590.336	_	_	_	_
+251-4	BO119	251	no?	no	linguistic	Intonation=Rising	End=590.336	_	_	_	_
 252-0	BO122	252	sì	sì	linguistic	_	Begin=590.464	_	_	_	_
 252-1	BO122	252	sicura[mente	sicuramente	linguistic	_	_	_	_	_	6-11(64)
 252-2	BO122	252	sì]	sì	linguistic	_	End=591.66	_	_	_	0-2(64)
@@ -1835,7 +1835,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 263-7	BO122	263	studia	studia	linguistic	_	_	_	_	_	_
 263-8	BO122	263	o	o	linguistic	_	_	_	_	_	_
 263-9	BO122	263	sta	sta	linguistic	_	_	_	_	_	_
-263-10	BO122	263	facendo::.	facendo	linguistic	Intonation=falling	_	6x2	_	_	_
+263-10	BO122	263	facendo::.	facendo	linguistic	Intonation=Falling	_	6x2	_	_	_
 263-11	BO122	263	i	i	linguistic	_	_	_	_	_	_
 263-12	BO122	263	cavoli	cavoli	linguistic	_	_	_	_	_	_
 263-13	BO122	263	suoi	suoi	linguistic	_	_	_	_	_	_
@@ -1959,7 +1959,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 276-0	BO122	276	con	con	linguistic	_	Begin=652.135	_	_	_	_
 276-1	BO122	276	ste	ste	linguistic	_	_	_	_	_	_
 276-2	BO122	276	tipe	tipe	linguistic	_	_	_	_	_	_
-276-3	BO122	276	capito?	capito	linguistic	Intonation=rising	_	_	_	_	_
+276-3	BO122	276	capito?	capito	linguistic	Intonation=Rising	_	_	_	_	_
 276-4	BO122	276	quindi	quindi	linguistic	_	End=653.32	_	_	_	_
 277-0	BO122	277	se	se	linguistic	_	Begin=653.72	_	_	_	_
 277-1	BO122	277	m:h	mh	linguistic	_	_	0x1	_	_	_
@@ -2157,7 +2157,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 301-1	BO119	301	come	come	linguistic	_	_	_	_	_	_
 301-2	BO119	301	te	te	linguistic	_	_	_	_	_	_
 301-3	BO119	301	la	la	linguistic	_	_	_	_	_	_
-301-4	BO119	301	immagini?	immagini	linguistic	Intonation=rising	End=715.575	_	_	_	_
+301-4	BO119	301	immagini?	immagini	linguistic	Intonation=Rising	End=715.575	_	_	_	_
 302-0	BO119	302	cioè	cioè	linguistic	_	Begin=716.585	_	_	_	_
 302-1	BO119	302	sia	sia	linguistic	_	_	_	_	_	_
 302-2	BO119	302	come	come	linguistic	_	_	_	_	_	_
@@ -2453,7 +2453,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 337-3	BO122	337	dai	dai	linguistic	_	_	_	_	_	_
 337-4	BO122	337	diciamo	diciamo	linguistic	_	End=820.353	_	_	_	_
 338-0	BO119	338	di	di	linguistic	_	Begin=820.37	_	_	_	_
-338-1	BO119	338	tornare?	tornare	linguistic	Intonation=rising	End=821.005	_	_	_	_
+338-1	BO119	338	tornare?	tornare	linguistic	Intonation=Rising	End=821.005	_	_	_	_
 339-0	BO122	339	di	di	linguistic	_	Begin=821.206	_	_	_	_
 339-1	BO122	339	tornare	tornare	linguistic	_	_	_	_	_	_
 339-2	BO122	339	a	a	linguistic	_	_	_	_	_	_
@@ -2761,13 +2761,13 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 376-1	BO122	376	diverse	diverse	linguistic	_	_	_	_	_	_
 376-2	BO122	376	dalle	dalle	linguistic	_	_	_	_	_	_
 376-3	BO122	376	mie	mie	linguistic	_	End=922.613	_	_	_	_
-377-0	BO119	377	tipo?	tipo	linguistic	Intonation=rising	Begin=922.827	_	_	_	_
+377-0	BO119	377	tipo?	tipo	linguistic	Intonation=Rising	Begin=922.827	_	_	_	_
 377-1	BO119	377	batterista	batterista	linguistic	_	End=924.227	_	_	_	_
 378-0	BO122	378	tipo	tipo	linguistic	_	Begin=924.227	_	_	_	_
 378-1	BO122	378	il	il	linguistic	_	_	_	_	_	_
 378-2	BO122	378	batterista	batterista	linguistic	_	_	_	_	_	_
 378-3	BO122	378	esatto	esatto	linguistic	_	_	_	_	_	_
-378-4	BO122	378	bravissima.	bravissima	linguistic	Intonation=falling	End=926.016	_	_	_	_
+378-4	BO122	378	bravissima.	bravissima	linguistic	Intonation=Falling	End=926.016	_	_	_	_
 379-0	BO119	379	vabbè	vabbè	linguistic	_	Begin=926.101|End=926.525	_	_	_	_
 380-0	BO122	380	comunque	comunque	linguistic	_	Begin=927.09	_	_	_	_
 380-1	BO122	380	[insomma	insomma	linguistic	_	_	_	_	_	0-7(86)
@@ -3320,7 +3320,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 445-23	BO122	445	una	una	linguistic	_	_	_	_	_	_
 445-24	BO122	445	città	città	linguistic	_	_	_	_	_	_
 445-25	BO122	445	come	come	linguistic	_	_	_	_	_	_
-445-26	BO122	445	quella?	quella	linguistic	Intonation=rising	_	_	_	_	_
+445-26	BO122	445	quella?	quella	linguistic	Intonation=Rising	_	_	_	_	_
 445-27	BO122	445	cioè	cioè	linguistic	_	End=1098.273	_	_	_	_
 446-0	BO122	446	non	non	linguistic	_	Begin=1098.936	_	_	_	_
 446-1	BO122	446	avrebbe	avrebbe	linguistic	_	_	_	_	_	_
@@ -3336,7 +3336,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 446-11	BO122	446	stare	stare	linguistic	_	_	_	_	_	_
 446-12	BO122	446	a	a	linguistic	_	_	_	_	_	_
 446-13	BO122	446	casa	casa	linguistic	_	_	_	_	_	_
-446-14	BO122	446	capito?	capito	linguistic	Intonation=rising	End=1104.106	_	_	_	_
+446-14	BO122	446	capito?	capito	linguistic	Intonation=Rising	End=1104.106	_	_	_	_
 447-0	BO122	447	e	e	linguistic	_	Begin=1104.703	_	_	_	_
 447-1	BO122	447	[quindi:::]	quindi	linguistic	_	End=1105.731	5x3	_	_	0-6(102)
 448-0	BO119	448	[faresti	faresti	linguistic	_	Begin=1104.947	_	_	_	0-7(102)
@@ -3488,7 +3488,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 464-0	BO122	464	come	come	linguistic	_	Begin=1154.716	_	_	_	_
 464-1	BO122	464	se	se	linguistic	_	_	_	_	_	_
 464-2	BO122	464	po'	po'	linguistic	_	_	_	_	_	_
-464-3	BO122	464	di'?	di'	linguistic	Intonation=rising	End=1155.3	_	_	_	_
+464-3	BO122	464	di'?	di'	linguistic	Intonation=Rising	End=1155.3	_	_	_	_
 465-0	BO122	465	un	un	linguistic	_	Begin=1155.659	_	_	_	_
 465-1	BO122	465	banco	banco	linguistic	_	_	_	_	_	_
 465-2	BO122	465	de	de	linguistic	_	_	_	_	_	_
@@ -3614,7 +3614,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 487-3	BO122	487	non	non	linguistic	_	_	_	_	_	_
 487-4	BO122	487	è	è	linguistic	_	_	_	_	_	_
 487-5	BO122	487	fatta	fatta	linguistic	_	_	_	_	_	_
-487-6	BO122	487	<mai>	mai	linguistic	_	_	_	Slow=0-3(0)	_	_
+487-6	BO122	487	<mai>	mai	linguistic	_	_	_	Slow=0-3	_	_
 487-7	BO122	487	in	in	linguistic	_	_	_	_	_	_
 487-8	BO122	487	nessun	nessun	linguistic	_	_	_	_	_	_
 487-9	BO122	487	caso	caso	linguistic	_	_	_	_	_	_
@@ -3625,7 +3625,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 488-1	BO122	488	solo	solo	linguistic	_	_	_	_	_	_
 488-2	BO122	488	di	di	linguistic	_	_	_	_	_	_
 488-3	BO122	488	vittorie	vittorie	linguistic	_	_	_	_	_	_
-488-4	BO122	488	<anzi>	anzi	linguistic	_	_	_	Slow=0-4(0)	_	_
+488-4	BO122	488	<anzi>	anzi	linguistic	_	_	_	Slow=0-4	_	_
 488-5	BO122	488	è	è	linguistic	_	_	_	_	_	_
 488-6	BO122	488	il	il	linguistic	_	_	_	_	_	_
 488-7	BO122	488	contrario	contrario	linguistic	_	End=1204.266	_	_	_	_
@@ -3730,7 +3730,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 500-16	BO119	500	sei	sei	linguistic	_	_	_	_	_	_
 500-17	BO119	500	andato	andato	linguistic	_	_	_	_	_	_
 500-18	BO119	500	a	a	linguistic	_	_	_	_	_	_
-500-19	BO119	500	bologna?	bologna	linguistic	Intonation=rising	End=1237.7	_	_	_	_
+500-19	BO119	500	bologna?	bologna	linguistic	Intonation=Rising	End=1237.7	_	_	_	_
 501-0	BO122	501	beh	beh	linguistic	_	Begin=1238.28	_	_	_	_
 501-1	BO122	501	direi	direi	linguistic	_	_	_	_	_	_
 501-2	BO122	501	proprio	proprio	linguistic	_	_	_	_	_	_
@@ -3816,13 +3816,13 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 511-0	BO122	511	come	come	linguistic	_	Begin=1270.07	_	_	_	_
 511-1	BO122	511	se	se	linguistic	_	_	_	_	_	_
 511-2	BO122	511	po'	po'	linguistic	_	_	_	_	_	_
-511-3	BO122	511	di'?	di'	linguistic	Intonation=rising	End=1270.813	_	_	_	_
+511-3	BO122	511	di'?	di'	linguistic	Intonation=Rising	End=1270.813	_	_	_	_
 512-0	BO122	512	non	non	linguistic	_	Begin=1271.37	_	_	_	_
 512-1	BO122	512	più	più	linguistic	_	_	_	_	_	_
 512-2	BO122	512	necessari	necessari	linguistic	_	End=1272.54	_	_	_	_
 513-0	BO119	513	dipendenti	dipendenti	linguistic	_	Begin=1272.8	_	_	_	_
 513-1	BO119	513	o	o	linguistic	_	_	_	_	_	_
-513-2	BO119	513	indipendenti?	indipendenti	linguistic	Intonation=rising	End=1274.22	_	_	_	_
+513-2	BO119	513	indipendenti?	indipendenti	linguistic	Intonation=Rising	End=1274.22	_	_	_	_
 514-0	BO122	514	cioè	cioè	linguistic	_	Begin=1274.952	_	_	_	_
 514-1	BO122	514	nel	nel	linguistic	_	_	_	_	_	_
 514-2	BO122	514	senso	senso	linguistic	_	_	_	_	_	_
@@ -3845,7 +3845,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 516-0	BO119	516	[a:h	ah	linguistic	_	Begin=1278.093	0x1	_	_	0-2(110)
 516-1	BO119	516	(.)	[PAUSE]	shortpause	_	_	_	_	_	0-3(110)
 516-2	BO119	516	okay]	okay	linguistic	_	End=1279.336	_	_	_	0-4(110)
-517-0	BO122	517	capito?	capito	linguistic	Intonation=rising	Begin=1279.439	_	_	_	_
+517-0	BO122	517	capito?	capito	linguistic	Intonation=Rising	Begin=1279.439	_	_	_	_
 517-1	BO122	517	e	e	linguistic	_	_	_	_	_	_
 517-2	BO122	517	loro	loro	linguistic	_	_	_	_	_	_
 517-3	BO122	517	s'(	s'	linguistic	SpaceAfter=No	_	_	_	_	_
@@ -3862,7 +3862,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 517-14	BO122	517	come	come	linguistic	_	_	_	_	_	_
 517-15	BO122	517	se	se	linguistic	_	_	_	_	_	_
 517-16	BO122	517	po'	po'	linguistic	_	_	_	_	_	_
-517-17	BO122	517	di'?	di'	linguistic	Intonation=rising	_	_	_	_	_
+517-17	BO122	517	di'?	di'	linguistic	Intonation=Rising	_	_	_	_	_
 517-18	BO122	517	un	un	linguistic	_	_	_	_	_	_
 517-19	BO122	517	bisogno::	bisogno	linguistic	ProsodicLink=Yes	_	6x2	_	_	_
 517-20	BO122	517	mh	mh	linguistic	_	End=1284.666	_	_	_	_
@@ -3890,7 +3890,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 522-0	BO122	522	boh,	boh	linguistic	Intonation=weakly_rising	Begin=1299.015	_	_	_	_
 522-1	BO122	522	il	il	linguistic	_	_	_	_	_	_
 522-2	BO122	522	supporto	supporto	linguistic	_	_	_	_	_	_
-522-3	BO122	522	forse?	forse	linguistic	Intonation=rising	End=1300.74	_	_	_	_
+522-3	BO122	522	forse?	forse	linguistic	Intonation=Rising	End=1300.74	_	_	_	_
 523-0	BO122	523	perché	perché	linguistic	_	Begin=1301.278	_	_	_	_
 523-1	BO122	523	cioè	cioè	linguistic	_	_	_	_	_	_
 523-2	BO122	523	te	te	linguistic	_	_	_	_	_	_
@@ -3920,7 +3920,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 524-8	BO119	524	accorgi	accorgi	linguistic	_	_	_	_	_	_
 524-9	BO119	524	[in	in	linguistic	_	_	_	_	_	0-2(112)
 524-10	BO119	524	realtà	realtà	linguistic	_	_	_	_	_	0-6(112)
-524-11	BO119	524	no?	no	linguistic	Intonation=rising	_	_	_	_	0-2(112)
+524-11	BO119	524	no?	no	linguistic	Intonation=Rising	_	_	_	_	0-2(112)
 524-12	BO119	524	cioè]	cioè	linguistic	_	_	_	_	_	0-4(112)
 524-13	BO119	524	inizi	inizi	linguistic	_	_	_	_	_	_
 524-14	BO119	524	a	a	linguistic	_	_	_	_	_	_
@@ -4013,7 +4013,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 545-4	BO122	545	tue	tue	linguistic	_	_	_	_	_	_
 545-5	BO122	545	[ce:ne],	cene	linguistic	Intonation=weakly_rising	End=1343.793	1x1	_	_	0-4(119)
 546-0	BO119	546	[hai	hai	linguistic	_	Begin=1342.956	_	_	_	0-3(119)
-546-1	BO119	546	capito]?	capito	linguistic	Intonation=rising	End=1343.777	_	_	_	0-6(119)
+546-1	BO119	546	capito]?	capito	linguistic	Intonation=Rising	End=1343.777	_	_	_	0-6(119)
 547-0	BO122	547	esa[tto]	esatto	linguistic	_	Begin=1344.526|End=1345.34	_	_	_	3-6(120)
 548-0	BO119	548	[me	me	linguistic	_	Begin=1345.02	_	_	_	0-2(120)
 548-1	BO119	548	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	0-2(120)
@@ -4111,7 +4111,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 559-12	BO122	559	ligabue::	ligabue	linguistic	_	_	6x2	_	_	_
 559-13	BO122	559	eccetera	eccetera	linguistic	_	_	_	_	_	_
 559-14	BO122	559	eccetera	eccetera	linguistic	_	_	_	_	_	_
-559-15	BO122	559	no?	no	linguistic	Intonation=rising	End=1378.413	_	_	_	_
+559-15	BO122	559	no?	no	linguistic	Intonation=Rising	End=1378.413	_	_	_	_
 560-0	BO122	560	quindi	quindi	linguistic	_	Begin=1378.685	_	_	_	_
 560-1	BO122	560	me	me	linguistic	_	_	_	_	_	_
 560-2	BO122	560	so	so	linguistic	_	_	_	_	_	_
@@ -4266,18 +4266,18 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 576-9	BO122	576	diciannove	diciannove	linguistic	_	_	_	_	_	_
 576-10	BO122	576	anni	anni	linguistic	_	End=1423.246	_	_	_	_
 577-0	BO119	577	eh	eh	linguistic	_	Begin=1423.366	_	_	_	_
-577-1	BO119	577	capito?	capito	linguistic	Intonation=rising	End=1424.233	_	_	_	_
+577-1	BO119	577	capito?	capito	linguistic	Intonation=Rising	End=1424.233	_	_	_	_
 578-0	BO119	578	e	e	linguistic	_	Begin=1424.702	_	_	_	_
-578-1	BO119	578	qua?	qua	linguistic	Intonation=rising	_	_	_	_	_
+578-1	BO119	578	qua?	qua	linguistic	Intonation=Rising	_	_	_	_	_
 578-2	BO119	578	com'	com'	linguistic	SpaceAfter=No	_	_	_	_	_
-578-3	BO119	578	è?	è	linguistic	Intonation=rising	End=1425.446	_	_	_	_
+578-3	BO119	578	è?	è	linguistic	Intonation=Rising	End=1425.446	_	_	_	_
 579-0	BO119	579	cioè	cioè	linguistic	_	Begin=1425.939	_	_	_	_
 579-1	BO119	579	come	come	linguistic	_	_	_	_	_	_
 579-2	BO119	579	te	te	linguistic	_	_	_	_	_	_
 579-3	BO119	579	la	la	linguistic	_	_	_	_	_	_
 579-4	BO119	579	vivi	vivi	linguistic	_	_	_	_	_	_
 579-5	BO119	579	un	un	linguistic	_	_	_	_	_	_
-579-6	BO119	579	po'?	po'	linguistic	Intonation=rising	End=1427.473	_	_	_	_
+579-6	BO119	579	po'?	po'	linguistic	Intonation=Rising	End=1427.473	_	_	_	_
 580-0	BO119	580	perché	perché	linguistic	_	Begin=1428.019	_	_	_	_
 580-1	BO119	580	comunque	comunque	linguistic	_	_	_	_	_	_
 580-2	BO119	580	te	te	linguistic	_	_	_	_	_	_
@@ -4373,7 +4373,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 590-3	BO122	590	il	il	linguistic	_	_	_	_	_	_
 590-4	BO122	590	bagno	bagno	linguistic	_	_	_	_	_	_
 590-5	BO122	590	[in	in	linguistic	_	_	_	_	_	0-2(125)
-590-6	BO122	590	camera]?	camera	linguistic	Intonation=rising	End=1456.366	_	_	_	0-6(125)
+590-6	BO122	590	camera]?	camera	linguistic	Intonation=Rising	End=1456.366	_	_	_	0-6(125)
 591-0	BO119	591	[là	là	linguistic	_	Begin=1455.689	_	_	_	0-2(125)
 591-1	BO119	591	di	di	linguistic	_	_	_	_	_	0-2(125)
 591-2	BO119	591	là	là	linguistic	_	_	_	_	_	0-2(125)
@@ -4395,7 +4395,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 593-4	BO119	593	crollato	crollato	linguistic	_	End=1461.68	_	_	_	_
 594-0	BO122	594	te	te	linguistic	_	Begin=1462.101	_	_	_	_
 594-1	BO122	594	rendi	rendi	linguistic	_	_	_	_	_	_
-594-2	BO122	594	conto?	conto	linguistic	Intonation=rising	End=1463.026	_	_	_	_
+594-2	BO122	594	conto?	conto	linguistic	Intonation=Rising	End=1463.026	_	_	_	_
 595-0	BO122	595	a	a	linguistic	_	Begin=1463.366	_	_	_	_
 595-1	BO122	595	bologna	bologna	linguistic	_	_	_	_	_	_
 595-2	BO122	595	il	il	linguistic	_	_	_	_	_	_
@@ -4408,7 +4408,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 596-1	BO122	596	fa	fa	linguistic	_	_	_	_	_	_
 596-2	BO122	596	pure	pure	linguistic	_	_	_	_	_	_
 596-3	BO122	596	schifo	schifo	linguistic	_	_	_	_	_	_
-596-4	BO122	596	capito?	capito	linguistic	Intonation=rising	End=1468.402	_	_	_	_
+596-4	BO122	596	capito?	capito	linguistic	Intonation=Rising	End=1468.402	_	_	_	_
 597-0	BO119	597	poi	poi	linguistic	_	Begin=1469.039	_	_	_	_
 597-1	BO119	597	poi	poi	linguistic	_	_	_	_	_	_
 597-2	BO119	597	c'	c'	linguistic	SpaceAfter=No	_	_	_	_	_
@@ -4440,7 +4440,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 601-11	BO122	601	loro	loro	linguistic	_	_	_	_	_	_
 601-12	BO122	601	habitat	habitat	linguistic	_	_	_	_	_	_
 601-13	BO122	601	solo	solo	linguistic	_	End=1479.7	_	_	_	_
-602-0	BO119	602	ma[i]?	mai	linguistic	Intonation=rising	Begin=1479.793|End=1480.393	_	_	_	2-3(129)
+602-0	BO119	602	ma[i]?	mai	linguistic	Intonation=Rising	Begin=1479.793|End=1480.393	_	_	_	2-3(129)
 603-0	BO122	603	[solo]	solo	linguistic	_	Begin=1479.976	_	_	_	0-4(129)
 603-1	BO122	603	ogni~	ogni~	linguistic	Interrupted=Yes	_	_	_	_	_
 603-2	BO122	603	ogni	ogni	linguistic	_	_	_	_	_	_
@@ -4785,7 +4785,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 651-4	BO119	651	sempre	sempre	linguistic	_	_	_	_	_	_
 651-5	BO119	651	stata	stata	linguistic	_	_	_	_	_	_
 651-6	BO119	651	questa	questa	linguistic	_	_	_	_	_	_
-651-7	BO119	651	o?	o	linguistic	Intonation=rising	_	_	_	_	_
+651-7	BO119	651	o?	o	linguistic	Intonation=Rising	_	_	_	_	_
 651-8	BO119	651	te	te	linguistic	_	_	_	_	_	_
 651-9	BO119	651	non	non	linguistic	_	_	_	_	_	_
 651-10	BO119	651	c'	c'	linguistic	SpaceAfter=No	_	_	_	_	_
@@ -4795,7 +4795,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 651-14	BO119	651	camera	camera	linguistic	_	_	_	_	_	_
 651-15	BO119	651	con	con	linguistic	_	_	_	_	_	_
 651-16	BO119	651	tua	tua	linguistic	_	_	_	_	_	_
-651-17	BO119	651	[sorella]?	sorella	linguistic	Intonation=rising	End=1597.666	_	_	_	0-7(147)
+651-17	BO119	651	[sorella]?	sorella	linguistic	Intonation=Rising	End=1597.666	_	_	_	0-7(147)
 652-0	BO122	652	[no]	no	linguistic	_	Begin=1596.752	_	_	_	0-2(147)
 652-1	BO122	652	la	la	linguistic	_	_	_	_	_	_
 652-2	BO122	652	camera	camera	linguistic	_	_	_	_	_	_
@@ -4865,7 +4865,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 664-6	BO119	664	sopra	sopra	linguistic	_	_	_	_	_	_
 664-7	BO119	664	che	che	linguistic	_	_	_	_	_	_
 664-8	BO119	664	c'	c'	linguistic	SpaceAfter=No	_	_	_	_	_
-664-9	BO119	664	era?	era	linguistic	Intonation=rising	End=1622.846	_	_	_	_
+664-9	BO119	664	era?	era	linguistic	Intonation=Rising	End=1622.846	_	_	_	_
 665-0	BO122	665	questo::	questo	linguistic	_	Begin=1622.846	5x2	_	_	_
 665-1	BO122	665	era	era	linguistic	_	_	_	_	_	_
 665-2	BO122	665	completamente	completamente	linguistic	_	_	_	_	_	_
@@ -4884,7 +4884,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 666-3	BO122	666	quaranta	quaranta	linguistic	_	_	_	_	_	_
 666-4	BO122	666	cen[timetri],	centimetri	linguistic	Intonation=weakly_rising	End=1629.685	_	_	_	3-10(148)
 667-0	BO119	667	[ah	ah	linguistic	_	Begin=1629.041	_	_	_	0-2(148)
-667-1	BO119	667	sì]?	sì	linguistic	Intonation=rising	End=1629.675	_	_	_	0-2(148)
+667-1	BO119	667	sì]?	sì	linguistic	Intonation=Rising	End=1629.675	_	_	_	0-2(148)
 668-0	BO122	668	con	con	linguistic	_	Begin=1630.068	_	_	_	_
 668-1	BO122	668	dentro	dentro	linguistic	_	_	_	_	_	_
 668-2	BO122	668	soltanto	soltanto	linguistic	_	_	_	_	_	_
@@ -4917,7 +4917,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 670-23	BO122	670	non	non	linguistic	_	_	_	_	_	_
 670-24	BO122	670	guadagnamo	guadagnamo	linguistic	_	_	_	_	_	_
 670-25	BO122	670	un	un	linguistic	_	_	_	_	_	_
-670-26	BO122	670	piano?	piano	linguistic	Intonation=rising	End=1640.3	_	_	_	_
+670-26	BO122	670	piano?	piano	linguistic	Intonation=Rising	End=1640.3	_	_	_	_
 671-0	BO122	671	quindi	quindi	linguistic	_	Begin=1641.113	_	_	_	_
 671-1	BO122	671	abbiamo	abbiamo	linguistic	_	_	_	_	_	_
 671-2	BO122	671	alzato	alzato	linguistic	_	_	_	_	_	_
@@ -4967,7 +4967,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 676-17	BO122	676	io	io	linguistic	_	_	_	_	_	_
 676-18	BO122	676	una	una	linguistic	_	_	_	_	_	_
 676-19	BO122	676	camera	camera	linguistic	_	_	_	_	_	_
-676-20	BO122	676	nuova.	nuova	linguistic	Intonation=falling	End=1655.8	_	_	_	_
+676-20	BO122	676	nuova.	nuova	linguistic	Intonation=Falling	End=1655.8	_	_	_	_
 677-0	BO122	677	e	e	linguistic	_	Begin=1656.582	_	_	_	_
 677-1	BO122	677	fighissima	fighissima	linguistic	_	_	_	_	_	_
 677-2	BO122	677	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
@@ -5005,7 +5005,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 684-1	BO119	684	inizierai	inizierai	linguistic	_	_	_	_	_	_
 684-2	BO119	684	no	no	linguistic	_	_	_	_	_	_
 684-3	BO119	684	un	un	linguistic	_	_	_	_	_	_
-684-4	BO119	684	po':::?	po'	linguistic	Intonation=rising	End=1667.18	1x3	_	_	_
+684-4	BO119	684	po':::?	po'	linguistic	Intonation=Rising	End=1667.18	1x3	_	_	_
 685-0	BO119	685	quando	quando	linguistic	_	Begin=1667.7	_	_	_	_
 685-1	BO119	685	finirai	finirai	linguistic	_	_	_	_	_	_
 685-2	BO119	685	il	il	linguistic	_	_	_	_	_	_
@@ -5040,7 +5040,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 690-3	BO119	690	altro	altro	linguistic	_	_	_	_	_	_
 690-4	BO119	690	percorso	percorso	linguistic	_	_	_	_	_	_
 690-5	BO119	690	di	di	linguistic	_	_	_	_	_	_
-690-6	BO119	690	studi?	studi	linguistic	Intonation=rising	End=1681.386	_	_	_	_
+690-6	BO119	690	studi?	studi	linguistic	Intonation=Rising	End=1681.386	_	_	_	_
 691-0	BO122	691	questa	questa	linguistic	_	Begin=1681.89	_	_	_	_
 691-1	BO122	691	è	è	linguistic	_	_	_	_	_	_
 691-2	BO122	691	una	una	linguistic	_	_	_	_	_	_
@@ -5088,7 +5088,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 694-6	BO122	694	performance,	performance	linguistic	Intonation=weakly_rising	_	_	_	_	_
 694-7	BO122	694	quindi	quindi	linguistic	_	_	_	_	_	_
 694-8	BO122	694	in	in	linguistic	_	_	_	_	_	_
-694-9	BO122	694	canto.	canto	linguistic	Intonation=falling	End=1696.8	_	_	_	_
+694-9	BO122	694	canto.	canto	linguistic	Intonation=Falling	End=1696.8	_	_	_	_
 695-0	BO122	695	e:::	e	linguistic	_	Begin=1697.864	0x3	_	_	_
 695-1	BO122	695	e	e	linguistic	_	_	_	_	_	_
 695-2	BO122	695	il	il	linguistic	_	_	_	_	_	_
@@ -5381,7 +5381,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 729-5	BO119	729	gubbio	gubbio	linguistic	_	_	_	_	_	_
 729-6	BO119	729	o	o	linguistic	_	_	_	_	_	_
 729-7	BO119	729	comun[que	comunque	linguistic	_	_	_	_	_	5-8(163)
-729-8	BO119	729	fuori]?	fuori	linguistic	Intonation=rising	End=1783.477	_	_	_	0-5(163)
+729-8	BO119	729	fuori]?	fuori	linguistic	Intonation=Rising	End=1783.477	_	_	_	0-5(163)
 730-0	BO122	730	[eh	eh	linguistic	_	Begin=1782.771	_	_	_	0-2(163)
 730-1	BO122	730	esa]tto	esatto	linguistic	_	End=1783.639	_	_	_	0-3(163)
 731-0	BO122	731	tipo	tipo	linguistic	_	Begin=1783.834	_	_	_	_
@@ -5754,7 +5754,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 775-4	BO122	775	in	in	linguistic	_	_	_	_	_	_
 775-5	BO122	775	cui	cui	linguistic	_	_	_	_	_	_
 775-6	BO122	775	sei	sei	linguistic	_	_	_	_	_	_
-775-7	BO122	775	nato?	nato	linguistic	Intonation=rising	_	_	_	_	_
+775-7	BO122	775	nato?	nato	linguistic	Intonation=Rising	_	_	_	_	_
 775-8	BO122	775	questo	questo	linguistic	_	_	_	_	_	_
 775-9	BO122	775	è	è	linguistic	_	_	_	_	_	_
 775-10	BO122	775	vero	vero	linguistic	_	End=1904.805	_	_	_	_
@@ -5783,7 +5783,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 778-0	BO122	778	a	a	linguistic	_	Begin=1911.309	_	_	_	_
 778-1	BO122	778	rimane'	rimane'	linguistic	Truncated=Yes	_	_	_	_	_
 778-2	BO122	778	qua	qua	linguistic	_	_	_	_	_	_
-778-3	BO122	778	capito?	capito	linguistic	Intonation=rising	End=1912.35	_	_	_	_
+778-3	BO122	778	capito?	capito	linguistic	Intonation=Rising	End=1912.35	_	_	_	_
 779-0	BO119	779	sì	sì	linguistic	_	Begin=1912.394	_	_	_	_
 779-1	BO119	779	sì	sì	linguistic	_	_	_	_	_	_
 779-2	BO119	779	beh	beh	linguistic	_	_	_	_	_	_

@@ -7,7 +7,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 1-2	BO119	1	ciao,	ciao	linguistic	Intonation=weakly_rising	End=6.005	_	_	_	_
 2-0	BO121	2	ciao	ciao	linguistic	_	Begin=6.55|End=7.121	_	_	_	_
 3-0	BO119	3	ti	ti	linguistic	_	Begin=7.56	_	_	_	_
-3-1	BO119	3	chiami?	chiami	linguistic	Intonation=rising	End=8.045	_	_	_	_
+3-1	BO119	3	chiami?	chiami	linguistic	Intonation=Rising	End=8.045	_	_	_	_
 4-0	BO121	4	francesco	francesco	linguistic	_	Begin=8.298|End=8.786	_	_	_	_
 5-0	BO119	5	okay	okay	linguistic	_	Begin=9.471	_	_	_	_
 5-1	BO119	5	francesco	francesco	linguistic	_	_	_	_	_	_
@@ -53,9 +53,9 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 10-0	BO119	10	e::	e	linguistic	_	Begin=29.252	0x2	_	_	_
 10-1	BO119	10	stai	stai	linguistic	_	_	_	_	_	_
 10-2	BO119	10	qua	qua	linguistic	_	_	_	_	_	_
-10-3	BO119	10	da?	da	linguistic	Intonation=rising	_	_	_	_	_
+10-3	BO119	10	da?	da	linguistic	Intonation=Rising	_	_	_	_	_
 10-4	BO119	10	quanto	quanto	linguistic	_	_	_	_	_	_
-10-5	BO119	10	tempo?	tempo	linguistic	Intonation=rising	End=31.409	_	_	_	_
+10-5	BO119	10	tempo?	tempo	linguistic	Intonation=Rising	End=31.409	_	_	_	_
 11-0	BO121	11	questo	questo	linguistic	_	Begin=31.565	_	_	_	_
 11-1	BO121	11	è	è	linguistic	_	_	_	_	_	_
 11-2	BO121	11	il	il	linguistic	_	_	_	_	_	_
@@ -70,7 +70,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 13-5	BO121	13	città	città	linguistic	_	End=35.698	_	_	_	_
 14-0	BO119	14	come	come	linguistic	_	Begin=35.938	_	_	_	_
 14-1	BO119	14	ti	ti	linguistic	_	_	_	_	_	_
-14-2	BO119	14	trovi?	trovi	linguistic	Intonation=rising	End=36.685	_	_	_	_
+14-2	BO119	14	trovi?	trovi	linguistic	Intonation=Rising	End=36.685	_	_	_	_
 15-0	BO121	15	alla	alla	linguistic	_	Begin=37.006	_	_	_	_
 15-1	BO121	15	grande	grande	linguistic	_	_	_	_	_	_
 15-2	BO121	15	bologna	bologna	linguistic	_	_	_	_	_	_
@@ -215,7 +215,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 23-12	BO119	23	pensi	pensi	linguistic	_	_	_	_	_	_
 23-13	BO119	23	di	di	linguistic	_	_	_	_	_	_
 23-14	BO119	23	cambiare	cambiare	linguistic	_	_	_	_	_	_
-23-15	BO119	23	città?	città	linguistic	Intonation=rising	End=88.71	_	_	_	_
+23-15	BO119	23	città?	città	linguistic	Intonation=Rising	End=88.71	_	_	_	_
 24-0	BO121	24	allora	allora	linguistic	_	Begin=90.389	_	_	_	_
 24-1	BO121	24	e:::	e	linguistic	ProsodicLink=Yes	_	0x3	_	_	_
 24-2	BO121	24	è	è	linguistic	_	_	_	_	_	_
@@ -423,7 +423,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 39-4	BO119	39	di	di	linguistic	_	_	_	_	_	_
 39-5	BO119	39	tornare	tornare	linguistic	_	_	_	_	_	_
 39-6	BO119	39	a	a	linguistic	_	_	_	_	_	_
-39-7	BO119	39	bologna?	bologna	linguistic	Intonation=rising	End=161.203	_	_	_	_
+39-7	BO119	39	bologna?	bologna	linguistic	Intonation=Rising	End=161.203	_	_	_	_
 40-0	BO121	40	immagino	immagino	linguistic	_	Begin=161.713	_	_	_	_
 40-1	BO121	40	di	di	linguistic	_	_	_	_	_	_
 40-2	BO121	40	tornare	tornare	linguistic	_	_	_	_	_	_
@@ -596,7 +596,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 59-1	BO119	59	una	una	linguistic	_	_	_	_	_	_
 59-2	BO119	59	un'	un'	linguistic	SpaceAfter=No	_	_	_	_	_
 59-3	BO119	59	esperienza	esperienza	linguistic	_	_	_	_	_	_
-59-4	BO119	59	fuori?	fuori	linguistic	Intonation=rising	End=227.92	_	_	_	_
+59-4	BO119	59	fuori?	fuori	linguistic	Intonation=Rising	End=227.92	_	_	_	_
 60-0	BO119	60	e:h	eh	linguistic	_	Begin=228.411	0x1	_	_	_
 60-1	BO119	60	hai	hai	linguistic	_	_	_	_	_	_
 60-2	BO119	60	già	già	linguistic	_	_	_	_	_	_
@@ -605,7 +605,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 60-5	BO119	60	dove	dove	linguistic	_	_	_	_	_	_
 60-6	BO119	60	andare,	andare	linguistic	Intonation=weakly_rising	End=230.727	_	_	_	_
 61-0	BO119	61	oppure	oppure	linguistic	_	Begin=231.636	_	_	_	_
-61-1	BO119	61	no?	no	linguistic	Intonation=rising	End=232.183	_	_	_	_
+61-1	BO119	61	no?	no	linguistic	Intonation=Rising	End=232.183	_	_	_	_
 62-0	BO121	62	un	un	linguistic	_	Begin=233.719	_	_	_	_
 62-1	BO121	62	luogo	luogo	linguistic	_	_	_	_	_	_
 62-2	BO121	62	preciso	preciso	linguistic	_	_	_	_	_	_
@@ -795,7 +795,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 83-4	BO119	83	studi	studi	linguistic	_	_	_	_	_	_
 83-5	BO119	83	qui	qui	linguistic	_	_	_	_	_	_
 83-6	BO119	83	a	a	linguistic	_	_	_	_	_	_
-83-7	BO119	83	bologna?	bologna	linguistic	Intonation=rising	End=313.657	_	_	_	_
+83-7	BO119	83	bologna?	bologna	linguistic	Intonation=Rising	End=313.657	_	_	_	_
 84-0	BO121	84	io	io	linguistic	_	Begin=314.385	_	_	_	_
 84-1	BO121	84	studio	studio	linguistic	_	_	_	_	_	_
 84-2	BO121	84	scienze	scienze	linguistic	_	_	_	_	_	_
@@ -1339,7 +1339,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 157-1	BO121	157	la	la	linguistic	_	_	_	_	_	_
 157-2	BO121	157	terza	terza	linguistic	_	_	_	_	_	_
 157-3	BO121	157	domanda	domanda	linguistic	_	_	_	_	_	_
-157-4	BO121	157	era?	era	linguistic	Intonation=rising	End=530.626	_	_	_	_
+157-4	BO121	157	era?	era	linguistic	Intonation=Rising	End=530.626	_	_	_	_
 158-0	BO119	158	bologna	bologna	linguistic	_	Begin=531.187|End=531.906	_	_	_	_
 159-0	BO121	159	bolo[gna]	bologna	linguistic	_	Begin=532.343|End=533.175	_	_	_	4-7(6)
 160-0	BO119	160	[come	come	linguistic	_	Begin=532.582	_	_	_	0-4(6)
@@ -1450,7 +1450,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 170-9	BO121	170	in:::	in	linguistic	ProsodicLink=Yes	_	1x3	_	_	_
 170-10	BO121	170	e::h	eh	linguistic	_	End=582.146	0x2	_	_	_
 171-0	BO119	171	al	al	linguistic	_	Begin=583.107	_	_	_	_
-171-1	BO119	171	nord?	nord	linguistic	Intonation=rising	End=583.985	_	_	_	_
+171-1	BO119	171	nord?	nord	linguistic	Intonation=Rising	End=583.985	_	_	_	_
 172-0	BO121	172	sì	sì	linguistic	_	Begin=583.985	_	_	_	_
 172-1	BO121	172	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 172-2	BO121	172	parlo	parlo	linguistic	_	_	_	_	_	_
@@ -1601,7 +1601,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 187-7	BO119	187	capelli	capelli	linguistic	_	_	_	_	_	_
 187-8	BO119	187	a	a	linguistic	_	_	_	_	_	_
 187-9	BO119	187	bologna	bologna	linguistic	_	_	_	_	_	_
-187-10	BO119	187	magari?	magari	linguistic	Intonation=rising	_	_	_	_	_
+187-10	BO119	187	magari?	magari	linguistic	Intonation=Rising	_	_	_	_	_
 187-11	BO119	187	nel	nel	linguistic	_	_	_	_	_	_
 187-12	BO119	187	senso	senso	linguistic	_	End=646.533	_	_	_	_
 188-0	BO119	188	sta	sta	linguistic	_	Begin=647.057	_	_	_	_
@@ -2679,7 +2679,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 274-12	BO119	274	impatto	impatto	linguistic	_	_	_	_	_	_
 274-13	BO119	274	che	che	linguistic	_	_	_	_	_	_
 274-14	BO119	274	impressione	impressione	linguistic	_	_	_	_	_	_
-274-15	BO119	274	fa?	fa	linguistic	Intonation=rising	End=1003.012	_	_	_	_
+274-15	BO119	274	fa?	fa	linguistic	Intonation=Rising	End=1003.012	_	_	_	_
 275-0	BO121	275	ma	ma	linguistic	_	Begin=1003.87	_	_	_	_
 275-1	BO121	275	guarda	guarda	linguistic	_	_	_	_	_	_
 275-2	BO121	275	dipende	dipende	linguistic	_	End=1004.956	_	_	_	_
@@ -2985,7 +2985,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 302-13	BO119	302	loro	loro	linguistic	_	_	_	_	_	_
 302-14	BO119	302	perché	perché	linguistic	_	_	_	_	_	_
 302-15	BO119	302	non	non	linguistic	_	_	_	_	_	_
-302-16	BO119	302	dovresti?	dovresti	linguistic	Intonation=rising	End=1111.924	_	_	_	_
+302-16	BO119	302	dovresti?	dovresti	linguistic	Intonation=Rising	End=1111.924	_	_	_	_
 303-0	BO121	303	sì	sì	linguistic	_	Begin=1112.064	_	_	_	_
 303-1	BO121	303	sì	sì	linguistic	_	_	_	_	_	_
 303-2	BO121	303	infatti	infatti	linguistic	_	End=1112.971	_	_	_	_
@@ -3159,7 +3159,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 324-15	BO119	324	siete	siete	linguistic	_	_	_	_	_	_
 324-16	BO119	324	entrambi	entrambi	linguistic	_	_	_	_	_	_
 324-17	BO119	324	a	a	linguistic	_	_	_	_	_	_
-324-18	BO119	324	bologna?	bologna	linguistic	Intonation=rising	End=1172.474	_	_	_	_
+324-18	BO119	324	bologna?	bologna	linguistic	Intonation=Rising	End=1172.474	_	_	_	_
 325-0	BO121	325	allora	allora	linguistic	_	Begin=1173.535	_	_	_	_
 325-1	BO121	325	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 325-2	BO121	325	con	con	linguistic	_	_	_	_	_	_
@@ -3605,10 +3605,10 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 369-11	BO121	369	anni	anni	linguistic	_	End=1339.706	_	_	_	_
 370-0	BO119	370	e:::hm	ehm	linguistic	_	Begin=1340.981	0x3	_	_	_
 370-1	BO119	370	in	in	linguistic	_	_	_	_	_	_
-370-2	BO119	370	casa?	casa	linguistic	Intonation=rising	_	_	_	_	_
+370-2	BO119	370	casa?	casa	linguistic	Intonation=Rising	_	_	_	_	_
 370-3	BO119	370	come	come	linguistic	_	_	_	_	_	_
 370-4	BO119	370	vi	vi	linguistic	_	_	_	_	_	_
-370-5	BO119	370	trovate?	trovate	linguistic	Intonation=rising	End=1344.225	_	_	_	_
+370-5	BO119	370	trovate?	trovate	linguistic	Intonation=Rising	End=1344.225	_	_	_	_
 371-0	BO121	371	in	in	linguistic	_	Begin=1345.25	_	_	_	_
 371-1	BO121	371	ca::sa	casa	linguistic	_	_	1x2	_	_	_
 371-2	BO121	371	ci::	ci	linguistic	_	_	1x2	_	_	_
@@ -3748,7 +3748,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 386-9	BO121	386	sereno	sereno	linguistic	_	End=1407.324	_	_	_	_
 387-0	BO119	387	cioè	cioè	linguistic	_	Begin=1407.979	_	_	_	_
 387-1	BO119	387	che	che	linguistic	_	_	_	_	_	_
-387-2	BO119	387	intendi?	intendi	linguistic	Intonation=rising	End=1409.423	_	_	_	_
+387-2	BO119	387	intendi?	intendi	linguistic	Intonation=Rising	End=1409.423	_	_	_	_
 388-0	BO121	388	che:::	che	linguistic	_	Begin=1410.104	2x3	_	_	_
 388-1	BO121	388	so	so	linguistic	_	_	_	_	_	_
 388-2	BO121	388	che	che	linguistic	_	_	_	_	_	_
@@ -3928,7 +3928,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 406-5	BO121	406	bene,	bene	linguistic	Intonation=weakly_rising	_	_	_	_	_
 406-6	BO121	406	ma:::	ma	linguistic	_	_	1x3	_	_	_
 406-7	BO121	406	come	come	linguistic	_	_	_	_	_	_
-406-8	BO121	406	sarà?	sarà	linguistic	Intonation=rising	End=1487.366	_	_	_	_
+406-8	BO121	406	sarà?	sarà	linguistic	Intonation=Rising	End=1487.366	_	_	_	_
 407-0	BO121	407	e:::h	eh	linguistic	_	Begin=1488.023	0x3	_	_	_
 407-1	BO121	407	senza	senza	linguistic	_	_	_	_	_	_
 407-2	BO121	407	sabrina.	sabrina	linguistic	Intonation=falling	End=1489.796	_	_	_	_

@@ -56,8 +56,8 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 4-10	BO093	4	dalle	dalle	linguistic	_	_	_	_	_	_
 4-11	BO093	4	nove	nove	linguistic	_	_	_	_	_	_
 4-12	BO093	4	alle	alle	linguistic	_	_	_	_	_	_
-4-13	BO093	4	undici.	undici	linguistic	Intonation=falling	End=26.83	_	_	_	_
-5-0	BO093	5	confermate?	confermate	linguistic	Intonation=rising	Begin=27.137	_	_	_	_
+4-13	BO093	4	undici.	undici	linguistic	Intonation=Falling	End=26.83	_	_	_	_
+5-0	BO093	5	confermate?	confermate	linguistic	Intonation=Rising	Begin=27.137	_	_	_	_
 5-1	BO093	5	okay	okay	linguistic	_	End=28.901	_	_	_	_
 6-0	BO093	6	e::hm	ehm	linguistic	_	Begin=32.028	0x2	_	_	_
 6-1	BO093	6	perfetto	perfetto	linguistic	_	_	_	_	_	_
@@ -95,7 +95,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 7-9	BO093	7	base	base	linguistic	_	_	_	_	_	_
 7-10	BO093	7	delle	delle	linguistic	_	_	_	_	_	_
 7-11	BO093	7	loro	loro	linguistic	_	_	_	_	_	_
-7-12	BO093	7	patologie.	patologie	linguistic	Intonation=falling	End=50.602	_	_	_	_
+7-12	BO093	7	patologie.	patologie	linguistic	Intonation=Falling	End=50.602	_	_	_	_
 8-0	BO093	8	in	in	linguistic	_	Begin=50.931	_	_	_	_
 8-1	BO093	8	realtà	realtà	linguistic	_	_	_	_	_	_
 8-2	BO093	8	in	in	linguistic	_	_	_	_	_	_
@@ -140,7 +140,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 10-12	BO093	10	centrale	centrale	linguistic	_	_	_	_	_	_
 10-13	BO093	10	è	è	linguistic	_	_	_	_	_	_
 10-14	BO093	10	molto	molto	linguistic	_	_	_	_	_	_
-10-15	BO093	10	ampio.	ampio	linguistic	Intonation=falling	End=77.046	_	_	_	_
+10-15	BO093	10	ampio.	ampio	linguistic	Intonation=Falling	End=77.046	_	_	_	_
 11-0	BO093	11	partiamo	partiamo	linguistic	_	Begin=77.446	_	_	_	_
 11-1	BO093	11	ovviamente	ovviamente	linguistic	_	_	_	_	_	_
 11-2	BO093	11	dalle	dalle	linguistic	_	_	_	_	_	_
@@ -222,7 +222,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 16-0	BO093	16	e:	e	linguistic	_	Begin=119.995	0x1	_	_	_
 16-1	BO093	16	e	e	linguistic	_	_	_	_	_	_
 16-2	BO093	16	così	così	linguistic	_	_	_	_	_	_
-16-3	BO093	16	via.	via	linguistic	Intonation=falling	End=121.024	_	_	_	_
+16-3	BO093	16	via.	via	linguistic	Intonation=Falling	End=121.024	_	_	_	_
 17-0	BO093	17	poi	poi	linguistic	_	Begin=122.395	_	_	_	_
 17-1	BO093	17	abbiamo	abbiamo	linguistic	_	_	_	_	_	_
 17-2	BO093	17	tutta	tutta	linguistic	_	_	_	_	_	_
@@ -241,7 +241,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 18-0	BO093	18	a	a	linguistic	_	Begin=130.261	_	_	_	_
 18-1	BO093	18	delle	delle	linguistic	_	_	_	_	_	_
 18-2	BO093	18	disabilità	disabilità	linguistic	_	_	_	_	_	_
-18-3	BO093	18	intellettuali.	intellettuali	linguistic	Intonation=falling	End=133.053	_	_	_	_
+18-3	BO093	18	intellettuali.	intellettuali	linguistic	Intonation=Falling	End=133.053	_	_	_	_
 19-0	BO093	19	e	e	linguistic	_	Begin=133.343	_	_	_	_
 19-1	BO093	19	qui	qui	linguistic	_	_	_	_	_	_
 19-2	BO093	19	tratteremo	tratteremo	linguistic	_	_	_	_	_	_
@@ -325,7 +325,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 24-2	BO093	24	aprlare	aprlare	linguistic	_	_	_	_	_	_
 24-3	BO093	24	più	più	linguistic	_	_	_	_	_	_
 24-4	BO093	24	di	di	linguistic	_	_	_	_	_	_
-24-5	BO093	24	tanto.	tanto	linguistic	Intonation=falling	End=174.269	_	_	_	_
+24-5	BO093	24	tanto.	tanto	linguistic	Intonation=Falling	End=174.269	_	_	_	_
 25-0	BO093	25	m:h	mh	linguistic	_	Begin=174.511	0x1	_	_	_
 25-1	BO093	25	mentre	mentre	linguistic	_	_	_	_	_	_
 25-2	BO093	25	le	le	linguistic	_	_	_	_	_	_
@@ -437,7 +437,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 33-1	BO093	33	dell'	dell'	linguistic	SpaceAfter=No	_	_	_	_	_
 33-2	BO093	33	area	area	linguistic	_	_	_	_	_	_
 33-3	BO093	33	cerebrale	cerebrale	linguistic	_	_	_	_	_	_
-33-4	BO093	33	coinvolta.	coinvolta	linguistic	Intonation=falling	End=231.424	_	_	_	_
+33-4	BO093	33	coinvolta.	coinvolta	linguistic	Intonation=Falling	End=231.424	_	_	_	_
 34-0	BO093	34	noi	noi	linguistic	_	Begin=231.764	_	_	_	_
 34-1	BO093	34	ci	ci	linguistic	_	_	_	_	_	_
 34-2	BO093	34	occuperemo	occuperemo	linguistic	_	_	_	_	_	_
@@ -447,14 +447,14 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 34-6	BO093	34	delle	delle	linguistic	_	_	_	_	_	_
 34-7	BO093	34	malattie	malattie	linguistic	_	_	_	_	_	_
 34-8	BO093	34	neurodegenerative	neurodegenerative	linguistic	_	_	_	_	_	_
-34-9	BO093	34	croniche.	croniche	linguistic	Intonation=falling	End=239.021	_	_	_	_
+34-9	BO093	34	croniche.	croniche	linguistic	Intonation=Falling	End=239.021	_	_	_	_
 35-0	BO093	35	m:h	mh	linguistic	_	Begin=239.793	0x1	_	_	_
 35-1	BO093	35	perché	perché	linguistic	_	_	_	_	_	_
 35-2	BO093	35	questa	questa	linguistic	_	_	_	_	_	_
-35-3	BO093	35	scelta?	scelta	linguistic	Intonation=rising	End=241.848	_	_	_	_
+35-3	BO093	35	scelta?	scelta	linguistic	Intonation=Rising	End=241.848	_	_	_	_
 36-0	BO093	36	per	per	linguistic	_	Begin=242.798	_	_	_	_
 36-1	BO093	36	due	due	linguistic	_	_	_	_	_	_
-36-2	BO093	36	motivi.	motivi	linguistic	Intonation=falling	End=243.932	_	_	_	_
+36-2	BO093	36	motivi.	motivi	linguistic	Intonation=Falling	End=243.932	_	_	_	_
 37-0	BO093	37	prima	prima	linguistic	_	Begin=244.415	_	_	_	_
 37-1	BO093	37	di	di	linguistic	_	_	_	_	_	_
 37-2	BO093	37	tutto	tutto	linguistic	_	_	_	_	_	_
@@ -499,7 +499,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 39-4	BO093	39	questo	questo	linguistic	_	_	_	_	_	_
 39-5	BO093	39	tipo	tipo	linguistic	_	_	_	_	_	_
 39-6	BO093	39	di	di	linguistic	_	_	_	_	_	_
-39-7	BO093	39	trattazione.	trattazione	linguistic	Intonation=falling	End=266.569	_	_	_	_
+39-7	BO093	39	trattazione.	trattazione	linguistic	Intonation=Falling	End=266.569	_	_	_	_
 40-0	BO093	40	i:l	il	linguistic	_	Begin=267.454	0x1	_	_	_
 40-1	BO093	40	secondo	secondo	linguistic	_	_	_	_	_	_
 40-2	BO093	40	aspetto	aspetto	linguistic	_	_	_	_	_	_
@@ -553,7 +553,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 43-10	BO093	43	di	di	linguistic	_	_	_	_	_	_
 43-11	BO093	43	lavoro	lavoro	linguistic	_	_	_	_	_	_
 43-12	BO093	43	molto	molto	linguistic	_	_	_	_	_	_
-43-13	BO093	43	importante.	importante	linguistic	Intonation=falling	End=300.65	_	_	_	_
+43-13	BO093	43	importante.	importante	linguistic	Intonation=Falling	End=300.65	_	_	_	_
 44-0	BO093	44	e::h	eh	linguistic	_	Begin=301.117	0x2	_	_	_
 44-1	BO093	44	classicamente	classicamente	linguistic	_	_	_	_	_	_
 44-2	BO093	44	nei	nei	linguistic	_	_	_	_	_	_
@@ -584,7 +584,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 44-27	BO093	44	occupano	occupano	linguistic	_	_	_	_	_	_
 44-28	BO093	44	delle	delle	linguistic	_	_	_	_	_	_
 44-29	BO093	44	malattie	malattie	linguistic	_	_	_	_	_	_
-44-30	BO093	44	neurodegenerative.	neurodegenerative	linguistic	Intonation=falling	End=313.881	_	_	_	_
+44-30	BO093	44	neurodegenerative.	neurodegenerative	linguistic	Intonation=Falling	End=313.881	_	_	_	_
 45-0	BO093	45	ed	ed	linguistic	_	Begin=314.331	_	_	_	_
 45-1	BO093	45	è	è	linguistic	_	_	_	_	_	_
 45-2	BO093	45	per	per	linguistic	_	_	_	_	_	_
@@ -613,7 +613,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 45-25	BO093	45	un	un	linguistic	_	_	_	_	_	_
 45-26	BO093	45	po'	po'	linguistic	_	_	_	_	_	_
 45-27	BO093	45	questi	questi	linguistic	_	_	_	_	_	_
-45-28	BO093	45	argomenti.	argomenti	linguistic	Intonation=falling	End=326.277	_	_	_	_
+45-28	BO093	45	argomenti.	argomenti	linguistic	Intonation=Falling	End=326.277	_	_	_	_
 46-0	BO093	46	e::hm	ehm	linguistic	_	Begin=327.179	0x2	_	_	_
 46-1	BO093	46	c'	c'	linguistic	SpaceAfter=No	_	_	_	_	_
 46-2	BO093	46	è	è	linguistic	_	_	_	_	_	_
@@ -714,7 +714,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 52-15	BO093	52	cellulari	cellulari	linguistic	_	_	_	_	_	_
 52-16	BO093	52	di	di	linguistic	_	_	_	_	_	_
 52-17	BO093	52	questi	questi	linguistic	_	_	_	_	_	_
-52-18	BO093	52	processi.	processi	linguistic	Intonation=falling	End=375.002	_	_	_	_
+52-18	BO093	52	processi.	processi	linguistic	Intonation=Falling	End=375.002	_	_	_	_
 53-0	BO093	53	ora	ora	linguistic	_	Begin=376.266	_	_	_	_
 53-1	BO093	53	e::h	eh	linguistic	_	_	0x2	_	_	_
 53-2	BO093	53	tra	tra	linguistic	_	_	_	_	_	_
@@ -773,7 +773,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 57-6	BO093	57	al	al	linguistic	_	_	_	_	_	_
 57-7	BO093	57	morbo	morbo	linguistic	_	_	_	_	_	_
 57-8	BO093	57	di	di	linguistic	_	_	_	_	_	_
-57-9	BO093	57	parkinson.	parkinson	linguistic	Intonation=falling	End=407.383	_	_	_	_
+57-9	BO093	57	parkinson.	parkinson	linguistic	Intonation=Falling	End=407.383	_	_	_	_
 58-0	BO093	58	un'	un'	linguistic	SpaceAfter=No	Begin=407.802	_	_	_	_
 58-1	BO093	58	altra	altra	linguistic	_	_	_	_	_	_
 58-2	BO093	58	patologia	patologia	linguistic	_	_	_	_	_	_
@@ -852,7 +852,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 66-6	BO093	66	manifestazione	manifestazione	linguistic	_	_	_	_	_	_
 66-7	BO093	66	xx	x	unknown	_	_	_	_	_	_
 66-8	BO093	66	almeno	almeno	linguistic	_	_	_	_	_	_
-66-9	BO093	66	inizialmente.	inizialmente	linguistic	Intonation=falling	End=458.809	_	_	_	_
+66-9	BO093	66	inizialmente.	inizialmente	linguistic	Intonation=Falling	End=458.809	_	_	_	_
 67-0	BO093	67	perché	perché	linguistic	_	Begin=459.165	_	_	_	_
 67-1	BO093	67	nell'	nell'	linguistic	SpaceAfter=No	_	_	_	_	_
 67-2	BO093	67	alzheimer	alzheimer	linguistic	_	_	_	_	_	_
@@ -914,7 +914,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 70-0	BO093	70	e	e	linguistic	_	Begin=489.843	_	_	_	_
 70-1	BO093	70	non	non	linguistic	_	_	_	_	_	_
 70-2	BO093	70	alla	alla	linguistic	_	_	_	_	_	_
-70-3	BO093	70	dmenza.	dmenza	linguistic	Intonation=falling	End=491.559	_	_	_	_
+70-3	BO093	70	dmenza.	dmenza	linguistic	Intonation=Falling	End=491.559	_	_	_	_
 71-0	BO093	71	e::h	eh	linguistic	_	Begin=492.137	0x2	_	_	_
 71-1	BO093	71	lo	lo	linguistic	_	_	_	_	_	_
 71-2	BO093	71	stesso	stesso	linguistic	_	_	_	_	_	_
@@ -922,7 +922,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 71-4	BO093	71	nel	nel	linguistic	_	_	_	_	_	_
 71-5	BO093	71	morbo	morbo	linguistic	_	_	_	_	_	_
 71-6	BO093	71	di	di	linguistic	_	_	_	_	_	_
-71-7	BO093	71	huntington.	huntington	linguistic	Intonation=falling	End=495.842	_	_	_	_
+71-7	BO093	71	huntington.	huntington	linguistic	Intonation=Falling	End=495.842	_	_	_	_
 72-0	BO093	72	però	però	linguistic	_	Begin=496.158	_	_	_	_
 72-1	BO093	72	in	in	linguistic	_	_	_	_	_	_
 72-2	BO093	72	realtà,	realtà	linguistic	Intonation=weakly_rising	End=497.599	_	_	_	_
@@ -982,7 +982,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 78-15	BO093	78	demenza,	demenza	linguistic	Intonation=weakly_rising	End=526.49	_	_	_	_
 79-0	BO093	79	a::	a	linguistic	_	Begin=526.841	0x2	_	_	_
 79-1	BO093	79	da	da	linguistic	_	_	_	_	_	_
-79-2	BO093	79	parkinson.	parkinson	linguistic	Intonation=falling	End=528.691	_	_	_	_
+79-2	BO093	79	parkinson.	parkinson	linguistic	Intonation=Falling	End=528.691	_	_	_	_
 80-0	BO093	80	e	e	linguistic	_	Begin=529.288	_	_	_	_
 80-1	BO093	80	per	per	linguistic	_	_	_	_	_	_
 80-2	BO093	80	non	non	linguistic	_	_	_	_	_	_
@@ -1002,7 +1002,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 80-16	BO093	80	del	del	linguistic	_	_	_	_	_	_
 80-17	BO093	80	morbo	morbo	linguistic	_	_	_	_	_	_
 80-18	BO093	80	di	di	linguistic	_	_	_	_	_	_
-80-19	BO093	80	huntington.	huntington	linguistic	Intonation=falling	End=538.019	_	_	_	_
+80-19	BO093	80	huntington.	huntington	linguistic	Intonation=Falling	End=538.019	_	_	_	_
 81-0	BO093	81	quindi	quindi	linguistic	_	Begin=538.427	_	_	_	_
 81-1	BO093	81	fondamentalmente	fondamentalmente	linguistic	_	_	_	_	_	_
 81-2	BO093	81	per	per	linguistic	_	_	_	_	_	_
@@ -1034,14 +1034,14 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 83-1	BO093	83	e::h	eh	linguistic	_	_	0x2	_	_	_
 83-2	BO093	83	possono	possono	linguistic	_	_	_	_	_	_
 83-3	BO093	83	essere	essere	linguistic	_	_	_	_	_	_
-83-4	BO093	83	assimilabili.	assimilabili	linguistic	Intonation=falling	End=556.454	_	_	_	_
+83-4	BO093	83	assimilabili.	assimilabili	linguistic	Intonation=Falling	End=556.454	_	_	_	_
 84-0	BO093	84	e::h	eh	linguistic	_	Begin=557.729	0x2	_	_	_
 84-1	BO093	84	e	e	linguistic	_	_	_	_	_	_
 84-2	BO093	84	questo	questo	linguistic	_	_	_	_	_	_
 84-3	BO093	84	è	è	linguistic	_	_	_	_	_	_
 84-4	BO093	84	un	un	linguistic	_	_	_	_	_	_
 84-5	BO093	84	primo	primo	linguistic	_	_	_	_	_	_
-84-6	BO093	84	aspetto.	aspetto	linguistic	Intonation=falling	End=560.15	_	_	_	_
+84-6	BO093	84	aspetto.	aspetto	linguistic	Intonation=Falling	End=560.15	_	_	_	_
 85-0	BO093	85	il	il	linguistic	_	Begin=560.463	_	_	_	_
 85-1	BO093	85	secondo	secondo	linguistic	_	_	_	_	_	_
 85-2	BO093	85	aspetto	aspetto	linguistic	_	_	_	_	_	_
@@ -1088,7 +1088,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 89-4	BO093	89	che	che	linguistic	_	_	_	_	_	_
 89-5	BO093	89	sono	sono	linguistic	_	End=586.237	_	_	_	_
 90-0	BO093	90	molto	molto	linguistic	_	Begin=586.82	_	_	_	_
-90-1	BO093	90	sovrapponibili.	sovrapponibili	linguistic	Intonation=falling	End=588.714	_	_	_	_
+90-1	BO093	90	sovrapponibili.	sovrapponibili	linguistic	Intonation=Falling	End=588.714	_	_	_	_
 91-0	BO093	91	questo	questo	linguistic	_	Begin=590.028|End=590.858	_	_	_	_
 92-0	BO093	92	ovviamente	ovviamente	linguistic	_	Begin=591.18	_	_	_	_
 92-1	BO093	92	da	da	linguistic	_	_	_	_	_	_
@@ -1153,7 +1153,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 97-17	BO093	97	meccanismi	meccanismi	linguistic	_	_	_	_	_	_
 97-18	BO093	97	comuni,	comuni	linguistic	Intonation=weakly_rising	End=625.738	_	_	_	_
 98-0	BO093	98	alle	alle	linguistic	_	Begin=626.132	_	_	_	_
-98-1	BO093	98	neuropatologie.	neuropatologie	linguistic	Intonation=falling	End=627.762	_	_	_	_
+98-1	BO093	98	neuropatologie.	neuropatologie	linguistic	Intonation=Falling	End=627.762	_	_	_	_
 99-0	BO093	99	con	con	linguistic	_	Begin=628.31	_	_	_	_
 99-1	BO093	99	la	la	linguistic	_	_	_	_	_	_
 99-2	BO093	99	speranza	speranza	linguistic	_	_	_	_	_	_
@@ -1170,12 +1170,12 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 99-13	BO093	99	a	a	linguistic	_	_	_	_	_	_
 99-14	BO093	99	tutte	tutte	linguistic	_	_	_	_	_	_
 99-15	BO093	99	le	le	linguistic	_	_	_	_	_	_
-99-16	BO093	99	patologie.	patologie	linguistic	Intonation=falling	End=635.613	_	_	_	_
+99-16	BO093	99	patologie.	patologie	linguistic	Intonation=Falling	End=635.613	_	_	_	_
 100-0	BO093	100	quindi	quindi	linguistic	_	Begin=636.457	_	_	_	_
 100-1	BO093	100	non	non	linguistic	_	_	_	_	_	_
 100-2	BO093	100	specifici	specifici	linguistic	_	_	_	_	_	_
 100-3	BO093	100	per	per	linguistic	_	_	_	_	_	_
-100-4	BO093	100	una.	una	linguistic	Intonation=falling	End=639.021	_	_	_	_
+100-4	BO093	100	una.	una	linguistic	Intonation=Falling	End=639.021	_	_	_	_
 101-0	BO093	101	questo	questo	linguistic	_	Begin=639.595	_	_	_	_
 101-1	BO093	101	in	in	linguistic	_	_	_	_	_	_
 101-2	BO093	101	realtà,	realtà	linguistic	Intonation=weakly_rising	End=640.776	_	_	_	_
@@ -1210,7 +1210,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 105-7	BO093	105	commercio	commercio	linguistic	_	_	_	_	_	_
 105-8	BO093	105	sono	sono	linguistic	_	_	_	_	_	_
 105-9	BO093	105	stati	stati	linguistic	_	_	_	_	_	_
-105-10	BO093	105	sintomatici.	sintomatici	linguistic	Intonation=falling	End=657.623	_	_	_	_
+105-10	BO093	105	sintomatici.	sintomatici	linguistic	Intonation=Falling	End=657.623	_	_	_	_
 106-0	BO093	106	non	non	linguistic	_	Begin=658.237	_	_	_	_
 106-1	BO093	106	ci	ci	linguistic	_	_	_	_	_	_
 106-2	BO093	106	sono	sono	linguistic	_	_	_	_	_	_
@@ -1220,7 +1220,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 106-6	BO093	106	nessuna	nessuna	linguistic	_	_	_	_	_	_
 106-7	BO093	106	di	di	linguistic	_	_	_	_	_	_
 106-8	BO093	106	queste	queste	linguistic	_	_	_	_	_	_
-106-9	BO093	106	patologie.	patologie	linguistic	Intonation=falling	End=662.709	_	_	_	_
+106-9	BO093	106	patologie.	patologie	linguistic	Intonation=Falling	End=662.709	_	_	_	_
 107-0	BO093	107	quindi,	quindi	linguistic	Intonation=weakly_rising	Begin=663.977|End=665.131	_	_	_	_
 108-0	BO093	108	nell'	nell'	linguistic	SpaceAfter=No	Begin=665.443	_	_	_	_
 108-1	BO093	108	idea	idea	linguistic	_	_	_	_	_	_
@@ -1256,7 +1256,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 111-8	BO093	111	valutare	valutare	linguistic	_	_	_	_	_	_
 111-9	BO093	111	questi	questi	linguistic	_	_	_	_	_	_
 111-10	BO093	111	meccanismi	meccanismi	linguistic	_	_	_	_	_	_
-111-11	BO093	111	comuni.	comuni	linguistic	Intonation=falling	End=685.05	_	_	_	_
+111-11	BO093	111	comuni.	comuni	linguistic	Intonation=Falling	End=685.05	_	_	_	_
 112-0	BO093	112	e	e	linguistic	_	Begin=685.878	_	_	_	_
 112-1	BO093	112	quindi	quindi	linguistic	_	_	_	_	_	_
 112-2	BO093	112	nella	nella	linguistic	_	_	_	_	_	_
@@ -1296,7 +1296,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 113-14	BO093	113	nelle	nelle	linguistic	_	_	_	_	_	_
 113-15	BO093	113	prossime	prossime	linguistic	_	_	_	_	_	_
 113-16	BO093	113	due	due	linguistic	_	_	_	_	_	_
-113-17	BO093	113	lezioni.	lezioni	linguistic	Intonation=falling	End=703.684	_	_	_	_
+113-17	BO093	113	lezioni.	lezioni	linguistic	Intonation=Falling	End=703.684	_	_	_	_
 114-0	BO093	114	e::h	eh	linguistic	_	Begin=704.22	0x2	_	_	_
 114-1	BO093	114	dove	dove	linguistic	_	_	_	_	_	_
 114-2	BO093	114	però	però	linguistic	_	_	_	_	_	_
@@ -1305,12 +1305,12 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 114-5	BO093	114	di	di	linguistic	_	_	_	_	_	_
 114-6	BO093	114	queste	queste	linguistic	_	_	_	_	_	_
 114-7	BO093	114	caratteristiche	caratteristiche	linguistic	_	_	_	_	_	_
-114-8	BO093	114	comuni.	comuni	linguistic	Intonation=falling	End=708.617	_	_	_	_
+114-8	BO093	114	comuni.	comuni	linguistic	Intonation=Falling	End=708.617	_	_	_	_
 115-0	BO093	115	allora	allora	linguistic	_	Begin=709.163|End=709.71	_	_	_	_
 116-0	BO093	116	facciamo	facciamo	linguistic	_	Begin=710.491	_	_	_	_
 116-1	BO093	116	un'	un'	linguistic	SpaceAfter=No	_	_	_	_	_
 116-2	BO093	116	altra	altra	linguistic	_	_	_	_	_	_
-116-3	BO093	116	premessa.	premessa	linguistic	Intonation=falling	End=712.206	_	_	_	_
+116-3	BO093	116	premessa.	premessa	linguistic	Intonation=Falling	End=712.206	_	_	_	_
 117-0	BO093	117	m:h	mh	linguistic	_	Begin=712.655	0x1	_	_	_
 117-1	BO093	117	la	la	linguistic	_	_	_	_	_	_
 117-2	BO093	117	prima	prima	linguistic	_	_	_	_	_	_
@@ -1335,7 +1335,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 117-21	BO093	117	ha	ha	linguistic	_	_	_	_	_	_
 117-22	BO093	117	causato	causato	linguistic	_	_	_	_	_	_
 117-23	BO093	117	quella	quella	linguistic	_	_	_	_	_	_
-117-24	BO093	117	patologia.	patologia	linguistic	Intonation=falling	End=724.512	_	_	_	_
+117-24	BO093	117	patologia.	patologia	linguistic	Intonation=Falling	End=724.512	_	_	_	_
 118-0	BO093	118	e	e	linguistic	_	Begin=725.167	_	_	_	_
 118-1	BO093	118	e::h	eh	linguistic	_	_	0x2	_	_	_
 118-2	BO093	118	ci	ci	linguistic	_	_	_	_	_	_
@@ -1363,7 +1363,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 119-5	BO093	119	delle	delle	linguistic	_	_	_	_	_	_
 119-6	BO093	119	cosiddette	cosiddette	linguistic	_	_	_	_	_	_
 119-7	BO093	119	eziologie	eziologie	linguistic	_	_	_	_	_	_
-119-8	BO093	119	sporadiche.	sporadiche	linguistic	Intonation=falling	End=740.914	_	_	_	_
+119-8	BO093	119	sporadiche.	sporadiche	linguistic	Intonation=Falling	End=740.914	_	_	_	_
 120-0	BO093	120	cioè	cioè	linguistic	_	Begin=741.608	_	_	_	_
 120-1	BO093	120	ci	ci	linguistic	_	_	_	_	_	_
 120-2	BO093	120	sono	sono	linguistic	_	_	_	_	_	_
@@ -1383,7 +1383,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 120-16	BO093	120	la	la	linguistic	_	_	_	_	_	_
 120-17	BO093	120	causa	causa	linguistic	_	_	_	_	_	_
 120-18	BO093	120	della	della	linguistic	_	_	_	_	_	_
-120-19	BO093	120	patologia.	patologia	linguistic	Intonation=falling	End=749.403	_	_	_	_
+120-19	BO093	120	patologia.	patologia	linguistic	Intonation=Falling	End=749.403	_	_	_	_
 121-0	BO093	121	tra	tra	linguistic	_	Begin=750.583	_	_	_	_
 121-1	BO093	121	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
 121-2	BO093	121	altro	altro	linguistic	_	_	_	_	_	_
@@ -1443,7 +1443,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 124-4	BO093	124	suscettibilità	suscettibilità	linguistic	_	End=777.95	_	_	_	_
 125-0	BO093	125	la	la	linguistic	_	Begin=778.222	_	_	_	_
 125-1	BO093	125	forma	forma	linguistic	_	_	_	_	_	_
-125-2	BO093	125	sporadica.	sporadica	linguistic	Intonation=falling	End=779.536	_	_	_	_
+125-2	BO093	125	sporadica.	sporadica	linguistic	Intonation=Falling	End=779.536	_	_	_	_
 126-0	BO093	126	che	che	linguistic	_	Begin=780.088	_	_	_	_
 126-1	BO093	126	è	è	linguistic	_	_	_	_	_	_
 126-2	BO093	126	un	un	linguistic	_	_	_	_	_	_
@@ -1470,7 +1470,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 128-7	BO093	128	abbia	abbia	linguistic	_	_	_	_	_	_
 128-8	BO093	128	un'	un'	linguistic	SpaceAfter=No	_	_	_	_	_
 128-9	BO093	128	incidenza	incidenza	linguistic	_	_	_	_	_	_
-128-10	BO093	128	maggiore.	maggiore	linguistic	Intonation=falling	End=795.124	_	_	_	_
+128-10	BO093	128	maggiore.	maggiore	linguistic	Intonation=Falling	End=795.124	_	_	_	_
 129-0	BO093	129	e::hm	ehm	linguistic	_	Begin=796.779|End=797.694	0x2	_	_	_
 130-0	BO093	130	considerando	considerando	linguistic	_	Begin=798.315	_	_	_	_
 130-1	BO093	130	le	le	linguistic	_	_	_	_	_	_
@@ -1552,7 +1552,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 134-7	BO093	134	causa	causa	linguistic	_	_	_	_	_	_
 134-8	BO093	134	genetica	genetica	linguistic	_	_	_	_	_	_
 134-9	BO093	134	che	che	linguistic	_	_	_	_	_	_
-134-10	BO093	134	sporadica.	sporadica	linguistic	Intonation=falling	End=836.757	_	_	_	_
+134-10	BO093	134	sporadica.	sporadica	linguistic	Intonation=Falling	End=836.757	_	_	_	_
 135-0	BO093	135	e	e	linguistic	_	Begin=837.958	_	_	_	_
 135-1	BO093	135	in	in	linguistic	_	_	_	_	_	_
 135-2	BO093	135	linea	linea	linguistic	_	_	_	_	_	_
@@ -1583,7 +1583,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 136-7	BO093	136	invece	invece	linguistic	_	_	_	_	_	_
 136-8	BO093	136	un'	un'	linguistic	SpaceAfter=No	_	_	_	_	_
 136-9	BO093	136	eziologia	eziologia	linguistic	_	_	_	_	_	_
-136-10	BO093	136	sporadica.	sporadica	linguistic	Intonation=falling	End=851.583	_	_	_	_
+136-10	BO093	136	sporadica.	sporadica	linguistic	Intonation=Falling	End=851.583	_	_	_	_
 137-0	BO093	137	l'	l'	linguistic	SpaceAfter=No	Begin=853.144	_	_	_	_
 137-1	BO093	137	altro	altro	linguistic	_	_	_	_	_	_
 137-2	BO093	137	aspetto	aspetto	linguistic	_	_	_	_	_	_
@@ -1622,7 +1622,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 139-8	BO093	139	presenza	presenza	linguistic	_	_	_	_	_	_
 139-9	BO093	139	di	di	linguistic	_	_	_	_	_	_
 139-10	BO093	139	aggregati	aggregati	linguistic	_	_	_	_	_	_
-139-11	BO093	139	proteici.	proteici	linguistic	Intonation=falling	End=871.535	_	_	_	_
+139-11	BO093	139	proteici.	proteici	linguistic	Intonation=Falling	End=871.535	_	_	_	_
 140-0	BO093	140	se	se	linguistic	_	Begin=872.587	_	_	_	_
 140-1	BO093	140	si	si	linguistic	_	_	_	_	_	_
 140-2	BO093	140	va	va	linguistic	_	_	_	_	_	_
@@ -1644,7 +1644,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 140-18	BO093	140	degli	degli	linguistic	_	_	_	_	_	_
 140-19	BO093	140	aggregati	aggregati	linguistic	_	_	_	_	_	_
 140-20	BO093	140	di	di	linguistic	_	_	_	_	_	_
-140-21	BO093	140	proteine.	proteine	linguistic	Intonation=falling	End=880.805	_	_	_	_
+140-21	BO093	140	proteine.	proteine	linguistic	Intonation=Falling	End=880.805	_	_	_	_
 141-0	BO093	141	possono	possono	linguistic	_	Begin=882.191	_	_	_	_
 141-1	BO093	141	essere	essere	linguistic	_	_	_	_	_	_
 141-2	BO093	141	intracellulari	intracellulari	linguistic	_	_	_	_	_	_
@@ -1689,7 +1689,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 143-6	BO093	143	di	di	linguistic	_	_	_	_	_	_
 143-7	BO093	143	questi	questi	linguistic	_	_	_	_	_	_
 143-8	BO093	143	aggregati	aggregati	linguistic	_	_	_	_	_	_
-143-9	BO093	143	proteici.	proteici	linguistic	Intonation=falling	End=907.363	_	_	_	_
+143-9	BO093	143	proteici.	proteici	linguistic	Intonation=Falling	End=907.363	_	_	_	_
 144-0	BO093	144	per	per	linguistic	_	Begin=907.608	_	_	_	_
 144-1	BO093	144	questo	questo	linguistic	_	_	_	_	_	_
 144-2	BO093	144	motivo	motivo	linguistic	_	_	_	_	_	_
@@ -1704,7 +1704,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 145-2	BO093	145	comunemente	comunemente	linguistic	_	_	_	_	_	_
 145-3	BO093	145	delle	delle	linguistic	_	_	_	_	_	_
 145-4	BO093	145	proteine	proteine	linguistic	_	_	_	_	_	_
-145-5	BO093	145	cattive.	cattive	linguistic	Intonation=falling	End=917.027	_	_	_	_
+145-5	BO093	145	cattive.	cattive	linguistic	Intonation=Falling	End=917.027	_	_	_	_
 146-0	BO093	146	perché	perché	linguistic	_	Begin=918.751	_	_	_	_
 146-1	BO093	146	c'	c'	linguistic	SpaceAfter=No	_	_	_	_	_
 146-2	BO093	146	è	è	linguistic	_	_	_	_	_	_
@@ -1716,7 +1716,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 146-8	BO093	146	del	del	linguistic	_	_	_	_	_	_
 146-9	BO093	146	emtabolismo	emtabolismo	linguistic	_	_	_	_	_	_
 146-10	BO093	146	delle	delle	linguistic	_	_	_	_	_	_
-146-11	BO093	146	proteine.	proteine	linguistic	Intonation=falling	End=925.098	_	_	_	_
+146-11	BO093	146	proteine.	proteine	linguistic	Intonation=Falling	End=925.098	_	_	_	_
 147-0	BO093	147	in	in	linguistic	_	Begin=925.683	_	_	_	_
 147-1	BO093	147	particolar	particolar	linguistic	_	_	_	_	_	_
 147-2	BO093	147	modo	modo	linguistic	_	_	_	_	_	_
@@ -1733,7 +1733,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 148-6	BO093	148	di	di	linguistic	_	_	_	_	_	_
 148-7	BO093	148	degradazionedi	degradazionedi	linguistic	_	_	_	_	_	_
 148-8	BO093	148	queste	queste	linguistic	_	_	_	_	_	_
-148-9	BO093	148	proteine.	proteine	linguistic	Intonation=falling	End=935.15	_	_	_	_
+148-9	BO093	148	proteine.	proteine	linguistic	Intonation=Falling	End=935.15	_	_	_	_
 149-0	BO093	149	quindi	quindi	linguistic	_	Begin=935.566	_	_	_	_
 149-1	BO093	149	del	del	linguistic	_	_	_	_	_	_
 149-2	BO093	149	sistema	sistema	linguistic	_	_	_	_	_	_
@@ -1744,7 +1744,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 149-7	BO093	149	lisosomiale	lisosomiale	linguistic	_	_	_	_	_	_
 149-8	BO093	149	o	o	linguistic	_	_	_	_	_	_
 149-9	BO093	149	di	di	linguistic	_	_	_	_	_	_
-149-10	BO093	149	entrambi.	entrambi	linguistic	Intonation=falling	End=941.61	_	_	_	_
+149-10	BO093	149	entrambi.	entrambi	linguistic	Intonation=Falling	End=941.61	_	_	_	_
 150-0	BO093	150	ehper	ehper	linguistic	_	Begin=942.519	_	_	_	_
 150-1	BO093	150	cui	cui	linguistic	_	_	_	_	_	_
 150-2	BO093	150	m:h	mh	linguistic	_	_	0x1	_	_	_
@@ -1767,7 +1767,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 152-3	BO093	152	dei	dei	linguistic	_	_	_	_	_	_
 152-4	BO093	152	sistemi	sistemi	linguistic	_	_	_	_	_	_
 152-5	BO093	152	di	di	linguistic	_	_	_	_	_	_
-152-6	BO093	152	degradazione.	degradazione	linguistic	Intonation=falling	End=956.975	_	_	_	_
+152-6	BO093	152	degradazione.	degradazione	linguistic	Intonation=Falling	End=956.975	_	_	_	_
 153-0	BO093	153	poi	poi	linguistic	_	Begin=958.103	_	_	_	_
 153-1	BO093	153	come	come	linguistic	_	_	_	_	_	_
 153-2	BO093	153	sempre	sempre	linguistic	_	_	_	_	_	_
@@ -1818,7 +1818,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 160-9	BO093	160	di	di	linguistic	_	_	_	_	_	_
 160-10	BO093	160	degradazione	degradazione	linguistic	_	_	_	_	_	_
 160-11	BO093	160	non	non	linguistic	_	_	_	_	_	_
-160-12	BO093	160	funziona.	funziona	linguistic	Intonation=falling	End=987.129	_	_	_	_
+160-12	BO093	160	funziona.	funziona	linguistic	Intonation=Falling	End=987.129	_	_	_	_
 161-0	BO093	161	tra	tra	linguistic	_	Begin=989.108	_	_	_	_
 161-1	BO093	161	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
 161-2	BO093	161	altro	altro	linguistic	_	_	_	_	_	_
@@ -1830,12 +1830,12 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 161-8	BO093	161	processi	processi	linguistic	_	_	_	_	_	_
 161-9	BO093	161	vadano	vadano	linguistic	_	_	_	_	_	_
 161-10	BO093	161	in	in	linguistic	_	_	_	_	_	_
-161-11	BO093	161	parallelo.	parallelo	linguistic	Intonation=falling	End=993.512	_	_	_	_
+161-11	BO093	161	parallelo.	parallelo	linguistic	Intonation=Falling	End=993.512	_	_	_	_
 162-0	BO093	162	e	e	linguistic	_	Begin=994.969	_	_	_	_
 162-1	BO093	162	s'(	s'	linguistic	SpaceAfter=No	_	_	_	_	_
 162-2	BO093	162	influenzino	influenzino	linguistic	_	_	_	_	_	_
 162-3	BO093	162	a	a	linguistic	_	_	_	_	_	_
-162-4	BO093	162	vicenda.	vicenda	linguistic	Intonation=falling	End=996.785	_	_	_	_
+162-4	BO093	162	vicenda.	vicenda	linguistic	Intonation=Falling	End=996.785	_	_	_	_
 163-0	BO093	163	per	per	linguistic	_	Begin=998.278	_	_	_	_
 163-1	BO093	163	cui	cui	linguistic	_	_	_	_	_	_
 163-2	BO093	163	abbiamo	abbiamo	linguistic	_	_	_	_	_	_
@@ -1845,7 +1845,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 163-6	BO093	163	da	da	linguistic	_	_	_	_	_	_
 163-7	BO093	163	tenere	tenere	linguistic	_	_	_	_	_	_
 163-8	BO093	163	in	in	linguistic	_	_	_	_	_	_
-163-9	BO093	163	considerazione.	considerazione	linguistic	Intonation=falling	End=1002.801	_	_	_	_
+163-9	BO093	163	considerazione.	considerazione	linguistic	Intonation=Falling	End=1002.801	_	_	_	_
 164-0	BO093	164	l'	l'	linguistic	SpaceAfter=No	Begin=1003.42	_	_	_	_
 164-1	BO093	164	altro	altro	linguistic	_	_	_	_	_	_
 164-2	BO093	164	aspetto	aspetto	linguistic	_	_	_	_	_	_
@@ -1866,9 +1866,9 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 165-1	BO093	165	diciamo	diciamo	linguistic	_	_	_	_	_	_
 165-2	BO093	165	qualcosa	qualcosa	linguistic	_	_	_	_	_	_
 165-3	BO093	165	di	di	linguistic	_	_	_	_	_	_
-165-4	BO093	165	negativo.	negativo	linguistic	Intonation=falling	End=1015.14	_	_	_	_
+165-4	BO093	165	negativo.	negativo	linguistic	Intonation=Falling	End=1015.14	_	_	_	_
 166-0	BO093	166	nella	nella	linguistic	_	Begin=1015.432	_	_	_	_
-166-1	BO093	166	cellula.	cellula	linguistic	Intonation=falling	End=1016.509	_	_	_	_
+166-1	BO093	166	cellula.	cellula	linguistic	Intonation=Falling	End=1016.509	_	_	_	_
 167-0	BO093	167	per	per	linguistic	_	Begin=1017.272	_	_	_	_
 167-1	BO093	167	cui	cui	linguistic	_	_	_	_	_	_
 167-2	BO093	167	e::h	eh	linguistic	_	_	0x2	_	_	_
@@ -1889,7 +1889,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 168-0	BO093	168	con	con	linguistic	_	Begin=1026.924	_	_	_	_
 168-1	BO093	168	dei	dei	linguistic	_	_	_	_	_	_
 168-2	BO093	168	farmaci	farmaci	linguistic	_	_	_	_	_	_
-168-3	BO093	168	antiaggreganti.	antiaggreganti	linguistic	Intonation=falling	End=1029.387	_	_	_	_
+168-3	BO093	168	antiaggreganti.	antiaggreganti	linguistic	Intonation=Falling	End=1029.387	_	_	_	_
 169-0	BO093	169	cioè	cioè	linguistic	_	Begin=1030.001	_	_	_	_
 169-1	BO093	169	dei	dei	linguistic	_	_	_	_	_	_
 169-2	BO093	169	f~	f~	linguistic	Interrupted=Yes	_	_	_	_	_
@@ -1907,7 +1907,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 170-3	BO093	170	a	a	linguistic	_	_	_	_	_	_
 170-4	BO093	170	dare	dare	linguistic	_	_	_	_	_	_
 170-5	BO093	170	queste	queste	linguistic	_	_	_	_	_	_
-170-6	BO093	170	inclusioni.	inclusioni	linguistic	Intonation=falling	End=1038.986	_	_	_	_
+170-6	BO093	170	inclusioni.	inclusioni	linguistic	Intonation=Falling	End=1038.986	_	_	_	_
 171-0	BO093	171	in	in	linguistic	_	Begin=1040.006	_	_	_	_
 171-1	BO093	171	realtà	realtà	linguistic	_	End=1040.998	_	_	_	_
 172-0	BO093	172	e:::h	eh	linguistic	_	Begin=1041.964|End=1042.595	0x3	_	_	_
@@ -1926,7 +1926,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 173-12	BO093	173	è	è	linguistic	_	_	_	_	_	_
 173-13	BO093	173	entrato	entrato	linguistic	_	_	_	_	_	_
 173-14	BO093	173	in	in	linguistic	_	_	_	_	_	_
-173-15	BO093	173	commercio.	commercio	linguistic	Intonation=falling	End=1049.003	_	_	_	_
+173-15	BO093	173	commercio.	commercio	linguistic	Intonation=Falling	End=1049.003	_	_	_	_
 174-0	BO093	174	perché	perché	linguistic	_	Begin=1049.646	_	_	_	_
 174-1	BO093	174	eh	eh	linguistic	_	_	_	_	_	_
 174-2	BO093	174	in	in	linguistic	_	_	_	_	_	_
@@ -2011,7 +2011,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 181-6	BO093	181	sono	sono	linguistic	_	_	_	_	_	_
 181-7	BO093	181	molto	molto	linguistic	_	_	_	_	_	_
 181-8	BO093	181	meno	meno	linguistic	_	_	_	_	_	_
-181-9	BO093	181	pericolose.	pericolose	linguistic	Intonation=falling	End=1095.866	_	_	_	_
+181-9	BO093	181	pericolose.	pericolose	linguistic	Intonation=Falling	End=1095.866	_	_	_	_
 182-0	BO093	182	tra	tra	linguistic	_	Begin=1096.686	_	_	_	_
 182-1	BO093	182	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
 182-2	BO093	182	altro	altro	linguistic	_	End=1097.444	_	_	_	_
@@ -2049,7 +2049,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 187-6	BO093	187	concetto	concetto	linguistic	_	_	_	_	_	_
 187-7	BO093	187	di	di	linguistic	_	_	_	_	_	_
 187-8	BO093	187	aggregato	aggregato	linguistic	_	_	_	_	_	_
-187-9	BO093	187	proteico.	proteico	linguistic	Intonation=falling	End=1120.156	_	_	_	_
+187-9	BO093	187	proteico.	proteico	linguistic	Intonation=Falling	End=1120.156	_	_	_	_
 188-0	BO093	188	eh	eh	linguistic	_	Begin=1121.598	_	_	_	_
 188-1	BO093	188	e	e	linguistic	_	_	_	_	_	_
 188-2	BO093	188	questo	questo	linguistic	_	_	_	_	_	_
@@ -2063,7 +2063,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 188-10	BO093	188	antiaggreganti	antiaggreganti	linguistic	_	_	_	_	_	_
 188-11	BO093	188	non	non	linguistic	_	_	_	_	_	_
 188-12	BO093	188	hanno	hanno	linguistic	_	_	_	_	_	_
-188-13	BO093	188	funzionato.	funzionato	linguistic	Intonation=falling	End=1128.77	_	_	_	_
+188-13	BO093	188	funzionato.	funzionato	linguistic	Intonation=Falling	End=1128.77	_	_	_	_
 189-0	BO093	189	l'	l'	linguistic	SpaceAfter=No	Begin=1130.608	_	_	_	_
 189-1	BO093	189	altro	altro	linguistic	_	_	_	_	_	_
 189-2	BO093	189	aspetto	aspetto	linguistic	_	_	_	_	_	_
@@ -2103,7 +2103,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 192-0	BO093	192	spesso	spesso	linguistic	_	Begin=1154.094	_	_	_	_
 192-1	BO093	192	sono	sono	linguistic	_	_	_	_	_	_
 192-2	BO093	192	presenti	presenti	linguistic	_	_	_	_	_	_
-192-3	BO093	192	aggregati.	aggregati	linguistic	Intonation=falling	End=1156.117	_	_	_	_
+192-3	BO093	192	aggregati.	aggregati	linguistic	Intonation=Falling	End=1156.117	_	_	_	_
 193-0	BO093	193	quindi	quindi	linguistic	_	Begin=1157.522|End=1158.145	_	_	_	_
 194-0	BO093	194	evidentemente	evidentemente	linguistic	_	Begin=1158.768	_	_	_	_
 194-1	BO093	194	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
@@ -2133,7 +2133,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 198-8	BO093	198	una	una	linguistic	_	_	_	_	_	_
 198-9	BO093	198	forma	forma	linguistic	_	_	_	_	_	_
 198-10	BO093	198	di	di	linguistic	_	_	_	_	_	_
-198-11	BO093	198	protezione.	protezione	linguistic	Intonation=falling	End=1174.512	_	_	_	_
+198-11	BO093	198	protezione.	protezione	linguistic	Intonation=Falling	End=1174.512	_	_	_	_
 199-0	BO093	199	perché	perché	linguistic	_	Begin=1175.093	_	_	_	_
 199-1	BO093	199	anche	anche	linguistic	_	_	_	_	_	_
 199-2	BO093	199	i	i	linguistic	_	_	_	_	_	_
@@ -2145,7 +2145,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 199-8	BO093	199	avanzata	avanzata	linguistic	_	_	_	_	_	_
 199-9	BO093	199	presentano	presentano	linguistic	_	_	_	_	_	_
 199-10	BO093	199	aggregati	aggregati	linguistic	_	_	_	_	_	_
-199-11	BO093	199	proteici.	proteici	linguistic	Intonation=falling	End=1180.567	_	_	_	_
+199-11	BO093	199	proteici.	proteici	linguistic	Intonation=Falling	End=1180.567	_	_	_	_
 200-0	BO093	200	e::hm	ehm	linguistic	_	Begin=1183.825|End=1184.401	0x2	_	_	_
 201-0	BO093	201	qual	qual	linguistic	_	Begin=1185.559	_	_	_	_
 201-1	BO093	201	è	è	linguistic	_	_	_	_	_	_
@@ -2162,7 +2162,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 202-5	BO093	202	le	le	linguistic	_	_	_	_	_	_
 202-6	BO093	202	diverse	diverse	linguistic	_	_	_	_	_	_
 202-7	BO093	202	malattie	malattie	linguistic	_	_	_	_	_	_
-202-8	BO093	202	neurodegenerative.	neurodegenerative	linguistic	Intonation=falling	End=1194.787	_	_	_	_
+202-8	BO093	202	neurodegenerative.	neurodegenerative	linguistic	Intonation=Falling	End=1194.787	_	_	_	_
 203-0	BO093	203	fondamentalmente	fondamentalmente	linguistic	_	Begin=1195.526	_	_	_	_
 203-1	BO093	203	nelle	nelle	linguistic	_	_	_	_	_	_
 203-2	BO093	203	diverse	diverse	linguistic	_	_	_	_	_	_
@@ -2172,7 +2172,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 204-2	BO093	204	si	si	linguistic	_	_	_	_	_	_
 204-3	BO093	204	accumulano	accumulano	linguistic	_	_	_	_	_	_
 204-4	BO093	204	proteine	proteine	linguistic	_	_	_	_	_	_
-204-5	BO093	204	diverse.	diverse	linguistic	Intonation=falling	End=1204.564	_	_	_	_
+204-5	BO093	204	diverse.	diverse	linguistic	Intonation=Falling	End=1204.564	_	_	_	_
 205-0	BO093	205	abbiamo	abbiamo	linguistic	_	Begin=1205.262	_	_	_	_
 205-1	BO093	205	e::h	eh	linguistic	_	_	0x2	_	_	_
 205-2	BO093	205	ad	ad	linguistic	_	_	_	_	_	_
@@ -2204,7 +2204,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 209-4	BO093	209	alzheimer,	alzheimer	linguistic	Intonation=weakly_rising	End=1227.016	_	_	_	_
 210-0	BO093	210	ma	ma	linguistic	_	Begin=1227.36	_	_	_	_
 210-1	BO093	210	non	non	linguistic	_	_	_	_	_	_
-210-2	BO093	210	solo.	solo	linguistic	Intonation=falling	End=1228.39	_	_	_	_
+210-2	BO093	210	solo.	solo	linguistic	Intonation=Falling	End=1228.39	_	_	_	_
 211-0	BO093	211	e::hm	ehm	linguistic	_	Begin=1229.041	0x2	_	_	_
 211-1	BO093	211	sono	sono	linguistic	_	_	_	_	_	_
 211-2	BO093	211	presenti	presenti	linguistic	_	_	_	_	_	_
@@ -2219,7 +2219,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 212-1	BO093	212	nelle	nelle	linguistic	_	_	_	_	_	_
 212-2	BO093	212	e::h	eh	linguistic	_	_	0x2	_	_	_
 212-3	BO093	212	demenze	demenze	linguistic	_	_	_	_	_	_
-212-4	BO093	212	frontotemporali.	frontotemporali	linguistic	Intonation=falling	End=1237.858	_	_	_	_
+212-4	BO093	212	frontotemporali.	frontotemporali	linguistic	Intonation=Falling	End=1237.858	_	_	_	_
 213-0	BO093	213	per	per	linguistic	_	Begin=1239.525	_	_	_	_
 213-1	BO093	213	questo	questo	linguistic	_	_	_	_	_	_
 213-2	BO093	213	tutte	tutte	linguistic	_	_	_	_	_	_
@@ -2241,7 +2241,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 214-10	BO093	214	è	è	linguistic	_	_	_	_	_	_
 214-11	BO093	214	quello	quello	linguistic	_	_	_	_	_	_
 214-12	BO093	214	di	di	linguistic	_	_	_	_	_	_
-214-13	BO093	214	anglonliopatie.	anglonliopatie	linguistic	Intonation=falling	End=1251.538	_	_	_	_
+214-13	BO093	214	anglonliopatie.	anglonliopatie	linguistic	Intonation=Falling	End=1251.538	_	_	_	_
 215-0	BO093	215	perché	perché	linguistic	_	Begin=1252.211	_	_	_	_
 215-1	BO093	215	sono	sono	linguistic	_	_	_	_	_	_
 215-2	BO093	215	tutte	tutte	linguistic	_	_	_	_	_	_
@@ -2252,7 +2252,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 215-7	BO093	215	sono	sono	linguistic	_	_	_	_	_	_
 215-8	BO093	215	aggregati	aggregati	linguistic	_	_	_	_	_	_
 215-9	BO093	215	di	di	linguistic	_	_	_	_	_	_
-215-10	BO093	215	betamiloide.	betamiloide	linguistic	Intonation=falling	End=1257.111	_	_	_	_
+215-10	BO093	215	betamiloide.	betamiloide	linguistic	Intonation=Falling	End=1257.111	_	_	_	_
 216-0	BO093	216	come	come	linguistic	_	Begin=1258.091	_	_	_	_
 216-1	BO093	216	ci	ci	linguistic	_	_	_	_	_	_
 216-2	BO093	216	sono	sono	linguistic	_	_	_	_	_	_
@@ -2277,7 +2277,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 216-21	BO093	216	sono	sono	linguistic	_	_	_	_	_	_
 216-22	BO093	216	aggregati	aggregati	linguistic	_	_	_	_	_	_
 216-23	BO093	216	di	di	linguistic	_	_	_	_	_	_
-216-24	BO093	216	alfasinucleina.	alfasinucleina	linguistic	Intonation=falling	End=1270.921	_	_	_	_
+216-24	BO093	216	alfasinucleina.	alfasinucleina	linguistic	Intonation=Falling	End=1270.921	_	_	_	_
 217-0	BO093	217	principalmente	principalmente	linguistic	_	Begin=1271.589	_	_	_	_
 217-1	BO093	217	il	il	linguistic	_	_	_	_	_	_
 217-2	BO093	217	parkinson,	parkinson	linguistic	Intonation=weakly_rising	End=1274.336	_	_	_	_
@@ -2307,7 +2307,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 221-5	BO093	221	in	in	linguistic	_	_	_	_	_	_
 221-6	BO093	221	pazienti	pazienti	linguistic	_	_	_	_	_	_
 221-7	BO093	221	con	con	linguistic	_	_	_	_	_	_
-221-8	BO093	221	alzheimer.	alzheimer	linguistic	Intonation=falling	End=1290.902	_	_	_	_
+221-8	BO093	221	alzheimer.	alzheimer	linguistic	Intonation=Falling	End=1290.902	_	_	_	_
 222-0	BO093	222	mentre	mentre	linguistic	_	Begin=1292.732	_	_	_	_
 222-1	BO093	222	ovviamente	ovviamente	linguistic	_	_	_	_	_	_
 222-2	BO093	222	nelle	nelle	linguistic	_	_	_	_	_	_
@@ -2352,7 +2352,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 223-20	BO093	223	forme	forme	linguistic	_	_	_	_	_	_
 223-21	BO093	223	di	di	linguistic	_	_	_	_	_	_
 223-22	BO093	223	demenze	demenze	linguistic	_	_	_	_	_	_
-223-23	BO093	223	frontotemporali.	frontotemporali	linguistic	Intonation=falling	End=1315.96	_	_	_	_
+223-23	BO093	223	frontotemporali.	frontotemporali	linguistic	Intonation=Falling	End=1315.96	_	_	_	_
 224-0	BO093	224	ora	ora	linguistic	_	Begin=1316.765|End=1317.507	_	_	_	_
 225-0	BO093	225	questa	questa	linguistic	_	Begin=1318.901	_	_	_	_
 225-1	BO093	225	è	è	linguistic	_	_	_	_	_	_
@@ -2368,7 +2368,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 226-6	BO093	226	malattie	malattie	linguistic	_	_	_	_	_	_
 226-7	BO093	226	neurodegenerative	neurodegenerative	linguistic	_	_	_	_	_	_
 226-8	BO093	226	come	come	linguistic	_	_	_	_	_	_
-226-9	BO093	226	proteinopatie.	proteinopatie	linguistic	Intonation=falling	End=1326.726	_	_	_	_
+226-9	BO093	226	proteinopatie.	proteinopatie	linguistic	Intonation=Falling	End=1326.726	_	_	_	_
 227-0	BO093	227	il	il	linguistic	_	Begin=1327.199	_	_	_	_
 227-1	BO093	227	punto	punto	linguistic	_	_	_	_	_	_
 227-2	BO093	227	è	è	linguistic	_	_	_	_	_	_
@@ -2384,12 +2384,12 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 228-3	BO093	228	contenere	contenere	linguistic	_	_	_	_	_	_
 228-4	BO093	228	le	le	linguistic	_	_	_	_	_	_
 228-5	BO093	228	diverse	diverse	linguistic	_	_	_	_	_	_
-228-6	BO093	228	proteine.	proteine	linguistic	Intonation=falling	End=1334.69	_	_	_	_
+228-6	BO093	228	proteine.	proteine	linguistic	Intonation=Falling	End=1334.69	_	_	_	_
 229-0	BO093	229	e	e	linguistic	_	Begin=1335.133	_	_	_	_
 229-1	BO093	229	i	i	linguistic	_	_	_	_	_	_
 229-2	BO093	229	confini	confini	linguistic	_	_	_	_	_	_
-229-3	BO093	229	>come	come	linguistic	_	_	_	Fast=0-4(0)	_	_
-229-4	BO093	229	vedete<	vedete	linguistic	_	_	_	Fast=0-6(0)	_	_
+229-3	BO093	229	>come	come	linguistic	_	_	_	Fast=0-4	_	_
+229-4	BO093	229	vedete<	vedete	linguistic	_	_	_	Fast=0-6	_	_
 229-5	BO093	229	tra	tra	linguistic	_	_	_	_	_	_
 229-6	BO093	229	una	una	linguistic	_	_	_	_	_	_
 229-7	BO093	229	patologia	patologia	linguistic	_	_	_	_	_	_
@@ -2399,7 +2399,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 229-11	BO093	229	diventano	diventano	linguistic	_	_	_	_	_	_
 229-12	BO093	229	sempre	sempre	linguistic	_	_	_	_	_	_
 229-13	BO093	229	più	più	linguistic	_	_	_	_	_	_
-229-14	BO093	229	sfumati.	sfumati	linguistic	Intonation=falling	End=1340.831	_	_	_	_
+229-14	BO093	229	sfumati.	sfumati	linguistic	Intonation=Falling	End=1340.831	_	_	_	_
 230-0	BO093	230	e	e	linguistic	_	Begin=1341.548	_	_	_	_
 230-1	BO093	230	per	per	linguistic	_	_	_	_	_	_
 230-2	BO093	230	la	la	linguistic	_	_	_	_	_	_
@@ -2417,7 +2417,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 231-10	BO093	231	formano	formano	linguistic	_	_	_	_	_	_
 231-11	BO093	231	aggregati	aggregati	linguistic	_	_	_	_	_	_
 231-12	BO093	231	nelle	nelle	linguistic	_	_	_	_	_	_
-231-13	BO093	231	stesse.	stesse	linguistic	Intonation=falling	End=1349.34	_	_	_	_
+231-13	BO093	231	stesse.	stesse	linguistic	Intonation=Falling	End=1349.34	_	_	_	_
 232-0	BO093	232	e	e	linguistic	_	Begin=1349.623	_	_	_	_
 232-1	BO093	232	anche	anche	linguistic	_	_	_	_	_	_
 232-2	BO093	232	questo	questo	linguistic	_	_	_	_	_	_
@@ -2436,7 +2436,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 233-8	BO093	233	alle	alle	linguistic	_	_	_	_	_	_
 233-9	BO093	233	diverse	diverse	linguistic	_	_	_	_	_	_
 233-10	BO093	233	forme	forme	linguistic	_	_	_	_	_	_
-233-11	BO093	233	neuropatologiche.	neuropatologiche	linguistic	Intonation=falling	End=1360.475	_	_	_	_
+233-11	BO093	233	neuropatologiche.	neuropatologiche	linguistic	Intonation=Falling	End=1360.475	_	_	_	_
 234-0	BO093	234	l'	l'	linguistic	SpaceAfter=No	Begin=1361.817	_	_	_	_
 234-1	BO093	234	altro	altro	linguistic	_	_	_	_	_	_
 234-2	BO093	234	m:h	mh	linguistic	_	_	0x1	_	_	_
@@ -2470,7 +2470,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 236-5	BO093	236	che	che	linguistic	_	_	_	_	_	_
 236-6	BO093	236	inizia	inizia	linguistic	_	_	_	_	_	_
 236-7	BO093	236	a	a	linguistic	_	_	_	_	_	_
-236-8	BO093	236	degenerare.	degenerare	linguistic	Intonation=falling	End=1377.156	_	_	_	_
+236-8	BO093	236	degenerare.	degenerare	linguistic	Intonation=Falling	End=1377.156	_	_	_	_
 237-0	BO093	237	nelle	nelle	linguistic	_	Begin=1377.932	_	_	_	_
 237-1	BO093	237	fasi	fasi	linguistic	_	_	_	_	_	_
 237-2	BO093	237	iniziali	iniziali	linguistic	_	_	_	_	_	_
@@ -2483,7 +2483,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 237-9	BO093	237	diversi	diversi	linguistic	_	_	_	_	_	_
 237-10	BO093	237	e	e	linguistic	_	_	_	_	_	_
 237-11	BO093	237	li	li	linguistic	_	_	_	_	_	_
-237-12	BO093	237	vedremo.	vedremo	linguistic	Intonation=falling	End=1384.769	_	_	_	_
+237-12	BO093	237	vedremo.	vedremo	linguistic	Intonation=Falling	End=1384.769	_	_	_	_
 238-0	BO093	238	e::h	eh	linguistic	_	Begin=1385.52	0x2	_	_	_
 238-1	BO093	238	forse	forse	linguistic	_	End=1386.69	_	_	_	_
 239-0	BO093	239	l'	l'	linguistic	SpaceAfter=No	Begin=1386.975	_	_	_	_
@@ -2560,7 +2560,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 243-5	BO093	243	diventano	diventano	linguistic	_	_	_	_	_	_
 243-6	BO093	243	sempre	sempre	linguistic	_	_	_	_	_	_
 243-7	BO093	243	più	più	linguistic	_	_	_	_	_	_
-243-8	BO093	243	sfumati.	sfumati	linguistic	Intonation=falling	End=1421.501	_	_	_	_
+243-8	BO093	243	sfumati.	sfumati	linguistic	Intonation=Falling	End=1421.501	_	_	_	_
 244-0	BO093	244	allora,	allora	linguistic	Intonation=weakly_rising	Begin=1422.91|End=1423.465	_	_	_	_
 245-0	BO093	245	dicevamo	dicevamo	linguistic	_	Begin=1424.169	_	_	_	_
 245-1	BO093	245	e::h	eh	linguistic	_	_	0x2	_	_	_
@@ -2579,7 +2579,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 248-4	BO093	248	della	della	linguistic	_	_	_	_	_	_
 248-5	BO093	248	degradazione	degradazione	linguistic	_	_	_	_	_	_
 248-6	BO093	248	delle	delle	linguistic	_	_	_	_	_	_
-248-7	BO093	248	proteine.	proteine	linguistic	Intonation=falling	End=1441.681	_	_	_	_
+248-7	BO093	248	proteine.	proteine	linguistic	Intonation=Falling	End=1441.681	_	_	_	_
 249-0	BO093	249	ora	ora	linguistic	_	Begin=1442.107	_	_	_	_
 249-1	BO093	249	come	come	linguistic	_	_	_	_	_	_
 249-2	BO093	249	vi	vi	linguistic	_	_	_	_	_	_
@@ -2608,8 +2608,8 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 250-5	BO093	250	almeno	almeno	linguistic	_	_	_	_	_	_
 250-6	BO093	250	inizialmente	inizialmente	linguistic	_	_	_	_	_	_
 250-7	BO093	250	di	di	linguistic	_	_	_	_	_	_
-250-8	BO093	250	protezione.	protezione	linguistic	Intonation=falling	End=1455.333	_	_	_	_
-251-0	BO093	251	perché?	perché	linguistic	Intonation=rising	Begin=1455.608|End=1456.164	_	_	_	_
+250-8	BO093	250	protezione.	protezione	linguistic	Intonation=Falling	End=1455.333	_	_	_	_
+251-0	BO093	251	perché?	perché	linguistic	Intonation=Rising	Begin=1455.608|End=1456.164	_	_	_	_
 252-0	BO093	252	perché	perché	linguistic	_	Begin=1456.963	_	_	_	_
 252-1	BO093	252	fondamentlmente	fondamentlmente	linguistic	_	_	_	_	_	_
 252-2	BO093	252	una	una	linguistic	_	_	_	_	_	_
@@ -2686,7 +2686,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 260-17	BO093	260	ma	ma	linguistic	_	_	_	_	_	_
 260-18	BO093	260	anche	anche	linguistic	_	_	_	_	_	_
 260-19	BO093	260	al	al	linguistic	_	_	_	_	_	_
-260-20	BO093	260	lisosoma.	lisosoma	linguistic	Intonation=falling	End=1501.34	_	_	_	_
+260-20	BO093	260	lisosoma.	lisosoma	linguistic	Intonation=Falling	End=1501.34	_	_	_	_
 261-0	BO093	261	per	per	linguistic	_	Begin=1501.781	_	_	_	_
 261-1	BO093	261	cui,	cui	linguistic	Intonation=weakly_rising	End=1502.471	_	_	_	_
 262-0	BO093	262	nel	nel	linguistic	_	Begin=1502.921	_	_	_	_
@@ -2707,7 +2707,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 263-1	BO093	263	dire	dire	linguistic	_	_	_	_	_	_
 263-2	BO093	263	intasare	intasare	linguistic	_	_	_	_	_	_
 263-3	BO093	263	il	il	linguistic	_	_	_	_	_	_
-263-4	BO093	263	proteasoma.	proteasoma	linguistic	Intonation=falling	End=1512.218	_	_	_	_
+263-4	BO093	263	proteasoma.	proteasoma	linguistic	Intonation=Falling	End=1512.218	_	_	_	_
 264-0	BO093	264	e::hm	ehm	linguistic	_	Begin=1513.921	0x2	_	_	_
 264-1	BO093	264	per	per	linguistic	_	_	_	_	_	_
 264-2	BO093	264	cui	cui	linguistic	_	_	_	_	_	_
@@ -2730,7 +2730,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 266-2	BO093	266	riescono	riescono	linguistic	_	_	_	_	_	_
 266-3	BO093	266	ad	ad	linguistic	_	_	_	_	_	_
 266-4	BO093	266	essere	essere	linguistic	_	_	_	_	_	_
-266-5	BO093	266	degradate.	degradate	linguistic	Intonation=falling	End=1529.162	_	_	_	_
+266-5	BO093	266	degradate.	degradate	linguistic	Intonation=Falling	End=1529.162	_	_	_	_
 267-0	BO093	267	e	e	linguistic	_	Begin=1530.357	_	_	_	_
 267-1	BO093	267	queste	queste	linguistic	_	_	_	_	_	_
 267-2	BO093	267	proteine	proteine	linguistic	_	_	_	_	_	_
@@ -2760,7 +2760,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 271-2	BO093	271	per	per	linguistic	_	_	_	_	_	_
 271-3	BO093	271	la	la	linguistic	_	_	_	_	_	_
 271-4	BO093	271	cellula	cellula	linguistic	_	_	_	_	_	_
-271-5	BO093	271	perché?	perché	linguistic	Intonation=rising	End=1549.81	_	_	_	_
+271-5	BO093	271	perché?	perché	linguistic	Intonation=Rising	End=1549.81	_	_	_	_
 272-0	BO093	272	alterano	alterano	linguistic	_	Begin=1550.25	_	_	_	_
 272-1	BO093	272	il	il	linguistic	_	_	_	_	_	_
 272-2	BO093	272	funzionamento	funzionamento	linguistic	_	_	_	_	_	_
@@ -2804,7 +2804,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 276-11	BO093	276	disponibili	disponibili	linguistic	_	_	_	_	_	_
 276-12	BO093	276	nel	nel	linguistic	_	_	_	_	_	_
 276-13	BO093	276	processo	processo	linguistic	_	_	_	_	_	_
-276-14	BO093	276	autofagico.	autofagico	linguistic	Intonation=falling	End=1575.729	_	_	_	_
+276-14	BO093	276	autofagico.	autofagico	linguistic	Intonation=Falling	End=1575.729	_	_	_	_
 277-0	BO093	277	inoltre	inoltre	linguistic	_	Begin=1576.423	_	_	_	_
 277-1	BO093	277	nei	nei	linguistic	_	_	_	_	_	_
 277-2	BO093	277	neuroni	neuroni	linguistic	_	_	_	_	_	_
@@ -2827,9 +2827,9 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 278-5	BO093	278	a	a	linguistic	_	_	_	_	_	_
 278-6	BO093	278	livello	livello	linguistic	_	_	_	_	_	_
 278-7	BO093	278	delle	delle	linguistic	_	_	_	_	_	_
-278-8	BO093	278	sinapsi.	sinapsi	linguistic	Intonation=falling	End=1591.168	_	_	_	_
+278-8	BO093	278	sinapsi.	sinapsi	linguistic	Intonation=Falling	End=1591.168	_	_	_	_
 279-0	BO093	279	quindi	quindi	linguistic	_	Begin=1591.731	_	_	_	_
-279-1	BO093	279	>diciamo<	diciamo	linguistic	_	_	_	Fast=0-7(0)	_	_
+279-1	BO093	279	>diciamo<	diciamo	linguistic	_	_	_	Fast=0-7	_	_
 279-2	BO093	279	anche	anche	linguistic	_	_	_	_	_	_
 279-3	BO093	279	considerando	considerando	linguistic	_	_	_	_	_	_
 279-4	BO093	279	questo	questo	linguistic	_	_	_	_	_	_
@@ -2880,7 +2880,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 283-4	BO093	283	funzionamento	funzionamento	linguistic	_	_	_	_	_	_
 283-5	BO093	283	del	del	linguistic	_	_	_	_	_	_
 283-6	BO093	283	neurone	neurone	linguistic	_	_	_	_	_	_
-283-7	BO093	283	stesso.	stesso	linguistic	Intonation=falling	End=1620.943	_	_	_	_
+283-7	BO093	283	stesso.	stesso	linguistic	Intonation=Falling	End=1620.943	_	_	_	_
 284-0	BO093	284	nel	nel	linguistic	_	Begin=1621.563	_	_	_	_
 284-1	BO093	284	momento	momento	linguistic	_	_	_	_	_	_
 284-2	BO093	284	in	in	linguistic	_	_	_	_	_	_
@@ -2963,7 +2963,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 291-1	BO093	291	i	i	linguistic	_	_	_	_	_	_
 291-2	BO093	291	neuroni	neuroni	linguistic	_	_	_	_	_	_
 291-3	BO093	291	sono	sono	linguistic	_	_	_	_	_	_
-291-4	BO093	291	morti.	morti	linguistic	Intonation=falling	End=1659.66	_	_	_	_
+291-4	BO093	291	morti.	morti	linguistic	Intonation=Falling	End=1659.66	_	_	_	_
 292-0	BO093	292	e	e	linguistic	_	Begin=1660.213	_	_	_	_
 292-1	BO093	292	quindi	quindi	linguistic	_	End=1661.005	_	_	_	_
 293-0	BO093	293	è	è	linguistic	_	Begin=1661.63	_	_	_	_
@@ -3000,7 +3000,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 295-12	BO093	295	della	della	linguistic	_	_	_	_	_	_
 295-13	BO093	295	diagnosi	diagnosi	linguistic	_	_	_	_	_	_
 295-14	BO093	295	preclo~	preclo~	linguistic	Interrupted=Yes	_	_	_	_	_
-295-15	BO093	295	precoce.	precoce	linguistic	Intonation=falling	End=1679.679	_	_	_	_
+295-15	BO093	295	precoce.	precoce	linguistic	Intonation=Falling	End=1679.679	_	_	_	_
 296-0	BO093	296	perché	perché	linguistic	_	Begin=1680.289|End=1680.872	_	_	_	_
 297-0	BO093	297	se	se	linguistic	_	Begin=1681.275	_	_	_	_
 297-1	BO093	297	si	si	linguistic	_	_	_	_	_	_
@@ -3034,7 +3034,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 300-5	BO093	300	attuare	attuare	linguistic	_	_	_	_	_	_
 300-6	BO093	300	degli	degli	linguistic	_	_	_	_	_	_
 300-7	BO093	300	approcci	approcci	linguistic	_	_	_	_	_	_
-300-8	BO093	300	teraputici.	teraputici	linguistic	Intonation=falling	End=1700.986	_	_	_	_
+300-8	BO093	300	teraputici.	teraputici	linguistic	Intonation=Falling	End=1700.986	_	_	_	_
 301-0	BO093	301	per	per	linguistic	_	Begin=1701.476	_	_	_	_
 301-1	BO093	301	prevenire	prevenire	linguistic	_	End=1702.898	_	_	_	_
 302-0	BO093	302	e::h	eh	linguistic	_	Begin=1703.784	0x2	_	_	_
@@ -3050,7 +3050,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 302-10	BO093	302	neurodegenerazione	neurodegenerazione	linguistic	_	_	_	_	_	_
 302-11	BO093	302	è	è	linguistic	_	_	_	_	_	_
 302-12	BO093	302	praticamente	praticamente	linguistic	_	_	_	_	_	_
-302-13	BO093	302	impossibile.	impossibile	linguistic	Intonation=falling	End=1710.445	_	_	_	_
+302-13	BO093	302	impossibile.	impossibile	linguistic	Intonation=Falling	End=1710.445	_	_	_	_
 303-0	BO093	303	se	se	linguistic	_	Begin=1710.736	_	_	_	_
 303-1	BO093	303	non	non	linguistic	_	_	_	_	_	_
 303-2	BO093	303	con	con	linguistic	_	_	_	_	_	_
@@ -3112,7 +3112,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 307-10	BO093	307	neuroni	neuroni	linguistic	_	_	_	_	_	_
 307-11	BO093	307	del	del	linguistic	_	_	_	_	_	_
 307-12	BO093	307	sistema	sistema	linguistic	_	_	_	_	_	_
-307-13	BO093	307	nervoso.	nervoso	linguistic	Intonation=falling	End=1737.746	_	_	_	_
+307-13	BO093	307	nervoso.	nervoso	linguistic	Intonation=Falling	End=1737.746	_	_	_	_
 308-0	BO093	308	per	per	linguistic	_	Begin=1738.608	_	_	_	_
 308-1	BO093	308	cui	cui	linguistic	_	_	_	_	_	_
 308-2	BO093	308	un	un	linguistic	_	_	_	_	_	_
@@ -3122,7 +3122,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 308-6	BO093	308	proprio	proprio	linguistic	_	_	_	_	_	_
 308-7	BO093	308	legato	legato	linguistic	_	_	_	_	_	_
 308-8	BO093	308	a	a	linguistic	_	_	_	_	_	_
-308-9	BO093	308	questo.	questo	linguistic	Intonation=falling	End=1743.202	_	_	_	_
+308-9	BO093	308	questo.	questo	linguistic	Intonation=Falling	End=1743.202	_	_	_	_
 309-0	BO093	309	gli	gli	linguistic	_	Begin=1743.537	_	_	_	_
 309-1	BO093	309	aggregati	aggregati	linguistic	_	_	_	_	_	_
 309-2	BO093	309	diciamo	diciamo	linguistic	_	_	_	_	_	_
@@ -3193,7 +3193,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 314-14	BO093	314	di	di	linguistic	_	_	_	_	_	_
 314-15	BO093	314	queste	queste	linguistic	_	_	_	_	_	_
 314-16	BO093	314	proteine	proteine	linguistic	_	_	_	_	_	_
-314-17	BO093	314	malfoldate.	malfoldate	linguistic	Intonation=falling	End=1781.957	_	_	_	_
+314-17	BO093	314	malfoldate.	malfoldate	linguistic	Intonation=Falling	End=1781.957	_	_	_	_
 315-0	BO093	315	nello	nello	linguistic	_	Begin=1783.052	_	_	_	_
 315-1	BO093	315	stesso	stesso	linguistic	_	_	_	_	_	_
 315-2	BO093	315	tempo	tempo	linguistic	_	End=1784.851	_	_	_	_
@@ -3233,17 +3233,17 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 320-3	BO093	320	ho	ho	linguistic	_	_	_	_	_	_
 320-4	BO093	320	detto	detto	linguistic	_	_	_	_	_	_
 320-5	BO093	320	essere	essere	linguistic	_	_	_	_	_	_
-320-6	BO093	320	appiccicose.	appiccicose	linguistic	Intonation=falling	End=1806.522	_	_	_	_
+320-6	BO093	320	appiccicose.	appiccicose	linguistic	Intonation=Falling	End=1806.522	_	_	_	_
 321-0	BO093	321	cioè	cioè	linguistic	_	Begin=1807.025	_	_	_	_
 321-1	BO093	321	attaccarsi	attaccarsi	linguistic	_	_	_	_	_	_
 321-2	BO093	321	una	una	linguistic	_	_	_	_	_	_
 321-3	BO093	321	all'	all'	linguistic	SpaceAfter=No	_	_	_	_	_
-321-4	BO093	321	altra.	altra	linguistic	Intonation=falling	End=1809.405	_	_	_	_
+321-4	BO093	321	altra.	altra	linguistic	Intonation=Falling	End=1809.405	_	_	_	_
 322-0	BO093	322	ma	ma	linguistic	_	Begin=1810.152	_	_	_	_
 322-1	BO093	322	qual	qual	linguistic	_	_	_	_	_	_
 322-2	BO093	322	è	è	linguistic	_	_	_	_	_	_
 322-3	BO093	322	il	il	linguistic	_	_	_	_	_	_
-322-4	BO093	322	problema?	problema	linguistic	Intonation=rising	_	_	_	_	_
+322-4	BO093	322	problema?	problema	linguistic	Intonation=Rising	_	_	_	_	_
 322-5	BO093	322	che	che	linguistic	_	_	_	_	_	_
 322-6	BO093	322	andando	andando	linguistic	_	_	_	_	_	_
 322-7	BO093	322	a	a	linguistic	_	_	_	_	_	_
@@ -3283,7 +3283,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 325-18	BO093	325	si	si	linguistic	_	_	_	_	_	_
 325-19	BO093	325	chiama	chiama	linguistic	_	_	_	_	_	_
 325-20	BO093	325	effetto	effetto	linguistic	_	_	_	_	_	_
-325-21	BO093	325	prionico.	prionico	linguistic	Intonation=falling	End=1833.278	_	_	_	_
+325-21	BO093	325	prionico.	prionico	linguistic	Intonation=Falling	End=1833.278	_	_	_	_
 326-0	BO093	326	i	i	linguistic	_	Begin=1835.886	_	_	_	_
 326-1	BO093	326	prioni	prioni	linguistic	_	_	_	_	_	_
 326-2	BO093	326	voi	voi	linguistic	_	_	_	_	_	_
@@ -3294,7 +3294,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 326-7	BO093	326	patogeni	patogeni	linguistic	_	_	_	_	_	_
 326-8	BO093	326	di	di	linguistic	_	_	_	_	_	_
 326-9	BO093	326	natura	natura	linguistic	_	_	_	_	_	_
-326-10	BO093	326	proteica.	proteica	linguistic	Intonation=falling	End=1841.003	_	_	_	_
+326-10	BO093	326	proteica.	proteica	linguistic	Intonation=Falling	End=1841.003	_	_	_	_
 327-0	BO093	327	e::h	eh	linguistic	_	Begin=1842.667	0x2	_	_	_
 327-1	BO093	327	sono	sono	linguistic	_	_	_	_	_	_
 327-2	BO093	327	stati	stati	linguistic	_	_	_	_	_	_
@@ -3312,7 +3312,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 327-14	BO093	327	i	i	linguistic	_	_	_	_	_	_
 327-15	BO093	327	principi	principi	linguistic	_	_	_	_	_	_
 327-16	BO093	327	della	della	linguistic	_	_	_	_	_	_
-327-17	BO093	327	genetica.	genetica	linguistic	Intonation=falling	End=1850.875	_	_	_	_
+327-17	BO093	327	genetica.	genetica	linguistic	Intonation=Falling	End=1850.875	_	_	_	_
 328-0	BO093	328	nel	nel	linguistic	_	Begin=1851.366	_	_	_	_
 328-1	BO093	328	senso	senso	linguistic	_	_	_	_	_	_
 328-2	BO093	328	che	che	linguistic	_	_	_	_	_	_
@@ -3327,7 +3327,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 329-3	BO093	329	permette	permette	linguistic	_	_	_	_	_	_
 329-4	BO093	329	la	la	linguistic	_	_	_	_	_	_
 329-5	BO093	329	loro	loro	linguistic	_	_	_	_	_	_
-329-6	BO093	329	replicazione.	replicazione	linguistic	Intonation=falling	End=1858.204	_	_	_	_
+329-6	BO093	329	replicazione.	replicazione	linguistic	Intonation=Falling	End=1858.204	_	_	_	_
 330-0	BO093	330	ma	ma	linguistic	_	Begin=1858.646	_	_	_	_
 330-1	BO093	330	questi	questi	linguistic	_	_	_	_	_	_
 330-2	BO093	330	prioni	prioni	linguistic	_	_	_	_	_	_
@@ -3354,7 +3354,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 331-3	BO093	331	totalmente	totalmente	linguistic	_	_	_	_	_	_
 331-4	BO093	331	a	a	linguistic	_	_	_	_	_	_
 331-5	BO093	331	foglietto	foglietto	linguistic	_	_	_	_	_	_
-331-6	BO093	331	beta.	beta	linguistic	Intonation=falling	End=1873.905	_	_	_	_
+331-6	BO093	331	beta.	beta	linguistic	Intonation=Falling	End=1873.905	_	_	_	_
 332-0	BO093	332	ora	ora	linguistic	_	Begin=1874.769	_	_	_	_
 332-1	BO093	332	eh	eh	linguistic	_	_	_	_	_	_
 332-2	BO093	332	in	in	linguistic	_	_	_	_	_	_
@@ -3400,7 +3400,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 333-6	BO093	333	tendono	tendono	linguistic	_	_	_	_	_	_
 333-7	BO093	333	a	a	linguistic	_	_	_	_	_	_
 333-8	BO093	333	diventare	diventare	linguistic	_	_	_	_	_	_
-333-9	BO093	333	appiccicose.	appiccicose	linguistic	Intonation=falling	End=1898.916	_	_	_	_
+333-9	BO093	333	appiccicose.	appiccicose	linguistic	Intonation=Falling	End=1898.916	_	_	_	_
 334-0	BO093	334	e	e	linguistic	_	Begin=1899.464	_	_	_	_
 334-1	BO093	334	a	a	linguistic	_	_	_	_	_	_
 334-2	BO093	334	trasferirla	trasferirla	linguistic	_	_	_	_	_	_
@@ -3434,7 +3434,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 335-10	BO093	335	propagare	propagare	linguistic	_	_	_	_	_	_
 335-11	BO093	335	il	il	linguistic	_	_	_	_	_	_
 335-12	BO093	335	danno	danno	linguistic	_	_	_	_	_	_
-335-13	BO093	335	fondamentalmente.	fondamentalmente	linguistic	Intonation=falling	End=1918.637	_	_	_	_
+335-13	BO093	335	fondamentalmente.	fondamentalmente	linguistic	Intonation=Falling	End=1918.637	_	_	_	_
 336-0	BO093	336	per	per	linguistic	_	Begin=1919.292	_	_	_	_
 336-1	BO093	336	dimostrare	dimostrare	linguistic	_	_	_	_	_	_
 336-2	BO093	336	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
@@ -3532,12 +3532,12 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 340-11	BO093	340	punto	punto	linguistic	_	_	_	_	_	_
 340-12	BO093	340	sviluppa	sviluppa	linguistic	_	_	_	_	_	_
 340-13	BO093	340	le	le	linguistic	_	_	_	_	_	_
-340-14	BO093	340	placche.	placche	linguistic	Intonation=falling	End=1964.569	_	_	_	_
+340-14	BO093	340	placche.	placche	linguistic	Intonation=Falling	End=1964.569	_	_	_	_
 341-0	BO093	341	a	a	linguistic	_	Begin=1965.524	_	_	_	_
 341-1	BO093	341	livello	livello	linguistic	_	_	_	_	_	_
 341-2	BO093	341	del	del	linguistic	_	_	_	_	_	_
 341-3	BO093	341	sistema	sistema	linguistic	_	_	_	_	_	_
-341-4	BO093	341	nervoso.	nervoso	linguistic	Intonation=falling	End=1967.28	_	_	_	_
+341-4	BO093	341	nervoso.	nervoso	linguistic	Intonation=Falling	End=1967.28	_	_	_	_
 342-0	BO093	342	a	a	linguistic	_	Begin=1967.734	_	_	_	_
 342-1	BO093	342	quel	quel	linguistic	_	_	_	_	_	_
 342-2	BO093	342	punto	punto	linguistic	_	_	_	_	_	_
@@ -3565,7 +3565,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 343-8	BO093	343	la	la	linguistic	_	_	_	_	_	_
 343-9	BO093	343	proteina	proteina	linguistic	_	_	_	_	_	_
 343-10	BO093	343	sintetica	sintetica	linguistic	_	_	_	_	_	_
-343-11	BO093	343	malfoldata.	malfoldata	linguistic	Intonation=falling	End=1981.502	_	_	_	_
+343-11	BO093	343	malfoldata.	malfoldata	linguistic	Intonation=Falling	End=1981.502	_	_	_	_
 344-0	BO093	344	questo	questo	linguistic	_	Begin=1982.079	_	_	_	_
 344-1	BO093	344	lisato,	lisato	linguistic	Intonation=weakly_rising	End=1983.272	_	_	_	_
 345-0	BO093	345	andava	andava	linguistic	_	Begin=1983.809	_	_	_	_
@@ -3590,7 +3590,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 346-4	BO093	346	avrebbe	avrebbe	linguistic	_	_	_	_	_	_
 346-5	BO093	346	sviluppato	sviluppato	linguistic	_	_	_	_	_	_
 346-6	BO093	346	la	la	linguistic	_	_	_	_	_	_
-346-7	BO093	346	patologia.	patologia	linguistic	Intonation=falling	End=1994.207	_	_	_	_
+346-7	BO093	346	patologia.	patologia	linguistic	Intonation=Falling	End=1994.207	_	_	_	_
 347-0	BO093	347	e	e	linguistic	_	Begin=1994.991	_	_	_	_
 347-1	BO093	347	quello	quello	linguistic	_	_	_	_	_	_
 347-2	BO093	347	che	che	linguistic	_	_	_	_	_	_
@@ -3646,14 +3646,14 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 353-2	BO093	353	modelli	modelli	linguistic	_	_	_	_	_	_
 353-3	BO093	353	delle	delle	linguistic	_	_	_	_	_	_
 353-4	BO093	353	diverse	diverse	linguistic	_	_	_	_	_	_
-353-5	BO093	353	patologie.	patologie	linguistic	Intonation=falling	End=2023.394	_	_	_	_
+353-5	BO093	353	patologie.	patologie	linguistic	Intonation=Falling	End=2023.394	_	_	_	_
 354-0	BO093	354	questo	questo	linguistic	_	Begin=2024.006	_	_	_	_
 354-1	BO093	354	ha	ha	linguistic	_	_	_	_	_	_
 354-2	BO093	354	ovviamente	ovviamente	linguistic	_	_	_	_	_	_
 354-3	BO093	354	dimostrato	dimostrato	linguistic	_	_	_	_	_	_
 354-4	BO093	354	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
 354-5	BO093	354	ipotesi	ipotesi	linguistic	_	_	_	_	_	_
-354-6	BO093	354	prionica.	prionica	linguistic	Intonation=falling	End=2027.91	_	_	_	_
+354-6	BO093	354	prionica.	prionica	linguistic	Intonation=Falling	End=2027.91	_	_	_	_
 355-0	BO093	355	del	del	linguistic	_	Begin=2028.311	_	_	_	_
 355-1	BO093	355	e::h	eh	linguistic	_	_	0x2	_	_	_
 355-2	BO093	355	diciamo	diciamo	linguistic	_	_	_	_	_	_
@@ -3666,7 +3666,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 355-9	BO093	355	proteine	proteine	linguistic	_	_	_	_	_	_
 355-10	BO093	355	nelle	nelle	linguistic	_	_	_	_	_	_
 355-11	BO093	355	diverse	diverse	linguistic	_	_	_	_	_	_
-355-12	BO093	355	neuropatologie.	neuropatologie	linguistic	Intonation=falling	End=2034.68	_	_	_	_
+355-12	BO093	355	neuropatologie.	neuropatologie	linguistic	Intonation=Falling	End=2034.68	_	_	_	_
 356-0	BO093	356	e::hm	ehm	linguistic	_	Begin=2036.658|End=2037.473	0x2	_	_	_
 357-0	BO093	357	ora	ora	linguistic	_	Begin=2038.322	_	_	_	_
 357-1	BO093	357	m:h	mh	linguistic	_	_	0x1	_	_	_
@@ -3694,7 +3694,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 359-1	BO093	359	principlamente	principlamente	linguistic	_	_	_	_	_	_
 359-2	BO093	359	una	una	linguistic	_	_	_	_	_	_
 359-3	BO093	359	morte	morte	linguistic	_	_	_	_	_	_
-359-4	BO093	359	neuronale.	neuronale	linguistic	Intonation=falling	End=2053.934	_	_	_	_
+359-4	BO093	359	neuronale.	neuronale	linguistic	Intonation=Falling	End=2053.934	_	_	_	_
 360-0	BO093	360	e	e	linguistic	_	Begin=2055.293	_	_	_	_
 360-1	BO093	360	la	la	linguistic	_	_	_	_	_	_
 360-2	BO093	360	morte	morte	linguistic	_	_	_	_	_	_
@@ -3710,7 +3710,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 361-8	BO093	361	attraverso	attraverso	linguistic	_	_	_	_	_	_
 361-9	BO093	361	un	un	linguistic	_	_	_	_	_	_
 361-10	BO093	361	meccanismo	meccanismo	linguistic	_	_	_	_	_	_
-361-11	BO093	361	apoptotico.	apoptotico	linguistic	Intonation=falling	End=2062.824	_	_	_	_
+361-11	BO093	361	apoptotico.	apoptotico	linguistic	Intonation=Falling	End=2062.824	_	_	_	_
 362-0	BO093	362	più	più	linguistic	_	Begin=2063.554	_	_	_	_
 362-1	BO093	362	recentemente	recentemente	linguistic	_	_	_	_	_	_
 362-2	BO093	362	si	si	linguistic	_	_	_	_	_	_
@@ -3734,7 +3734,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 364-3	BO093	364	livello	livello	linguistic	_	_	_	_	_	_
 364-4	BO093	364	delle	delle	linguistic	_	_	_	_	_	_
 364-5	BO093	364	malattie	malattie	linguistic	_	_	_	_	_	_
-364-6	BO093	364	neurodegenerative.	neurodegenerative	linguistic	Intonation=falling	End=2077.139	_	_	_	_
+364-6	BO093	364	neurodegenerative.	neurodegenerative	linguistic	Intonation=Falling	End=2077.139	_	_	_	_
 365-0	BO093	365	e	e	linguistic	_	Begin=2078.197	_	_	_	_
 365-1	BO093	365	questo	questo	linguistic	_	_	_	_	_	_
 365-2	BO093	365	è	è	linguistic	_	_	_	_	_	_
@@ -3743,7 +3743,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 365-5	BO093	365	tutte	tutte	linguistic	_	_	_	_	_	_
 365-6	BO093	365	le	le	linguistic	_	_	_	_	_	_
 365-7	BO093	365	patologie	patologie	linguistic	_	_	_	_	_	_
-365-8	BO093	365	neurodegenerative.	neurodegenerative	linguistic	Intonation=falling	End=2083.672	_	_	_	_
+365-8	BO093	365	neurodegenerative.	neurodegenerative	linguistic	Intonation=Falling	End=2083.672	_	_	_	_
 366-0	BO093	366	come	come	linguistic	_	Begin=2084.53	_	_	_	_
 366-1	BO093	366	pure	pure	linguistic	_	_	_	_	_	_
 366-2	BO093	366	comune	comune	linguistic	_	_	_	_	_	_
@@ -3794,7 +3794,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 368-7	BO093	368	specie	specie	linguistic	_	_	_	_	_	_
 368-8	BO093	368	reattive	reattive	linguistic	_	_	_	_	_	_
 368-9	BO093	368	dell'	dell'	linguistic	SpaceAfter=No	_	_	_	_	_
-368-10	BO093	368	ossigeno.	ossigeno	linguistic	Intonation=falling	End=2108.781	_	_	_	_
+368-10	BO093	368	ossigeno.	ossigeno	linguistic	Intonation=Falling	End=2108.781	_	_	_	_
 369-0	BO093	369	che	che	linguistic	_	Begin=2109.483	_	_	_	_
 369-1	BO093	369	vanno	vanno	linguistic	_	_	_	_	_	_
 369-2	BO093	369	a	a	linguistic	_	_	_	_	_	_
@@ -3804,7 +3804,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 369-6	BO093	369	mitocondriale	mitocondriale	linguistic	_	_	_	_	_	_
 369-7	BO093	369	e	e	linguistic	_	_	_	_	_	_
 369-8	BO093	369	il	il	linguistic	_	_	_	_	_	_
-369-9	BO093	369	danno.	danno	linguistic	Intonation=falling	End=2115.313	_	_	_	_
+369-9	BO093	369	danno.	danno	linguistic	Intonation=Falling	End=2115.313	_	_	_	_
 370-0	BO093	370	ora	ora	linguistic	_	Begin=2116.619	_	_	_	_
 370-1	BO093	370	e::h	eh	linguistic	_	_	0x2	_	_	_
 370-2	BO093	370	anche	anche	linguistic	_	_	_	_	_	_
@@ -3818,7 +3818,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 370-10	BO093	370	come	come	linguistic	_	_	_	_	_	_
 370-11	BO093	370	dire	dire	linguistic	_	_	_	_	_	_
 370-12	BO093	370	in	in	linguistic	_	_	_	_	_	_
-370-13	BO093	370	parallelo.	parallelo	linguistic	Intonation=falling	End=2122.84	_	_	_	_
+370-13	BO093	370	parallelo.	parallelo	linguistic	Intonation=Falling	End=2122.84	_	_	_	_
 371-0	BO093	371	perché	perché	linguistic	_	Begin=2123.395	_	_	_	_
 371-1	BO093	371	noi	noi	linguistic	_	_	_	_	_	_
 371-2	BO093	371	non	non	linguistic	_	_	_	_	_	_
@@ -3851,7 +3851,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 372-12	BO093	372	il	il	linguistic	_	_	_	_	_	_
 372-13	BO093	372	danno	danno	linguistic	_	_	_	_	_	_
 372-14	BO093	372	al	al	linguistic	_	_	_	_	_	_
-372-15	BO093	372	mitocondrio.	mitocondrio	linguistic	Intonation=falling	End=2134.084	_	_	_	_
+372-15	BO093	372	mitocondrio.	mitocondrio	linguistic	Intonation=Falling	End=2134.084	_	_	_	_
 373-0	BO093	373	e::h	eh	linguistic	_	Begin=2135.639	0x2	_	_	_
 373-1	BO093	373	non	non	linguistic	_	_	_	_	_	_
 373-2	BO093	373	sappiamo	sappiamo	linguistic	_	_	_	_	_	_
@@ -3873,7 +3873,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 373-18	BO093	373	indirettamente	indirettamente	linguistic	_	_	_	_	_	_
 373-19	BO093	373	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
 373-20	BO093	373	alterazione	alterazione	linguistic	_	_	_	_	_	_
-373-21	BO093	373	mitocondriale.	mitocondriale	linguistic	Intonation=falling	End=2147.124	_	_	_	_
+373-21	BO093	373	mitocondriale.	mitocondriale	linguistic	Intonation=Falling	End=2147.124	_	_	_	_
 374-0	BO093	374	cioè	cioè	linguistic	_	Begin=2147.464	_	_	_	_
 374-1	BO093	374	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
 374-2	BO093	374	ordine	ordine	linguistic	_	_	_	_	_	_
@@ -3889,7 +3889,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 374-12	BO093	374	xxx,	xxx	linguistic	Intonation=weakly_rising	End=2154.326	_	_	_	_
 375-0	BO093	375	non	non	linguistic	_	Begin=2154.819	_	_	_	_
 375-1	BO093	375	è	è	linguistic	_	_	_	_	_	_
-375-2	BO093	375	noto.	noto	linguistic	Intonation=falling	_	_	_	_	_
+375-2	BO093	375	noto.	noto	linguistic	Intonation=Falling	_	_	_	_	_
 375-3	BO093	375	però	però	linguistic	_	_	_	_	_	_
 375-4	BO093	375	ci	ci	linguistic	_	_	_	_	_	_
 375-5	BO093	375	sono	sono	linguistic	_	_	_	_	_	_
@@ -3899,7 +3899,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 375-9	BO093	375	a	a	linguistic	_	_	_	_	_	_
 375-10	BO093	375	tutte	tutte	linguistic	_	_	_	_	_	_
 375-11	BO093	375	le	le	linguistic	_	_	_	_	_	_
-375-12	BO093	375	patologie.	patologie	linguistic	Intonation=falling	End=2159.208	_	_	_	_
+375-12	BO093	375	patologie.	patologie	linguistic	Intonation=Falling	End=2159.208	_	_	_	_
 376-0	???	376	ma	ma	linguistic	_	Begin=2159.45	_	_	_	_
 376-1	???	376	questa	questa	linguistic	_	_	_	_	_	_
 376-2	???	376	necrosi	necrosi	linguistic	_	_	_	_	_	_
@@ -3925,16 +3925,16 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 379-8	BO093	379	sviluppo	sviluppo	linguistic	_	End=2169.43	_	_	_	_
 380-0	???	380	ma	ma	linguistic	_	Begin=2169.564	_	_	_	_
 380-1	???	380	una	una	linguistic	_	_	_	_	_	_
-380-2	???	380	necrosi?	necrosi	linguistic	Intonation=rising	End=2171.015	_	_	_	_
+380-2	???	380	necrosi?	necrosi	linguistic	Intonation=Rising	End=2171.015	_	_	_	_
 381-0	BO093	381	una	una	linguistic	_	Begin=2171.185	_	_	_	_
 381-1	BO093	381	necrosi	necrosi	linguistic	_	_	_	_	_	_
 381-2	BO093	381	programmata	programmata	linguistic	_	_	_	_	_	_
 381-3	BO093	381	la	la	linguistic	_	_	_	_	_	_
-381-4	BO093	381	necroctosi.	necroctosi	linguistic	Intonation=falling	End=2173.658	_	_	_	_
+381-4	BO093	381	necroctosi.	necroctosi	linguistic	Intonation=Falling	End=2173.658	_	_	_	_
 382-0	???	382	ma	ma	linguistic	_	Begin=2173.66	_	_	_	_
 382-1	???	382	non	non	linguistic	_	_	_	_	_	_
 382-2	???	382	causa	causa	linguistic	_	_	_	_	_	_
-382-3	???	382	infiammazione?	infiammazione	linguistic	Intonation=rising	End=2175.339	_	_	_	_
+382-3	???	382	infiammazione?	infiammazione	linguistic	Intonation=Rising	End=2175.339	_	_	_	_
 383-0	BO093	383	causa	causa	linguistic	_	Begin=2175.386	_	_	_	_
 383-1	BO093	383	infiammazione	infiammazione	linguistic	_	_	_	_	_	_
 383-2	BO093	383	ma	ma	linguistic	_	_	_	_	_	_
@@ -3983,7 +3983,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 385-25	BO093	385	vanno	vanno	linguistic	_	_	_	_	_	_
 385-26	BO093	385	incontro	incontro	linguistic	_	_	_	_	_	_
 385-27	BO093	385	a:	a	linguistic	_	_	0x1	_	_	_
-385-28	BO093	385	morte.	morte	linguistic	Intonation=falling	End=2197.654	_	_	_	_
+385-28	BO093	385	morte.	morte	linguistic	Intonation=Falling	End=2197.654	_	_	_	_
 386-0	BO093	386	questo	questo	linguistic	_	Begin=2198.55	_	_	_	_
 386-1	BO093	386	durante	durante	linguistic	_	_	_	_	_	_
 386-2	BO093	386	lo	lo	linguistic	_	_	_	_	_	_
@@ -3999,7 +3999,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 386-12	BO093	386	contribuisce	contribuisce	linguistic	_	_	_	_	_	_
 386-13	BO093	386	alla	alla	linguistic	_	_	_	_	_	_
 386-14	BO093	386	minore	minore	linguistic	_	_	_	_	_	_
-386-15	BO093	386	infiammazione.	infiammazione	linguistic	Intonation=falling	End=2205.739	_	_	_	_
+386-15	BO093	386	infiammazione.	infiammazione	linguistic	Intonation=Falling	End=2205.739	_	_	_	_
 387-0	BO093	387	perché	perché	linguistic	_	Begin=2206.987	_	_	_	_
 387-1	BO093	387	lì	lì	linguistic	_	_	_	_	_	_
 387-2	BO093	387	e::h	eh	linguistic	_	_	0x2	_	_	_
@@ -4008,7 +4008,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 387-5	BO093	387	attivazione	attivazione	linguistic	_	_	_	_	_	_
 387-6	BO093	387	eccessiva	eccessiva	linguistic	_	_	_	_	_	_
 387-7	BO093	387	della	della	linguistic	_	_	_	_	_	_
-387-8	BO093	387	microglia.	microglia	linguistic	Intonation=falling	End=2212.902	_	_	_	_
+387-8	BO093	387	microglia.	microglia	linguistic	Intonation=Falling	End=2212.902	_	_	_	_
 388-0	BO093	388	però	però	linguistic	_	Begin=2213.332	_	_	_	_
 388-1	BO093	388	è	è	linguistic	_	_	_	_	_	_
 388-2	BO093	388	un	un	linguistic	_	_	_	_	_	_
@@ -4016,7 +4016,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 388-4	BO093	388	che	che	linguistic	_	_	_	_	_	_
 388-5	BO093	388	funziona	funziona	linguistic	_	_	_	_	_	_
 388-6	BO093	388	anche	anche	linguistic	_	_	_	_	_	_
-388-7	BO093	388	fisiologicamente.	fisiologicamente	linguistic	Intonation=falling	End=2217.821	_	_	_	_
+388-7	BO093	388	fisiologicamente.	fisiologicamente	linguistic	Intonation=Falling	End=2217.821	_	_	_	_
 389-0	???	389	ma	ma	linguistic	_	Begin=2217.821	_	_	_	_
 389-1	???	389	perché	perché	linguistic	_	_	_	_	_	_
 389-2	???	389	non	non	linguistic	_	_	_	_	_	_
@@ -4024,7 +4024,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 389-4	???	389	a	a	linguistic	_	_	_	_	_	_
 389-5	???	389	una	una	linguistic	_	_	_	_	_	_
 389-6	???	389	semplice	semplice	linguistic	_	_	_	_	_	_
-389-7	???	389	apoptosi?	apoptosi	linguistic	Intonation=rising	End=2221.385	_	_	_	_
+389-7	???	389	apoptosi?	apoptosi	linguistic	Intonation=Rising	End=2221.385	_	_	_	_
 390-0	BO093	390	quello	quello	linguistic	_	Begin=2221.444	_	_	_	_
 390-1	BO093	390	lo	lo	linguistic	_	_	_	_	_	_
 390-2	BO093	390	devi	devi	linguistic	_	_	_	_	_	_
@@ -4046,8 +4046,8 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 390-18	BO093	390	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
 390-19	BO093	390	apoptosi	apoptosi	linguistic	_	_	_	_	_	_
 390-20	BO093	390	evidentemente	evidentemente	linguistic	_	_	_	_	_	_
-390-21	BO093	390	no.	no	linguistic	Intonation=falling	_	_	_	_	_
-390-22	BO093	390	>diciamo<	diciamo	linguistic	_	_	_	Fast=0-7(0)	_	_
+390-21	BO093	390	no.	no	linguistic	Intonation=Falling	_	_	_	_	_
+390-22	BO093	390	>diciamo<	diciamo	linguistic	_	_	_	Fast=0-7	_	_
 390-23	BO093	390	sono	sono	linguistic	_	_	_	_	_	_
 390-24	BO093	390	dei	dei	linguistic	_	_	_	_	_	_
 390-25	BO093	390	pathway	pathway	linguistic	_	_	_	_	_	_
@@ -4077,7 +4077,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 391-21	BO093	391	sono	sono	linguistic	_	_	_	_	_	_
 391-22	BO093	391	sempre	sempre	linguistic	_	_	_	_	_	_
 391-23	BO093	391	più	più	linguistic	_	_	_	_	_	_
-391-24	BO093	391	sfumate.	sfumate	linguistic	Intonation=falling	End=2241.449	_	_	_	_
+391-24	BO093	391	sfumate.	sfumate	linguistic	Intonation=Falling	End=2241.449	_	_	_	_
 392-0	BO093	392	e	e	linguistic	_	Begin=2242.194	_	_	_	_
 392-1	BO093	392	sembrano	sembrano	linguistic	_	_	_	_	_	_
 392-2	BO093	392	veramente	veramente	linguistic	_	_	_	_	_	_
@@ -4116,7 +4116,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 393-7	BO093	393	c'	c'	linguistic	SpaceAfter=No	_	_	_	_	_
 393-8	BO093	393	è	è	linguistic	_	_	_	_	_	_
 393-9	BO093	393	anche	anche	linguistic	_	_	_	_	_	_
-393-10	BO093	393	quella.	quella	linguistic	Intonation=falling	End=2258.699	_	_	_	_
+393-10	BO093	393	quella.	quella	linguistic	Intonation=Falling	End=2258.699	_	_	_	_
 394-0	BO093	394	per	per	linguistic	_	Begin=2259.149	_	_	_	_
 394-1	BO093	394	cui	cui	linguistic	_	_	_	_	_	_
 394-2	BO093	394	è	è	linguistic	_	_	_	_	_	_
@@ -4199,7 +4199,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 400-2	BO093	400	sempre	sempre	linguistic	_	_	_	_	_	_
 400-3	BO093	400	un	un	linguistic	_	_	_	_	_	_
 400-4	BO093	400	fenotipo	fenotipo	linguistic	_	_	_	_	_	_
-400-5	BO093	400	neurale.	neurale	linguistic	Intonation=falling	End=2307.349	_	_	_	_
+400-5	BO093	400	neurale.	neurale	linguistic	Intonation=Falling	End=2307.349	_	_	_	_
 401-0	BO093	401	e::h	eh	linguistic	_	Begin=2309.123	0x2	_	_	_
 401-1	BO093	401	quindi	quindi	linguistic	_	_	_	_	_	_
 401-2	BO093	401	c'	c'	linguistic	SpaceAfter=No	_	_	_	_	_
@@ -4212,7 +4212,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 401-9	BO093	401	mitocondri	mitocondri	linguistic	_	_	_	_	_	_
 401-10	BO093	401	e	e	linguistic	_	_	_	_	_	_
 401-11	BO093	401	sistema	sistema	linguistic	_	_	_	_	_	_
-401-12	BO093	401	nervoso.	nervoso	linguistic	Intonation=falling	End=2315.604	_	_	_	_
+401-12	BO093	401	nervoso.	nervoso	linguistic	Intonation=Falling	End=2315.604	_	_	_	_
 402-0	BO093	402	perché	perché	linguistic	_	Begin=2316.361	_	_	_	_
 402-1	BO093	402	magari	magari	linguistic	_	_	_	_	_	_
 402-2	BO093	402	semplicemente	semplicemente	linguistic	_	_	_	_	_	_
@@ -4241,7 +4241,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 403-7	BO093	403	è	è	linguistic	_	_	_	_	_	_
 403-8	BO093	403	un	un	linguistic	_	_	_	_	_	_
 403-9	BO093	403	legame	legame	linguistic	_	_	_	_	_	_
-403-10	BO093	403	strettissimo.	strettissimo	linguistic	Intonation=falling	End=2329.203	_	_	_	_
+403-10	BO093	403	strettissimo.	strettissimo	linguistic	Intonation=Falling	End=2329.203	_	_	_	_
 404-0	BO093	404	ora	ora	linguistic	_	Begin=2330.136	_	_	_	_
 404-1	BO093	404	nelle	nelle	linguistic	_	_	_	_	_	_
 404-2	BO093	404	malattie	malattie	linguistic	_	_	_	_	_	_
@@ -4316,7 +4316,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 408-13	BO093	408	nessun	nessun	linguistic	_	_	_	_	_	_
 408-14	BO093	408	tipo	tipo	linguistic	_	_	_	_	_	_
 408-15	BO093	408	di	di	linguistic	_	_	_	_	_	_
-408-16	BO093	408	protezione.	protezione	linguistic	Intonation=falling	End=2370.977	_	_	_	_
+408-16	BO093	408	protezione.	protezione	linguistic	Intonation=Falling	End=2370.977	_	_	_	_
 409-0	BO093	409	in	in	linguistic	_	Begin=2371.89	_	_	_	_
 409-1	BO093	409	queste	queste	linguistic	_	_	_	_	_	_
 409-2	BO093	409	ehp	ehp	linguistic	_	_	_	_	_	_
@@ -4351,7 +4351,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 410-20	BO093	410	primo	primo	linguistic	_	_	_	_	_	_
 410-21	BO093	410	della	della	linguistic	_	_	_	_	_	_
 410-22	BO093	410	catena	catena	linguistic	_	_	_	_	_	_
-410-23	BO093	410	respiratoria.	respiratoria	linguistic	Intonation=falling	End=2389.819	_	_	_	_
+410-23	BO093	410	respiratoria.	respiratoria	linguistic	Intonation=Falling	End=2389.819	_	_	_	_
 411-0	BO093	411	tant'	tant'	linguistic	SpaceAfter=No	Begin=2390.083	_	_	_	_
 411-1	BO093	411	è	è	linguistic	_	_	_	_	_	_
 411-2	BO093	411	che	che	linguistic	_	_	_	_	_	_
@@ -4366,7 +4366,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 411-11	BO093	411	modelli	modelli	linguistic	_	_	_	_	_	_
 411-12	BO093	411	farmacologici	farmacologici	linguistic	_	_	_	_	_	_
 411-13	BO093	411	di	di	linguistic	_	_	_	_	_	_
-411-14	BO093	411	parkinson.	parkinson	linguistic	Intonation=falling	End=2396.878	_	_	_	_
+411-14	BO093	411	parkinson.	parkinson	linguistic	Intonation=Falling	End=2396.878	_	_	_	_
 412-0	BO093	412	proprio	proprio	linguistic	_	Begin=2397.213	_	_	_	_
 412-1	BO093	412	perché	perché	linguistic	_	_	_	_	_	_
 412-2	BO093	412	c'	c'	linguistic	SpaceAfter=No	_	_	_	_	_
@@ -4374,7 +4374,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 412-4	BO093	412	una	una	linguistic	_	_	_	_	_	_
 412-5	BO093	412	casua~	casua~	linguistic	Interrupted=Yes	_	_	_	_	_
 412-6	BO093	412	causalità	causalità	linguistic	_	_	_	_	_	_
-412-7	BO093	412	diretta.	diretta	linguistic	Intonation=falling	End=2400.28	_	_	_	_
+412-7	BO093	412	diretta.	diretta	linguistic	Intonation=Falling	End=2400.28	_	_	_	_
 413-0	BO093	413	ora	ora	linguistic	_	Begin=2401.488	_	_	_	_
 413-1	BO093	413	e::hm	ehm	linguistic	_	_	0x2	_	_	_
 413-2	BO093	413	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
@@ -4408,7 +4408,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 414-20	BO093	414	codificano	codificano	linguistic	_	_	_	_	_	_
 414-21	BO093	414	per	per	linguistic	_	_	_	_	_	_
 414-22	BO093	414	proteine	proteine	linguistic	_	_	_	_	_	_
-414-23	BO093	414	mitocondriali.	mitocondriali	linguistic	Intonation=falling	End=2418.279	_	_	_	_
+414-23	BO093	414	mitocondriali.	mitocondriali	linguistic	Intonation=Falling	End=2418.279	_	_	_	_
 415-0	BO093	415	quindi	quindi	linguistic	_	Begin=2418.889	_	_	_	_
 415-1	BO093	415	c'	c'	linguistic	SpaceAfter=No	_	_	_	_	_
 415-2	BO093	415	è	è	linguistic	_	_	_	_	_	_
@@ -4428,7 +4428,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 415-16	BO093	415	di	di	linguistic	_	End=2426.21	_	_	_	_
 416-0	BO093	416	e::hm	ehm	linguistic	_	Begin=2426.536	0x2	_	_	_
 416-1	BO093	416	malattie	malattie	linguistic	_	_	_	_	_	_
-416-2	BO093	416	neurodegenerative.	neurodegenerative	linguistic	Intonation=falling	End=2429.42	_	_	_	_
+416-2	BO093	416	neurodegenerative.	neurodegenerative	linguistic	Intonation=Falling	End=2429.42	_	_	_	_
 417-0	BO093	417	l'	l'	linguistic	SpaceAfter=No	Begin=2429.973	_	_	_	_
 417-1	BO093	417	altro	altro	linguistic	_	_	_	_	_	_
 417-2	BO093	417	aspetto	aspetto	linguistic	_	_	_	_	_	_
@@ -4476,7 +4476,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 419-12	BO093	419	specie	specie	linguistic	_	_	_	_	_	_
 419-13	BO093	419	reattive	reattive	linguistic	_	_	_	_	_	_
 419-14	BO093	419	dell'	dell'	linguistic	SpaceAfter=No	_	_	_	_	_
-419-15	BO093	419	ossigeno.	ossigeno	linguistic	Intonation=falling	End=2454.137	_	_	_	_
+419-15	BO093	419	ossigeno.	ossigeno	linguistic	Intonation=Falling	End=2454.137	_	_	_	_
 420-0	BO093	420	e	e	linguistic	_	Begin=2454.527	_	_	_	_
 420-1	BO093	420	quindi	quindi	linguistic	_	_	_	_	_	_
 420-2	BO093	420	la	la	linguistic	_	_	_	_	_	_
@@ -4496,7 +4496,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 420-16	BO093	420	tutte	tutte	linguistic	_	_	_	_	_	_
 420-17	BO093	420	le	le	linguistic	_	_	_	_	_	_
 420-18	BO093	420	malattie	malattie	linguistic	_	_	_	_	_	_
-420-19	BO093	420	neurodegenerative.	neurodegenerative	linguistic	Intonation=falling	End=2468.93	_	_	_	_
+420-19	BO093	420	neurodegenerative.	neurodegenerative	linguistic	Intonation=Falling	End=2468.93	_	_	_	_
 421-0	BO093	421	l'	l'	linguistic	SpaceAfter=No	Begin=2470.272	_	_	_	_
 421-1	BO093	421	altro	altro	linguistic	_	_	_	_	_	_
 421-2	BO093	421	e::hm	ehm	linguistic	_	_	0x2	_	_	_
@@ -4526,7 +4526,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 422-4	BO093	422	alterare	alterare	linguistic	_	_	_	_	_	_
 422-5	BO093	422	il	il	linguistic	_	_	_	_	_	_
 422-6	BO093	422	trasporto	trasporto	linguistic	_	_	_	_	_	_
-422-7	BO093	422	assonale.	assonale	linguistic	Intonation=falling	End=2489.145	_	_	_	_
+422-7	BO093	422	assonale.	assonale	linguistic	Intonation=Falling	End=2489.145	_	_	_	_
 423-0	BO093	423	alterando	alterando	linguistic	_	Begin=2489.795	_	_	_	_
 423-1	BO093	423	il	il	linguistic	_	_	_	_	_	_
 423-2	BO093	423	trasporto	trasporto	linguistic	_	_	_	_	_	_
@@ -4552,7 +4552,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 424-11	BO093	424	raggiungono	raggiungono	linguistic	_	_	_	_	_	_
 424-12	BO093	424	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
 424-13	BO093	424	estremità	estremità	linguistic	_	_	_	_	_	_
-424-14	BO093	424	sinattica.	sinattica	linguistic	Intonation=falling	End=2503.066	_	_	_	_
+424-14	BO093	424	sinattica.	sinattica	linguistic	Intonation=Falling	End=2503.066	_	_	_	_
 425-0	BO093	425	eh	eh	linguistic	_	Begin=2504.166	_	_	_	_
 425-1	BO093	425	in	in	linguistic	_	_	_	_	_	_
 425-2	BO093	425	secondo	secondo	linguistic	_	_	_	_	_	_
@@ -4592,7 +4592,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 425-36	BO093	425	ad	ad	linguistic	_	_	_	_	_	_
 425-37	BO093	425	essere	essere	linguistic	_	_	_	_	_	_
 425-38	BO093	425	eliminati	eliminati	linguistic	_	_	_	_	_	_
-425-39	BO093	425	propriamente.	propriamente	linguistic	Intonation=falling	End=2523.865	_	_	_	_
+425-39	BO093	425	propriamente.	propriamente	linguistic	Intonation=Falling	End=2523.865	_	_	_	_
 426-0	BO093	426	per	per	linguistic	_	Begin=2524.474	_	_	_	_
 426-1	BO093	426	cui	cui	linguistic	_	_	_	_	_	_
 426-2	BO093	426	c'	c'	linguistic	SpaceAfter=No	_	_	_	_	_
@@ -4616,7 +4616,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 426-20	BO093	426	la	la	linguistic	_	_	_	_	_	_
 426-21	BO093	426	funzionalità	funzionalità	linguistic	_	_	_	_	_	_
 426-22	BO093	426	della	della	linguistic	_	_	_	_	_	_
-426-23	BO093	426	neurotrasmissione.	neurotrasmissione	linguistic	Intonation=falling	End=2535.451	_	_	_	_
+426-23	BO093	426	neurotrasmissione.	neurotrasmissione	linguistic	Intonation=Falling	End=2535.451	_	_	_	_
 427-0	BO093	427	unito	unito	linguistic	_	Begin=2535.758	_	_	_	_
 427-1	BO093	427	al	al	linguistic	_	_	_	_	_	_
 427-2	BO093	427	fatto	fatto	linguistic	_	_	_	_	_	_
@@ -4629,7 +4629,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 427-9	BO093	427	a	a	linguistic	_	_	_	_	_	_
 427-10	BO093	427	carico	carico	linguistic	_	_	_	_	_	_
 427-11	BO093	427	dei	dei	linguistic	_	_	_	_	_	_
-427-12	BO093	427	neurotrasmettitori.	neurotrasmettitori	linguistic	Intonation=falling	End=2541.189	_	_	_	_
+427-12	BO093	427	neurotrasmettitori.	neurotrasmettitori	linguistic	Intonation=Falling	End=2541.189	_	_	_	_
 428-0	BO093	428	e::hm	ehm	linguistic	_	Begin=2542.753	0x2	_	_	_
 428-1	BO093	428	ora	ora	linguistic	_	_	_	_	_	_
 428-2	BO093	428	questa	questa	linguistic	_	_	_	_	_	_
@@ -4659,7 +4659,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 429-7	BO093	429	un'	un'	linguistic	SpaceAfter=No	_	_	_	_	_
 429-8	BO093	429	altra	altra	linguistic	_	_	_	_	_	_
 429-9	BO093	429	situazione	situazione	linguistic	_	_	_	_	_	_
-429-10	BO093	429	perché?	perché	linguistic	Intonation=rising	End=2558.685	_	_	_	_
+429-10	BO093	429	perché?	perché	linguistic	Intonation=Rising	End=2558.685	_	_	_	_
 430-0	BO093	430	e::hm	ehm	linguistic	_	Begin=2559.537	0x2	_	_	_
 430-1	BO093	430	il	il	linguistic	_	_	_	_	_	_
 430-2	BO093	430	trasporto	trasporto	linguistic	_	_	_	_	_	_
@@ -4704,7 +4704,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 434-7	BO093	434	proteina	proteina	linguistic	_	_	_	_	_	_
 434-8	BO093	434	associata	associata	linguistic	_	_	_	_	_	_
 434-9	BO093	434	ai	ai	linguistic	_	_	_	_	_	_
-434-10	BO093	434	microtubuli.	microtubuli	linguistic	Intonation=falling	End=2585.317	_	_	_	_
+434-10	BO093	434	microtubuli.	microtubuli	linguistic	Intonation=Falling	End=2585.317	_	_	_	_
 435-0	BO093	435	nelle	nelle	linguistic	_	Begin=2586.821	_	_	_	_
 435-1	BO093	435	forme	forme	linguistic	_	_	_	_	_	_
 435-2	BO093	435	patologiche	patologiche	linguistic	_	_	_	_	_	_
@@ -4751,7 +4751,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 435-43	BO093	435	una	una	linguistic	_	_	_	_	_	_
 435-44	BO093	435	disgregazione	disgregazione	linguistic	_	_	_	_	_	_
 435-45	BO093	435	dei	dei	linguistic	_	_	_	_	_	_
-435-46	BO093	435	microtubuli.	microtubuli	linguistic	Intonation=falling	End=2607.805	_	_	_	_
+435-46	BO093	435	microtubuli.	microtubuli	linguistic	Intonation=Falling	End=2607.805	_	_	_	_
 436-0	BO093	436	tant'	tant'	linguistic	SpaceAfter=No	Begin=2608.421	_	_	_	_
 436-1	BO093	436	è	è	linguistic	_	_	_	_	_	_
 436-2	BO093	436	che	che	linguistic	_	_	_	_	_	_
@@ -4785,7 +4785,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 436-30	BO093	436	inglobati	inglobati	linguistic	_	_	_	_	_	_
 436-31	BO093	436	in	in	linguistic	_	_	_	_	_	_
 436-32	BO093	436	questi	questi	linguistic	_	_	_	_	_	_
-436-33	BO093	436	grovigli.	grovigli	linguistic	Intonation=falling	End=2624.155	_	_	_	_
+436-33	BO093	436	grovigli.	grovigli	linguistic	Intonation=Falling	End=2624.155	_	_	_	_
 437-0	BO093	437	nell'	nell'	linguistic	SpaceAfter=No	Begin=2624.847	_	_	_	_
 437-1	BO093	437	huntington	huntington	linguistic	_	_	_	_	_	_
 437-2	BO093	437	invece	invece	linguistic	_	_	_	_	_	_
@@ -4858,7 +4858,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 439-17	BO093	439	causare	causare	linguistic	_	_	_	_	_	_
 439-18	BO093	439	la	la	linguistic	_	_	_	_	_	_
 439-19	BO093	439	morte	morte	linguistic	_	_	_	_	_	_
-439-20	BO093	439	cellulare.	cellulare	linguistic	Intonation=falling	End=2670.598	_	_	_	_
+439-20	BO093	439	cellulare.	cellulare	linguistic	Intonation=Falling	End=2670.598	_	_	_	_
 440-0	BO093	440	perché	perché	linguistic	_	Begin=2671.688	_	_	_	_
 440-1	BO093	440	e::h	eh	linguistic	_	_	0x2	_	_	_
 440-2	BO093	440	spesso	spesso	linguistic	_	_	_	_	_	_
@@ -4874,7 +4874,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 440-12	BO093	440	la	la	linguistic	_	_	_	_	_	_
 440-13	BO093	440	morte	morte	linguistic	_	_	_	_	_	_
 440-14	BO093	440	del	del	linguistic	_	_	_	_	_	_
-440-15	BO093	440	neurone.	neurone	linguistic	Intonation=falling	End=2680.077	_	_	_	_
+440-15	BO093	440	neurone.	neurone	linguistic	Intonation=Falling	End=2680.077	_	_	_	_
 441-0	BO093	441	e::h	eh	linguistic	_	Begin=2680.797	0x2	_	_	_
 441-1	BO093	441	e	e	linguistic	_	_	_	_	_	_
 441-2	BO093	441	essa	essa	linguistic	_	_	_	_	_	_
@@ -4883,7 +4883,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 441-5	BO093	441	indurre	indurre	linguistic	_	_	_	_	_	_
 441-6	BO093	441	la	la	linguistic	_	_	_	_	_	_
 441-7	BO093	441	morte	morte	linguistic	_	_	_	_	_	_
-441-8	BO093	441	cellulare.	cellulare	linguistic	Intonation=falling	End=2685.184	_	_	_	_
+441-8	BO093	441	cellulare.	cellulare	linguistic	Intonation=Falling	End=2685.184	_	_	_	_
 442-0	BO093	442	allora	allora	linguistic	_	Begin=2688.538|End=2689.322	_	_	_	_
 443-0	BO093	443	qualcuno	qualcuno	linguistic	_	Begin=2692.717	_	_	_	_
 443-1	BO093	443	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
@@ -4911,7 +4911,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 444-20	BO093	444	principlamente	principlamente	linguistic	_	_	_	_	_	_
 444-21	BO093	444	microglia	microglia	linguistic	_	_	_	_	_	_
 444-22	BO093	444	e	e	linguistic	_	_	_	_	_	_
-444-23	BO093	444	assonciti.	assonciti	linguistic	Intonation=falling	End=2711.201	_	_	_	_
+444-23	BO093	444	assonciti.	assonciti	linguistic	Intonation=Falling	End=2711.201	_	_	_	_
 445-0	BO093	445	infatti	infatti	linguistic	_	Begin=2711.775	_	_	_	_
 445-1	BO093	445	eh	eh	linguistic	_	_	_	_	_	_
 445-2	BO093	445	quando	quando	linguistic	_	_	_	_	_	_
@@ -4935,7 +4935,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 445-20	BO093	445	relazioni	relazioni	linguistic	_	_	_	_	_	_
 445-21	BO093	445	alle	alle	linguistic	_	_	_	_	_	_
 445-22	BO093	445	neuropatologie	neuropatologie	linguistic	_	_	_	_	_	_
-445-23	BO093	445	perché?	perché	linguistic	Intonation=rising	End=2723.749	_	_	_	_
+445-23	BO093	445	perché?	perché	linguistic	Intonation=Rising	End=2723.749	_	_	_	_
 446-0	BO093	446	perché	perché	linguistic	_	Begin=2724.211	_	_	_	_
 446-1	BO093	446	nelle	nelle	linguistic	_	_	_	_	_	_
 446-2	BO093	446	fasi	fasi	linguistic	_	_	_	_	_	_
@@ -4976,7 +4976,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 448-7	BO093	448	livello	livello	linguistic	_	_	_	_	_	_
 448-8	BO093	448	del	del	linguistic	_	_	_	_	_	_
 448-9	BO093	448	tessuto	tessuto	linguistic	_	_	_	_	_	_
-448-10	BO093	448	cerebrale.	cerebrale	linguistic	Intonation=falling	End=2745.317	_	_	_	_
+448-10	BO093	448	cerebrale.	cerebrale	linguistic	Intonation=Falling	End=2745.317	_	_	_	_
 449-0	BO093	449	gliosi	gliosi	linguistic	_	Begin=2746.998	_	_	_	_
 449-1	BO093	449	che	che	linguistic	_	_	_	_	_	_
 449-2	BO093	449	significa	significa	linguistic	_	_	_	_	_	_
@@ -4997,7 +4997,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 450-8	BO093	450	infiammatoria	infiammatoria	linguistic	_	_	_	_	_	_
 450-9	BO093	450	delle	delle	linguistic	_	_	_	_	_	_
 450-10	BO093	450	cellule	cellule	linguistic	_	_	_	_	_	_
-450-11	BO093	450	stesse.	stesse	linguistic	Intonation=falling	End=2758.082	_	_	_	_
+450-11	BO093	450	stesse.	stesse	linguistic	Intonation=Falling	End=2758.082	_	_	_	_
 451-0	BO093	451	ora	ora	linguistic	_	Begin=2758.985	_	_	_	_
 451-1	BO093	451	e::h	eh	linguistic	_	_	0x2	_	_	_
 451-2	BO093	451	questo	questo	linguistic	_	_	_	_	_	_
@@ -5035,7 +5035,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 452-12	BO093	452	delle	delle	linguistic	_	_	_	_	_	_
 452-13	BO093	452	durante	durante	linguistic	_	_	_	_	_	_
 452-14	BO093	452	le	le	linguistic	_	_	_	_	_	_
-452-15	BO093	452	neuropatologie.	neuropatologie	linguistic	Intonation=falling	End=2782.596	_	_	_	_
+452-15	BO093	452	neuropatologie.	neuropatologie	linguistic	Intonation=Falling	End=2782.596	_	_	_	_
 453-0	BO093	453	adesso	adesso	linguistic	_	Begin=2783.546	_	_	_	_
 453-1	BO093	453	m:h	mh	linguistic	_	_	0x1	_	_	_
 453-2	BO093	453	sappiamo	sappiamo	linguistic	_	_	_	_	_	_
@@ -5164,7 +5164,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 459-11	BO093	459	alla	alla	linguistic	_	_	_	_	_	_
 459-12	BO093	459	morte	morte	linguistic	_	_	_	_	_	_
 459-13	BO093	459	del	del	linguistic	_	_	_	_	_	_
-459-14	BO093	459	neurone.	neurone	linguistic	Intonation=falling	End=2844.672	_	_	_	_
+459-14	BO093	459	neurone.	neurone	linguistic	Intonation=Falling	End=2844.672	_	_	_	_
 460-0	BO093	460	questo	questo	linguistic	_	Begin=2845.491	_	_	_	_
 460-1	BO093	460	è	è	linguistic	_	_	_	_	_	_
 460-2	BO093	460	vero	vero	linguistic	_	_	_	_	_	_
@@ -5199,7 +5199,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 461-4	BO093	461	attivazione	attivazione	linguistic	_	_	_	_	_	_
 461-5	BO093	461	emme	emme	linguistic	_	_	_	_	_	_
 461-6	BO093	461	uno	uno	linguistic	_	_	_	_	_	_
-461-7	BO093	461	neurotossica.	neurotossica	linguistic	Intonation=falling	End=2860.984	_	_	_	_
+461-7	BO093	461	neurotossica.	neurotossica	linguistic	Intonation=Falling	End=2860.984	_	_	_	_
 462-0	BO093	462	e::hm	ehm	linguistic	_	Begin=2862.178	0x2	_	_	_
 462-1	BO093	462	e	e	linguistic	_	_	_	_	_	_
 462-2	BO093	462	questo	questo	linguistic	_	_	_	_	_	_
@@ -5292,7 +5292,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 465-54	BO093	465	a	a	linguistic	_	_	_	_	_	_
 465-55	BO093	465	carico	carico	linguistic	_	_	_	_	_	_
 465-56	BO093	465	dei	dei	linguistic	_	_	_	_	_	_
-465-57	BO093	465	neuroni.	neuroni	linguistic	Intonation=falling	End=2915.576	_	_	_	_
+465-57	BO093	465	neuroni.	neuroni	linguistic	Intonation=Falling	End=2915.576	_	_	_	_
 466-0	BO093	466	ora	ora	linguistic	_	Begin=2916.983	_	_	_	_
 466-1	BO093	466	e::h	eh	linguistic	_	_	0x2	_	_	_
 466-2	BO093	466	questa	questa	linguistic	_	_	_	_	_	_
@@ -5312,7 +5312,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 466-16	BO093	466	ad	ad	linguistic	_	_	_	_	_	_
 466-17	BO093	466	un	un	linguistic	_	_	_	_	_	_
 466-18	BO093	466	altro	altro	linguistic	_	_	_	_	_	_
-466-19	BO093	466	concetto.	concetto	linguistic	Intonation=falling	End=2926.231	_	_	_	_
+466-19	BO093	466	concetto.	concetto	linguistic	Intonation=Falling	End=2926.231	_	_	_	_
 467-0	BO093	467	voi	voi	linguistic	_	Begin=2926.925	_	_	_	_
 467-1	BO093	467	sapete	sapete	linguistic	_	_	_	_	_	_
 467-2	BO093	467	che	che	linguistic	_	_	_	_	_	_
@@ -5342,7 +5342,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 467-26	BO093	467	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
 467-27	BO093	467	aumentare	aumentare	linguistic	_	_	_	_	_	_
 467-28	BO093	467	dell'	dell'	linguistic	SpaceAfter=No	_	_	_	_	_
-467-29	BO093	467	età.	età	linguistic	Intonation=falling	End=2939.019	_	_	_	_
+467-29	BO093	467	età.	età	linguistic	Intonation=Falling	End=2939.019	_	_	_	_
 468-0	BO093	468	per	per	linguistic	_	Begin=2939.869	_	_	_	_
 468-1	BO093	468	alcune	alcune	linguistic	_	_	_	_	_	_
 468-2	BO093	468	è	è	linguistic	_	_	_	_	_	_
@@ -5359,7 +5359,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 468-13	BO093	468	principale	principale	linguistic	_	_	_	_	_	_
 468-14	BO093	468	fattore	fattore	linguistic	_	_	_	_	_	_
 468-15	BO093	468	di	di	linguistic	_	_	_	_	_	_
-468-16	BO093	468	rischio.	rischio	linguistic	Intonation=falling	End=2946.926	_	_	_	_
+468-16	BO093	468	rischio.	rischio	linguistic	Intonation=Falling	End=2946.926	_	_	_	_
 469-0	BO093	469	ora	ora	linguistic	_	Begin=2947.731	_	_	_	_
 469-1	BO093	469	questo	questo	linguistic	_	_	_	_	_	_
 469-2	BO093	469	vuol	vuol	linguistic	_	_	_	_	_	_
@@ -5384,7 +5384,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 471-1	BO093	471	una	una	linguistic	_	_	_	_	_	_
 471-2	BO093	471	microglia	microglia	linguistic	_	_	_	_	_	_
 471-3	BO093	471	senescente	senescente	linguistic	_	_	_	_	_	_
-471-4	BO093	471	invecchiata.	invecchiata	linguistic	Intonation=falling	End=2964.036	_	_	_	_
+471-4	BO093	471	invecchiata.	invecchiata	linguistic	Intonation=Falling	End=2964.036	_	_	_	_
 472-0	BO093	472	eh	eh	linguistic	_	Begin=2964.791	_	_	_	_
 472-1	BO093	472	cosiddetta	cosiddetta	linguistic	_	_	_	_	_	_
 472-2	BO093	472	distrofica	distrofica	linguistic	_	_	_	_	_	_
@@ -5400,7 +5400,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 472-12	BO093	472	sue	sue	linguistic	_	_	_	_	_	_
 472-13	BO093	472	funzioni	funzioni	linguistic	_	_	_	_	_	_
 472-14	BO093	472	trofiche	trofiche	linguistic	_	_	_	_	_	_
-472-15	BO093	472	protettive.	protettive	linguistic	Intonation=falling	End=2972.836	_	_	_	_
+472-15	BO093	472	protettive.	protettive	linguistic	Intonation=Falling	End=2972.836	_	_	_	_
 473-0	BO093	473	e	e	linguistic	_	Begin=2973.589	_	_	_	_
 473-1	BO093	473	questo	questo	linguistic	_	_	_	_	_	_
 473-2	BO093	473	co~	co~	linguistic	Interrupted=Yes	_	_	_	_	_
@@ -5455,7 +5455,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 474-28	BO093	474	tiene	tiene	linguistic	_	_	_	_	_	_
 474-29	BO093	474	controllato	controllato	linguistic	_	_	_	_	_	_
 474-30	BO093	474	il	il	linguistic	_	_	_	_	_	_
-474-31	BO093	474	danno.	danno	linguistic	Intonation=falling	End=3002.616	_	_	_	_
+474-31	BO093	474	danno.	danno	linguistic	Intonation=Falling	End=3002.616	_	_	_	_
 475-0	BO093	475	nel	nel	linguistic	_	Begin=3003.314	_	_	_	_
 475-1	BO093	475	momento	momento	linguistic	_	_	_	_	_	_
 475-2	BO093	475	in	in	linguistic	_	_	_	_	_	_
@@ -5534,7 +5534,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 478-20	BO093	478	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
 478-21	BO093	478	attivazione	attivazione	linguistic	_	_	_	_	_	_
 478-22	BO093	478	della	della	linguistic	_	_	_	_	_	_
-478-23	BO093	478	microglia.	microglia	linguistic	Intonation=falling	End=3042.511	_	_	_	_
+478-23	BO093	478	microglia.	microglia	linguistic	Intonation=Falling	End=3042.511	_	_	_	_
 479-0	BO093	479	perché	perché	linguistic	_	Begin=3043.094	_	_	_	_
 479-1	BO093	479	se	se	linguistic	_	_	_	_	_	_
 479-2	BO093	479	uno	uno	linguistic	_	_	_	_	_	_
@@ -5593,7 +5593,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 481-11	BO093	481	alla	alla	linguistic	_	_	_	_	_	_
 481-12	BO093	481	comparsa	comparsa	linguistic	_	_	_	_	_	_
 481-13	BO093	481	delle	delle	linguistic	_	_	_	_	_	_
-481-14	BO093	481	patologie.	patologie	linguistic	Intonation=falling	End=3073.192	_	_	_	_
+481-14	BO093	481	patologie.	patologie	linguistic	Intonation=Falling	End=3073.192	_	_	_	_
 482-0	BO093	482	però	però	linguistic	_	Begin=3074.821	_	_	_	_
 482-1	BO093	482	ovviamente	ovviamente	linguistic	_	_	_	_	_	_
 482-2	BO093	482	tutto	tutto	linguistic	_	_	_	_	_	_
@@ -5620,7 +5620,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 482-23	BO093	482	gliali	gliali	linguistic	_	_	_	_	_	_
 482-24	BO093	482	nelle	nelle	linguistic	_	_	_	_	_	_
 482-25	BO093	482	diverse	diverse	linguistic	_	_	_	_	_	_
-482-26	BO093	482	patologie.	patologie	linguistic	Intonation=falling	End=3087.084	_	_	_	_
+482-26	BO093	482	patologie.	patologie	linguistic	Intonation=Falling	End=3087.084	_	_	_	_
 483-0	BO093	483	un	un	linguistic	_	Begin=3088.142	_	_	_	_
 483-1	BO093	483	altro	altro	linguistic	_	_	_	_	_	_
 483-2	BO093	483	caratteristi~	caratteristi~	linguistic	Interrupted=Yes	_	_	_	_	_
@@ -5640,7 +5640,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 484-5	BO093	484	cosiddetti	cosiddetti	linguistic	_	_	_	_	_	_
 484-6	BO093	484	granuli	granuli	linguistic	_	_	_	_	_	_
 484-7	BO093	484	di	di	linguistic	_	_	_	_	_	_
-484-8	BO093	484	stress.	stress	linguistic	Intonation=falling	End=3099.508	_	_	_	_
+484-8	BO093	484	stress.	stress	linguistic	Intonation=Falling	End=3099.508	_	_	_	_
 485-0	BO093	485	queste	queste	linguistic	_	Begin=3100.16	_	_	_	_
 485-1	BO093	485	sono	sono	linguistic	_	_	_	_	_	_
 485-2	BO093	485	delle	delle	linguistic	_	_	_	_	_	_
@@ -5661,7 +5661,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 486-1	BO093	486	sono	sono	linguistic	_	_	_	_	_	_
 486-2	BO093	486	esposte	esposte	linguistic	_	_	_	_	_	_
 486-3	BO093	486	a	a	linguistic	_	_	_	_	_	_
-486-4	BO093	486	stress.	stress	linguistic	Intonation=falling	End=3113.492	_	_	_	_
+486-4	BO093	486	stress.	stress	linguistic	Intonation=Falling	End=3113.492	_	_	_	_
 487-0	BO093	487	questi	questi	linguistic	_	Begin=3114.302	_	_	_	_
 487-1	BO093	487	granuli	granuli	linguistic	_	_	_	_	_	_
 487-2	BO093	487	di	di	linguistic	_	_	_	_	_	_
@@ -5675,7 +5675,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 487-10	BO093	487	di	di	linguistic	_	_	_	_	_	_
 487-11	BO093	487	erre	erre	linguistic	_	_	_	_	_	_
 487-12	BO093	487	enne	enne	linguistic	_	_	_	_	_	_
-487-13	BO093	487	a.	a	linguistic	Intonation=falling	End=3119.569	_	_	_	_
+487-13	BO093	487	a.	a	linguistic	Intonation=Falling	End=3119.569	_	_	_	_
 488-0	BO093	488	tra	tra	linguistic	_	Begin=3120.524	_	_	_	_
 488-1	BO093	488	cui	cui	linguistic	_	_	_	_	_	_
 488-2	BO093	488	eh	eh	linguistic	_	_	_	_	_	_
@@ -5683,7 +5683,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 488-4	BO093	488	esempio	esempio	linguistic	_	_	_	_	_	_
 488-5	BO093	488	la	la	linguistic	_	_	_	_	_	_
 488-6	BO093	488	xxxxx	x	unknown	_	_	_	_	_	_
-488-7	BO093	488	protein.	protein	linguistic	Intonation=falling	End=3124.36	_	_	_	_
+488-7	BO093	488	protein.	protein	linguistic	Intonation=Falling	End=3124.36	_	_	_	_
 489-0	BO093	489	ma	ma	linguistic	_	Begin=3124.958	_	_	_	_
 489-1	BO093	489	anche	anche	linguistic	_	_	_	_	_	_
 489-2	BO093	489	altre	altre	linguistic	_	_	_	_	_	_
@@ -5695,7 +5695,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 489-8	BO093	489	ti	ti	linguistic	_	_	_	_	_	_
 489-9	BO093	489	di	di	linguistic	_	_	_	_	_	_
 489-10	BO093	489	pi	pi	linguistic	_	_	_	_	_	_
-489-11	BO093	489	quarantatré.	quarantatré	linguistic	Intonation=falling	End=3129.519	_	_	_	_
+489-11	BO093	489	quarantatré.	quarantatré	linguistic	Intonation=Falling	End=3129.519	_	_	_	_
 490-0	BO093	490	che	che	linguistic	_	Begin=3130.188	_	_	_	_
 490-1	BO093	490	è	è	linguistic	_	_	_	_	_	_
 490-2	BO093	490	fortemente	fortemente	linguistic	_	_	_	_	_	_
@@ -5755,7 +5755,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 491-25	BO093	491	un	un	linguistic	_	_	_	_	_	_
 491-26	BO093	491	legame	legame	linguistic	_	_	_	_	_	_
 491-27	BO093	491	molto	molto	linguistic	_	_	_	_	_	_
-491-28	BO093	491	stretto.	stretto	linguistic	Intonation=falling	End=3156.417	_	_	_	_
+491-28	BO093	491	stretto.	stretto	linguistic	Intonation=Falling	End=3156.417	_	_	_	_
 492-0	BO093	492	e::h	eh	linguistic	_	Begin=3157.629	0x2	_	_	_
 492-1	BO093	492	ma	ma	linguistic	_	_	_	_	_	_
 492-2	BO093	492	aggregati	aggregati	linguistic	_	_	_	_	_	_
@@ -5772,7 +5772,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 492-13	BO093	492	e	e	linguistic	_	_	_	_	_	_
 492-14	BO093	492	in	in	linguistic	_	_	_	_	_	_
 492-15	BO093	492	altre	altre	linguistic	_	_	_	_	_	_
-492-16	BO093	492	patologie.	patologie	linguistic	Intonation=falling	End=3168.035	_	_	_	_
+492-16	BO093	492	patologie.	patologie	linguistic	Intonation=Falling	End=3168.035	_	_	_	_
 493-0	BO093	493	e	e	linguistic	_	Begin=3168.466	_	_	_	_
 493-1	BO093	493	sembrano	sembrano	linguistic	_	_	_	_	_	_
 493-2	BO093	493	essere	essere	linguistic	_	_	_	_	_	_
@@ -5789,7 +5789,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 494-1	BO093	494	il	il	linguistic	_	_	_	_	_	_
 494-2	BO093	494	fenomeno	fenomeno	linguistic	_	_	_	_	_	_
 494-3	BO093	494	di	di	linguistic	_	_	_	_	_	_
-494-4	BO093	494	traduzione.	traduzione	linguistic	Intonation=falling	End=3178.915	_	_	_	_
+494-4	BO093	494	traduzione.	traduzione	linguistic	Intonation=Falling	End=3178.915	_	_	_	_
 495-0	BO093	495	andando	andando	linguistic	_	Begin=3179.27	_	_	_	_
 495-1	BO093	495	a	a	linguistic	_	_	_	_	_	_
 495-2	BO093	495	intrappolare	intrappolare	linguistic	_	_	_	_	_	_
@@ -5798,7 +5798,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 495-5	BO093	495	associati	associati	linguistic	_	_	_	_	_	_
 495-6	BO093	495	a	a	linguistic	_	_	_	_	_	_
 495-7	BO093	495	xxx	x	unknown	_	_	_	_	_	_
-495-8	BO093	495	(proteine).	proteine	linguistic	Intonation=falling	End=3184.597	_	_	0-8(0)	_
+495-8	BO093	495	(proteine).	proteine	linguistic	Intonation=Falling	End=3184.597	_	_	0-8(0)	_
 496-0	BO093	496	fondamentalmente	fondamentalmente	linguistic	_	Begin=3185.155	_	_	_	_
 496-1	BO093	496	in	in	linguistic	_	_	_	_	_	_
 496-2	BO093	496	condizioni	condizioni	linguistic	_	_	_	_	_	_
@@ -5818,7 +5818,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 497-12	BO093	497	e	e	linguistic	_	_	_	_	_	_
 497-13	BO093	497	permettono	permettono	linguistic	_	_	_	_	_	_
 497-14	BO093	497	la	la	linguistic	_	_	_	_	_	_
-497-15	BO093	497	trascrizione.	trascrizione	linguistic	Intonation=falling	End=3196.504	_	_	_	_
+497-15	BO093	497	trascrizione.	trascrizione	linguistic	Intonation=Falling	End=3196.504	_	_	_	_
 498-0	BO093	498	in	in	linguistic	_	Begin=3197.043	_	_	_	_
 498-1	BO093	498	condizioni	condizioni	linguistic	_	_	_	_	_	_
 498-2	BO093	498	di	di	linguistic	_	_	_	_	_	_
@@ -5868,7 +5868,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 501-15	BO093	501	all'	all'	linguistic	SpaceAfter=No	_	_	_	_	_
 501-16	BO093	501	interno	interno	linguistic	_	_	_	_	_	_
 501-17	BO093	501	delle	delle	linguistic	_	_	_	_	_	_
-501-18	BO093	501	cellule.	cellule	linguistic	Intonation=falling	End=3218.638	_	_	_	_
+501-18	BO093	501	cellule.	cellule	linguistic	Intonation=Falling	End=3218.638	_	_	_	_
 502-0	BO093	502	questo	questo	linguistic	_	Begin=3219.1	_	_	_	_
 502-1	BO093	502	è	è	linguistic	_	_	_	_	_	_
 502-2	BO093	502	stato	stato	linguistic	_	_	_	_	_	_
@@ -5919,7 +5919,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 504-10	BO093	504	molto	molto	linguistic	_	_	_	_	_	_
 504-11	BO093	504	evidente	evidente	linguistic	_	_	_	_	_	_
 504-12	BO093	504	nell'	nell'	linguistic	SpaceAfter=No	_	_	_	_	_
-504-13	BO093	504	huntington.	huntington	linguistic	Intonation=falling	End=3242.318	_	_	_	_
+504-13	BO093	504	huntington.	huntington	linguistic	Intonation=Falling	End=3242.318	_	_	_	_
 505-0	BO093	505	ma	ma	linguistic	_	Begin=3242.864	_	_	_	_
 505-1	BO093	505	può	può	linguistic	_	_	_	_	_	_
 505-2	BO093	505	essere	essere	linguistic	_	_	_	_	_	_
@@ -5945,7 +5945,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 506-9	BO093	506	livello	livello	linguistic	_	_	_	_	_	_
 506-10	BO093	506	delle	delle	linguistic	_	_	_	_	_	_
 506-11	BO093	506	estremità	estremità	linguistic	_	_	_	_	_	_
-506-12	BO093	506	sinaptiche.	sinaptiche	linguistic	Intonation=falling	End=3256.132	_	_	_	_
+506-12	BO093	506	sinaptiche.	sinaptiche	linguistic	Intonation=Falling	End=3256.132	_	_	_	_
 507-0	BO093	507	ovviamente	ovviamente	linguistic	_	Begin=3257.005	_	_	_	_
 507-1	BO093	507	se	se	linguistic	_	_	_	_	_	_
 507-2	BO093	507	c'	c'	linguistic	SpaceAfter=No	_	_	_	_	_
@@ -5980,7 +5980,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 508-11	BO093	508	traduzione	traduzione	linguistic	_	_	_	_	_	_
 508-12	BO093	508	in	in	linguistic	_	_	_	_	_	_
 508-13	BO093	508	maniera	maniera	linguistic	_	_	_	_	_	_
-508-14	BO093	508	corretta.	corretta	linguistic	Intonation=falling	End=3270.572	_	_	_	_
+508-14	BO093	508	corretta.	corretta	linguistic	Intonation=Falling	End=3270.572	_	_	_	_
 509-0	BO093	509	per	per	linguistic	_	Begin=3271.019	_	_	_	_
 509-1	BO093	509	cui	cui	linguistic	_	_	_	_	_	_
 509-2	BO093	509	è	è	linguistic	_	_	_	_	_	_
@@ -6024,7 +6024,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 512-3	BO093	512	di	di	linguistic	_	_	_	_	_	_
 512-4	BO093	512	produzione	produzione	linguistic	_	_	_	_	_	_
 512-5	BO093	512	delle	delle	linguistic	_	_	_	_	_	_
-512-6	BO093	512	proteine.	proteine	linguistic	Intonation=falling	End=3290.052	_	_	_	_
+512-6	BO093	512	proteine.	proteine	linguistic	Intonation=Falling	End=3290.052	_	_	_	_
 513-0	BO093	513	questi	questi	linguistic	_	Begin=3290.488	_	_	_	_
 513-1	BO093	513	granuli	granuli	linguistic	_	_	_	_	_	_
 513-2	BO093	513	da	da	linguistic	_	_	_	_	_	_
@@ -6041,7 +6041,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 513-13	BO093	513	ma	ma	linguistic	_	_	_	_	_	_
 513-14	BO093	513	soprattutto	soprattutto	linguistic	_	_	_	_	_	_
 513-15	BO093	513	nella	nella	linguistic	_	_	_	_	_	_
-513-16	BO093	513	sla.	sla	linguistic	Intonation=falling	End=3296.271	_	_	_	_
+513-16	BO093	513	sla.	sla	linguistic	Intonation=Falling	End=3296.271	_	_	_	_
 514-0	BO093	514	allora	allora	linguistic	_	Begin=3296.876	_	_	_	_
 514-1	BO093	514	fatta	fatta	linguistic	_	_	_	_	_	_
 514-2	BO093	514	questa	questa	linguistic	_	_	_	_	_	_
@@ -6082,7 +6082,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 516-10	BO093	516	il	il	linguistic	_	_	_	_	_	_
 516-11	BO093	516	morbo	morbo	linguistic	_	_	_	_	_	_
 516-12	BO093	516	di	di	linguistic	_	_	_	_	_	_
-516-13	BO093	516	alzheimer.	alzheimer	linguistic	Intonation=falling	End=3317.529	_	_	_	_
+516-13	BO093	516	alzheimer.	alzheimer	linguistic	Intonation=Falling	End=3317.529	_	_	_	_
 517-0	BO093	517	allora	allora	linguistic	_	Begin=3318.039|End=3318.825	_	_	_	_
 518-0	BO093	518	il	il	linguistic	_	Begin=3320.192	_	_	_	_
 518-1	BO093	518	morbo	morbo	linguistic	_	_	_	_	_	_
@@ -6096,7 +6096,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 518-9	BO093	518	inizio	inizio	linguistic	_	_	_	_	_	_
 518-10	BO093	518	del	del	linguistic	_	_	_	_	_	_
 518-11	BO093	518	secolo	secolo	linguistic	_	_	_	_	_	_
-518-12	BO093	518	scorso.	scorso	linguistic	Intonation=falling	End=3326.444	_	_	_	_
+518-12	BO093	518	scorso.	scorso	linguistic	Intonation=Falling	End=3326.444	_	_	_	_
 519-0	BO093	519	da	da	linguistic	_	Begin=3326.708	_	_	_	_
 519-1	BO093	519	questo	questo	linguistic	_	_	_	_	_	_
 519-2	BO093	519	neurologo	neurologo	linguistic	_	_	_	_	_	_
@@ -6127,7 +6127,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 521-2	BO093	521	forma	forma	linguistic	_	_	_	_	_	_
 521-3	BO093	521	di	di	linguistic	_	_	_	_	_	_
 521-4	BO093	521	patologia	patologia	linguistic	_	_	_	_	_	_
-521-5	BO093	521	psichiatrica.	psichiatrica	linguistic	Intonation=falling	_	_	_	_	_
+521-5	BO093	521	psichiatrica.	psichiatrica	linguistic	Intonation=Falling	_	_	_	_	_
 521-6	BO093	521	allora	allora	linguistic	_	_	_	_	_	_
 521-7	BO093	521	siamo	siamo	linguistic	_	_	_	_	_	_
 521-8	BO093	521	negli	negli	linguistic	_	_	_	_	_	_
@@ -6206,7 +6206,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 524-16	BO093	524	una	una	linguistic	_	_	_	_	_	_
 524-17	BO093	524	base	base	linguistic	_	_	_	_	_	_
 524-18	BO093	524	fisica,	fisica	linguistic	Intonation=weakly_rising	_	_	_	_	_
-524-19	BO093	524	fisiologica.	fisiologica	linguistic	Intonation=falling	End=3383.633	_	_	_	_
+524-19	BO093	524	fisiologica.	fisiologica	linguistic	Intonation=Falling	End=3383.633	_	_	_	_
 525-0	BO093	525	e	e	linguistic	_	Begin=3384.347	_	_	_	_
 525-1	BO093	525	studiò	studiò	linguistic	_	_	_	_	_	_
 525-2	BO093	525	il	il	linguistic	_	_	_	_	_	_
@@ -6264,7 +6264,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 526-24	BO093	526	anche	anche	linguistic	_	_	_	_	_	_
 526-25	BO093	526	quelle	quelle	linguistic	_	_	_	_	_	_
 526-26	BO093	526	già	già	linguistic	_	_	_	_	_	_
-526-27	BO093	526	consolidate.	consolidate	linguistic	Intonation=falling	End=3413.18	_	_	_	_
+526-27	BO093	526	consolidate.	consolidate	linguistic	Intonation=Falling	End=3413.18	_	_	_	_
 527-0	BO093	527	in	in	linguistic	_	Begin=3413.62	_	_	_	_
 527-1	BO093	527	più	più	linguistic	_	_	_	_	_	_
 527-2	BO093	527	aveva	aveva	linguistic	_	_	_	_	_	_
@@ -6283,7 +6283,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 527-15	BO093	527	delle	delle	linguistic	_	_	_	_	_	_
 527-16	BO093	527	vie	vie	linguistic	_	_	_	_	_	_
 527-17	BO093	527	dell'	dell'	linguistic	SpaceAfter=No	_	_	_	_	_
-527-18	BO093	527	alzheimer.	alzheimer	linguistic	Intonation=falling	End=3421.245	_	_	_	_
+527-18	BO093	527	alzheimer.	alzheimer	linguistic	Intonation=Falling	End=3421.245	_	_	_	_
 528-0	BO093	528	e::hm	ehm	linguistic	_	Begin=3422.228	0x2	_	_	_
 528-1	BO093	528	quando	quando	linguistic	_	_	_	_	_	_
 528-2	BO093	528	questa	questa	linguistic	_	_	_	_	_	_
@@ -6299,7 +6299,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 528-12	BO093	528	di	di	linguistic	_	_	_	_	_	_
 528-13	BO093	528	fare	fare	linguistic	_	_	_	_	_	_
 528-14	BO093	528	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
-528-15	BO093	528	autopsia.	autopsia	linguistic	Intonation=falling	End=3428.789	_	_	_	_
+528-15	BO093	528	autopsia.	autopsia	linguistic	Intonation=Falling	End=3428.789	_	_	_	_
 529-0	BO093	529	e	e	linguistic	_	Begin=3429.389	_	_	_	_
 529-1	BO093	529	si	si	linguistic	_	_	_	_	_	_
 529-2	BO093	529	trovò	trovò	linguistic	_	_	_	_	_	_
@@ -6357,7 +6357,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 531-18	BO093	531	continenti	continenti	linguistic	_	_	_	_	_	_
 531-19	BO093	531	proteina	proteina	linguistic	_	_	_	_	_	_
 531-20	BO093	531	tau	tau	linguistic	_	_	_	_	_	_
-531-21	BO093	531	xxxxxxx.	xxxxxxx	linguistic	Intonation=falling	End=3458.209	_	_	_	_
+531-21	BO093	531	xxxxxxx.	xxxxxxx	linguistic	Intonation=Falling	End=3458.209	_	_	_	_
 532-0	BO093	532	quindi	quindi	linguistic	_	Begin=3458.588	_	_	_	_
 532-1	BO093	532	vide	vide	linguistic	_	_	_	_	_	_
 532-2	BO093	532	i	i	linguistic	_	_	_	_	_	_
@@ -6379,7 +6379,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 534-7	BO093	534	placche	placche	linguistic	_	_	_	_	_	_
 534-8	BO093	534	e	e	linguistic	_	_	_	_	_	_
 534-9	BO093	534	di	di	linguistic	_	_	_	_	_	_
-534-10	BO093	534	grovigli.	grovigli	linguistic	Intonation=falling	End=3472.668	_	_	_	_
+534-10	BO093	534	grovigli.	grovigli	linguistic	Intonation=Falling	End=3472.668	_	_	_	_
 535-0	BO093	535	lui	lui	linguistic	_	Begin=3473.22	_	_	_	_
 535-1	BO093	535	presentò	presentò	linguistic	_	_	_	_	_	_
 535-2	BO093	535	nel	nel	linguistic	_	_	_	_	_	_
@@ -6402,7 +6402,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 535-19	BO093	535	alcun	alcun	linguistic	_	_	_	_	_	_
 535-20	BO093	535	tipo	tipo	linguistic	_	_	_	_	_	_
 535-21	BO093	535	di	di	linguistic	_	_	_	_	_	_
-535-22	BO093	535	considerazione.	considerazione	linguistic	Intonation=falling	End=3484.839	_	_	_	_
+535-22	BO093	535	considerazione.	considerazione	linguistic	Intonation=Falling	End=3484.839	_	_	_	_
 536-0	BO093	536	dopo	dopo	linguistic	_	Begin=3485.809	_	_	_	_
 536-1	BO093	536	di	di	linguistic	_	_	_	_	_	_
 536-2	BO093	536	che	che	linguistic	_	_	_	_	_	_
@@ -6436,7 +6436,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 536-30	BO093	536	di	di	linguistic	_	_	_	_	_	_
 536-31	BO093	536	malattia	malattia	linguistic	_	_	_	_	_	_
 536-32	BO093	536	neurodegenerativa	neurodegenerativa	linguistic	_	_	_	_	_	_
-536-33	BO093	536	cronica.	cronica	linguistic	Intonation=falling	End=3501.517	_	_	_	_
+536-33	BO093	536	cronica.	cronica	linguistic	Intonation=Falling	End=3501.517	_	_	_	_
 537-0	BO093	537	ora	ora	linguistic	_	Begin=3502.363|End=3503.065	_	_	_	_
 538-0	BO093	538	la	la	linguistic	_	Begin=3503.528	_	_	_	_
 538-1	BO093	538	il	il	linguistic	_	_	_	_	_	_
@@ -6453,7 +6453,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 538-12	BO093	538	più	più	linguistic	_	_	_	_	_	_
 538-13	BO093	538	comuni	comuni	linguistic	_	_	_	_	_	_
 538-14	BO093	538	di	di	linguistic	_	_	_	_	_	_
-538-15	BO093	538	demenza.	demenza	linguistic	Intonation=falling	End=3510.2	_	_	_	_
+538-15	BO093	538	demenza.	demenza	linguistic	Intonation=Falling	End=3510.2	_	_	_	_
 539-0	BO093	539	però	però	linguistic	_	Begin=3510.702	_	_	_	_
 539-1	BO093	539	le	le	linguistic	_	_	_	_	_	_
 539-2	BO093	539	demenze	demenze	linguistic	_	_	_	_	_	_
@@ -6469,7 +6469,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 539-12	BO093	539	avere	avere	linguistic	_	_	_	_	_	_
 539-13	BO093	539	cause	cause	linguistic	_	_	_	_	_	_
 539-14	BO093	539	molto	molto	linguistic	_	_	_	_	_	_
-539-15	BO093	539	diverse.	diverse	linguistic	Intonation=falling	End=3518.252	_	_	_	_
+539-15	BO093	539	diverse.	diverse	linguistic	Intonation=Falling	End=3518.252	_	_	_	_
 540-0	BO093	540	e::h	eh	linguistic	_	Begin=3519.406	0x2	_	_	_
 540-1	BO093	540	in	in	linguistic	_	_	_	_	_	_
 540-2	BO093	540	m:h	mh	linguistic	_	_	0x1	_	_	_
@@ -6492,7 +6492,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 540-19	BO093	540	i	i	linguistic	_	_	_	_	_	_
 540-20	BO093	540	casi	casi	linguistic	_	_	_	_	_	_
 540-21	BO093	540	di	di	linguistic	_	_	_	_	_	_
-540-22	BO093	540	demenza.	demenza	linguistic	Intonation=falling	End=3530.275	_	_	_	_
+540-22	BO093	540	demenza.	demenza	linguistic	Intonation=Falling	End=3530.275	_	_	_	_
 541-0	BO093	541	i:o	io	linguistic	_	Begin=3531.017|End=3531.558	0x1	_	_	_
 542-0	BO093	542	m:h	mh	linguistic	_	Begin=3532.74	0x1	_	_	_
 542-1	BO093	542	ho	ho	linguistic	_	_	_	_	_	_
@@ -6625,7 +6625,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 545-32	BO093	545	per	per	linguistic	_	_	_	_	_	_
 545-33	BO093	545	almeno	almeno	linguistic	_	_	_	_	_	_
 545-34	BO093	545	la	la	linguistic	_	_	_	_	_	_
-545-35	BO093	545	metà.	metà	linguistic	Intonation=falling	End=3591.216	_	_	_	_
+545-35	BO093	545	metà.	metà	linguistic	Intonation=Falling	End=3591.216	_	_	_	_
 546-0	BO093	546	ora	ora	linguistic	_	Begin=3592.533	_	_	_	_
 546-1	BO093	546	e::hm	ehm	linguistic	_	_	0x2	_	_	_
 546-2	BO093	546	quello	quello	linguistic	_	_	_	_	_	_
@@ -6679,7 +6679,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 548-5	BO093	548	è	è	linguistic	_	_	_	_	_	_
 548-6	BO093	548	affetto	affetto	linguistic	_	_	_	_	_	_
 548-7	BO093	548	da	da	linguistic	_	_	_	_	_	_
-548-8	BO093	548	demenza.	demenza	linguistic	Intonation=falling	End=3617.33	_	_	_	_
+548-8	BO093	548	demenza.	demenza	linguistic	Intonation=Falling	End=3617.33	_	_	_	_
 549-0	BO093	549	e::h	eh	linguistic	_	Begin=3618.651	0x2	_	_	_
 549-1	BO093	549	per	per	linguistic	_	_	_	_	_	_
 549-2	BO093	549	cui	cui	linguistic	_	_	_	_	_	_
@@ -6710,7 +6710,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 550-6	BO093	550	economici	economici	linguistic	_	_	_	_	_	_
 550-7	BO093	550	che	che	linguistic	_	_	_	_	_	_
 550-8	BO093	550	sono	sono	linguistic	_	_	_	_	_	_
-550-9	BO093	550	elevatissimi.	elevatissimi	linguistic	Intonation=falling	End=3635.747	_	_	_	_
+550-9	BO093	550	elevatissimi.	elevatissimi	linguistic	Intonation=Falling	End=3635.747	_	_	_	_
 551-0	BO093	551	eh	eh	linguistic	_	Begin=3636.486	_	_	_	_
 551-1	BO093	551	si	si	linguistic	_	_	_	_	_	_
 551-2	BO093	551	è	è	linguistic	_	_	_	_	_	_
@@ -6743,7 +6743,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 551-29	BO093	551	fino	fino	linguistic	_	_	_	_	_	_
 551-30	BO093	551	a	a	linguistic	_	_	_	_	_	_
 551-31	BO093	551	ottantuno	ottantuno	linguistic	_	_	_	_	_	_
-551-32	BO093	551	milioni.	milioni	linguistic	Intonation=falling	End=3653.946	_	_	_	_
+551-32	BO093	551	milioni.	milioni	linguistic	Intonation=Falling	End=3653.946	_	_	_	_
 552-0	BO093	552	questo	questo	linguistic	_	Begin=3654.375	_	_	_	_
 552-1	BO093	552	è	è	linguistic	_	_	_	_	_	_
 552-2	BO093	552	dovuto	dovuto	linguistic	_	_	_	_	_	_
@@ -6796,7 +6796,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 555-16	BO093	555	e::h	eh	linguistic	_	_	0x2	_	_	_
 555-17	BO093	555	di	di	linguistic	_	_	_	_	_	_
 555-18	BO093	555	queste	queste	linguistic	_	_	_	_	_	_
-555-19	BO093	555	patologie.	patologie	linguistic	Intonation=falling	End=3678.409	_	_	_	_
+555-19	BO093	555	patologie.	patologie	linguistic	Intonation=Falling	End=3678.409	_	_	_	_
 556-0	BO093	556	quindi	quindi	linguistic	_	Begin=3679.428	_	_	_	_
 556-1	BO093	556	questo	questo	linguistic	_	_	_	_	_	_
 556-2	BO093	556	fa	fa	linguistic	_	_	_	_	_	_
@@ -6824,7 +6824,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 557-8	BO093	557	di	di	linguistic	_	_	_	_	_	_
 557-9	BO093	557	fattori	fattori	linguistic	_	_	_	_	_	_
 557-10	BO093	557	eh	eh	linguistic	_	_	_	_	_	_
-557-11	BO093	557	socioeconomici.	socioeconomici	linguistic	Intonation=falling	End=3691.346	_	_	_	_
+557-11	BO093	557	socioeconomici.	socioeconomici	linguistic	Intonation=Falling	End=3691.346	_	_	_	_
 558-0	BO093	558	perché	perché	linguistic	_	Begin=3691.893	_	_	_	_
 558-1	BO093	558	ad	ad	linguistic	_	_	_	_	_	_
 558-2	BO093	558	esempi	esempi	linguistic	_	_	_	_	_	_
@@ -6847,7 +6847,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 559-3	BO093	559	di	di	linguistic	_	End=3701.355	_	_	_	_
 560-0	BO093	560	contrarre	contrarre	linguistic	_	Begin=3702.093	_	_	_	_
 560-1	BO093	560	queste	queste	linguistic	_	_	_	_	_	_
-560-2	BO093	560	patologie.	patologie	linguistic	Intonation=falling	End=3703.892	_	_	_	_
+560-2	BO093	560	patologie.	patologie	linguistic	Intonation=Falling	End=3703.892	_	_	_	_
 561-0	BO093	561	altri	altri	linguistic	_	Begin=3704.674	_	_	_	_
 561-1	BO093	561	fattori	fattori	linguistic	_	_	_	_	_	_
 561-2	BO093	561	di	di	linguistic	_	_	_	_	_	_
@@ -6863,7 +6863,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 562-0	BO093	562	e::h	eh	linguistic	_	Begin=3713.007	0x2	_	_	_
 562-1	BO093	562	ipercolesterolemia	ipercolesterolemia	linguistic	_	_	_	_	_	_
 562-2	BO093	562	e	e	linguistic	_	_	_	_	_	_
-562-3	BO093	562	diabete.	diabete	linguistic	Intonation=falling	End=3716.129	_	_	_	_
+562-3	BO093	562	diabete.	diabete	linguistic	Intonation=Falling	End=3716.129	_	_	_	_
 563-0	BO093	563	ora	ora	linguistic	_	Begin=3717.513	_	_	_	_
 563-1	BO093	563	eh	eh	linguistic	_	_	_	_	_	_
 563-2	BO093	563	tutte	tutte	linguistic	_	_	_	_	_	_
