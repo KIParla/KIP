@@ -13,6 +13,7 @@ version: 1.0.0
 doi: https://doi.org/10.60760/unibo/kip
 date-released: 2025-10-01
 url: "https://github.com/KIParla/KIP"
+license: CC-BY-NC-SA-4.0
 preferred-citation:
   type: article
   authors:

@@ -97,7 +97,7 @@ Each token is represented as 12 columns, as follows:
    - `Interrupted=Yes`: words interrupted in speech, transcribed with final, transcribed with final `~`
    - `Truncated=Yes`: truncated forms (e.g., `anda'` for `andare`, common in some Italian varieties)
    - `Volume` can assume values `High` or `Low` and translated Jefferson's uppercase and `°` respectively
-8. `align`: alignment features for the first and last token of each TU, through `AlignBegin` and `AlignEnd` features expressed in milliseconds
+8. `align`: alignment features for the first and last token of each TU, through `AlignBegin` and `AlignEnd` features expressed in seconds
 9. `prolongations`: positions of sound prolongations (colons `:`) within the word, encoded as a comma-separated list of `<char_id>x<count>` pairs
     - `char_id` is the zero-based index of the character in the token's orthographic form.
     - `count` is the number of consecutive colons immediately following that character in the original span
