@@ -617,7 +617,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 75-3	BO090	75	[sì	sì	linguistic	_	_	_	_	_	0-2(11)
 75-4	BO090	75	sì].	sì	linguistic	Intonation=Falling	End=221.947	_	_	_	0-2(11)
 76-0	BO087	76	[epura:]te	epurate	linguistic	_	Begin=221.42	4x1	_	_	0-5(11)
-76-0	BO087	76	queste	queste	linguistic	_	_	_	_	_	_
+76-0bis	BO087	76	queste	queste	linguistic	_	_	_	_	_	_
 76-1	BO087	76	[condizioni].	condizioni	linguistic	Intonation=Falling	End=223.35	_	_	_	0-10(12)
 77-0	BO090	77	[che	che	linguistic	_	Begin=222.5	_	_	_	0-3(12)
 77-1	BO090	77	già	già	linguistic	_	_	_	_	_	0-3(12)

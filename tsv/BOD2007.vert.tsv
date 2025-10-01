@@ -1065,7 +1065,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 158-1	BO052	158	no	no	linguistic	_	_	_	_	_	0-2(26)
 158-2	BO052	158	ma::]	ma	linguistic	_	End=373.326	1x2	_	_	0-2(26)
 159-0	BO052	159	[la]	la	linguistic	_	Begin=373.372	_	_	_	0-2(27)
-159-0	BO052	159	la	la	linguistic	_	_	_	_	_	_
+159-0bis	BO052	159	la	la	linguistic	_	_	_	_	_	_
 159-1	BO052	159	bicicletta	bicicletta	linguistic	_	_	_	_	_	_
 159-2	BO052	159	mi	mi	linguistic	_	_	_	_	_	_
 159-3	BO052	159	piace	piace	linguistic	_	_	_	_	_	_
