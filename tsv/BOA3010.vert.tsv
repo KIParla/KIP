@@ -67,7 +67,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 9-9	BO096	9	cambia	cambia	linguistic	_	_	_	_	_	_
 9-10	BO096	9	molto	molto	linguistic	_	End=41.905	_	_	_	_
 10-0	BO095	10	è	è	linguistic	_	Begin=41.905	_	_	_	_
-10-1	BO095	10	vero.	vero	linguistic	Intonation=falling	End=42.442	_	_	_	_
+10-1	BO095	10	vero.	vero	linguistic	Intonation=Falling	End=42.442	_	_	_	_
 11-0	BO096	11	con	con	linguistic	_	Begin=46.784	_	_	_	_
 11-1	BO096	11	quale	quale	linguistic	_	_	_	_	_	_
 11-2	BO096	11	criterio?	criterio	linguistic	Intonation=Rising	End=47.589	_	_	_	_
@@ -213,7 +213,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 37-7	BO096	37	persona	persona	linguistic	_	_	_	_	_	_
 37-8	BO096	37	di	di	linguistic	_	_	_	_	_	_
 37-9	BO096	37	cultura	cultura	linguistic	_	End=145.578	_	_	_	_
-38-0	BO095	38	assolutamente.	assolutamente	linguistic	Intonation=falling	Begin=145.578|End=146.494	_	_	_	_
+38-0	BO095	38	assolutamente.	assolutamente	linguistic	Intonation=Falling	Begin=145.578|End=146.494	_	_	_	_
 39-0	BO096	39	cioè	cioè	linguistic	_	Begin=148.9	_	_	_	_
 39-1	BO096	39	così	così	linguistic	_	_	_	_	_	_
 39-2	BO096	39	sei	sei	linguistic	_	_	_	_	_	_
@@ -440,7 +440,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 68-13	BO096	68	viene	viene	linguistic	_	_	_	_	_	_
 68-14	BO096	68	considerata	considerata	linguistic	_	_	_	_	_	_
 68-15	BO096	68	come	come	linguistic	_	_	_	_	_	_
-68-16	BO096	68	cattiva.	cattiva	linguistic	Intonation=falling	_	_	_	_	_
+68-16	BO096	68	cattiva.	cattiva	linguistic	Intonation=Falling	_	_	_	_	_
 68-17	BO096	68	tipo	tipo	linguistic	_	End=267.647	_	_	_	_
 69-0	BO096	69	giustamente	giustamente	linguistic	_	Begin=268.757|End=269.536	_	_	_	_
 70-0	BO096	70	tu	tu	linguistic	_	Begin=270.257	_	_	_	_
@@ -459,7 +459,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 70-13	BO096	70	giusto	giusto	linguistic	_	_	_	_	_	_
 70-14	BO096	70	che	che	linguistic	_	_	_	_	_	_
 70-15	BO096	70	ti	ti	linguistic	_	_	_	_	_	_
-70-16	BO096	70	arrabbi.	arrabbi	linguistic	Intonation=falling	End=275.463	_	_	_	_
+70-16	BO096	70	arrabbi.	arrabbi	linguistic	Intonation=Falling	End=275.463	_	_	_	_
 71-0	BO096	71	però	però	linguistic	_	Begin=275.963|End=276.405	_	_	_	_
 72-0	BO096	72	che	che	linguistic	_	Begin=277.078	_	_	_	_
 72-1	BO096	72	la	la	linguistic	_	_	_	_	_	_
@@ -585,7 +585,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 92-7	BO096	92	per	per	linguistic	_	_	_	_	_	_
 92-8	BO096	92	ogni	ogni	linguistic	_	_	_	_	_	_
 92-9	BO096	92	cosa	cosa	linguistic	_	End=330.815	_	_	_	_
-93-0	BO096	93	no.	no	linguistic	Intonation=falling	Begin=331.699	_	_	_	_
+93-0	BO096	93	no.	no	linguistic	Intonation=Falling	Begin=331.699	_	_	_	_
 93-1	BO096	93	non	non	linguistic	_	_	_	_	_	_
 93-2	BO096	93	non::	non	linguistic	_	_	2x2	_	_	_
 93-3	BO096	93	non	non	linguistic	_	_	_	_	_	_
@@ -1089,7 +1089,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 180-10	BO096	180	fanno	fanno	linguistic	_	_	_	_	_	_
 180-11	BO096	180	schifo,	schifo	linguistic	Intonation=weakly_rising	_	_	_	_	_
 180-12	BO096	180	anche	anche	linguistic	_	_	_	_	_	_
-180-13	BO096	180	no.	no	linguistic	Intonation=falling	End=911.211	_	_	_	_
+180-13	BO096	180	no.	no	linguistic	Intonation=Falling	End=911.211	_	_	_	_
 181-0	BO096	181	xx	x	unknown	_	Begin=944.274	_	_	_	_
 181-1	BO096	181	professionalità	professionalità	linguistic	_	End=945.555	_	_	_	_
 182-0	BO095	182	sì::	sì	linguistic	_	Begin=945.555	1x2	_	_	_
@@ -1568,7 +1568,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 270-0	BO095	270	le	le	linguistic	_	Begin=1395.3	_	_	_	_
 270-1	BO095	270	mie	mie	linguistic	_	_	_	_	_	_
 270-2	BO095	270	sopracciglia?	sopracciglia	linguistic	Intonation=Rising	End=1396.198	_	_	_	_
-271-0	BO096	271	apposto.	apposto	linguistic	Intonation=falling	Begin=1397.193|End=1397.861	_	_	_	_
+271-0	BO096	271	apposto.	apposto	linguistic	Intonation=Falling	Begin=1397.193|End=1397.861	_	_	_	_
 272-0	BO095	272	meno	meno	linguistic	_	Begin=1398.995	_	_	_	_
 272-1	BO095	272	male	male	linguistic	_	End=1399.554	_	_	_	_
 273-0	BO096	273	penso	penso	linguistic	_	Begin=1401.996	_	_	_	_
@@ -1822,7 +1822,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 314-1	BO096	314	xxx	x	unknown	_	_	_	_	_	_
 314-2	BO096	314	xxx	x	unknown	_	_	_	_	_	_
 314-3	BO096	314	xxx	x	unknown	_	End=1534.8	_	_	_	_
-315-0	BO096	315	ragiona.	ragiona	linguistic	Intonation=falling	Begin=1537.045	_	_	_	_
+315-0	BO096	315	ragiona.	ragiona	linguistic	Intonation=Falling	Begin=1537.045	_	_	_	_
 315-1	BO096	315	è	è	linguistic	_	_	_	_	_	_
 315-2	BO096	315	un	un	linguistic	_	_	_	_	_	_
 315-3	BO096	315	bravo	bravo	linguistic	_	_	_	_	_	_
@@ -2156,7 +2156,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 361-2	BO096	361	ora	ora	linguistic	_	_	_	_	_	_
 361-3	BO096	361	kev	kev	linguistic	_	_	_	_	_	_
 361-4	BO096	361	è	è	linguistic	_	_	_	_	_	_
-361-5	BO096	361	lì.	lì	linguistic	Intonation=falling	End=1727.531	_	_	_	_
+361-5	BO096	361	lì.	lì	linguistic	Intonation=Falling	End=1727.531	_	_	_	_
 362-0	BO095	362	si	si	linguistic	_	Begin=1730.096	_	_	_	_
 362-1	BO095	362	starà	starà	linguistic	_	_	_	_	_	_
 362-2	BO095	362	divertendo	divertendo	linguistic	_	End=1731.318	_	_	_	_
@@ -2359,7 +2359,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 395-15	BO096	395	vedono	vedono	linguistic	_	_	_	_	_	_
 395-16	BO096	395	veronica	veronica	linguistic	_	_	_	_	_	_
 395-17	BO096	395	fanno	fanno	linguistic	_	_	_	_	_	_
-395-18	BO096	395	qualcosa.	qualcosa	linguistic	Intonation=falling	_	_	_	_	_
+395-18	BO096	395	qualcosa.	qualcosa	linguistic	Intonation=Falling	_	_	_	_	_
 395-19	BO096	395	però	però	linguistic	_	_	_	_	_	_
 395-20	BO096	395	no	no	linguistic	_	End=1832.674	_	_	_	_
 396-0	BO096	396	cioè	cioè	linguistic	_	Begin=1833.284|End=1833.647	_	_	_	_
@@ -2757,7 +2757,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 462-1	BO096	462	il	il	linguistic	_	_	_	_	_	_
 462-2	BO096	462	gela::to	gelato	linguistic	_	End=2049.833	3x2	_	_	_
 463-0	BO096	463	però	però	linguistic	_	Begin=2053.101	_	_	_	_
-463-1	BO096	463	vabbè.	vabbè	linguistic	Intonation=falling	End=2053.63	_	_	_	_
+463-1	BO096	463	vabbè.	vabbè	linguistic	Intonation=Falling	End=2053.63	_	_	_	_
 464-0	BO095	464	io	io	linguistic	_	Begin=2055.705	_	_	_	_
 464-1	BO095	464	non	non	linguistic	_	_	_	_	_	_
 464-2	BO095	464	me	me	linguistic	_	_	_	_	_	_
@@ -3761,7 +3761,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 607-1	BO095	607	è	è	linguistic	_	_	_	_	_	_
 607-2	BO095	607	finita	finita	linguistic	_	_	_	_	_	_
 607-3	BO095	607	la	la	linguistic	_	_	_	_	_	_
-607-4	BO095	607	puntata.	puntata	linguistic	Intonation=falling	End=2596.652	_	_	_	_
+607-4	BO095	607	puntata.	puntata	linguistic	Intonation=Falling	End=2596.652	_	_	_	_
 608-0	BO096	608	con	con	linguistic	_	Begin=2598.749	_	_	_	_
 608-1	BO096	608	le	le	linguistic	_	_	_	_	_	_
 608-2	BO096	608	persone	persone	linguistic	_	_	_	_	_	_
@@ -4658,7 +4658,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 744-6	BO096	744	per	per	linguistic	_	_	_	_	_	_
 744-7	BO096	744	queste	queste	linguistic	_	_	_	_	_	_
 744-8	BO096	744	cose	cose	linguistic	_	_	_	_	_	_
-744-9	BO096	744	cioè.	cioè	linguistic	Intonation=falling	_	_	_	_	_
+744-9	BO096	744	cioè.	cioè	linguistic	Intonation=Falling	_	_	_	_	_
 744-10	BO096	744	si	si	linguistic	_	_	_	_	_	_
 744-11	BO096	744	è	è	linguistic	_	_	_	_	_	_
 744-12	BO096	744	suicidato	suicidato	linguistic	_	_	_	_	_	_
@@ -4667,7 +4667,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 744-15	BO096	744	pressioni	pressioni	linguistic	_	_	_	_	_	_
 744-16	BO096	744	mediatiche	mediatiche	linguistic	_	_	_	_	_	_
 744-17	BO096	744	quindi,	quindi	linguistic	Intonation=weakly_rising	End=3144.161	_	_	_	_
-745-0	BO096	745	no::.	no	linguistic	Intonation=falling	Begin=3145.259|End=3145.665	1x2	_	_	_
+745-0	BO096	745	no::.	no	linguistic	Intonation=Falling	Begin=3145.259|End=3145.665	1x2	_	_	_
 746-0	BO095	746	proprio	proprio	linguistic	_	Begin=3146.265|End=3146.816	_	_	_	_
 747-0	BO096	747	cioè	cioè	linguistic	_	Begin=3148.45	_	_	_	_
 747-1	BO096	747	non	non	linguistic	_	_	_	_	_	_

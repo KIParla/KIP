@@ -451,7 +451,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 54-1	BO119	54	eri	eri	linguistic	_	_	_	_	_	_
 54-2	BO119	54	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
 54-3	BO119	54	unico	unico	linguistic	_	_	_	_	_	_
-54-4	BO119	54	italia::no.	italiano	linguistic	Intonation=falling	End=178.672	5x2	_	_	_
+54-4	BO119	54	italia::no.	italiano	linguistic	Intonation=Falling	End=178.672	5x2	_	_	_
 55-0	BO120	55	no	no	linguistic	_	Begin=178.846	_	_	_	_
 55-1	BO120	55	c'	c'	linguistic	SpaceAfter=No	_	_	_	_	_
 55-2	BO120	55	erano	erano	linguistic	_	_	_	_	_	_
@@ -668,7 +668,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 77-3	BO120	77	non	non	linguistic	_	_	_	_	_	_
 77-4	BO120	77	c'	c'	linguistic	SpaceAfter=No	_	_	_	_	_
 77-5	BO120	77	è	è	linguistic	_	_	_	_	_	_
-77-6	BO120	77	un:::.	un	linguistic	Intonation=falling	_	1x3	_	_	_
+77-6	BO120	77	un:::.	un	linguistic	Intonation=Falling	_	1x3	_	_	_
 77-7	BO120	77	un	un	linguistic	_	_	_	_	_	_
 77-8	BO120	77	po~	po~	linguistic	Interrupted=Yes	_	_	_	_	_
 77-9	BO120	77	cioè	cioè	linguistic	_	_	_	_	_	_
@@ -944,7 +944,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 110-6	BO120	110	eravamo	eravamo	linguistic	_	_	_	_	_	_
 110-7	BO120	110	in	in	linguistic	_	_	_	_	_	_
 110-8	BO120	110	cinque	cinque	linguistic	_	End=365.129	_	_	_	_
-111-0	BO119	111	bello.	bello	linguistic	Intonation=falling	Begin=365.238|End=365.713	_	_	_	_
+111-0	BO119	111	bello.	bello	linguistic	Intonation=Falling	Begin=365.238|End=365.713	_	_	_	_
 112-0	BO120	112	mh	mh	linguistic	_	Begin=365.897	_	_	_	_
 112-1	BO120	112	sì	sì	linguistic	_	End=366.384	_	_	_	_
 113-0	BO119	113	e	e	linguistic	_	Begin=367.083	_	_	_	_
@@ -1000,7 +1000,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 118-5	BO120	118	importanti	importanti	linguistic	_	_	_	_	_	_
 118-6	BO120	118	che::	che	linguistic	_	End=384.773	2x2	_	_	_
 119-0	BO120	119	che	che	linguistic	_	Begin=385.818	_	_	_	_
-119-1	BO120	119	ho.	ho	linguistic	Intonation=falling	End=386.327	_	_	_	_
+119-1	BO120	119	ho.	ho	linguistic	Intonation=Falling	End=386.327	_	_	_	_
 120-0	BO119	120	mh	mh	linguistic	_	Begin=386.71	_	_	_	_
 120-1	BO119	120	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 120-2	BO119	120	e	e	linguistic	_	_	_	_	_	_
@@ -1100,7 +1100,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 130-0	BO119	130	diciamo	diciamo	linguistic	_	Begin=425.257|End=425.969	_	_	_	_
 131-0	BO120	131	una	una	linguistic	_	Begin=427.464	_	_	_	_
 131-1	BO120	131	casa	casa	linguistic	_	_	_	_	_	_
-131-2	BO120	131	ideale.	ideale	linguistic	Intonation=falling	_	_	_	_	_
+131-2	BO120	131	ideale.	ideale	linguistic	Intonation=Falling	_	_	_	_	_
 131-3	BO120	131	una	una	linguistic	_	_	_	_	_	_
 131-4	BO120	131	casa	casa	linguistic	_	_	_	_	_	_
 131-5	BO120	131	ide[ale:::]	ideale	linguistic	_	End=430.056	5x3	_	_	3-6(34)
@@ -1176,7 +1176,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 141-12	BO120	141	delle:::	delle	linguistic	_	End=462.418	4x3	_	_	_
 142-0	BO119	142	certo,	certo	linguistic	Intonation=weakly_rising	Begin=462.45|End=462.854	_	_	_	_
 143-0	BO120	143	le	le	linguistic	_	Begin=463.302	_	_	_	_
-143-1	BO120	143	cene.	cene	linguistic	Intonation=falling	_	_	_	_	_
+143-1	BO120	143	cene.	cene	linguistic	Intonation=Falling	_	_	_	_	_
 143-2	BO120	143	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
 143-3	BO120	143	importante	importante	linguistic	_	_	_	_	_	_
 143-4	BO120	143	insomma	insomma	linguistic	_	_	_	_	_	_
@@ -1358,7 +1358,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 172-1	BO119	172	mh,	mh	linguistic	Intonation=weakly_rising	End=538.588	_	_	_	_
 173-0	BO120	173	salo::ne,	salone	linguistic	Intonation=weakly_rising	Begin=539.143	3x2	_	_	_
 173-1	BO120	173	cuci::na,	cucina	linguistic	Intonation=weakly_rising	_	3x2	_	_	_
-173-2	BO120	173	balconcino.	balconcino	linguistic	Intonation=falling	End=541.7	_	_	_	_
+173-2	BO120	173	balconcino.	balconcino	linguistic	Intonation=Falling	End=541.7	_	_	_	_
 174-0	BO120	174	grande	grande	linguistic	_	Begin=542.014|End=542.541	_	_	_	_
 175-0	BO120	175	terrazzo	terrazzo	linguistic	_	Begin=543.541	_	_	_	_
 175-1	BO120	175	[direi]	direi	linguistic	_	End=544.608	_	_	_	0-5(42)

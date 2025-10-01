@@ -18,7 +18,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 4-3	BO072	4	settecento	settecento	linguistic	_	_	_	_	_	_
 4-4	BO072	4	settanta	settanta	linguistic	_	_	_	_	_	_
 4-5	BO072	4	sette?	sette	linguistic	Intonation=Rising	End=9.026	_	_	_	_
-5-0	BO071	5	no.	no	linguistic	Intonation=falling	Begin=9.035|End=9.387	_	_	_	_
+5-0	BO071	5	no.	no	linguistic	Intonation=Falling	Begin=9.035|End=9.387	_	_	_	_
 6-0	BO072	6	perché	perché	linguistic	_	Begin=9.39	_	_	_	_
 6-1	BO072	6	dovrebbe	dovrebbe	linguistic	_	_	_	_	_	_
 6-2	BO072	6	chiamarsi	chiamarsi	linguistic	_	_	_	_	_	_
@@ -137,7 +137,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 20-7	BO021	20	là	là	linguistic	_	_	_	_	_	_
 20-8	BO021	20	dopo	dopo	linguistic	_	_	_	_	_	_
 20-9	BO021	20	di	di	linguistic	_	_	_	_	_	_
-20-10	BO021	20	me.	me	linguistic	Intonation=falling	End=47.316	_	_	_	_
+20-10	BO021	20	me.	me	linguistic	Intonation=Falling	End=47.316	_	_	_	_
 21-0	BO021	21	non	non	linguistic	_	Begin=48.635	_	_	_	_
 21-1	BO021	21	faremo	faremo	linguistic	_	_	_	_	_	_
 21-2	BO021	21	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
@@ -196,7 +196,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 26-8	BO072	26	pendente:,	pendente	linguistic	Intonation=weakly_rising	End=65.648	7x1	_	_	_
 27-0	BO071	27	no::	no	linguistic	_	Begin=65.648|End=66.563	1x2	_	_	_
 28-0	BO072	28	no?	no	linguistic	Intonation=Rising	Begin=66.563|End=67.156	_	_	_	_
-29-0	BO071	29	no.	no	linguistic	Intonation=falling	Begin=67.156|End=67.578	_	_	_	_
+29-0	BO071	29	no.	no	linguistic	Intonation=Falling	Begin=67.156|End=67.578	_	_	_	_
 30-0	BO021	30	che	che	linguistic	_	Begin=67.682	_	_	_	_
 30-1	BO021	30	accusa	accusa	linguistic	_	_	_	_	_	_
 30-2	BO021	30	di	di	linguistic	_	_	_	_	_	_
@@ -268,7 +268,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 45-4	BO071	45	vuoi	vuoi	linguistic	_	_	_	_	_	_
 45-5	BO071	45	dirlo?	dirlo	linguistic	Intonation=Rising	End=103.94	_	_	_	_
 46-0	BO021	46	rapper,	rapper	linguistic	Intonation=weakly_rising	Begin=103.96|End=104.637	_	_	_	_
-47-0	BO021	47	rapper.	rapper	linguistic	Intonation=falling	Begin=104.637|End=105.527	_	_	_	_
+47-0	BO021	47	rapper.	rapper	linguistic	Intonation=Falling	Begin=104.637|End=105.527	_	_	_	_
 48-0	BO072	48	eh	eh	linguistic	_	Begin=106.694	_	_	_	_
 48-1	BO072	48	ci	ci	linguistic	_	_	_	_	_	_
 48-2	BO072	48	sta	sta	linguistic	_	_	_	_	_	_
@@ -474,7 +474,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 76-1	BO071	76	vi	vi	linguistic	_	_	_	_	_	_
 76-2	BO071	76	dà	dà	linguistic	_	_	_	_	_	_
 76-3	BO071	76	fastidio?	fastidio	linguistic	Intonation=Rising	End=184.696	_	_	_	_
-77-0	BO071	77	vi.	vi	linguistic	Intonation=falling	Begin=185.216	_	_	_	_
+77-0	BO071	77	vi.	vi	linguistic	Intonation=Falling	Begin=185.216	_	_	_	_
 77-1	BO071	77	perché	perché	linguistic	_	_	_	_	_	_
 77-2	BO071	77	i	i	linguistic	_	_	_	_	_	_
 77-3	BO071	77	ho	ho	linguistic	_	_	_	_	_	_
@@ -508,7 +508,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 81-1	BO072	81	è	è	linguistic	_	_	_	_	_	_
 81-2	BO072	81	un'	un'	linguistic	SpaceAfter=No	_	_	_	_	_
 81-3	BO072	81	altra	altra	linguistic	_	_	_	_	_	_
-81-4	BO072	81	cosa.	cosa	linguistic	Intonation=falling	End=196.255	_	_	_	_
+81-4	BO072	81	cosa.	cosa	linguistic	Intonation=Falling	End=196.255	_	_	_	_
 82-0	BO071	82	machis[ta]	machista	linguistic	_	Begin=196.426|End=197.143	_	_	_	6-8(8)
 83-0	BO072	83	anche	anche	linguistic	_	Begin=196.913	_	_	_	_
 83-1	BO072	83	se	se	linguistic	_	_	_	_	_	_
@@ -526,7 +526,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 85-5	BO021	85	machista	machista	linguistic	_	End=200.783	_	_	_	_
 86-0	BO071	86	eh	eh	linguistic	_	Begin=201.575	_	_	_	_
 86-1	BO071	86	lo	lo	linguistic	_	_	_	_	_	_
-86-2	BO071	86	so.	so	linguistic	Intonation=falling	End=202.093	_	_	_	_
+86-2	BO071	86	so.	so	linguistic	Intonation=Falling	End=202.093	_	_	_	_
 87-0	BO071	87	però	però	linguistic	_	Begin=202.506	_	_	_	_
 87-1	BO071	87	non	non	linguistic	_	_	_	_	_	_
 87-2	BO071	87	s~	s~	linguistic	Interrupted=Yes	_	_	_	_	_
@@ -542,7 +542,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 89-0	BO071	89	machista,	machista	linguistic	Intonation=weakly_rising	Begin=206.68|End=207.412	_	_	_	_
 90-0	BO072	90	cultura	cultura	linguistic	_	Begin=207.629	_	_	_	_
 90-1	BO072	90	machista	machista	linguistic	_	_	_	_	_	_
-90-2	BO072	90	sì.	sì	linguistic	Intonation=falling	End=209.043	_	_	_	_
+90-2	BO072	90	sì.	sì	linguistic	Intonation=Falling	End=209.043	_	_	_	_
 91-0	BO071	91	a:h	ah	linguistic	_	Begin=209.043	0x1	_	_	_
 91-1	BO071	91	cultura	cultura	linguistic	_	_	_	_	_	_
 91-2	BO071	91	machista	machista	linguistic	_	_	_	_	_	_
@@ -850,7 +850,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 158-1	BO071	158	veneto	veneto	linguistic	_	_	_	_	_	_
 158-2	BO071	158	sì,	sì	linguistic	Intonation=weakly_rising	_	_	_	_	_
 158-3	BO071	158	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-158-4	BO071	158	confermo.	confermo	linguistic	Intonation=falling	End=330.183	_	_	_	_
+158-4	BO071	158	confermo.	confermo	linguistic	Intonation=Falling	End=330.183	_	_	_	_
 159-0	BO071	159	trentino	trentino	linguistic	_	Begin=330.183	_	_	_	_
 159-1	BO071	159	non	non	linguistic	_	_	_	_	_	_
 159-2	BO071	159	lo	lo	linguistic	_	_	_	_	_	_
@@ -879,7 +879,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 160-21	BO021	160	son	son	linguistic	_	_	_	_	_	_
 160-22	BO021	160	tutte	tutte	linguistic	_	_	_	_	_	_
 160-23	BO021	160	in	in	linguistic	_	_	_	_	_	_
-160-24	BO021	160	trentino.	trentino	linguistic	Intonation=falling	End=337.757	_	_	_	_
+160-24	BO021	160	trentino.	trentino	linguistic	Intonation=Falling	End=337.757	_	_	_	_
 161-0	BO072	161	xxxxxxxxxxxxxxxxxxxx	x	unknown	_	Begin=337.777|End=342.144	_	_	_	_
 162-0	BO072	162	gli	gli	linguistic	_	Begin=342.144	_	_	_	_
 162-1	BO072	162	amici	amici	linguistic	_	_	_	_	_	_
@@ -1243,7 +1243,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 227-2	BO071	227	scherzando	scherzando	linguistic	_	_	_	_	_	_
 227-3	BO071	227	purtroppo	purtroppo	linguistic	_	_	_	_	_	_
 227-4	BO071	227	è	è	linguistic	_	_	_	_	_	_
-227-5	BO071	227	così.	così	linguistic	Intonation=falling	End=490.55	_	_	_	_
+227-5	BO071	227	così.	così	linguistic	Intonation=Falling	End=490.55	_	_	_	_
 228-0	BO021	228	no	no	linguistic	_	Begin=490.55	_	_	_	_
 228-1	BO021	228	io	io	linguistic	_	_	_	_	_	_
 228-2	BO021	228	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
@@ -1326,7 +1326,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 236-0	BO071	236	è	è	linguistic	_	Begin=512.231	_	_	_	_
 236-1	BO071	236	una	una	linguistic	_	_	_	_	_	_
 236-2	BO071	236	figata	figata	linguistic	_	_	_	_	_	_
-236-3	BO071	236	mostruosa.	mostruosa	linguistic	Intonation=falling	End=513.817	_	_	_	_
+236-3	BO071	236	mostruosa.	mostruosa	linguistic	Intonation=Falling	End=513.817	_	_	_	_
 237-0	BO071	237	e	e	linguistic	_	Begin=514.07	_	_	_	_
 237-1	BO071	237	ovviamente:	ovviamente	linguistic	_	_	9x1	_	_	_
 237-2	BO071	237	per	per	linguistic	_	_	_	_	_	_
@@ -1403,7 +1403,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 253-0	BO071	253	si	si	linguistic	_	Begin=546.391	_	_	_	_
 253-1	BO071	253	perché	perché	linguistic	_	_	_	_	_	_
 253-2	BO071	253	è	è	linguistic	_	_	_	_	_	_
-253-3	BO071	253	fortissimo.	fortissimo	linguistic	Intonation=falling	End=547.557	_	_	_	_
+253-3	BO071	253	fortissimo.	fortissimo	linguistic	Intonation=Falling	End=547.557	_	_	_	_
 254-0	BO021	254	eh	eh	linguistic	_	Begin=547.557	_	_	_	_
 254-1	BO021	254	no	no	linguistic	_	_	_	_	_	_
 254-2	BO021	254	però	però	linguistic	_	_	_	_	_	_
@@ -1443,7 +1443,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 259-3	BO071	259	strada	strada	linguistic	_	_	_	_	_	_
 259-4	BO071	259	[un	un	linguistic	_	_	_	_	_	0-2(37)
 259-5	BO071	259	venditore	venditore	linguistic	_	_	_	_	_	0-9(37)
-259-6	BO071	259	ambulan]te.	ambulante	linguistic	Intonation=falling	End=556.602	_	_	_	0-7(37)
+259-6	BO071	259	ambulan]te.	ambulante	linguistic	Intonation=Falling	End=556.602	_	_	_	0-7(37)
 260-0	BO021	260	[ah	ah	linguistic	_	Begin=555.682	_	_	_	0-2(37)
 260-1	BO021	260	ecco]	ecco	linguistic	_	End=556.415	_	_	_	0-4(37)
 261-0	BO071	261	da	da	linguistic	_	Begin=557.818	_	_	_	_
@@ -1456,7 +1456,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 262-4	BO071	262	voi	voi	linguistic	_	_	_	_	_	_
 262-5	BO071	262	i	i	linguistic	_	_	_	_	_	_
 262-6	BO071	262	[vucumprà]?	vucumprà	linguistic	Intonation=Rising	End=561.909	_	_	_	0-8(38)
-263-0	BO021	263	[si.	si	linguistic	Intonation=falling	Begin=561.014	_	_	_	0-2(38)
+263-0	BO021	263	[si.	si	linguistic	Intonation=Falling	Begin=561.014	_	_	_	0-2(38)
 263-1	BO021	263	vucum]prà	vucumprà	linguistic	_	End=562.225	_	_	_	0-5(38)
 264-0	BO021	264	infatti	infatti	linguistic	_	Begin=565.266	_	_	_	_
 264-1	BO021	264	anzi	anzi	linguistic	_	_	_	_	_	_

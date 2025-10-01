@@ -31,7 +31,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 5-0	BO144	5	io,	io	linguistic	Intonation=weakly_rising	Begin=28.82	_	_	_	_
 5-1	BO144	5	ho	ho	linguistic	_	_	_	_	_	_
 5-2	BO144	5	già	già	linguistic	_	_	_	_	_	_
-5-3	BO144	5	firma[to].	firmato	linguistic	Intonation=falling	End=30.01	_	_	_	5-7(0)
+5-3	BO144	5	firma[to].	firmato	linguistic	Intonation=Falling	End=30.01	_	_	_	5-7(0)
 6-0	BO104	6	ah	ah	linguistic	_	Begin=29.75	_	_	_	_
 6-1	BO104	6	okay,	okay	linguistic	Intonation=weakly_rising	_	_	_	_	_
 6-2	BO104	6	du~	du~	linguistic	Interrupted=Yes	_	_	_	_	_
@@ -42,10 +42,10 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 6-7	BO104	6	dopo	dopo	linguistic	_	_	_	_	_	0-4(?)
 6-8	BO104	6	io	io	linguistic	_	_	_	_	_	0-2(?)
 6-9	BO104	6	va	va	linguistic	_	_	_	_	_	0-2(?)
-6-10	BO104	6	bene].	bene	linguistic	Intonation=falling	End=32.24	_	_	_	0-4(?)
+6-10	BO104	6	bene].	bene	linguistic	Intonation=Falling	End=32.24	_	_	_	0-4(?)
 7-0	BO144	7	[xxxxxxx	x	unknown	_	Begin=30.831	_	_	_	0-7(1)
 7-1	BO144	7	(.)	[PAUSE]	shortpause	_	_	_	_	_	0-3(1)
-7-2	BO144	7	oka]y.	okay	linguistic	Intonation=falling	End=32.444	_	_	_	0-3(1)
+7-2	BO144	7	oka]y.	okay	linguistic	Intonation=Falling	End=32.444	_	_	_	0-3(1)
 8-0	BO104	8	°arrivo	arrivo	linguistic	Volume=Low	Begin=53.059	_	_	_	_
 8-1	BO104	8	subito	subito	linguistic	Volume=Low	_	_	_	_	_
 8-2	BO104	8	e:h,°	eh	linguistic	Intonation=weakly_rising|Volume=Low	End=54.062	0x1	_	_	_
@@ -53,7 +53,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 9-1	BO104	9	un	un	linguistic	_	_	_	_	_	_
 9-2	BO104	9	documento?	documento	linguistic	Intonation=Rising	End=56.325	_	_	_	_
 10-0	BO144	10	sì,	sì	linguistic	Intonation=weakly_rising	Begin=56.49|End=56.86	_	_	_	_
-11-0	BO104	11	°grazie.°	grazie	linguistic	Intonation=falling|Volume=Low	Begin=64.843|End=65.45	_	_	_	_
+11-0	BO104	11	°grazie.°	grazie	linguistic	Intonation=Falling|Volume=Low	Begin=64.843|End=65.45	_	_	_	_
 12-0	BO104	12	okay,	okay	linguistic	Intonation=weakly_rising	Begin=92.444	_	_	_	_
 12-1	BO104	12	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 12-2	BO104	12	allora,	allora	linguistic	Intonation=weakly_rising	_	_	_	_	_
@@ -69,8 +69,8 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 12-12	BO104	12	sì	sì	linguistic	_	_	_	_	_	_
 12-13	BO104	12	da	da	linguistic	_	_	_	_	_	_
 12-14	BO104	12	frequentant[e:]?	frequentante	linguistic	Intonation=Rising	End=98.052	11x1	_	_	11-12(3)
-13-0	BO144	13	[sì].	sì	linguistic	Intonation=falling	Begin=96.115|End=96.43	_	_	_	0-2(2)
-14-0	BO144	14	[s]ì.	sì	linguistic	Intonation=falling	Begin=97.86|End=98.23	_	_	_	0-1(3)
+13-0	BO144	13	[sì].	sì	linguistic	Intonation=Falling	Begin=96.115|End=96.43	_	_	_	0-2(2)
+14-0	BO144	14	[s]ì.	sì	linguistic	Intonation=Falling	Begin=97.86|End=98.23	_	_	_	0-1(3)
 15-0	BO104	15	da	da	linguistic	_	Begin=98.25	_	_	_	_
 15-1	BO104	15	frequentante	frequentante	linguistic	_	_	_	_	_	_
 15-2	BO104	15	d'	d'	linguistic	SpaceAfter=No	_	_	_	_	_
@@ -88,7 +88,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 17-3	BO104	17	anche	anche	linguistic	_	_	_	_	_	_
 17-4	BO104	17	le	le	linguistic	_	_	_	_	_	_
 17-5	BO104	17	slide?	slide	linguistic	Intonation=Rising	End=103.08	_	_	_	_
-18-0	BO144	18	n:o.	no	linguistic	Intonation=falling	Begin=103.49|End=103.882	0x1	_	_	_
+18-0	BO144	18	n:o.	no	linguistic	Intonation=Falling	Begin=103.49|End=103.882	0x1	_	_	_
 19-0	BO104	19	non	non	linguistic	_	Begin=104.06	_	_	_	_
 19-1	BO104	19	hai	hai	linguistic	_	_	_	_	_	_
 19-2	BO104	19	fatto	fatto	linguistic	_	_	_	_	_	_
@@ -106,7 +106,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 20-9	BO144	20	con	con	linguistic	_	_	_	_	_	_
 20-10	BO144	20	anche	anche	linguistic	_	_	_	_	_	_
 20-11	BO144	20	i	i	linguistic	_	_	_	_	_	_
-20-12	BO144	20	libri.	libri	linguistic	Intonation=falling	End=107.69	_	_	_	_
+20-12	BO144	20	libri.	libri	linguistic	Intonation=Falling	End=107.69	_	_	_	_
 21-0	BO104	21	no	no	linguistic	_	Begin=107.78	_	_	_	_
 21-1	BO104	21	no,	no	linguistic	Intonation=weakly_rising	_	_	_	_	_
 21-2	BO104	21	[certo,	certo	linguistic	Intonation=weakly_rising	_	_	_	_	0-5(5)
@@ -121,17 +121,17 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 21-11	BO104	21	sl[ide,	slide	linguistic	Intonation=weakly_rising	_	_	_	_	2-5(6)
 21-12	BO104	21	tutt'	tutt'	linguistic	SpaceAfter=No	_	_	_	_	0-5(6)
 21-13	BO104	21	e	e	linguistic	_	_	_	_	_	0-1(6)
-21-14	BO104	21	due].	due	linguistic	Intonation=falling	End=110.57	_	_	_	0-3(6)
+21-14	BO104	21	due].	due	linguistic	Intonation=Falling	End=110.57	_	_	_	0-3(6)
 22-0	BO144	22	[xx	x	unknown	_	Begin=108.143	_	_	_	0-2(5)
 22-1	BO144	22	ah	ah	linguistic	_	_	_	_	_	0-2(5)
 22-2	BO144	22	(.)	[PAUSE]	shortpause	_	_	_	_	_	0-3(5)
-22-3	BO144	22	okay].	okay	linguistic	Intonation=falling	End=109.225	_	_	_	0-4(5)
+22-3	BO144	22	okay].	okay	linguistic	Intonation=Falling	End=109.225	_	_	_	0-4(5)
 23-0	BO144	23	[sì	sì	linguistic	_	Begin=109.75	_	_	_	0-2(6)
 23-1	BO144	23	sì	sì	linguistic	_	_	_	_	_	0-2(6)
 23-2	BO144	23	s]ì,	sì	linguistic	Intonation=weakly_rising	_	_	_	_	0-1(6)
 23-3	BO144	23	okay	okay	linguistic	_	_	_	_	_	_
 23-4	BO144	23	okay	okay	linguistic	_	_	_	_	_	_
-23-5	BO144	23	okay.	okay	linguistic	Intonation=falling	End=111.09	_	_	_	_
+23-5	BO144	23	okay.	okay	linguistic	Intonation=Falling	End=111.09	_	_	_	_
 24-0	BO104	24	bene	bene	linguistic	_	Begin=111.66	_	_	_	_
 24-1	BO104	24	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 24-2	BO104	24	allora	allora	linguistic	_	_	_	_	_	_
@@ -205,10 +205,10 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 34-6	BO104	34	(.)	[PAUSE]	shortpause	_	_	_	_	_	0-3(7)
 34-7	BO104	34	ah],	ah	linguistic	Intonation=weakly_rising	_	_	_	_	0-2(7)
 34-8	BO104	34	d'	d'	linguistic	SpaceAfter=No	_	_	_	_	_
-34-9	BO104	34	accordo.	accordo	linguistic	Intonation=falling	End=143.2	_	_	_	_
+34-9	BO104	34	accordo.	accordo	linguistic	Intonation=Falling	End=143.2	_	_	_	_
 35-0	BO144	35	[sì,	sì	linguistic	Intonation=weakly_rising	Begin=141.938	_	_	_	0-2(7)
 35-1	BO144	35	(.)	[PAUSE]	shortpause	_	_	_	_	_	0-3(7)
-35-2	BO144	35	sì].	sì	linguistic	Intonation=falling	End=142.587	_	_	_	0-2(7)
+35-2	BO144	35	sì].	sì	linguistic	Intonation=Falling	End=142.587	_	_	_	0-2(7)
 36-0	BO104	36	va	va	linguistic	_	Begin=143.4	_	_	_	_
 36-1	BO104	36	bene	bene	linguistic	_	_	_	_	_	_
 36-2	BO104	36	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
@@ -217,7 +217,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 36-5	BO104	36	un	un	linguistic	_	_	_	_	_	_
 36-6	BO104	36	attimo	attimo	linguistic	_	_	_	_	_	_
 36-7	BO104	36	di	di	linguistic	_	_	_	_	_	_
-36-8	BO104	36	valutazione.	valutazione	linguistic	Intonation=falling	End=145.776	_	_	_	_
+36-8	BO104	36	valutazione.	valutazione	linguistic	Intonation=Falling	End=145.776	_	_	_	_
 37-0	BO104	37	che	che	linguistic	_	Begin=147.387	_	_	_	_
 37-1	BO104	37	cosa	cosa	linguistic	_	_	_	_	_	_
 37-2	BO104	37	si	si	linguistic	_	_	_	_	_	_
@@ -230,7 +230,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 38-5	BO104	38	recente:,	recente	linguistic	Intonation=weakly_rising	End=150.94	6x1	_	_	_
 39-0	BO104	39	di:,	di	linguistic	Intonation=weakly_rising	Begin=150.96	1x1	_	_	_
 39-1	BO104	39	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-39-2	BO104	39	utilità.	utilità	linguistic	Intonation=falling	End=152.05	_	_	_	_
+39-2	BO104	39	utilità.	utilità	linguistic	Intonation=Falling	End=152.05	_	_	_	_
 40-0	BO104	40	del	del	linguistic	_	Begin=152.27	_	_	_	_
 40-1	BO104	40	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 40-2	BO104	40	testing	testing	linguistic	_	_	_	_	_	_
@@ -273,13 +273,13 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 45-1	BO104	45	il	il	linguistic	_	_	_	_	_	_
 45-2	BO104	45	concetto	concetto	linguistic	_	_	_	_	_	_
 45-3	BO104	45	di	di	linguistic	_	_	_	_	_	_
-45-4	BO104	45	utilità.	utilità	linguistic	Intonation=falling	End=165.72	_	_	_	_
+45-4	BO104	45	utilità.	utilità	linguistic	Intonation=Falling	End=165.72	_	_	_	_
 46-0	BO104	46	di	di	linguistic	_	Begin=166.22	_	_	_	_
 46-1	BO104	46	un:,	un	linguistic	Intonation=weakly_rising	_	1x1	_	_	_
 46-2	BO104	46	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 46-3	BO104	46	di	di	linguistic	_	_	_	_	_	_
 46-4	BO104	46	un	un	linguistic	_	_	_	_	_	_
-46-5	BO104	46	test.	test	linguistic	Intonation=falling	End=167.55	_	_	_	_
+46-5	BO104	46	test.	test	linguistic	Intonation=Falling	End=167.55	_	_	_	_
 47-0	BO144	47	okayi	okayi	linguistic	_	Begin=167.83	_	_	_	_
 47-1	BO144	47	allora	allora	linguistic	_	_	_	_	_	_
 47-2	BO144	47	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
@@ -320,7 +320,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 50-11	BO144	50	quella	quella	linguistic	_	_	_	_	_	_
 50-12	BO144	50	determinata:	determinata	linguistic	_	_	10x1	_	_	_
 50-13	BO144	50	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-50-14	BO144	50	lingua.	lingua	linguistic	Intonation=falling	End=185.079	_	_	_	_
+50-14	BO144	50	lingua.	lingua	linguistic	Intonation=Falling	End=185.079	_	_	_	_
 51-0	BO104	51	per	per	linguistic	_	Begin=185.31	_	_	_	_
 51-1	BO104	51	forza	forza	linguistic	_	_	_	_	_	_
 51-2	BO104	51	la	la	linguistic	_	_	_	_	_	_
@@ -350,7 +350,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 53-2	BO144	53	delle	delle	linguistic	_	_	_	_	_	_
 53-3	BO144	53	regole,	regole	linguistic	Intonation=weakly_rising	_	_	_	_	_
 53-4	BO144	53	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-53-5	BO144	53	grammaticali.	grammaticali	linguistic	Intonation=falling	End=196.198	_	_	_	_
+53-5	BO144	53	grammaticali.	grammaticali	linguistic	Intonation=Falling	End=196.198	_	_	_	_
 54-0	BO144	54	mentre	mentre	linguistic	_	Begin=196.68	_	_	_	_
 54-1	BO144	54	la	la	linguistic	_	_	_	_	_	_
 54-2	BO144	54	competenza	competenza	linguistic	_	_	_	_	_	_
@@ -400,7 +400,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 59-8	BO144	59	modo	modo	linguistic	_	_	_	_	_	_
 59-9	BO144	59	più	più	linguistic	_	_	_	_	_	_
 59-10	BO144	59	adeguato:,	adeguato	linguistic	Intonation=weakly_rising	End=213.23	7x1	_	_	_
-60-0	BO144	60	possibile.	possibile	linguistic	Intonation=falling	Begin=213.58|End=214.277	_	_	_	_
+60-0	BO144	60	possibile.	possibile	linguistic	Intonation=Falling	Begin=213.58|End=214.277	_	_	_	_
 61-0	BO144	61	e	e	linguistic	_	Begin=215.06	_	_	_	_
 61-1	BO144	61	quindi,	quindi	linguistic	Intonation=weakly_rising	_	_	_	_	_
 61-2	BO144	61	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
@@ -439,7 +439,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 64-9	BO144	64	e:h	eh	linguistic	_	_	0x1	_	_	_
 64-10	BO144	64	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 64-11	BO144	64	dall'	dall'	linguistic	SpaceAfter=No	_	_	_	_	_
-64-12	BO144	64	allievo.	allievo	linguistic	Intonation=falling	End=229.52	_	_	_	_
+64-12	BO144	64	allievo.	allievo	linguistic	Intonation=Falling	End=229.52	_	_	_	_
 65-0	BO144	65	e::	e	linguistic	ProsodicLink=Yes	Begin=230.22	0x2	_	_	_
 65-1	BO144	65	m:::h,	mh	linguistic	Intonation=weakly_rising	End=231.72	0x3	_	_	_
 66-0	BO144	66	ovviamente:,	ovviamente	linguistic	Intonation=weakly_rising	Begin=232.96|End=234.21	9x1	_	_	_
@@ -451,7 +451,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 67-5	BO144	67	diversi,	diversi	linguistic	Intonation=weakly_rising	_	_	_	_	_
 67-6	BO144	67	<tipi	tipi	linguistic	_	_	_	Slow=0-4	_	_
 67-7	BO144	67	di	di	linguistic	_	_	_	Slow=0-2	_	_
-67-8	BO144	67	test>.	test	linguistic	Intonation=falling	End=237.39	_	Slow=0-4	_	_
+67-8	BO144	67	test>.	test	linguistic	Intonation=Falling	End=237.39	_	Slow=0-4	_	_
 68-0	BO144	68	e:::h	eh	linguistic	ProsodicLink=Yes	Begin=237.74	0x3	_	_	_
 68-1	BO144	68	mh,	mh	linguistic	Intonation=weakly_rising	_	_	_	_	_
 68-2	BO144	68	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
@@ -466,7 +466,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 68-11	BO144	68	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 68-12	BO144	68	che	che	linguistic	_	_	_	_	_	_
 68-13	BO144	68	vogliono::	vogliono	linguistic	_	_	7x2	_	_	_
-68-14	BO144	68	verificare.	verificare	linguistic	Intonation=falling	End=243.03	_	_	_	_
+68-14	BO144	68	verificare.	verificare	linguistic	Intonation=Falling	End=243.03	_	_	_	_
 69-0	BO144	69	e::	e	linguistic	_	Begin=243.57	0x2	_	_	_
 69-1	BO144	69	infatti::	infatti	linguistic	ProsodicLink=Yes	_	6x2	_	_	_
 69-2	BO144	69	mh,	mh	linguistic	Intonation=weakly_rising	_	_	_	_	_
@@ -523,7 +523,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 75-9	BO104	75	scuole	scuole	linguistic	_	_	_	_	_	_
 75-10	BO104	75	medie	medie	linguistic	_	_	_	_	_	_
 75-11	BO104	75	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-75-12	BO104	75	[m:h].	mh	linguistic	Intonation=falling	End=261.04	0x1	_	_	0-2(10)
+75-12	BO104	75	[m:h].	mh	linguistic	Intonation=Falling	End=261.04	0x1	_	_	0-2(10)
 76-0	BO144	76	[che	che	linguistic	_	Begin=260.789	_	_	_	0-3(10)
 76-1	BO144	76	è]	è	linguistic	_	_	_	_	_	0-1(10)
 76-2	BO144	76	il	il	linguistic	_	_	_	_	_	_
@@ -551,7 +551,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 78-8	BO144	78	determinato	determinato	linguistic	_	_	_	_	_	_
 78-9	BO144	78	corso	corso	linguistic	_	_	_	_	_	_
 78-10	BO144	78	di	di	linguistic	_	_	_	_	_	_
-78-11	BO144	78	studi.	studi	linguistic	Intonation=falling	End=271.335	_	_	_	_
+78-11	BO144	78	studi.	studi	linguistic	Intonation=Falling	End=271.335	_	_	_	_
 79-0	BO144	79	mentre,	mentre	linguistic	Intonation=weakly_rising	Begin=271.89|End=272.39	_	_	_	_
 80-0	BO104	80	[ma	ma	linguistic	_	Begin=272.49	_	_	_	0-2(11)
 80-1	BO104	80	no:],	no	linguistic	Intonation=weakly_rising	_	1x1	_	_	0-2(11)
@@ -579,7 +579,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 80-23	BO104	80	lingue	lingue	linguistic	_	_	_	_	_	_
 80-24	BO104	80	straniere	straniere	linguistic	_	_	_	_	_	_
 80-25	BO104	80	all'	all'	linguistic	SpaceAfter=No	_	_	_	_	_
-80-26	BO104	80	etestero.	etestero	linguistic	Intonation=falling	End=278.21	_	_	_	_
+80-26	BO104	80	etestero.	etestero	linguistic	Intonation=Falling	End=278.21	_	_	_	_
 81-0	BO144	81	[il],	il	linguistic	Intonation=weakly_rising	Begin=272.49|End=272.842	_	_	_	0-2(11)
 82-0	BO104	82	è	è	linguistic	_	Begin=278.23	_	_	_	_
 82-1	BO104	82	un	un	linguistic	_	_	_	_	_	_
@@ -590,7 +590,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 82-6	BO104	82	[creare	creare	linguistic	_	_	_	_	_	0-6(12)
 82-7	BO104	82	dei	dei	linguistic	_	_	_	_	_	0-3(12)
 82-8	BO104	82	gruppi	gruppi	linguistic	_	_	_	_	_	0-6(12)
-82-9	BO104	82	class]e.	classe	linguistic	Intonation=falling	End=281.574	_	_	_	0-5(12)
+82-9	BO104	82	class]e.	classe	linguistic	Intonation=Falling	End=281.574	_	_	_	0-5(12)
 83-0	BO144	83	[all'	all'	linguistic	SpaceAfter=No	Begin=280.05	_	_	_	0-4(12)
 83-1	BO144	83	interno	interno	linguistic	_	_	_	_	_	0-7(12)
 83-2	BO144	83	di	di	linguistic	_	_	_	_	_	0-2(12)
@@ -745,7 +745,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 100-4	BO144	100	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 100-5	BO144	100	del	del	linguistic	_	_	_	_	_	_
 100-6	BO144	100	programma	programma	linguistic	_	_	_	_	_	_
-100-7	BO144	100	affrontato.	affrontato	linguistic	Intonation=falling	End=325.65	_	_	_	_
+100-7	BO144	100	affrontato.	affrontato	linguistic	Intonation=Falling	End=325.65	_	_	_	_
 101-0	BO144	101	e	e	linguistic	_	Begin=326.06	_	_	_	_
 101-1	BO144	101	poi,	poi	linguistic	Intonation=weakly_rising	_	_	_	_	_
 101-2	BO144	101	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
@@ -799,8 +799,8 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 106-1	BO104	106	il	il	linguistic	_	_	_	_	_	_
 106-2	BO104	106	test	test	linguistic	_	_	_	_	_	_
 106-3	BO104	106	di	di	linguistic	_	_	_	_	_	_
-106-4	BO104	106	padronanza.	padronanza	linguistic	Intonation=falling	End=343.68	_	_	_	_
-107-0	BO144	107	sì.	sì	linguistic	Intonation=falling	Begin=343.8|End=344.076	_	_	_	_
+106-4	BO104	106	padronanza.	padronanza	linguistic	Intonation=Falling	End=343.68	_	_	_	_
+107-0	BO144	107	sì.	sì	linguistic	Intonation=Falling	Begin=343.8|End=344.076	_	_	_	_
 108-0	BO144	108	di	di	linguistic	_	Begin=344.272	_	_	_	_
 108-1	BO144	108	avere:	avere	linguistic	_	_	4x1	_	_	_
 108-2	BO144	108	una:	una	linguistic	_	_	2x1	_	_	_
@@ -822,7 +822,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 110-10	BO144	110	questo	questo	linguistic	_	_	_	_	_	_
 110-11	BO144	110	tipo	tipo	linguistic	_	_	_	_	_	_
 110-12	BO144	110	di	di	linguistic	_	_	_	_	_	_
-110-13	BO144	110	test.	test	linguistic	Intonation=falling	End=352.27	_	_	_	_
+110-13	BO144	110	test.	test	linguistic	Intonation=Falling	End=352.27	_	_	_	_
 111-0	BO144	111	che	che	linguistic	_	Begin=352.64	_	_	_	_
 111-1	BO144	111	è,	è	linguistic	Intonation=weakly_rising	_	_	_	_	_
 111-2	BO144	111	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
@@ -838,9 +838,9 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 113-5	BO104	113	certificazioni	certificazioni	linguistic	_	_	_	_	_	_
 113-6	BO104	113	[linguis]tiche	linguistiche	linguistic	_	_	_	_	_	0-7(17)
 113-7	BO104	113	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-113-8	BO104	113	[sì].	sì	linguistic	Intonation=falling	End=356.88	_	_	_	0-2(18)
+113-8	BO104	113	[sì].	sì	linguistic	Intonation=Falling	End=356.88	_	_	_	0-2(18)
 114-0	BO144	114	[esatto]	esatto	linguistic	_	Begin=355.93|End=356.565	_	_	_	0-6(17)
-115-0	BO144	115	[esa]tto.	esatto	linguistic	Intonation=falling	Begin=356.63|End=357.02	_	_	_	0-3(18)
+115-0	BO144	115	[esa]tto.	esatto	linguistic	Intonation=Falling	Begin=356.63|End=357.02	_	_	_	0-3(18)
 116-0	BO104	116	comunque	comunque	linguistic	_	Begin=357.204	_	_	_	_
 116-1	BO104	116	ritorna	ritorna	linguistic	_	_	_	_	_	_
 116-2	BO104	116	alla	alla	linguistic	_	_	_	_	_	_
@@ -855,7 +855,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 116-11	BO104	116	il	il	linguistic	_	_	_	_	_	_
 116-12	BO104	116	concetto	concetto	linguistic	_	_	_	_	_	_
 116-13	BO104	116	di	di	linguistic	_	_	_	_	_	_
-116-14	BO104	116	utilità.	utilità	linguistic	Intonation=falling	End=360.54	_	_	_	_
+116-14	BO104	116	utilità.	utilità	linguistic	Intonation=Falling	End=360.54	_	_	_	_
 117-0	BO104	117	quello	quello	linguistic	_	Begin=360.94	_	_	_	_
 117-1	BO104	117	di	di	linguistic	_	_	_	_	_	_
 117-2	BO104	117	bachman	bachman	linguistic	_	_	_	_	_	_
@@ -864,7 +864,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 117-5	BO104	117	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 117-6	BO104	117	nel	nel	linguistic	_	_	_	_	_	_
 117-7	BO104	117	testing	testing	linguistic	_	_	_	_	_	_
-117-8	BO104	117	linguistico.	linguistico	linguistic	Intonation=falling	End=363.615	_	_	_	_
+117-8	BO104	117	linguistico.	linguistico	linguistic	Intonation=Falling	End=363.615	_	_	_	_
 118-0	BO144	118	e::h	eh	linguistic	ProsodicLink=Yes	Begin=364.07	0x2	_	_	_
 118-1	BO144	118	m:::h,	mh	linguistic	Intonation=weakly_rising	_	0x3	_	_	_
 118-2	BO144	118	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
@@ -877,7 +877,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 121-0	BO144	121	deve	deve	linguistic	_	Begin=369.195	_	_	_	_
 121-1	BO144	121	avere	avere	linguistic	_	_	_	_	_	_
 121-2	BO144	121	diverse	diverse	linguistic	_	_	_	_	_	_
-121-3	BO144	121	caratteristiche.	caratteristiche	linguistic	Intonation=falling	End=370.94	_	_	_	_
+121-3	BO144	121	caratteristiche.	caratteristiche	linguistic	Intonation=Falling	End=370.94	_	_	_	_
 122-0	BO144	122	tra	tra	linguistic	_	Begin=371.05	_	_	_	_
 122-1	BO144	122	cui	cui	linguistic	_	_	_	_	_	_
 122-2	BO144	122	quella	quella	linguistic	_	_	_	_	_	_
@@ -888,7 +888,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 122-7	BO144	122	essere,	essere	linguistic	Intonation=weakly_rising	_	_	_	_	_
 122-8	BO144	122	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 122-9	BO144	122	e:::h,	eh	linguistic	Intonation=weakly_rising	End=373.98	0x3	_	_	_
-123-0	BO144	123	utile.	utile	linguistic	Intonation=falling	Begin=374.3|End=374.84	_	_	_	_
+123-0	BO144	123	utile.	utile	linguistic	Intonation=Falling	Begin=374.3|End=374.84	_	_	_	_
 124-0	BO144	124	sia:,	sia	linguistic	Intonation=weakly_rising	Begin=375.14|End=375.668	2x1	_	_	_
 125-0	BO144	125	all	all	linguistic	ProsodicLink=Yes	Begin=375.823	_	_	_	_
 125-1	BO144	125	e:::h	eh	linguistic	ProsodicLink=Yes	_	0x3	_	_	_
@@ -974,7 +974,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 136-4	BO144	136	svolte,	svolte	linguistic	Intonation=weakly_rising	_	_	_	_	_
 136-5	BO144	136	sono	sono	linguistic	_	_	_	_	_	_
 136-6	BO144	136	state	state	linguistic	_	_	_	_	_	_
-136-7	BO144	136	comprese.	comprese	linguistic	Intonation=falling	End=404.57	_	_	_	_
+136-7	BO144	136	comprese.	comprese	linguistic	Intonation=Falling	End=404.57	_	_	_	_
 137-0	BO144	137	dagli::	dagli	linguistic	_	Begin=404.633	4x2	_	_	_
 137-1	BO144	137	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 137-2	BO144	137	dagli	dagli	linguistic	_	_	_	_	_	_
@@ -1005,7 +1005,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 139-11	BO144	139	apprendere	apprendere	linguistic	_	_	_	_	_	_
 139-12	BO144	139	qualcosa,	qualcosa	linguistic	Intonation=weakly_rising	_	_	_	_	_
 139-13	BO144	139	agli	agli	linguistic	_	_	_	_	_	_
-139-14	BO144	139	all[ievi].	allievi	linguistic	Intonation=falling	End=415.38	_	_	_	3-7(19)
+139-14	BO144	139	all[ievi].	allievi	linguistic	Intonation=Falling	End=415.38	_	_	_	3-7(19)
 140-0	BO104	140	[ma],	ma	linguistic	Intonation=weakly_rising	Begin=415.11	_	_	_	0-2(19)
 140-1	BO104	140	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 140-2	BO104	140	noi	noi	linguistic	_	_	_	_	_	_
@@ -1024,9 +1024,9 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 140-15	BO104	140	è	è	linguistic	_	_	_	_	_	_
 140-16	BO104	140	un	un	linguistic	_	_	_	_	_	_
 140-17	BO104	140	concetto	concetto	linguistic	_	_	_	_	_	_
-140-18	BO104	140	tecnico.	tecnico	linguistic	Intonation=falling	End=420.206	_	_	_	_
+140-18	BO104	140	tecnico.	tecnico	linguistic	Intonation=Falling	End=420.206	_	_	_	_
 141-0	BO104	141	nel	nel	linguistic	_	Begin=420.206	_	_	_	_
-141-1	BO104	141	testing.	testing	linguistic	Intonation=falling	_	_	_	_	_
+141-1	BO104	141	testing.	testing	linguistic	Intonation=Falling	_	_	_	_	_
 141-2	BO104	141	si	si	linguistic	_	_	_	_	_	_
 141-3	BO104	141	compone	compone	linguistic	_	_	_	_	_	_
 141-4	BO104	141	di	di	linguistic	_	_	_	_	_	_
@@ -1037,7 +1037,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 142-1	BO104	142	compone	compone	linguistic	_	_	_	_	_	_
 142-2	BO104	142	di	di	linguistic	_	_	_	_	_	_
 142-3	BO104	142	diverse	diverse	linguistic	_	_	_	_	_	_
-142-4	BO104	142	pa:rti.	parti	linguistic	Intonation=falling	End=424.64	1x1	_	_	_
+142-4	BO104	142	pa:rti.	parti	linguistic	Intonation=Falling	End=424.64	1x1	_	_	_
 143-0	BO104	143	quindi,	quindi	linguistic	Intonation=weakly_rising	Begin=425.563	_	_	_	_
 143-1	BO104	143	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 143-2	BO104	143	un	un	linguistic	_	_	_	_	_	_
@@ -1066,7 +1066,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 144-5	BO104	144	una	una	linguistic	_	_	_	_	_	_
 144-6	BO104	144	serie	serie	linguistic	_	_	_	_	_	_
 144-7	BO104	144	di	di	linguistic	_	_	_	_	_	_
-144-8	BO104	144	requistiti.	requistiti	linguistic	Intonation=falling	End=435.926	_	_	_	_
+144-8	BO104	144	requistiti.	requistiti	linguistic	Intonation=Falling	End=435.926	_	_	_	_
 145-0	BO104	145	e	e	linguistic	_	Begin=436.28	_	_	_	_
 145-1	BO104	145	sono	sono	linguistic	_	_	_	_	_	_
 145-2	BO104	145	dei	dei	linguistic	_	_	_	_	_	_
@@ -1097,7 +1097,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 147-0	BO104	147	dell'	dell'	linguistic	SpaceAfter=No	Begin=446.29	_	_	_	_
 147-1	BO104	147	autenticità,	autenticità	linguistic	Intonation=weakly_rising	End=447.54	_	_	_	_
 148-0	BO104	148	eccetera	eccetera	linguistic	_	Begin=447.56	_	_	_	_
-148-1	BO104	148	eccetera.	eccetera	linguistic	Intonation=falling	End=448.764	_	_	_	_
+148-1	BO104	148	eccetera.	eccetera	linguistic	Intonation=Falling	End=448.764	_	_	_	_
 149-0	BO104	149	quindi,	quindi	linguistic	Intonation=weakly_rising	Begin=449.49|End=450.0	_	_	_	_
 150-0	BO104	150	riesci	riesci	linguistic	_	Begin=450.63	_	_	_	_
 150-1	BO104	150	ad	ad	linguistic	_	_	_	_	_	_
@@ -1106,7 +1106,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 150-4	BO104	150	concetto,	concetto	linguistic	Intonation=weakly_rising	_	_	_	_	_
 150-5	BO104	150	in	in	linguistic	_	_	_	_	_	_
 150-6	BO104	150	modo:::,	modo	linguistic	Intonation=weakly_rising	End=454.02	3x3	_	_	_
-151-0	BO144	151	sì.	sì	linguistic	Intonation=falling	Begin=454.026	_	_	_	_
+151-0	BO144	151	sì.	sì	linguistic	Intonation=Falling	Begin=454.026	_	_	_	_
 151-1	BO144	151	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 151-2	BO144	151	[allora,	allora	linguistic	Intonation=weakly_rising	_	_	_	_	0-6(20)
 151-3	BO144	151	(.)	[PAUSE]	shortpause	_	_	_	_	_	0-3(20)
@@ -1120,8 +1120,8 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 151-11	BO144	151	essere	essere	linguistic	_	_	_	_	_	_
 151-12	BO144	151	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 151-13	BO144	151	innanzitutto,	innanzitutto	linguistic	Intonation=weakly_rising	End=457.77	_	_	_	_
-152-0	BO104	152	[preci:so].	preciso	linguistic	Intonation=falling	Begin=454.305|End=455.073	4x1	_	_	0-7(20)
-153-0	BO144	153	valido.	valido	linguistic	Intonation=falling	Begin=457.85|End=458.4	_	_	_	_
+152-0	BO104	152	[preci:so].	preciso	linguistic	Intonation=Falling	Begin=454.305|End=455.073	4x1	_	_	0-7(20)
+153-0	BO144	153	valido.	valido	linguistic	Intonation=Falling	Begin=457.85|End=458.4	_	_	_	_
 154-0	BO144	154	cioè,	cioè	linguistic	Intonation=weakly_rising	Begin=458.73	_	_	_	_
 154-1	BO144	154	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 154-2	BO144	154	deve:::	deve	linguistic	ProsodicLink=Yes	_	3x3	_	_	_
@@ -1142,11 +1142,11 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 155-9	BO144	155	e	e	linguistic	_	_	_	_	_	_
 155-10	BO144	155	nulla	nulla	linguistic	_	_	_	_	_	_
 155-11	BO144	155	di	di	linguistic	_	_	_	_	_	_
-155-12	BO144	155	più.	più	linguistic	Intonation=falling	End=465.34	_	_	_	_
+155-12	BO144	155	più.	più	linguistic	Intonation=Falling	End=465.34	_	_	_	_
 156-0	BO144	156	so~	so~	linguistic	Interrupted=Yes	Begin=465.71	_	_	_	_
 156-1	BO144	156	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 156-2	BO144	156	sostanzialmente,	sostanzialmente	linguistic	Intonation=weakly_rising	End=467.11	_	_	_	_
-157-0	BO144	157	e::h.	eh	linguistic	Intonation=falling	Begin=467.39	0x2	_	_	_
+157-0	BO144	157	e::h.	eh	linguistic	Intonation=Falling	Begin=467.39	0x2	_	_	_
 157-1	BO144	157	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 157-2	BO144	157	un	un	linguistic	_	_	_	_	_	_
 157-3	BO144	157	test	test	linguistic	_	_	_	_	_	_
@@ -1189,7 +1189,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 161-6	BO144	161	ritenuto	ritenuto	linguistic	_	_	_	_	_	_
 161-7	BO144	161	un	un	linguistic	_	_	_	_	_	_
 161-8	BO144	161	test	test	linguistic	_	_	_	_	_	_
-161-9	BO144	161	valido.	valido	linguistic	Intonation=falling	End=481.81	_	_	_	_
+161-9	BO144	161	valido.	valido	linguistic	Intonation=Falling	End=481.81	_	_	_	_
 162-0	BO144	162	perché	perché	linguistic	_	Begin=481.84	_	_	_	_
 162-1	BO144	162	non	non	linguistic	_	_	_	_	_	_
 162-2	BO144	162	sta	sta	linguistic	_	_	_	_	_	_
@@ -1202,7 +1202,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 164-1	BO144	164	era	era	linguistic	_	_	_	_	_	_
 164-2	BO144	164	prefissato	prefissato	linguistic	_	_	_	_	_	_
 164-3	BO144	164	di	di	linguistic	_	_	_	_	_	_
-164-4	BO144	164	valuta:re.	valutare	linguistic	Intonation=falling	End=486.629	5x1	_	_	_
+164-4	BO144	164	valuta:re.	valutare	linguistic	Intonation=Falling	End=486.629	5x1	_	_	_
 165-0	BO104	165	mh	mh	linguistic	_	Begin=486.66	_	_	_	_
 165-1	BO104	165	m:h,	mh	linguistic	Intonation=weakly_rising	End=487.13	0x1	_	_	_
 166-0	BO144	166	e	e	linguistic	_	Begin=487.16	_	_	_	_
@@ -1213,7 +1213,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 166-5	BO144	166	un	un	linguistic	_	_	_	_	_	_
 166-6	BO144	166	test,	test	linguistic	Intonation=weakly_rising	_	_	_	_	_
 166-7	BO144	166	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-166-8	BO144	166	affidabile.	affidabile	linguistic	Intonation=falling	End=489.756	_	_	_	_
+166-8	BO144	166	affidabile.	affidabile	linguistic	Intonation=Falling	End=489.756	_	_	_	_
 167-0	BO144	167	e::h	eh	linguistic	ProsodicLink=Yes	Begin=490.13	0x2	_	_	_
 167-1	BO144	167	[m::h],	mh	linguistic	Intonation=weakly_rising	End=490.86	0x2	_	_	0-2(21)
 168-0	BO104	168	[ti]	ti	linguistic	_	Begin=490.74	_	_	_	0-2(21)
@@ -1241,7 +1241,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 172-2	BO104	172	lo	lo	linguistic	_	_	_	_	_	_
 172-3	BO104	172	schema	schema	linguistic	_	_	_	_	_	_
 172-4	BO104	172	di:	di	linguistic	_	_	1x1	_	_	_
-172-5	BO104	172	wear.	wear	linguistic	Intonation=falling	End=504.08	_	_	_	_
+172-5	BO104	172	wear.	wear	linguistic	Intonation=Falling	End=504.08	_	_	_	_
 173-0	BO104	173	nel	nel	linguistic	_	Begin=505.57	_	_	_	_
 173-1	BO104	173	duemila	duemila	linguistic	_	_	_	_	_	_
 173-2	BO104	173	e	e	linguistic	_	_	_	_	_	_
@@ -1258,10 +1258,10 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 173-13	BO104	173	nel	nel	linguistic	_	_	_	_	_	_
 173-14	BO104	173	ciclo	ciclo	linguistic	_	_	_	_	_	_
 173-15	BO104	173	del	del	linguistic	_	_	_	_	_	_
-173-16	BO104	173	testing.	testing	linguistic	Intonation=falling	End=510.982	_	_	_	_
+173-16	BO104	173	testing.	testing	linguistic	Intonation=Falling	End=510.982	_	_	_	_
 174-0	BO104	174	nel	nel	linguistic	_	Begin=510.982	_	_	_	_
 174-1	BO104	174	manuale	manuale	linguistic	_	_	_	_	_	_
-174-2	BO104	174	alté.	alté	linguistic	Intonation=falling	End=512.09	_	_	_	_
+174-2	BO104	174	alté.	alté	linguistic	Intonation=Falling	End=512.09	_	_	_	_
 175-0	BO104	175	va	va	linguistic	_	Begin=514.64	_	_	_	_
 175-1	BO104	175	bene	bene	linguistic	_	_	_	_	_	_
 175-2	BO104	175	vai	vai	linguistic	_	_	_	_	_	_
@@ -1337,7 +1337,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 187-0	BO144	187	sottoposto	sottoposto	linguistic	_	Begin=544.0	_	_	_	_
 187-1	BO144	187	da	da	linguistic	_	_	_	_	_	_
 187-2	BO144	187	valutato:ri,	valutatori	linguistic	Intonation=weakly_rising	_	7x1	_	_	_
-187-3	BO144	187	differenti.	differenti	linguistic	Intonation=falling	End=546.32	_	_	_	_
+187-3	BO144	187	differenti.	differenti	linguistic	Intonation=Falling	End=546.32	_	_	_	_
 188-0	BO144	188	nel	nel	linguistic	_	Begin=546.57	_	_	_	_
 188-1	BO144	188	casto	casto	linguistic	_	_	_	_	_	_
 188-2	BO144	188	di	di	linguistic	_	_	_	_	_	_
@@ -1401,7 +1401,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 193-13	BO144	193	quel	quel	linguistic	_	_	_	_	_	_
 193-14	BO144	193	tipo	tipo	linguistic	_	_	_	_	_	_
 193-15	BO144	193	di	di	linguistic	_	_	_	_	_	_
-193-16	BO144	193	prova.	prova	linguistic	Intonation=falling	End=567.287	_	_	_	_
+193-16	BO144	193	prova.	prova	linguistic	Intonation=Falling	End=567.287	_	_	_	_
 194-0	BO144	194	è	è	linguistic	_	Begin=567.57	_	_	_	_
 194-1	BO144	194	in	in	linguistic	_	_	_	_	_	_
 194-2	BO144	194	questo	questo	linguistic	_	_	_	_	_	_
@@ -1422,7 +1422,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 196-1	BO144	196	da:ti	dati	linguistic	_	_	1x1	_	_	_
 196-2	BO144	196	dovrebbero,	dovrebbero	linguistic	Intonation=weakly_rising	_	_	_	_	_
 196-3	BO144	196	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-196-4	BO144	196	coincidere.	coincidere	linguistic	Intonation=falling	End=575.05	_	_	_	_
+196-4	BO144	196	coincidere.	coincidere	linguistic	Intonation=Falling	End=575.05	_	_	_	_
 197-0	BO144	197	perché	perché	linguistic	_	Begin=575.29	_	_	_	_
 197-1	BO144	197	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 197-2	BO144	197	il	il	linguistic	_	_	_	_	_	_
@@ -1446,7 +1446,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 199-4	BO144	199	della:	della	linguistic	_	_	4x1	_	_	_
 199-5	BO144	199	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 199-6	BO144	199	della	della	linguistic	_	_	_	_	_	_
-199-7	BO144	199	prova.	prova	linguistic	Intonation=falling	End=583.8	_	_	_	_
+199-7	BO144	199	prova.	prova	linguistic	Intonation=Falling	End=583.8	_	_	_	_
 200-0	BO144	200	e	e	linguistic	_	Begin=584.52	_	_	_	_
 200-1	BO144	200	quindi	quindi	linguistic	_	_	_	_	_	_
 200-2	BO144	200	devono	devono	linguistic	_	_	_	_	_	_
@@ -1479,7 +1479,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 203-10	BO144	203	sottoposto	sottoposto	linguistic	_	_	_	_	_	_
 203-11	BO144	203	in	in	linguistic	_	_	_	_	_	_
 203-12	BO144	203	momenti	momenti	linguistic	_	_	_	_	_	_
-203-13	BO144	203	differ[enti].	differenti	linguistic	Intonation=falling	End=594.82	_	_	_	6-10(22)
+203-13	BO144	203	differ[enti].	differenti	linguistic	Intonation=Falling	End=594.82	_	_	_	6-10(22)
 204-0	BO104	204	[mh,	mh	linguistic	Intonation=weakly_rising	Begin=594.46	_	_	_	0-2(22)
 204-1	BO104	204	(.)	[PAUSE]	shortpause	_	_	_	_	_	0-3(22)
 204-2	BO104	204	co]me	come	linguistic	_	_	_	_	_	0-2(22)
@@ -1492,7 +1492,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 205-1	BO104	205	per	per	linguistic	_	_	_	_	_	_
 205-2	BO104	205	verificare	verificare	linguistic	_	_	_	_	_	_
 205-3	BO104	205	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
-205-4	BO104	205	affidabilità.	affidabilità	linguistic	Intonation=falling	End=599.23	_	_	_	_
+205-4	BO104	205	affidabilità.	affidabilità	linguistic	Intonation=Falling	End=599.23	_	_	_	_
 206-0	BO104	206	quella	quella	linguistic	_	Begin=599.87	_	_	_	_
 206-1	BO104	206	che	che	linguistic	_	_	_	_	_	_
 206-2	BO104	206	hai	hai	linguistic	_	_	_	_	_	_
@@ -1501,7 +1501,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 207-1	BO104	207	che	che	linguistic	_	_	_	_	_	_
 207-2	BO104	207	hai	hai	linguistic	_	_	_	_	_	_
 207-3	BO104	207	descritto,	descritto	linguistic	Intonation=weakly_rising	_	_	_	_	_
-207-4	BO104	207	diciamo.	diciamo	linguistic	Intonation=falling	End=603.302	_	_	_	_
+207-4	BO104	207	diciamo.	diciamo	linguistic	Intonation=Falling	End=603.302	_	_	_	_
 208-0	BO104	208	hanno	hanno	linguistic	_	Begin=604.47	_	_	_	_
 208-1	BO104	208	dei	dei	linguistic	_	_	_	_	_	_
 208-2	BO104	208	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
@@ -1537,7 +1537,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 213-1	BO144	213	tra:::,	tra	linguistic	Intonation=weakly_rising	End=619.454	2x3	_	_	_
 214-0	BO144	214	tra	tra	linguistic	_	Begin=619.762	_	_	_	_
 214-1	BO144	214	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-214-2	BO144	214	m:h.	mh	linguistic	Intonation=falling	End=620.527	0x1	_	_	_
+214-2	BO144	214	m:h.	mh	linguistic	Intonation=Falling	End=620.527	0x1	_	_	_
 215-0	BO144	215	momenti	momenti	linguistic	_	Begin=620.527	_	_	_	_
 215-1	BO144	215	di::,	di	linguistic	Intonation=weakly_rising	_	1x2	_	_	_
 215-2	BO144	215	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
@@ -1555,7 +1555,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 217-3	BO104	217	affidabilità	affidabilità	linguistic	_	_	_	_	_	_
 217-4	BO104	217	del	del	linguistic	_	_	_	_	_	_
 217-5	BO104	217	test,	test	linguistic	Intonation=weakly_rising	_	_	_	_	_
-217-6	BO104	217	del.	del	linguistic	Intonation=falling	End=628.56	_	_	_	_
+217-6	BO104	217	del.	del	linguistic	Intonation=Falling	End=628.56	_	_	_	_
 218-0	BO144	218	es[atto],	esatto	linguistic	Intonation=weakly_rising	Begin=628.734|End=629.25	_	_	_	2-6(24)
 219-0	BO104	219	[del]	del	linguistic	_	Begin=629.0	_	_	_	0-3(24)
 219-1	BO104	219	test,	test	linguistic	Intonation=weakly_rising	End=629.83	_	_	_	_
@@ -1593,11 +1593,11 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 224-6	BO104	224	essere	essere	linguistic	_	_	_	_	_	_
 224-7	BO104	224	comparabili,	comparabili	linguistic	Intonation=weakly_rising	_	_	_	_	_
 224-8	BO104	224	fra	fra	linguistic	_	_	_	_	_	_
-224-9	BO104	224	lo:ro.	loro	linguistic	Intonation=falling	End=646.97	1x1	_	_	_
-225-0	BO144	225	sì.	sì	linguistic	Intonation=falling	Begin=646.97|End=647.19	_	_	_	_
+224-9	BO104	224	lo:ro.	loro	linguistic	Intonation=Falling	End=646.97	1x1	_	_	_
+225-0	BO144	225	sì.	sì	linguistic	Intonation=Falling	Begin=646.97|End=647.19	_	_	_	_
 226-0	BO104	226	m:h?	mh	linguistic	Intonation=Rising	Begin=647.556|End=647.908	0x1	_	_	_
 227-0	BO144	227	sì	sì	linguistic	_	Begin=647.908	_	_	_	_
-227-1	BO144	227	sì.	sì	linguistic	Intonation=falling	End=648.32	_	_	_	_
+227-1	BO144	227	sì.	sì	linguistic	Intonation=Falling	End=648.32	_	_	_	_
 228-0	BO144	228	perché	perché	linguistic	_	Begin=648.75	_	_	_	_
 228-1	BO144	228	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 228-2	BO144	228	il	il	linguistic	_	_	_	_	_	_
@@ -1644,8 +1644,8 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 233-4	BO104	233	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 233-5	BO104	233	banale,	banale	linguistic	Intonation=weakly_rising	_	_	_	_	_
 233-6	BO104	233	la	la	linguistic	_	_	_	_	_	_
-233-7	BO104	233	[co:sa].	cosa	linguistic	Intonation=falling	End=664.96	1x1	_	_	0-4(25)
-234-0	BO144	234	[ovunque].	ovunque	linguistic	Intonation=falling	Begin=664.546|End=665.24	_	_	_	0-7(25)
+233-7	BO104	233	[co:sa].	cosa	linguistic	Intonation=Falling	End=664.96	1x1	_	_	0-4(25)
+234-0	BO144	234	[ovunque].	ovunque	linguistic	Intonation=Falling	Begin=664.546|End=665.24	_	_	_	0-7(25)
 235-0	BO104	235	[cioè],	cioè	linguistic	Intonation=weakly_rising	Begin=665.085	_	_	_	0-4(26)
 235-1	BO104	235	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 235-2	BO104	235	io	io	linguistic	_	_	_	_	_	_
@@ -1685,7 +1685,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 238-15	BO104	238	due,	due	linguistic	Intonation=weakly_rising	_	_	_	_	_
 238-16	BO104	238	c	c	linguistic	_	_	_	_	_	_
 238-17	BO104	238	uno	uno	linguistic	_	_	_	_	_	_
-238-18	BO104	238	eccetera.	eccetera	linguistic	Intonation=falling	End=677.0	_	_	_	_
+238-18	BO104	238	eccetera.	eccetera	linguistic	Intonation=Falling	End=677.0	_	_	_	_
 239-0	BO104	239	queste	queste	linguistic	_	Begin=677.041	_	_	_	_
 239-1	BO104	239	diverse	diverse	linguistic	_	_	_	_	_	_
 239-2	BO104	239	pro:ve,	prove	linguistic	Intonation=weakly_rising	_	2x1	_	_	_
@@ -1717,8 +1717,8 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 241-7	BO104	241	produrre	produrre	linguistic	_	_	_	_	_	_
 241-8	BO104	241	dei	dei	linguistic	_	_	_	_	_	_
 241-9	BO104	241	risultati	risultati	linguistic	_	_	_	_	_	_
-241-10	BO104	241	comparabili.	comparabili	linguistic	Intonation=falling	End=685.7	_	_	_	_
-242-0	BO144	242	okay.	okay	linguistic	Intonation=falling	Begin=686.568|End=686.925	_	_	_	_
+241-10	BO104	241	comparabili.	comparabili	linguistic	Intonation=Falling	End=685.7	_	_	_	_
+242-0	BO144	242	okay.	okay	linguistic	Intonation=Falling	Begin=686.568|End=686.925	_	_	_	_
 243-0	BO104	243	bene,	bene	linguistic	Intonation=weakly_rising	Begin=687.67	_	_	_	_
 243-1	BO104	243	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 243-2	BO104	243	quindi	quindi	linguistic	_	_	_	_	_	_
@@ -1762,7 +1762,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 247-15	BO144	247	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
 247-16	BO144	247	acronimo	acronimo	linguistic	_	_	_	_	_	_
 247-17	BO144	247	di	di	linguistic	_	_	_	_	_	_
-247-18	BO144	247	pace.	pace	linguistic	Intonation=falling	End=704.543	_	_	_	_
+247-18	BO144	247	pace.	pace	linguistic	Intonation=Falling	End=704.543	_	_	_	_
 248-0	BO144	248	cioè,	cioè	linguistic	Intonation=weakly_rising	Begin=704.79	_	_	_	_
 248-1	BO144	248	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 248-2	BO144	248	quello	quello	linguistic	_	_	_	_	_	_
@@ -1799,7 +1799,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 252-2	BO144	252	o	o	linguistic	_	_	_	_	_	_
 252-3	BO144	252	comunque	comunque	linguistic	_	_	_	_	_	_
 252-4	BO144	252	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-252-5	BO144	252	dichiara:to.	dichiarato	linguistic	Intonation=falling	End=716.556	7x1	_	_	_
+252-5	BO144	252	dichiara:to.	dichiarato	linguistic	Intonation=Falling	End=716.556	7x1	_	_	_
 253-0	BO144	253	dev'	dev'	linguistic	SpaceAfter=No	Begin=716.99	_	_	_	_
 253-1	BO144	253	essere,	essere	linguistic	Intonation=weakly_rising	_	_	_	_	_
 253-2	BO144	253	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
@@ -1874,7 +1874,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 261-7	BO144	261	test	test	linguistic	ProsodicLink=Yes	_	_	_	_	_
 261-8	BO144	261	e:h	eh	linguistic	_	_	0x1	_	_	_
 261-9	BO144	261	mi	mi	linguistic	_	_	_	_	_	_
-261-10	BO144	261	richiede.	richiede	linguistic	Intonation=falling	End=741.9	_	_	_	_
+261-10	BO144	261	richiede.	richiede	linguistic	Intonation=Falling	End=741.9	_	_	_	_
 262-0	BO104	262	mh	mh	linguistic	_	Begin=742.12	_	_	_	_
 262-1	BO104	262	mh,	mh	linguistic	Intonation=weakly_rising	End=742.6	_	_	_	_
 263-0	BO144	263	per	per	linguistic	_	Begin=742.942	_	_	_	_
@@ -1930,7 +1930,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 269-10	BO104	269	e	e	linguistic	_	_	_	_	_	_
 269-11	BO104	269	di	di	linguistic	_	_	_	_	_	_
 269-12	BO104	269	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-269-13	BO104	269	interattività.	interattività	linguistic	Intonation=falling	End=759.769	_	_	_	_
+269-13	BO104	269	interattività.	interattività	linguistic	Intonation=Falling	End=759.769	_	_	_	_
 270-0	BO144	270	e::h	eh	linguistic	ProsodicLink=Yes	Begin=761.83	0x2	_	_	_
 270-1	BO144	270	m:::h,	mh	linguistic	Intonation=weakly_rising	_	0x3	_	_	_
 270-2	BO144	270	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
@@ -1980,7 +1980,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 278-1	BO104	278	i]nterazione	interazione	linguistic	_	_	_	_	_	0-1(31)
 278-2	BO104	278	ora:le	orale	linguistic	_	_	2x1	_	_	_
 278-3	BO104	278	dei	dei	linguistic	_	_	_	_	_	_
-278-4	BO104	278	candidati.	candidati	linguistic	Intonation=falling	End=782.5	_	_	_	_
+278-4	BO104	278	candidati.	candidati	linguistic	Intonation=Falling	End=782.5	_	_	_	_
 279-0	BO104	279	ci	ci	linguistic	_	Begin=783.01	_	_	_	_
 279-1	BO104	279	si	si	linguistic	_	_	_	_	_	_
 279-2	BO104	279	riferisce:,	riferisce	linguistic	Intonation=weakly_rising	_	8x1	_	_	_
@@ -2008,7 +2008,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 281-10	BO104	281	alle	alle	linguistic	_	_	_	_	_	_
 281-11	BO104	281	caratteristiche	caratteristiche	linguistic	_	_	_	_	_	_
 281-12	BO104	281	del	del	linguistic	_	_	_	_	_	_
-281-13	BO104	281	candida:to:.	candidato	linguistic	Intonation=falling	End=792.577	6x1,8x1	_	_	_
+281-13	BO104	281	candida:to:.	candidato	linguistic	Intonation=Falling	End=792.577	6x1,8x1	_	_	_
 282-0	BO144	282	perché	perché	linguistic	_	Begin=794.08	_	_	_	_
 282-1	BO144	282	soprattutto	soprattutto	linguistic	_	_	_	_	_	_
 282-2	BO144	282	per	per	linguistic	_	_	_	_	_	_
@@ -2061,7 +2061,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 289-5	BO144	289	a	a	linguistic	_	_	_	_	_	_
 289-6	BO144	289	cui	cui	linguistic	_	_	_	_	_	_
 289-7	BO144	289	verrà	verrà	linguistic	_	_	_	_	_	_
-289-8	BO144	289	sottoposto.	sottoposto	linguistic	Intonation=falling	End=815.8	_	_	_	_
+289-8	BO144	289	sottoposto.	sottoposto	linguistic	Intonation=Falling	End=815.8	_	_	_	_
 290-0	BO144	290	mentre	mentre	linguistic	_	Begin=816.13	_	_	_	_
 290-1	BO144	290	ad	ad	linguistic	_	_	_	_	_	_
 290-2	BO144	290	esempio	esempio	linguistic	_	_	_	_	_	_
@@ -2099,7 +2099,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 293-3	BO144	293	programma	programma	linguistic	_	_	_	_	_	_
 293-4	BO144	293	affronta:to,	affrontato	linguistic	Intonation=weakly_rising	End=827.92	7x1	_	_	_
 294-0	BO144	294	l'	l'	linguistic	SpaceAfter=No	Begin=828.36	_	_	_	_
-294-1	BO144	294	allievo.	allievo	linguistic	Intonation=falling	End=829.14	_	_	_	_
+294-1	BO144	294	allievo.	allievo	linguistic	Intonation=Falling	End=829.14	_	_	_	_
 295-0	BO144	295	e	e	linguistic	_	Begin=829.37	_	_	_	_
 295-1	BO144	295	quindi,	quindi	linguistic	Intonation=weakly_rising	End=830.048	_	_	_	_
 296-0	BO144	296	m::h	mh	linguistic	_	Begin=830.23	0x2	_	_	_
@@ -2110,7 +2110,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 296-5	BO144	296	è	è	linguistic	_	_	_	_	_	_
 296-6	BO144	296	proprio	proprio	linguistic	_	_	_	_	_	_
 296-7	BO144	296	questa	questa	linguistic	_	_	_	_	_	_
-296-8	BO144	296	interazione.	interazione	linguistic	Intonation=falling	End=833.026	_	_	_	_
+296-8	BO144	296	interazione.	interazione	linguistic	Intonation=Falling	End=833.026	_	_	_	_
 297-0	BO104	297	mah,	mah	linguistic	Intonation=weakly_rising	Begin=833.263	_	_	_	_
 297-1	BO104	297	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 297-2	BO104	297	nella	nella	linguistic	_	_	_	_	_	_
@@ -2170,8 +2170,8 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 306-3	BO104	306	de]lle	delle	linguistic	_	_	_	_	_	0-2(34)
 306-4	BO104	306	caratteriatiche	caratteriatiche	linguistic	_	_	_	_	_	_
 306-5	BO104	306	diverse	diverse	linguistic	_	_	_	_	_	_
-306-6	BO104	306	[sì].	sì	linguistic	Intonation=falling	End=850.25	_	_	_	0-2(35)
-307-0	BO144	307	[esa]tto.	esatto	linguistic	Intonation=falling	Begin=850.005|End=850.501	_	_	_	0-3(35)
+306-6	BO104	306	[sì].	sì	linguistic	Intonation=Falling	End=850.25	_	_	_	0-2(35)
+307-0	BO144	307	[esa]tto.	esatto	linguistic	Intonation=Falling	Begin=850.005|End=850.501	_	_	_	0-3(35)
 308-0	BO104	308	e::h	eh	linguistic	ProsodicLink=Yes	Begin=851.966	0x2	_	_	_
 308-1	BO104	308	mh,	mh	linguistic	Intonation=weakly_rising	_	_	_	_	_
 308-2	BO104	308	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
@@ -2199,7 +2199,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 310-10	BO104	310	assistent	assistent	linguistic	_	_	_	_	_	_
 310-11	BO104	310	language	language	linguistic	_	_	_	_	_	_
 310-12	BO104	310	learning,	learning	linguistic	Intonation=weakly_rising	End=862.88	_	_	_	_
-311-0	BO144	311	sì.	sì	linguistic	Intonation=falling	Begin=864.76|End=865.059	_	_	_	_
+311-0	BO144	311	sì.	sì	linguistic	Intonation=Falling	Begin=864.76|End=865.059	_	_	_	_
 312-0	BO144	312	e:::h	eh	linguistic	ProsodicLink=Yes	Begin=865.39	0x3	_	_	_
 312-1	BO144	312	m:::h,	mh	linguistic	Intonation=weakly_rising	End=866.48	0x3	_	_	_
 313-0	BO144	313	allora	allora	linguistic	_	Begin=867.34	_	_	_	_
@@ -2227,7 +2227,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 317-10	BO144	317	è	è	linguistic	_	_	_	_	_	_
 317-11	BO144	317	diventato,	diventato	linguistic	Intonation=weakly_rising	_	_	_	_	_
 317-12	BO144	317	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-317-13	BO144	317	inevitabile.	inevitabile	linguistic	Intonation=falling	End=878.599	_	_	_	_
+317-13	BO144	317	inevitabile.	inevitabile	linguistic	Intonation=Falling	End=878.599	_	_	_	_
 318-0	BO144	318	soprattutto	soprattutto	linguistic	_	Begin=878.83	_	_	_	_
 318-1	BO144	318	negli	negli	linguistic	_	_	_	_	_	_
 318-2	BO144	318	ultimi	ultimi	linguistic	ProsodicLink=Yes	_	_	_	_	_
@@ -2259,7 +2259,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 322-3	BO144	322	scolastico,	scolastico	linguistic	Intonation=weakly_rising	_	_	_	_	_
 322-4	BO144	322	o	o	linguistic	_	_	_	_	_	_
 322-5	BO144	322	comunque,	comunque	linguistic	Intonation=weakly_rising	_	_	_	_	_
-322-6	BO144	322	universitario.	universitario	linguistic	Intonation=falling	End=889.595	_	_	_	_
+322-6	BO144	322	universitario.	universitario	linguistic	Intonation=Falling	End=889.595	_	_	_	_
 323-0	BO144	323	è	è	linguistic	_	Begin=889.93	_	_	_	_
 323-1	BO144	323	diventato,	diventato	linguistic	Intonation=weakly_rising	_	_	_	_	_
 323-2	BO144	323	uno	uno	linguistic	_	_	_	_	_	_
@@ -2297,7 +2297,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 326-8	BO144	326	cui	cui	linguistic	_	_	_	_	_	_
 326-9	BO144	326	favorire	favorire	linguistic	_	_	_	_	_	_
 326-10	BO144	326	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	_
-326-11	BO144	326	apprendimento.	apprendimento	linguistic	Intonation=falling	End=905.08	_	_	_	_
+326-11	BO144	326	apprendimento.	apprendimento	linguistic	Intonation=Falling	End=905.08	_	_	_	_
 327-0	BO144	327	è	è	linguistic	_	Begin=905.226	_	_	_	_
 327-1	BO144	327	una	una	linguistic	_	_	_	_	_	_
 327-2	BO144	327	diversificazione,	diversificazione	linguistic	Intonation=weakly_rising	_	_	_	_	_
@@ -2374,7 +2374,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 339-11	BO144	339	argomento,	argomento	linguistic	Intonation=weakly_rising	_	_	_	_	_
 339-12	BO144	339	su	su	linguistic	_	_	_	_	_	_
 339-13	BO144	339	più	più	linguistic	_	_	_	_	_	_
-339-14	BO144	339	monolinguismo.	monolinguismo	linguistic	Intonation=falling	End=937.36	_	_	_	_
+339-14	BO144	339	monolinguismo.	monolinguismo	linguistic	Intonation=Falling	End=937.36	_	_	_	_
 340-0	BO144	340	che,	che	linguistic	Intonation=weakly_rising	Begin=937.39|End=937.717	_	_	_	_
 341-0	BO144	341	m:::h,	mh	linguistic	Intonation=weakly_rising	Begin=937.978|End=938.686	0x3	_	_	_
 342-0	BO144	342	favori:re,	favorire	linguistic	Intonation=weakly_rising	Begin=938.686|End=939.625	5x1	_	_	_
@@ -2444,7 +2444,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 354-2	BO104	354	delle:,	delle	linguistic	Intonation=weakly_rising	_	4x1	_	_	_
 354-3	BO104	354	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 354-4	BO104	354	delle	delle	linguistic	_	_	_	_	_	_
-354-5	BO104	354	lingue.	lingue	linguistic	Intonation=falling	End=964.961	_	_	_	_
+354-5	BO104	354	lingue.	lingue	linguistic	Intonation=Falling	End=964.961	_	_	_	_
 355-0	BO144	355	ah,	ah	linguistic	Intonation=weakly_rising	Begin=966.53	_	_	_	_
 355-1	BO144	355	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 355-2	BO144	355	eh	eh	linguistic	ProsodicLink=Yes	_	_	_	_	_
@@ -2502,7 +2502,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 364-11	BO144	364	viene	viene	linguistic	_	_	_	_	_	_
 364-12	BO144	364	utilizzato	utilizzato	linguistic	_	_	_	_	_	_
 364-13	BO144	364	anche	anche	linguistic	_	_	_	_	_	_
-364-14	BO144	364	adesso.	adesso	linguistic	Intonation=falling	End=993.3	_	_	_	_
+364-14	BO144	364	adesso.	adesso	linguistic	Intonation=Falling	End=993.3	_	_	_	_
 365-0	BO144	365	perché,	perché	linguistic	Intonation=weakly_rising	Begin=993.63|End=994.14	_	_	_	_
 366-0	BO144	366	al	al	linguistic	_	Begin=994.51	_	_	_	_
 366-1	BO144	366	giorno	giorno	linguistic	_	_	_	_	_	_
@@ -2513,7 +2513,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 366-6	BO144	366	quindi	quindi	linguistic	_	_	_	_	_	_
 366-7	BO144	366	soprattutto	soprattutto	linguistic	_	_	_	_	_	_
 366-8	BO144	366	negli	negli	linguistic	_	_	_	_	_	_
-366-9	BO144	366	ultimi:.	ultimi	linguistic	Intonation=falling	End=997.481	5x1	_	_	_
+366-9	BO144	366	ultimi:.	ultimi	linguistic	Intonation=Falling	End=997.481	5x1	_	_	_
 367-0	BO144	367	anni,	anni	linguistic	Intonation=weakly_rising	Begin=997.624|End=998.194	_	_	_	_
 368-0	BO144	368	essendo	essendo	linguistic	_	Begin=998.633	_	_	_	_
 368-1	BO144	368	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
@@ -2582,7 +2582,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 376-7	BO144	376	a	a	linguistic	_	_	_	_	_	_
 376-8	BO144	376	noi	noi	linguistic	_	_	_	_	_	_
 376-9	BO144	376	mo:lto	molto	linguistic	_	_	1x1	_	_	_
-376-10	BO144	376	prossima.	prossima	linguistic	Intonation=falling	End=1018.84	_	_	_	_
+376-10	BO144	376	prossima.	prossima	linguistic	Intonation=Falling	End=1018.84	_	_	_	_
 377-0	BO144	377	e	e	linguistic	_	Begin=1019.071	_	_	_	_
 377-1	BO144	377	quindi,	quindi	linguistic	Intonation=weakly_rising	_	_	_	_	_
 377-2	BO144	377	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
@@ -2593,19 +2593,19 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 377-7	BO144	377	vissuto	vissuto	linguistic	_	_	_	_	_	_
 377-8	BO144	377	questo::	questo	linguistic	_	_	5x2	_	_	_
 377-9	BO144	377	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-377-10	BO144	377	sviluppo.	sviluppo	linguistic	Intonation=falling	End=1022.67	_	_	_	_
+377-10	BO144	377	sviluppo.	sviluppo	linguistic	Intonation=Falling	End=1022.67	_	_	_	_
 378-0	BO144	378	e	e	linguistic	_	Begin=1022.863	_	_	_	_
 378-1	BO144	378	questo	questo	linguistic	_	_	_	_	_	_
 378-2	BO144	378	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 378-3	BO144	378	e::h	eh	linguistic	_	_	0x2	_	_	_
 378-4	BO144	378	e	e	linguistic	_	_	_	_	_	_
 378-5	BO144	378	questa	questa	linguistic	_	_	_	_	_	_
-378-6	BO144	378	diffusione.	diffusione	linguistic	Intonation=falling	End=1025.73	_	_	_	_
+378-6	BO144	378	diffusione.	diffusione	linguistic	Intonation=Falling	End=1025.73	_	_	_	_
 379-0	BO144	379	in	in	linguistic	_	Begin=1026.108	_	_	_	_
 379-1	BO144	379	questo	questo	linguistic	_	_	_	_	_	_
 379-2	BO144	379	caso	caso	linguistic	_	_	_	_	_	_
 379-3	BO144	379	del	del	linguistic	_	_	_	_	_	_
-379-4	BO144	379	[compute]r.	computer	linguistic	Intonation=falling	End=1027.63	_	_	_	0-7(37)
+379-4	BO144	379	[compute]r.	computer	linguistic	Intonation=Falling	End=1027.63	_	_	_	0-7(37)
 380-0	BO104	380	[mh	mh	linguistic	_	Begin=1026.969	_	_	_	0-2(37)
 380-1	BO104	380	mh],	mh	linguistic	Intonation=weakly_rising	End=1027.54	_	_	_	0-2(37)
 381-0	BO144	381	e	e	linguistic	_	Begin=1028.117	_	_	_	_
@@ -2648,7 +2648,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 386-11	BO144	386	della:	della	linguistic	_	_	4x1	_	_	_
 386-12	BO144	386	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 386-13	BO144	386	della	della	linguistic	_	_	_	_	_	_
-386-14	BO144	386	glottodidattica.	glottodidattica	linguistic	Intonation=falling	End=1045.53	_	_	_	_
+386-14	BO144	386	glottodidattica.	glottodidattica	linguistic	Intonation=Falling	End=1045.53	_	_	_	_
 387-0	BO144	387	perché	perché	linguistic	_	Begin=1045.554	_	_	_	_
 387-1	BO144	387	se	se	linguistic	_	_	_	_	_	_
 387-2	BO144	387	prima	prima	linguistic	_	_	_	_	_	_
@@ -2705,7 +2705,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 394-18	BO104	394	avuto,	avuto	linguistic	Intonation=weakly_rising	_	_	_	_	_
 394-19	BO104	394	sull'	sull'	linguistic	SpaceAfter=No	_	_	_	_	_
 394-20	BO104	394	insegnamento	insegnamento	linguistic	_	_	_	_	_	_
-394-21	BO104	394	linguistico.	linguistico	linguistic	Intonation=falling	End=1065.053	_	_	_	_
+394-21	BO104	394	linguistico.	linguistico	linguistic	Intonation=Falling	End=1065.053	_	_	_	_
 395-0	BO144	395	[sì],	sì	linguistic	Intonation=weakly_rising	Begin=1062.72|End=1062.979	_	_	_	0-2(39)
 396-0	BO104	396	io	io	linguistic	_	Begin=1065.07	_	_	_	_
 396-1	BO104	396	però	però	linguistic	_	_	_	_	_	_
@@ -2756,7 +2756,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 404-4	BO104	404	e	e	linguistic	_	_	_	_	_	_
 404-5	BO104	404	il	il	linguistic	_	_	_	_	_	_
 404-6	BO104	404	periodo	periodo	linguistic	_	_	_	_	_	_
-404-7	BO104	404	attua:le.	attuale	linguistic	Intonation=falling	End=1084.64	4x1	_	_	_
+404-7	BO104	404	attua:le.	attuale	linguistic	Intonation=Falling	End=1084.64	4x1	_	_	_
 405-0	BO104	405	che	che	linguistic	_	Begin=1086.4	_	_	_	_
 405-1	BO104	405	tecnologie	tecnologie	linguistic	_	_	_	_	_	_
 405-2	BO104	405	venivano	venivano	linguistic	_	_	_	_	_	_
@@ -2775,7 +2775,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 406-2	BO104	406	della::	della	linguistic	_	_	4x2	_	_	_
 406-3	BO104	406	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 406-4	BO104	406	della	della	linguistic	_	_	_	_	_	_
-406-5	BO104	406	lingua.	lingua	linguistic	Intonation=falling	End=1094.44	_	_	_	_
+406-5	BO104	406	lingua.	lingua	linguistic	Intonation=Falling	End=1094.44	_	_	_	_
 407-0	BO104	407	lega:te:,	legate	linguistic	Intonation=weakly_rising	Begin=1094.99|End=1095.833	3x1,5x1	_	_	_
 408-0	BO104	408	anche	anche	linguistic	_	Begin=1096.049	_	_	_	_
 408-1	BO104	408	proprio	proprio	linguistic	_	_	_	_	_	_
@@ -2809,7 +2809,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 412-2	BO104	412	attua:li,	attuali	linguistic	Intonation=weakly_rising	_	4x1	_	_	_
 412-3	BO104	412	azionali,	azionali	linguistic	Intonation=weakly_rising	_	_	_	_	_
 412-4	BO104	412	eccetera	eccetera	linguistic	_	_	_	_	_	_
-412-5	BO104	412	attuali.	attuali	linguistic	Intonation=falling	End=1112.86	_	_	_	_
+412-5	BO104	412	attuali.	attuali	linguistic	Intonation=Falling	End=1112.86	_	_	_	_
 413-0	BO144	413	okay,	okay	linguistic	Intonation=weakly_rising	Begin=1113.39	_	_	_	_
 413-1	BO144	413	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 413-2	BO144	413	allora	allora	linguistic	_	_	_	_	_	_
@@ -2845,8 +2845,8 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 416-19	BO104	416	stati	stati	linguistic	_	_	_	_	_	_
 416-20	BO104	416	uni:t[i::,	uniti	linguistic	Intonation=weakly_rising	_	2x1,4x2	_	_	4-5(40)
 416-21	BO104	416	ecce]tera,	eccetera	linguistic	Intonation=weakly_rising	End=1127.93	_	_	_	0-4(40)
-417-0	BO144	417	[esatto].	esatto	linguistic	Intonation=falling	Begin=1127.08|End=1127.634	_	_	_	0-6(40)
-418-0	BO104	418	okay.	okay	linguistic	Intonation=falling	Begin=1127.94|End=1128.33	_	_	_	_
+417-0	BO144	417	[esatto].	esatto	linguistic	Intonation=Falling	Begin=1127.08|End=1127.634	_	_	_	0-6(40)
+418-0	BO104	418	okay.	okay	linguistic	Intonation=Falling	Begin=1127.94|End=1128.33	_	_	_	_
 419-0	BO144	419	e:::h	eh	linguistic	ProsodicLink=Yes	Begin=1128.81	0x3	_	_	_
 419-1	BO144	419	m:::h,	mh	linguistic	Intonation=weakly_rising	End=1130.37	0x3	_	_	_
 420-0	BO144	420	al	al	linguistic	_	Begin=1130.68	_	_	_	_
@@ -2988,7 +2988,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 441-3	BO144	441	possono,	possono	linguistic	Intonation=weakly_rising	End=1186.63	_	_	_	_
 442-0	BO144	442	fare	fare	linguistic	_	Begin=1186.803	_	_	_	_
 442-1	BO144	442	questi	questi	linguistic	_	_	_	_	_	_
-442-2	BO144	442	esercizi.	esercizi	linguistic	Intonation=falling	End=1188.17	_	_	_	_
+442-2	BO144	442	esercizi.	esercizi	linguistic	Intonation=Falling	End=1188.17	_	_	_	_
 443-0	BO144	443	che	che	linguistic	_	Begin=1188.289	_	_	_	_
 443-1	BO144	443	prima	prima	linguistic	_	_	_	_	_	_
 443-2	BO144	443	magari	magari	linguistic	_	_	_	_	_	_
@@ -3105,7 +3105,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 460-0	BO144	460	il	il	linguistic	_	Begin=1232.139	_	_	_	_
 460-1	BO144	460	lavoro	lavoro	linguistic	_	_	_	_	_	_
 460-2	BO144	460	del	del	linguistic	_	_	_	_	_	_
-460-3	BO144	460	docente.	docente	linguistic	Intonation=falling	End=1233.47	_	_	_	_
+460-3	BO144	460	docente.	docente	linguistic	Intonation=Falling	End=1233.47	_	_	_	_
 461-0	BO104	461	mh	mh	linguistic	_	Begin=1233.528	_	_	_	_
 461-1	BO104	461	mh,	mh	linguistic	Intonation=weakly_rising	End=1233.925	_	_	_	_
 462-0	BO144	462	e	e	linguistic	_	Begin=1233.94	_	_	_	_
@@ -3138,7 +3138,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 466-13	BO104	466	l'	l'	linguistic	SpaceAfter=No	_	_	_	_	0-2(43)
 466-14	BO104	466	utili]zzo	utilizzo	linguistic	_	_	_	_	_	0-5(43)
 466-15	BO104	466	del	del	linguistic	_	_	_	_	_	_
-466-16	BO104	466	video.	video	linguistic	Intonation=falling	End=1243.98	_	_	_	_
+466-16	BO104	466	video.	video	linguistic	Intonation=Falling	End=1243.98	_	_	_	_
 467-0	BO144	467	[sì	sì	linguistic	_	Begin=1242.665	_	_	_	0-2(43)
 467-1	BO144	467	sì	sì	linguistic	_	_	_	_	_	0-2(43)
 467-2	BO144	467	sì],	sì	linguistic	Intonation=weakly_rising	End=1243.234	_	_	_	0-2(43)
@@ -3210,7 +3210,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 475-3	BO104	475	mh,	mh	linguistic	Intonation=weakly_rising	End=1263.67	_	_	_	_
 476-0	BO104	476	della	della	linguistic	_	Begin=1264.342	_	_	_	_
 476-1	BO104	476	correzione	correzione	linguistic	_	_	_	_	_	_
-476-2	BO104	476	automatica.	automatica	linguistic	Intonation=falling	End=1266.04	_	_	_	_
+476-2	BO104	476	automatica.	automatica	linguistic	Intonation=Falling	End=1266.04	_	_	_	_
 477-0	BO104	477	d'	d'	linguistic	SpaceAfter=No	Begin=1266.3	_	_	_	_
 477-1	BO104	477	accordo,	accordo	linguistic	Intonation=weakly_rising	_	_	_	_	_
 477-2	BO104	477	e,	e	linguistic	Intonation=weakly_rising	End=1267.27	_	_	_	_
@@ -3228,7 +3228,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 478-11	BO104	478	batterie	batterie	linguistic	_	_	_	_	_	_
 478-12	BO104	478	di	di	linguistic	_	_	_	_	_	_
 478-13	BO104	478	esercizi	esercizi	linguistic	_	_	_	_	_	_
-478-14	BO104	478	struttura:li.	strutturali	linguistic	Intonation=falling	End=1272.583	8x1	_	_	_
+478-14	BO104	478	struttura:li.	strutturali	linguistic	Intonation=Falling	End=1272.583	8x1	_	_	_
 479-0	BO104	479	m:h?	mh	linguistic	Intonation=Rising	Begin=1272.9|End=1273.26	0x1	_	_	_
 480-0	BO104	480	po:i,	poi	linguistic	Intonation=weakly_rising	Begin=1274.0|End=1274.583	1x1	_	_	_
 481-0	BO104	481	nel	nel	linguistic	_	Begin=1274.637	_	_	_	_
@@ -3257,7 +3257,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 483-3	BO104	483	molta	molta	linguistic	_	_	_	_	_	_
 483-4	BO104	483	leva,	leva	linguistic	Intonation=weakly_rising	_	_	_	_	_
 483-5	BO104	483	sulla	sulla	linguistic	_	_	_	_	_	_
-483-6	BO104	483	multimedialità.	multimedialità	linguistic	Intonation=falling	End=1282.14	_	_	_	_
+483-6	BO104	483	multimedialità.	multimedialità	linguistic	Intonation=Falling	End=1282.14	_	_	_	_
 484-0	BO104	484	quindi	quindi	linguistic	_	Begin=1282.45	_	_	_	_
 484-1	BO104	484	anche	anche	linguistic	_	_	_	_	_	_
 484-2	BO104	484	sull'	sull'	linguistic	SpaceAfter=No	_	_	_	_	_
@@ -3274,7 +3274,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 485-5	BO104	485	attraverso	attraverso	linguistic	_	_	_	_	_	_
 485-6	BO104	485	i	i	linguistic	_	_	_	_	_	_
 485-7	BO104	485	siti	siti	linguistic	_	_	_	_	_	_
-485-8	BO104	485	web.	web	linguistic	Intonation=falling	End=1288.87	_	_	_	_
+485-8	BO104	485	web.	web	linguistic	Intonation=Falling	End=1288.87	_	_	_	_
 486-0	BO104	486	fino	fino	linguistic	_	Begin=1289.5	_	_	_	_
 486-1	BO104	486	ad	ad	linguistic	_	_	_	_	_	_
 486-2	BO104	486	arrivare	arrivare	linguistic	_	_	_	_	_	_
@@ -3341,7 +3341,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 495-5	BO104	495	fo:rti,	forti	linguistic	Intonation=weakly_rising	_	1x1	_	_	_
 495-6	BO104	495	e	e	linguistic	_	_	_	_	_	_
 495-7	BO104	495	molto	molto	linguistic	_	_	_	_	_	_
-495-8	BO104	495	importa:nti.	importanti	linguistic	Intonation=falling	End=1321.87	6x1	_	_	_
+495-8	BO104	495	importa:nti.	importanti	linguistic	Intonation=Falling	End=1321.87	6x1	_	_	_
 496-0	BO104	496	nel	nel	linguistic	_	Begin=1321.97	_	_	_	_
 496-1	BO104	496	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 496-2	BO104	496	negli	negli	linguistic	_	_	_	_	_	_
@@ -3367,7 +3367,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 499-4	BO104	499	cooperativa,	cooperativa	linguistic	Intonation=weakly_rising	_	_	_	_	_
 499-5	BO104	499	e:	e	linguistic	_	_	0x1	_	_	_
 499-6	BO104	499	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-499-7	BO104	499	collaborativa.	collaborativa	linguistic	Intonation=falling	End=1341.05	_	_	_	_
+499-7	BO104	499	collaborativa.	collaborativa	linguistic	Intonation=Falling	End=1341.05	_	_	_	_
 500-0	BO144	500	a[ll'	all'	linguistic	SpaceAfter=No	Begin=1342.61	_	_	_	1-4(47)
 500-1	BO144	500	inter]no	interno	linguistic	_	_	_	_	_	0-5(47)
 500-2	BO144	500	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
@@ -3383,7 +3383,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 502-3	BO144	502	studen[ti,	studenti	linguistic	Intonation=weakly_rising	_	_	_	_	6-8(48)
 502-4	BO144	502	(.)	[PAUSE]	shortpause	_	_	_	_	_	0-3(48)
 502-5	BO144	502	e:	e	linguistic	_	_	0x1	_	_	0-1(48)
-502-6	BO144	502	i:].	i	linguistic	Intonation=falling	End=1346.83	0x1	_	_	0-1(48)
+502-6	BO144	502	i:].	i	linguistic	Intonation=Falling	End=1346.83	0x1	_	_	0-1(48)
 503-0	BO104	503	[cioè,	cioè	linguistic	Intonation=weakly_rising	Begin=1345.82	_	_	_	0-4(48)
 503-1	BO104	503	(.)	[PAUSE]	shortpause	_	_	_	_	_	0-3(48)
 503-2	BO104	503	il	il	linguistic	_	_	_	_	_	0-2(48)
@@ -3452,7 +3452,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 513-1	BO104	513	mh,	mh	linguistic	Intonation=weakly_rising	End=1367.959	_	_	_	_
 514-0	BO104	514	tecnologie	tecnologie	linguistic	_	Begin=1368.153	_	_	_	_
 514-1	BO104	514	più	più	linguistic	_	_	_	_	_	_
-514-2	BO104	514	attua:li.	attuali	linguistic	Intonation=falling	End=1369.71	4x1	_	_	_
+514-2	BO104	514	attua:li.	attuali	linguistic	Intonation=Falling	End=1369.71	4x1	_	_	_
 515-0	BO104	515	che	che	linguistic	_	Begin=1370.37	_	_	_	_
 515-1	BO104	515	sono	sono	linguistic	_	_	_	_	_	_
 515-2	BO104	515	quelle	quelle	linguistic	_	_	_	_	_	_
@@ -3479,7 +3479,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 519-3	BO144	519	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 519-4	BO144	519	ho	ho	linguistic	_	_	_	_	_	_
 519-5	BO144	519	una	una	linguistic	_	_	_	_	_	_
-519-6	BO144	519	domanda.	domanda	linguistic	Intonation=falling	End=1382.385	_	_	_	_
+519-6	BO144	519	domanda.	domanda	linguistic	Intonation=Falling	End=1382.385	_	_	_	_
 520-0	BO104	520	s[ì:],	sì	linguistic	Intonation=weakly_rising	Begin=1382.385|End=1382.728	1x1	_	_	1-2(50)
 521-0	BO144	521	[ma]	ma	linguistic	_	Begin=1382.54	_	_	_	0-2(50)
 521-1	BO144	521	anche	anche	linguistic	_	_	_	_	_	_
@@ -3506,7 +3506,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 523-5	BO144	523	non	non	linguistic	_	_	_	_	_	_
 523-6	BO144	523	era	era	linguistic	_	_	_	_	_	_
 523-7	BO144	523	molto	molto	linguistic	_	_	_	_	_	_
-523-8	BO144	523	chia:ro.	chiaro	linguistic	Intonation=falling	End=1391.11	3x1	_	_	_
+523-8	BO144	523	chia:ro.	chiaro	linguistic	Intonation=Falling	End=1391.11	3x1	_	_	_
 524-0	BO144	524	e	e	linguistic	_	Begin=1391.271	_	_	_	_
 524-1	BO144	524	veniva,	veniva	linguistic	Intonation=weakly_rising	_	_	_	_	_
 524-2	BO144	524	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
@@ -3530,7 +3530,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 527-6	BO144	527	il	il	linguistic	_	_	_	_	_	_
 527-7	BO144	527	lavoro	lavoro	linguistic	_	_	_	_	_	_
 527-8	BO144	527	di	di	linguistic	_	_	_	_	_	_
-527-9	BO144	527	gruppo.	gruppo	linguistic	Intonation=falling	End=1400.05	_	_	_	_
+527-9	BO144	527	gruppo.	gruppo	linguistic	Intonation=Falling	End=1400.05	_	_	_	_
 528-0	BO144	528	poi	poi	linguistic	_	Begin=1400.195	_	_	_	_
 528-1	BO144	528	c'	c'	linguistic	SpaceAfter=No	_	_	_	_	_
 528-2	BO144	528	era	era	linguistic	_	_	_	_	_	_
@@ -3564,7 +3564,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 530-15	BO104	530	senza	senza	linguistic	_	_	_	_	_	_
 530-16	BO104	530	tecnolo[gie],	tecnologie	linguistic	Intonation=weakly_rising	End=1407.84	_	_	_	7-10(53)
 531-0	BO144	531	[ah	ah	linguistic	_	Begin=1407.238	_	_	_	0-2(53)
-531-1	BO144	531	okay].	okay	linguistic	Intonation=falling	End=1407.83	_	_	_	0-4(53)
+531-1	BO144	531	okay].	okay	linguistic	Intonation=Falling	End=1407.83	_	_	_	0-4(53)
 532-0	BO104	532	cioè	cioè	linguistic	_	Begin=1408.83	_	_	_	_
 532-1	BO104	532	[puoi	puoi	linguistic	_	_	_	_	_	0-4(54)
 532-2	BO104	532	fare	fare	linguistic	_	_	_	_	_	0-4(54)
@@ -3596,7 +3596,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 534-8	BO104	534	intercompren[sione	intercomprensione	linguistic	_	_	_	_	_	12-17(55)
 534-9	BO104	534	linguis]tica:,	linguistica	linguistic	Intonation=weakly_rising	End=1417.82	10x1	_	_	0-7(55)
 535-0	BO144	535	[ah,	ah	linguistic	Intonation=weakly_rising	Begin=1416.56	_	_	_	0-2(55)
-535-1	BO144	535	okay].	okay	linguistic	Intonation=falling	End=1417.332	_	_	_	0-4(55)
+535-1	BO144	535	okay].	okay	linguistic	Intonation=Falling	End=1417.332	_	_	_	0-4(55)
 536-0	BO104	536	sono	sono	linguistic	_	Begin=1417.82	_	_	_	_
 536-1	BO104	536	project	project	linguistic	_	_	_	_	_	_
 536-2	BO104	536	work	work	linguistic	_	_	_	_	_	_
@@ -3614,7 +3614,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 537-9	BO104	537	sono	sono	linguistic	_	_	_	_	_	_
 537-10	BO104	537	distanti	distanti	linguistic	_	_	_	_	_	_
 537-11	BO104	537	fra	fra	linguistic	_	_	_	_	_	_
-537-12	BO104	537	lo:ro.	loro	linguistic	Intonation=falling	End=1423.36	1x1	_	_	_
+537-12	BO104	537	lo:ro.	loro	linguistic	Intonation=Falling	End=1423.36	1x1	_	_	_
 538-0	BO144	538	ah	ah	linguistic	_	Begin=1423.34	_	_	_	_
 538-1	BO144	538	o[kay	okay	linguistic	_	_	_	_	_	1-4(56)
 538-2	BO144	538	okay	okay	linguistic	_	_	_	_	_	0-4(56)
@@ -3656,7 +3656,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 544-9	BO104	544	più	più	linguistic	_	_	_	_	_	_
 544-10	BO104	544	di::	di	linguistic	_	_	1x2	_	_	_
 544-11	BO104	544	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-544-12	BO104	544	ventitré.	ventitré	linguistic	Intonation=falling	End=1434.79	_	_	_	_
+544-12	BO104	544	ventitré.	ventitré	linguistic	Intonation=Falling	End=1434.79	_	_	_	_
 545-0	BO104	545	perché	perché	linguistic	_	Begin=1435.27	_	_	_	_
 545-1	BO104	545	hai	hai	linguistic	_	_	_	_	_	_
 545-2	BO104	545	una	una	linguistic	_	_	_	_	_	_
@@ -3678,7 +3678,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 546-5	BO104	546	modalità	modalità	linguistic	_	_	_	_	_	_
 546-6	BO104	546	espressiva	espressiva	linguistic	_	_	_	_	_	_
 546-7	BO104	546	che	che	linguistic	_	_	_	_	_	_
-546-8	BO104	546	utilizzi.	utilizzi	linguistic	Intonation=falling	End=1443.64	_	_	_	_
+546-8	BO104	546	utilizzi.	utilizzi	linguistic	Intonation=Falling	End=1443.64	_	_	_	_
 547-0	BO104	547	cioè	cioè	linguistic	_	Begin=1443.647	_	_	_	_
 547-1	BO104	547	bisogna	bisogna	linguistic	_	_	_	_	_	_
 547-2	BO104	547	essere	essere	linguistic	_	_	_	_	_	_
@@ -3739,7 +3739,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 557-2	BO104	557	è	è	linguistic	_	_	_	_	_	_
 557-3	BO104	557	un	un	linguistic	_	_	_	_	_	_
 557-4	BO104	557	po'	po'	linguistic	_	_	_	_	_	_
-557-5	BO104	557	penalizzante.	penalizzante	linguistic	Intonation=falling	End=1463.9	_	_	_	_
+557-5	BO104	557	penalizzante.	penalizzante	linguistic	Intonation=Falling	End=1463.9	_	_	_	_
 558-0	BO104	558	nel	nel	linguistic	_	Begin=1463.93	_	_	_	_
 558-1	BO104	558	senso	senso	linguistic	_	_	_	_	_	_
 558-2	BO104	558	che	che	linguistic	_	_	_	_	_	_
@@ -3792,7 +3792,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 564-8	BO104	564	ripetu:to,	ripetuto	linguistic	Intonation=weakly_rising	_	5x1	_	_	_
 564-9	BO104	564	non	non	linguistic	_	_	_	_	_	_
 564-10	BO104	564	lo	lo	linguistic	_	_	_	_	_	_
-564-11	BO104	564	so.	so	linguistic	Intonation=falling	End=1479.49	_	_	_	_
+564-11	BO104	564	so.	so	linguistic	Intonation=Falling	End=1479.49	_	_	_	_
 565-0	BO104	565	insomma	insomma	linguistic	_	Begin=1479.626	_	_	_	_
 565-1	BO104	565	però	però	linguistic	_	_	_	_	_	_
 565-2	BO104	565	io	io	linguistic	_	_	_	_	_	_
@@ -3807,7 +3807,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 565-11	BO104	565	non	non	linguistic	_	_	_	_	_	_
 565-12	BO104	565	riesco	riesco	linguistic	_	_	_	_	_	_
 565-13	BO104	565	[a	a	linguistic	_	_	_	_	_	0-1(59)
-565-14	BO104	565	darti].	darti	linguistic	Intonation=falling	End=1483.25	_	_	_	0-5(59)
+565-14	BO104	565	darti].	darti	linguistic	Intonation=Falling	End=1483.25	_	_	_	0-5(59)
 566-0	BO144	566	[°okay	okay	linguistic	Volume=Low	Begin=1482.81	_	_	_	0-4(59)
 566-1	BO144	566	okay°]	okay	linguistic	Volume=Low	End=1483.289	_	_	_	0-4(59)
 567-0	BO104	567	la	la	linguistic	_	Begin=1483.594	_	_	_	_
@@ -3820,7 +3820,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 567-7	BO104	567	nello	nello	linguistic	_	_	_	_	_	_
 567-8	BO104	567	studio	studio	linguistic	_	_	_	_	_	_
 567-9	BO104	567	centoventiqu[attro],	centoventiquattro	linguistic	Intonation=weakly_rising	End=1487.08	_	_	_	12-17(60)
-568-0	BO144	568	[°quattro°].	quattro	linguistic	Intonation=falling|Volume=Low	Begin=1486.571|End=1487.078	_	_	_	0-7(60)
+568-0	BO144	568	[°quattro°].	quattro	linguistic	Intonation=Falling|Volume=Low	Begin=1486.571|End=1487.078	_	_	_	0-7(60)
 569-0	BO104	569	m:h?	mh	linguistic	Intonation=Rising	Begin=1487.23|End=1487.5	0x1	_	_	_
 570-0	BO104	570	e	e	linguistic	_	Begin=1488.32	_	_	_	_
 570-1	BO104	570	dopo	dopo	linguistic	_	_	_	_	_	_
@@ -3830,29 +3830,29 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 570-5	BO104	570	media,	media	linguistic	Intonation=weakly_rising	_	_	_	_	_
 570-6	BO104	570	tra	tra	linguistic	_	_	_	_	_	_
 570-7	BO104	570	le	le	linguistic	_	_	_	_	_	_
-570-8	BO104	570	du[e::].	due	linguistic	Intonation=falling	End=1490.4	2x2	_	_	2-3(61)
+570-8	BO104	570	du[e::].	due	linguistic	Intonation=Falling	End=1490.4	2x2	_	_	2-3(61)
 571-0	BO144	571	[ah]	ah	linguistic	_	Begin=1490.16	_	_	_	0-2(61)
 571-1	BO144	571	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-571-2	BO144	571	okay.	okay	linguistic	Intonation=falling	End=1490.87	_	_	_	_
+571-2	BO144	571	okay.	okay	linguistic	Intonation=Falling	End=1490.87	_	_	_	_
 572-0	BO104	572	va	va	linguistic	_	Begin=1491.2	_	_	_	_
 572-1	BO104	572	bene?	bene	linguistic	Intonation=Rising	End=1491.68	_	_	_	_
 573-0	BO144	573	va	va	linguistic	_	Begin=1491.67	_	_	_	_
-573-1	BO144	573	be[ne].	bene	linguistic	Intonation=falling	End=1492.002	_	_	_	2-4(?)
+573-1	BO144	573	be[ne].	bene	linguistic	Intonation=Falling	End=1492.002	_	_	_	2-4(?)
 574-0	BO104	574	[da]i,	dai	linguistic	Intonation=weakly_rising	Begin=1491.89	_	_	_	0-2(63)
 574-1	BO104	574	in	in	linguistic	_	_	_	_	_	_
 574-2	BO104	574	bocca	bocca	linguistic	_	_	_	_	_	_
 574-3	BO104	574	al	al	linguistic	_	_	_	_	_	_
 574-4	BO104	574	lupo,	lupo	linguistic	Intonation=weakly_rising	End=1492.773	_	_	_	_
 575-0	BO104	575	[mh],	mh	linguistic	Intonation=weakly_rising	Begin=1492.773|End=1493.064	_	_	_	0-2(64)
-576-0	BO144	576	[cre]pi.	crepi	linguistic	Intonation=falling	Begin=1492.773|End=1493.178	_	_	_	0-3(64)
-577-0	BO104	577	arrivederci.	arrivederci	linguistic	Intonation=falling	Begin=1493.175|End=1494.057	_	_	_	_
-578-0	BO144	578	arrivederci.	arrivederci	linguistic	Intonation=falling	Begin=1494.057|End=1494.84	_	_	_	_
+576-0	BO144	576	[cre]pi.	crepi	linguistic	Intonation=Falling	Begin=1492.773|End=1493.178	_	_	_	0-3(64)
+577-0	BO104	577	arrivederci.	arrivederci	linguistic	Intonation=Falling	Begin=1493.175|End=1494.057	_	_	_	_
+578-0	BO144	578	arrivederci.	arrivederci	linguistic	Intonation=Falling	Begin=1494.057|End=1494.84	_	_	_	_
 579-0	BO104	579	sì	sì	linguistic	_	Begin=1514.583	_	_	_	_
 579-1	BO104	579	avanti,	avanti	linguistic	Intonation=weakly_rising	End=1515.501	_	_	_	_
 580-0	BO104	580	salve,	salve	linguistic	Intonation=weakly_rising	Begin=1516.901	_	_	_	_
 580-1	BO104	580	ecco	ecco	linguistic	_	_	_	_	_	_
 580-2	BO104	580	abbiamo	abbiamo	linguistic	_	_	_	_	_	_
-580-3	BO104	580	finito.	finito	linguistic	Intonation=falling	End=1518.32	_	_	_	_
+580-3	BO104	580	finito.	finito	linguistic	Intonation=Falling	End=1518.32	_	_	_	_
 581-0	???	581	grazie	grazie	linguistic	_	Begin=1518.48	_	_	_	_
 581-1	???	581	mille	mille	linguistic	_	_	_	_	_	_
 581-2	???	581	per	per	linguistic	_	_	_	_	_	_

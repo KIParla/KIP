@@ -616,7 +616,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 128-2	TO092	128	comunque	comunque	linguistic	_	_	_	_	_	_
 128-3	TO092	128	è	è	linguistic	_	_	_	_	_	_
 128-4	TO092	128	piacevole	piacevole	linguistic	_	_	_	_	_	_
-128-5	TO092	128	andare.	andare	linguistic	Intonation=falling	End=229.076	_	_	_	_
+128-5	TO092	128	andare.	andare	linguistic	Intonation=Falling	End=229.076	_	_	_	_
 129-0	TO094	129	certo	certo	linguistic	_	Begin=229.078|End=229.569	_	_	_	_
 130-0	TO094	130	>cioè<	cioè	linguistic	_	Begin=229.896	_	Fast=0-4	_	_
 130-1	TO094	130	lì	lì	linguistic	_	_	_	_	_	_
@@ -3086,7 +3086,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 644-5	TO094	644	tua	tua	linguistic	_	_	_	_	_	_
 644-6	TO094	644	voce	voce	linguistic	_	End=1099.525	_	_	_	_
 645-0	TO085	645	grazie	grazie	linguistic	_	Begin=1099.525	_	_	_	_
-645-1	TO085	645	amore.	amore	linguistic	Intonation=falling	End=1100.64	_	_	_	_
+645-1	TO085	645	amore.	amore	linguistic	Intonation=Falling	End=1100.64	_	_	_	_
 646-0	TO094	646	e::hm	ehm	linguistic	_	Begin=1101.8|End=1102.819	0x2	_	_	_
 647-0	TO094	647	che	che	linguistic	_	Begin=1103.652	_	_	_	_
 647-1	TO094	647	la	la	linguistic	_	_	_	_	_	_
