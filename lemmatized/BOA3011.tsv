@@ -812,8 +812,8 @@ token_id	speaker	tu_id	span	form	lemma	upos	feats	type	meta_label
 128-0	BO097	128	e	e	e	CCONJ	_	linguistic	_
 128-1	BO097	128	poi	poi	poi	ADV	_	linguistic	_
 128-2	BO097	128	frustrarmi	frustrarmi	_	_	_	linguistic	_
-128-2a	BO097	128	_	frustrare	frustrare	VERB	VerbForm=Inf	syntactic
-128-2b	BO097	128	_	mi	me	PRON	_	syntactic
+128-2a	BO097	128	_	frustrare	frustrare	VERB	VerbForm=Inf	syntactic	_
+128-2b	BO097	128	_	mi	me	PRON	_	syntactic	_
 128-3	BO097	128	perché	perché	perché	SCONJ	_	linguistic	_
 128-4	BO097	128	non	non	non	ADV	PronType=Neg	linguistic	_
 128-5	BO097	128	ce	ce	ce	PRON	Clitic=Yes	linguistic	_
