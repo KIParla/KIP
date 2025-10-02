@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:18:34+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:19+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
@@ -631,7 +631,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
-				<ANNOTATION_VALUE>benissimo. quindi, di quest' anno</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>benissimo. quindi, di quest'anno</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -641,12 +641,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
-				<ANNOTATION_VALUE>iniziamo dall' impre:sa,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>iniziamo dall'impre:sa,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
-				<ANNOTATION_VALUE>mi sa dire qualcosa sull' institore,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mi sa dire qualcosa sull'institore,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -661,7 +661,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
-				<ANNOTATION_VALUE>[l' autorizzazione. cer~. lei è saltato subito], alla conclusione. diciamo, al, al noc[cio~, è u]no che va, (.) direttamen[te al cuore del problema].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[l'autorizzazione. cer~. lei è saltato subito], alla conclusione. diciamo, al, al noc[cio~, è u]no che va, (.) direttamen[te al cuore del problema].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -671,7 +671,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
-				<ANNOTATION_VALUE>ecco. come mai? lei mi diceva. c' è una ragione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ecco. come mai? lei mi diceva. c'è una ragione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -681,7 +681,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
-				<ANNOTATION_VALUE>[è un dipendente dell' impresa, (.) certo, certo, giusto],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[è un dipendente dell'impresa, (.) certo, certo, giusto],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -691,7 +691,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts79">
-				<ANNOTATION_VALUE>&gt;perché&lt; prima, lei stava dicendo una cosa giusta. se non=eh, se non ho capito male. cioè lei stava dicendo che. (.) l' institore è un rappresentante (.) dell' imprenditore. no,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;perché&lt; prima, lei stava dicendo una cosa giusta. se non=eh, se non ho capito male. cioè lei stava dicendo che. (.) l'institore è un rappresentante (.) dell'imprenditore. no,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -726,7 +726,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts119">
-				<ANNOTATION_VALUE>[&gt;i limiti vanno iscritti nel registro dell' impresa&lt;]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[&gt;i limiti vanno iscritti nel registro dell'impresa&lt;]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -746,7 +746,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts135">
-				<ANNOTATION_VALUE>in questo caso ci vuole la procura esple~ espressa per=e:h, dotare, (.) l' institore di rappresen[tan]za?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in questo caso ci vuole la procura esple~ espressa per=e:h, dotare, (.) l'institore di rappresen[tan]za?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -771,7 +771,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts157">
-				<ANNOTATION_VALUE>come lei stava dicendo, invece prima, se io devo limita:re, i poteri dell' institore, [allora sì] che devo iscrivere una procura, un=eh limite alla procu[ra, nel registro dell' impre]sa. e questo anche è giusto. oltre che all' intera impresa, l' institore può essere preposto ad a=un, anche ad un?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come lei stava dicendo, invece prima, se io devo limita:re, i poteri dell'institore, [allora sì] che devo iscrivere una procura, un=eh limite alla procu[ra, nel registro dell'impre]sa. e questo anche è giusto. oltre che all'intera impresa, l'institore può essere preposto ad a=un, anche ad un?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -781,32 +781,32 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts166" TIME_SLOT_REF2="ts167">
-				<ANNOTATION_VALUE>oltre che all' intera impre[sa], (.) può essere preposto, messo a capo, di un su~, [di un]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>oltre che all'intera impre[sa], (.) può essere preposto, messo a capo, di un su~, [di un]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts174" TIME_SLOT_REF2="ts175">
-				<ANNOTATION_VALUE>l' impresa non è necessariamente un' unica sede. no, (.) [] può avere più?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'impresa non è necessariamente un'unica sede. no, (.) [] può avere più?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a91" TIME_SLOT_REF1="ts180" TIME_SLOT_REF2="ts181">
-				<ANNOTATION_VALUE>di un ramo. [di un ramo] del=e::h, di un ramo d' impresa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di un ramo. [di un ramo] del=e::h, di un ramo d'impresa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts184" TIME_SLOT_REF2="ts185">
-				<ANNOTATION_VALUE>direi che abbiamo detto tutto, l' unica cosa che dovremmo aggiungere, se se la ricorda, è quello che alcuni si ricordano e alcuni no. cioè il problema, (.) dell' ammini~ del=ehm:, dell' institore che agisce, dimenticandosi di spendere il nome dell' impresa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>direi che abbiamo detto tutto, l'unica cosa che dovremmo aggiungere, se se la ricorda, è quello che alcuni si ricordano e alcuni no. cioè il problema, (.) dell'ammini~ del=ehm:, dell'institore che agisce, dimenticandosi di spendere il nome dell'impresa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts186" TIME_SLOT_REF2="ts187">
-				<ANNOTATION_VALUE>cioè lui va, fa(i) un acquisto, (.) [mette la sua fir]ma sotto il contratto, ma non mette il timbro dell' impresa. o non scrive o non dice, che sta acquistando (.) per conto dell' im[presa. e no~].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè lui va, fa(i) un acquisto, (.) [mette la sua fir]ma sotto il contratto, ma non mette il timbro dell'impresa. o non scrive o non dice, che sta acquistando (.) per conto dell'im[presa. e no~].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts194" TIME_SLOT_REF2="ts195">
-				<ANNOTATION_VALUE>[no. per conto, lui non l' ha precisato. quindi].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[no. per conto, lui non l'ha precisato. quindi].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -831,7 +831,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a105" TIME_SLOT_REF1="ts208" TIME_SLOT_REF2="ts209">
-				<ANNOTATION_VALUE>troppo oneroso. c' è un=m::h (.) c' è un un una regola, mh=m::h molto più (.) più semplice. mh=da verificarsi, che mette a~ (.) al sicuro il terzo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>troppo oneroso. c'è un=m::h (.) c'è un un una regola, mh=m::h molto più (.) più semplice. mh=da verificarsi, che mette a~ (.) al sicuro il terzo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -841,17 +841,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts212" TIME_SLOT_REF2="ts213">
-				<ANNOTATION_VALUE>rispetto alla persona, che (.) che assume un impegno che può essere anche particolarmente oneroso. immaginiamo che questo compri un quintale (.) m::h di barre, un quintale. mh. una tonnellata di barre m:h di lastre d' acciaio,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>rispetto alla persona, che (.) che assume un impegno che può essere anche particolarmente oneroso. immaginiamo che questo compri un quintale (.) m::h di barre, un quintale. mh. una tonnellata di barre m:h di lastre d'acciaio,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts216" TIME_SLOT_REF2="ts217">
-				<ANNOTATION_VALUE>questa regola mette il venditore, (.) diciamo (.) e:::h=m:::h eh in condizione di essere tranquillo, sul fatto che qualcuno le potrà pagare. perché magari una persona singola, lui mette la sua firma, è impegnato in proprio, come dice lei, ma magari non ha a casa=e:h sul suo conto in banca (.) i soldi per pagare una tonnellata di barre d' acciaio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questa regola mette il venditore, (.) diciamo (.) e:::h=m:::h eh in condizione di essere tranquillo, sul fatto che qualcuno le potrà pagare. perché magari una persona singola, lui mette la sua firma, è impegnato in proprio, come dice lei, ma magari non ha a casa=e:h sul suo conto in banca (.) i soldi per pagare una tonnellata di barre d'acciaio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a110" TIME_SLOT_REF1="ts218" TIME_SLOT_REF2="ts219">
-				<ANNOTATION_VALUE>la regola dice che. resta impegnato lui. ma anche l' impresa, qualora l' atto,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la regola dice che. resta impegnato lui. ma anche l'impresa, qualora l'atto,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -861,12 +861,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a115" TIME_SLOT_REF1="ts228" TIME_SLOT_REF2="ts229">
-				<ANNOTATION_VALUE>nell' oggetto dell' impre[sa].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell'oggetto dell'impre[sa].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a117" TIME_SLOT_REF1="ts232" TIME_SLOT_REF2="ts233">
-				<ANNOTATION_VALUE>quindi, l~=logicamente, delle barre d' acciaio possono solo essere relative a un' impresa, viceversa se si compra un chilo di:: di pane. o un etto di prosciutto, (.) è evidente che sarà impegnato lui solo, e non potrà essere coinvolta, (.) la sua azienda. comunque, va bene. °insomma.°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi, l~=logicamente, delle barre d'acciaio possono solo essere relative a un'impresa, viceversa se si compra un chilo di:: di pane. o un etto di prosciutto, (.) è evidente che sarà impegnato lui solo, e non potrà essere coinvolta, (.) la sua azienda. comunque, va bene. °insomma.°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -931,7 +931,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a139" TIME_SLOT_REF1="ts276" TIME_SLOT_REF2="ts277">
-				<ANNOTATION_VALUE>di solito, l' interesse, che è la [remunerazione, vie]ne corrisposta su base,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di solito, l'interesse, che è la [remunerazione, vie]ne corrisposta su base,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -941,22 +941,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a145" TIME_SLOT_REF1="ts288" TIME_SLOT_REF2="ts289">
-				<ANNOTATION_VALUE>[no. è un interesse. siamo d' accordo. ma il], il quando. il problema del quando viene corrisposto. normalmente non viene corrispo~, in alcuni casi sì.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[no. è un interesse. siamo d'accordo. ma il], il quando. il problema del quando viene corrisposto. normalmente non viene corrispo~, in alcuni casi sì.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a146" TIME_SLOT_REF1="ts290" TIME_SLOT_REF2="ts291">
-				<ANNOTATION_VALUE>in alcuni casi è previsto che l' interesse sia pagato alla fine del [prestito].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in alcuni casi è previsto che l'interesse sia pagato alla fine del [prestito].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a148" TIME_SLOT_REF1="ts294" TIME_SLOT_REF2="ts295">
-				<ANNOTATION_VALUE>[eh]. infatti. è più frequente che sia così. cioè che l' interesse te lo do semestralmente o annualmente, poi alla fine ti do (.) la restituzione del capitale. in cosa si differenzia l' interesse dall' utile.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[eh]. infatti. è più frequente che sia così. cioè che l'interesse te lo do semestralmente o annualmente, poi alla fine ti do (.) la restituzione del capitale. in cosa si differenzia l'interesse dall'utile.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts300" TIME_SLOT_REF2="ts301">
-				<ANNOTATION_VALUE>[no. in cosa si differenzia] l' interesse, dell' obbligazionista dall' utile dell' azionista.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[no. in cosa si differenzia] l'interesse, dell'obbligazionista dall'utile dell'azionista.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -966,7 +966,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a157" TIME_SLOT_REF1="ts312" TIME_SLOT_REF2="ts313">
-				<ANNOTATION_VALUE>non tutte le società, fanno necessariamente un aumento di capitale. qui la stiamo vedendo dal punto di vista dell' investitore.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non tutte le società, fanno necessariamente un aumento di capitale. qui la stiamo vedendo dal punto di vista dell'investitore.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -986,7 +986,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a167" TIME_SLOT_REF1="ts332" TIME_SLOT_REF2="ts333">
-				<ANNOTATION_VALUE>che l' interesse?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che l'interesse?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -996,17 +996,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a172" TIME_SLOT_REF1="ts342" TIME_SLOT_REF2="ts343">
-				<ANNOTATION_VALUE>[perché l' utile]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[perché l'utile]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a173" TIME_SLOT_REF1="ts344" TIME_SLOT_REF2="ts345">
-				<ANNOTATION_VALUE>[esattamen]te. (.) ma, (.) perché l' azione è remunerata a utile.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[esattamen]te. (.) ma, (.) perché l'azione è remunerata a utile.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a175" TIME_SLOT_REF1="ts348" TIME_SLOT_REF2="ts349">
-				<ANNOTATION_VALUE>e l' utile?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e l'utile?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1016,17 +1016,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a178" TIME_SLOT_REF1="ts354" TIME_SLOT_REF2="ts355">
-				<ANNOTATION_VALUE>[dall' andamento della so]cietà. esat[tamen]te.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[dall'andamento della so]cietà. esat[tamen]te.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a180" TIME_SLOT_REF1="ts358" TIME_SLOT_REF2="ts359">
-				<ANNOTATION_VALUE>quindi. [l' utile. in teoria, può essere], perché si dice rischioso. perché le cose possono andare meglio dell' interesse, e quindi salire e prendere di più. oppure es~ andare peggio, quindi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi. [l'utile. in teoria, può essere], perché si dice rischioso. perché le cose possono andare meglio dell'interesse, e quindi salire e prendere di più. oppure es~ andare peggio, quindi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a182" TIME_SLOT_REF1="ts362" TIME_SLOT_REF2="ts363">
-				<ANNOTATION_VALUE>è aleatorio. di[ciamo. è più] aleatorio. mentre l' interesse, salvo fallimento della società, perché poi bisogna &gt;sem[pre tener] conto&lt; anche di quello, (.) dà un rendimento certo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è aleatorio. di[ciamo. è più] aleatorio. mentre l'interesse, salvo fallimento della società, perché poi bisogna &gt;sem[pre tener] conto&lt; anche di quello, (.) dà un rendimento certo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1051,7 +1051,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a193" TIME_SLOT_REF1="ts384" TIME_SLOT_REF2="ts385">
-				<ANNOTATION_VALUE>[va]da per ordine. (.) l' assemblea degli obbligazionisti anzitutto si riunisce per decidere argomenti,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[va]da per ordine. (.) l'assemblea degli obbligazionisti anzitutto si riunisce per decidere argomenti,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1116,12 +1116,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a217" TIME_SLOT_REF1="ts432" TIME_SLOT_REF2="ts433">
-				<ANNOTATION_VALUE>[a]gli obbligazionisti. che sono (&gt;poi) insomma&lt; bene o male (.) in qualche modo (.) dei (.) forti cointeressati all' andamento della società.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[a]gli obbligazionisti. che sono (&gt;poi) insomma&lt; bene o male (.) in qualche modo (.) dei (.) forti cointeressati all'andamento della società.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a218" TIME_SLOT_REF1="ts434" TIME_SLOT_REF2="ts435">
-				<ANNOTATION_VALUE>lei mi ha detto che le obbligazioni non possono essere emesse per più del doppio del capitale. [questa è la] regola che vale per le società, diciamo normali. non le voglio dire di più. (.) c' è un tipo (.) di società, che può emetterne, (.) in misura più ampia.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lei mi ha detto che le obbligazioni non possono essere emesse per più del doppio del capitale. [questa è la] regola che vale per le società, diciamo normali. non le voglio dire di più. (.) c'è un tipo (.) di società, che può emetterne, (.) in misura più ampia.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1216,7 +1216,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a256" TIME_SLOT_REF1="ts510" TIME_SLOT_REF2="ts511">
-				<ANNOTATION_VALUE>[sì]. le obbligazioni subordinate sono pagate per ultime. lei si domanda com' è possibile che vengano vendute. [e ab]biamo avuto la risposta dalla cronaca che ci ha fatto vedere che vengono vendute proprio a chi non sa, (.) o non comprende esattamente:: il problema della subordinazione, e quindi pensa che siano delle obbligazioni come tutte le altre, e poi invece scopre che</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì]. le obbligazioni subordinate sono pagate per ultime. lei si domanda com'è possibile che vengano vendute. [e ab]biamo avuto la risposta dalla cronaca che ci ha fatto vedere che vengono vendute proprio a chi non sa, (.) o non comprende esattamente:: il problema della subordinazione, e quindi pensa che siano delle obbligazioni come tutte le altre, e poi invece scopre che</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1226,7 +1226,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a261" TIME_SLOT_REF1="ts520" TIME_SLOT_REF2="ts521">
-				<ANNOTATION_VALUE>sono gli ultimi. infatti. e:=infatti qualcuno dice che sono, (.) quelli che vengono subito prima dei soci. perché i soci son quelli che prendono qualcosa, se residua. se c' è un residuo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sono gli ultimi. infatti. e:=infatti qualcuno dice che sono, (.) quelli che vengono subito prima dei soci. perché i soci son quelli che prendono qualcosa, se residua. se c'è un residuo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1271,7 +1271,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a280" TIME_SLOT_REF1="ts558" TIME_SLOT_REF2="ts559">
-				<ANNOTATION_VALUE>[certo. è evidente che lì tutto sta] nell' onestà (.) eh=de~ de~ del=e::h del=e:h di quello che le vende, (.) [il quale non de]ve dire solo che danno un interesse alto, ma an~=che che alla fine non c' è restituzione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[certo. è evidente che lì tutto sta] nell'onestà (.) eh=de~ de~ del=e::h del=e:h di quello che le vende, (.) [il quale non de]ve dire solo che danno un interesse alto, ma an~=che che alla fine non c'è restituzione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1296,7 +1296,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a292" TIME_SLOT_REF1="ts582" TIME_SLOT_REF2="ts583">
-				<ANNOTATION_VALUE>[il] conflitto d' interesse, c' è quando (.) l' organismo che vende, (.) non è terzo rispetto alla socie[tà: (.) le, i c~ dei cui titoli si tratta. e:] questo è un problema: che nei mercati è molto sentito. [che vie]ne risolto ovviamente con maggiore o minore severità a seconda del mercato: [di cui si] tratta.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[il] conflitto d'interesse, c'è quando (.) l'organismo che vende, (.) non è terzo rispetto alla socie[tà: (.) le, i c~ dei cui titoli si tratta. e:] questo è un problema: che nei mercati è molto sentito. [che vie]ne risolto ovviamente con maggiore o minore severità a seconda del mercato: [di cui si] tratta.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1311,12 +1311,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a298" TIME_SLOT_REF1="ts594" TIME_SLOT_REF2="ts595">
-				<ANNOTATION_VALUE>diciamo che semmai, e:h e:h è il problema della sua esposizione, che risulta un po', (.) e:::h=m::h n=e:::h non direi confusa. perché la confusione è un' altra cosa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>diciamo che semmai, e:h e:h è il problema della sua esposizione, che risulta un po', (.) e:::h=m::h n=e:::h non direi confusa. perché la confusione è un'altra cosa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a299" TIME_SLOT_REF1="ts596" TIME_SLOT_REF2="ts597">
-				<ANNOTATION_VALUE>è::=mh è è è=e::h m::h è un' esposizione singolare. cioè un modo m::h un modo di procedere un po' affannoso, ecco. un po' affannoso, in cui lei se fosse più tranquillo e mettesse i suoi dati nell' ordine, giusto cronologico, farebbe un figurone.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è::=mh è è è=e::h m::h è un'esposizione singolare. cioè un modo m::h un modo di procedere un po' affannoso, ecco. un po' affannoso, in cui lei se fosse più tranquillo e mettesse i suoi dati nell'ordine, giusto cronologico, farebbe un figurone.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1331,19 +1331,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a304" TIME_SLOT_REF1="ts606" TIME_SLOT_REF2="ts607">
-				<ANNOTATION_VALUE>e::h e quindi, allora tende un po' a:. però, m::h alla fine le sue risposte sono state::: (.) corrette, eh=m:h dell' institore non ha saputo solo quel dettaglio, delle obbligazioni alla fine abbiamo detto praticamente tutto,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h e quindi, allora tende un po' a:. però, m::h alla fine le sue risposte sono state::: (.) corrette, eh=m:h dell'institore non ha saputo solo quel dettaglio, delle obbligazioni alla fine abbiamo detto praticamente tutto,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a305" TIME_SLOT_REF1="ts608" TIME_SLOT_REF2="ts609">
 				<ANNOTATION_VALUE>mah. io penso di poterle dare, non tenendo conto diciamo di questo vizio,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		</TIER>
-	<TIER TIER_ID="???" LINGUISTIC_TYPE_REF="default-lt">
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a237" TIME_SLOT_REF1="ts472" TIME_SLOT_REF2="ts473">
-				<ANNOTATION_VALUE>[°(posso)?°]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>
@@ -1370,7 +1363,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts25">
-				<ANNOTATION_VALUE>allora. (.) l' insti~, l' in=stin=tore, (.) è colui che=è (.) preposto dal=e:h=mh (.) dall' imprenditore,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora. (.) l'insti~, l'in=stin=tore, (.) è colui che=è (.) preposto dal=e:h=mh (.) dall'imprenditore,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1380,12 +1373,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
-				<ANNOTATION_VALUE>dell' impresa,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dell'impresa,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
-				<ANNOTATION_VALUE>più specificatamente, &lt;l' instintore&gt;,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>più specificatamente, &lt;l'instintore&gt;,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1400,12 +1393,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
-				<ANNOTATION_VALUE>secondo il codice civile, l' instintore, l' unica cosa che &lt;non&gt; può fare, è=mh la vendita, degli immobili, del=ehm::, &lt;dell' imprenditore&gt;. la vendita, (.) e l' acquisto degli immobili dell' imprenditore.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>secondo il codice civile, l'instintore, l'unica cosa che &lt;non&gt; può fare, è=mh la vendita, degli immobili, del=ehm::, &lt;dell'imprenditore&gt;. la vendita, (.) e l'acquisto degli immobili dell'imprenditore.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
-				<ANNOTATION_VALUE>[sen]za avere, l' autorizzazio[ne esplicita da parte dell' imprenditore]..</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sen]za avere, l'autorizzazio[ne esplicita da parte dell'imprenditore.]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1445,12 +1438,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
-				<ANNOTATION_VALUE>non è un organo=m:h, (.) [non è un mandatario dell' impresa, dell' impren]ditore,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non è un organo=m:h, (.) [non è un mandatario dell'impresa, dell'impren]ditore,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts71">
-				<ANNOTATION_VALUE>nella sua nomina, &gt;cioè lui&lt;, l=eh, &gt;l' instintore&lt; deve essere assunto. dall' imprenditore, con il nome di instintore.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nella sua nomina, &gt;cioè lui&lt;, l=eh, &gt;l'instintore&lt; deve essere assunto. dall'imprenditore, con il nome di instintore.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1495,7 +1488,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
-				<ANNOTATION_VALUE>quindi non è un mandatario, o un=e:h [procuratore del=e:h dell' imprenditore],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi non è un mandatario, o un=e:h [procuratore del=e:h dell'imprenditore],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1520,7 +1513,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts110" TIME_SLOT_REF2="ts111">
-				<ANNOTATION_VALUE>dal=eh dall' imprenditore nel registro dell' im[presa] per portare poi a conoscenza di [terzi],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dal=eh dall'imprenditore nel registro dell'im[presa] per portare poi a conoscenza di [terzi],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1570,7 +1563,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts149">
-				<ANNOTATION_VALUE>infatti, se non ho capito male, dal=eh, dal testo del codice, l' instintore, l' is~ &gt;ce la posso fare&lt;. &gt;l' istitore&lt;, (.) è assunto, (.) con quella figura. (.) [in quel]la posizione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>infatti, se non ho capito male, dal=eh, dal testo del codice, l'instintore, l'is~ &gt;ce la posso fare&lt;. &gt;l'istitore&lt;, (.) è assunto, (.) con quella figura. (.) [in quel]la posizione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1585,7 +1578,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts161">
-				<ANNOTATION_VALUE>[nel registro dell' impresa].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[nel registro dell'impresa].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1630,12 +1623,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts190" TIME_SLOT_REF2="ts191">
-				<ANNOTATION_VALUE>[è responsabile] lui delle obbligazioni:: assunte, (.) per conto (.) dell' impresa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[è responsabile] lui delle obbligazioni:: assunte, (.) per conto (.) dell'impresa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts192" TIME_SLOT_REF2="ts193">
-				<ANNOTATION_VALUE>[però non nomi~, no. esatto. però], non nominando l' impresa, quindi la=mh, non essendo l' impresa nominata, in quest' ipotetica::, (.) [] in questo ipotetico contratto, ne risponde lui.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[però non nomi~, no. esatto. però], non nominando l'impresa, quindi la=mh, non essendo l'impresa nominata, in quest'ipotetica::, (.) [] in questo ipotetico contratto, ne risponde lui.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1705,7 +1698,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a133" TIME_SLOT_REF1="ts264" TIME_SLOT_REF2="ts265">
-				<ANNOTATION_VALUE>rap[resentano un de]bito. allo scadere, il=e::h (.) l' obbligazionista riceve dalla:: dalla società, la sua remunerazione chee::h.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>rap[resentano un de]bito. allo scadere, il=e::h (.) l'obbligazionista riceve dalla:: dalla società, la sua remunerazione chee::h.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1715,7 +1708,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a138" TIME_SLOT_REF1="ts274" TIME_SLOT_REF2="ts275">
-				<ANNOTATION_VALUE>con=e::h l' eventuale interesse. se c' è.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>con=e::h l'eventuale interesse. se c'è.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1745,17 +1738,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a149" TIME_SLOT_REF1="ts296" TIME_SLOT_REF2="ts297">
-				<ANNOTATION_VALUE>l' interesse dall' utile, per l' obbligazionista?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'interesse dall'utile, per l'obbligazionista?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a150" TIME_SLOT_REF1="ts298" TIME_SLOT_REF2="ts299">
-				<ANNOTATION_VALUE>colui che sottoscri[ve l' obbligazione]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>colui che sottoscri[ve l'obbligazione]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a152" TIME_SLOT_REF1="ts302" TIME_SLOT_REF2="ts303">
-				<ANNOTATION_VALUE>°l' interesse dell' obbligazionista, dall' utile dell' azionista.°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>°l'interesse dell'obbligazionista, dall'utile dell'azionista.°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1765,7 +1758,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a155" TIME_SLOT_REF1="ts308" TIME_SLOT_REF2="ts309">
-				<ANNOTATION_VALUE>beh. l' a::=zione, dovrebbe:: comportare poi un aumento di capitale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>beh. l'a::=zione, dovrebbe:: comportare poi un aumento di capitale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1805,17 +1798,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a168" TIME_SLOT_REF1="ts334" TIME_SLOT_REF2="ts335">
-				<ANNOTATION_VALUE>l' interesse è certo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'interesse è certo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a170" TIME_SLOT_REF1="ts338" TIME_SLOT_REF2="ts339">
-				<ANNOTATION_VALUE>[l' a]zione=è più rischiosa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[l'a]zione=è più rischiosa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a171" TIME_SLOT_REF1="ts340" TIME_SLOT_REF2="ts341">
-				<ANNOTATION_VALUE>[quindi: è sogget]ta all' andamento:, del=e::h dei mercati. [quindi della borsa].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[quindi: è sogget]ta all'andamento:, del=e::h dei mercati. [quindi della borsa].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1825,7 +1818,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a176" TIME_SLOT_REF1="ts350" TIME_SLOT_REF2="ts351">
-				<ANNOTATION_VALUE>eh dipende::, [se l' az~ s:~] dal dal=eh dall' andamento dell' azien[da. de]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh dipende::, [se l'az~ s:~] dal dal=eh dall'andamento dell'azien[da. de]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1850,12 +1843,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a186" TIME_SLOT_REF1="ts370" TIME_SLOT_REF2="ts371">
-				<ANNOTATION_VALUE>[sì, (.) si=m:::h come anche la la=ehm:] come per l' assemblea degli azionisti, anche gli obbligazioni~ gli obbligazionisti possono,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì, (.) si=m:::h come anche la la=ehm:] come per l'assemblea degli azionisti, anche gli obbligazioni~ gli obbligazionisti possono,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a187" TIME_SLOT_REF1="ts372" TIME_SLOT_REF2="ts373">
-				<ANNOTATION_VALUE>e::h [riunir~, han]no. anche loro una=m::h un' organizzazione. quindi l' assemblea degli obbligazionisti, il cui referente (.) si reca nel=e::h in as[se~]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h [riunir~, han]no. anche loro una=m::h un'organizzazione. quindi l'assemblea degli obbligazionisti, il cui referente (.) si reca nel=e::h in as[se~]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1985,7 +1978,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a247" TIME_SLOT_REF1="ts492" TIME_SLOT_REF2="ts493">
-				<ANNOTATION_VALUE>[per il lo~, per la loro] facilità nell' essere vendute, e:: la poca conoscenza da parte di:: di chi le acquista. (.) nel gettarsi in un campo così.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[per il lo~, per la loro] facilità nell'essere vendute, e:: la poca conoscenza da parte di:: di chi le acquista. (.) nel gettarsi in un campo così.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2095,17 +2088,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a285" TIME_SLOT_REF1="ts568" TIME_SLOT_REF2="ts569">
-				<ANNOTATION_VALUE>almeno. io le faccio un esempio. (.) l' intesa sanpao[lo].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>almeno. io le faccio un esempio. (.) l'intesa sanpao[lo].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a287" TIME_SLOT_REF1="ts572" TIME_SLOT_REF2="ts573">
-				<ANNOTATION_VALUE>no. [per fortuna no. (.) no. no=no]. l' intesa sanpaolo ha una sua società di::=mh (.) di investimenti. (.) intesa, viva mi pare che si chiami.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no. [per fortuna no. (.) no. no=no]. l'intesa sanpaolo ha una sua società di::=mh (.) di investimenti. (.) intesa, viva mi pare che si chiami.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a289" TIME_SLOT_REF1="ts576" TIME_SLOT_REF2="ts577">
-				<ANNOTATION_VALUE>quindi. se &gt;intesa&lt; sanpaolo vende (.) delle obbligazioni di intesa viva che poi viene vengono acquistati da:=mh (.) da altri pac~ &gt;vabbè&lt; comunque sia a mio avviso c' è un interesse di un un=mh un interesse di conflitti pazzesco.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi. se &gt;intesa&lt; sanpaolo vende (.) delle obbligazioni di intesa viva che poi viene vengono acquistati da:=mh (.) da altri pac~ &gt;vabbè&lt; comunque sia a mio avviso c'è un interesse di un un=mh un interesse di conflitti pazzesco.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2136,6 +2129,13 @@
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a303" TIME_SLOT_REF1="ts604" TIME_SLOT_REF2="ts605">
 				<ANNOTATION_VALUE>[sì] esatto.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
+	<TIER TIER_ID="???" LINGUISTIC_TYPE_REF="default-lt">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a237" TIME_SLOT_REF1="ts472" TIME_SLOT_REF2="ts473">
+				<ANNOTATION_VALUE>[°(posso)?°]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>

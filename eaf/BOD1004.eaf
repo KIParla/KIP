@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:18:35+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:17+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
@@ -1188,7 +1188,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
-				<ANNOTATION_VALUE>e::hm però vedete l' elenco delle patologie a carico del sistema nervoso centrale è molto ampio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::hm però vedete l'elenco delle patologie a carico del sistema nervoso centrale è molto ampio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1213,7 +1213,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts33">
-				<ANNOTATION_VALUE>mentre nell' adulto sono essenzialmente tumori di origine gliale o delle cellule tendinali quindi parliamo di atrocitoma aliomi di microgliomi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mentre nell'adulto sono essenzialmente tumori di origine gliale o delle cellule tendinali quindi parliamo di atrocitoma aliomi di microgliomi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1248,7 +1248,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts47">
-				<ANNOTATION_VALUE>mentre queste altre patologie la sindrome dell' icsfasi dell'xx la neurofibromatosi la sclerosi tuberosa che soo di origine essenzialmente genetica poi l' eziologia genetica può essere diversificata,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mentre queste altre patologie la sindrome dell'icsfasi dell'xx la neurofibromatosi la sclerosi tuberosa che soo di origine essenzialmente genetica poi l'eziologia genetica può essere diversificata,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1278,7 +1278,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
-				<ANNOTATION_VALUE>e::h le lesioni cerebrali traumatiche l' ictus ischemico,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h le lesioni cerebrali traumatiche l'ictus ischemico,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1288,7 +1288,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
-				<ANNOTATION_VALUE>e::h diciamo dei sistemi che si utilizzavano per identificare il ruolo delle diverse aree cerebrali nell' uomo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h diciamo dei sistemi che si utilizzavano per identificare il ruolo delle diverse aree cerebrali nell'uomo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1303,7 +1303,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
-				<ANNOTATION_VALUE>del dell' area cerebrale coinvolta.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>del dell'area cerebrale coinvolta.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1338,7 +1338,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts83">
-				<ANNOTATION_VALUE>i:l secondo aspetto è perché nel loro insieme hanno un' incidenza molto elevata,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>i:l secondo aspetto è perché nel loro insieme hanno un'incidenza molto elevata,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1368,7 +1368,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
-				<ANNOTATION_VALUE>e::hm c' è inoltre anche da ire da ricordarvi più che altro il fatto che mm</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::hm c'è inoltre anche da ire da ricordarvi più che altro il fatto che mm</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1393,7 +1393,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts105">
-				<ANNOTATION_VALUE>l' alterazione in realtà ci ha fornito anche delle indicazioni,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'alterazione in realtà ci ha fornito anche delle indicazioni,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1413,7 +1413,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts113">
-				<ANNOTATION_VALUE>e::hm però e:m ci sono anche altre patologie che possono dare demenza come l' alzheimer come le demenze frontotemporali,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::hm però e:m ci sono anche altre patologie che possono dare demenza come l'alzheimer come le demenze frontotemporali,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1428,7 +1428,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts119">
-				<ANNOTATION_VALUE>un' altra patologia è la corea di huntington e la le malattie</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un'altra patologia è la corea di huntington e la le malattie</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1473,7 +1473,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts137">
-				<ANNOTATION_VALUE>perché nell' alzheimer voi sapete tutti che c' è un deficit a carico della memoria inizialmente della consolidamento delle memorie e poi ovviamente anche nel consolidamento dei nervi chiave di queste memorie,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché nell'alzheimer voi sapete tutti che c'è un deficit a carico della memoria inizialmente della consolidamento delle memorie e poi ovviamente anche nel consolidamento dei nervi chiave di queste memorie,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1613,7 +1613,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts192" TIME_SLOT_REF2="ts193">
-				<ANNOTATION_VALUE>è invece un punto accertato tant' è che come vi ho già detto,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è invece un punto accertato tant'è che come vi ho già detto,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1673,12 +1673,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts216" TIME_SLOT_REF2="ts217">
-				<ANNOTATION_VALUE>: quindi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a110" TIME_SLOT_REF1="ts218" TIME_SLOT_REF2="ts219">
-				<ANNOTATION_VALUE>nell' idea di provare non solo a diciamo tamponare i sintomi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell'idea di provare non solo a diciamo tamponare i sintomi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1693,7 +1693,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a113" TIME_SLOT_REF1="ts224" TIME_SLOT_REF2="ts225">
-				<ANNOTATION_VALUE>sembra essere appunto più promettente l' idea di valutare questi meccanismi comuni.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sembra essere appunto più promettente l'idea di valutare questi meccanismi comuni.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1718,17 +1718,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a118" TIME_SLOT_REF1="ts234" TIME_SLOT_REF2="ts235">
-				<ANNOTATION_VALUE>facciamo un' altra premessa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>facciamo un'altra premessa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a119" TIME_SLOT_REF1="ts236" TIME_SLOT_REF2="ts237">
-				<ANNOTATION_VALUE>m:h la prima cosa che si considera di una aptologia anche di una neuropatologia è considerare l' eziologia cioè che cosa ha causato quella patologia.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>m:h la prima cosa che si considera di una aptologia anche di una neuropatologia è considerare l'eziologia cioè che cosa ha causato quella patologia.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a120" TIME_SLOT_REF1="ts238" TIME_SLOT_REF2="ts239">
-				<ANNOTATION_VALUE>e e::h ci possono ci può essere un' eziologia genetica quando ci sono mutazioni geni che causano la patologia,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e e::h ci possono ci può essere un'eziologia genetica quando ci sono mutazioni geni che causano la patologia,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1743,7 +1743,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a123" TIME_SLOT_REF1="ts244" TIME_SLOT_REF2="ts245">
-				<ANNOTATION_VALUE>tra l' altro dobbiamo anche considerare che in questa patologia genetica nel caso delle patologie neurodegenerative croniche ci può esser eproprio un' eredità mendelliana quindi mutazioni su singoli geni che causano</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tra l'altro dobbiamo anche considerare che in questa patologia genetica nel caso delle patologie neurodegenerative croniche ci può esser eproprio un'eredità mendelliana quindi mutazioni su singoli geni che causano</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1753,7 +1753,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a125" TIME_SLOT_REF1="ts248" TIME_SLOT_REF2="ts249">
-				<ANNOTATION_VALUE>ma e::hm sempre di più si sta anche ragionando su dei background genetico con un' influenza di più geni</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma e::hm sempre di più si sta anche ragionando su dei background genetico con un'influenza di più geni</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1768,7 +1768,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a128" TIME_SLOT_REF1="ts254" TIME_SLOT_REF2="ts255">
-				<ANNOTATION_VALUE>che è un concetto diverso rispetto all' ereditarietà genetica,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che è un concetto diverso rispetto all'ereditarietà genetica,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1778,7 +1778,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a130" TIME_SLOT_REF1="ts258" TIME_SLOT_REF2="ts259">
-				<ANNOTATION_VALUE>che fa sì che l' eziologia sporadica abbia un' incidenza maggiore.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che fa sì che l'eziologia sporadica abbia un'incidenza maggiore.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1818,12 +1818,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a138" TIME_SLOT_REF1="ts274" TIME_SLOT_REF2="ts275">
-				<ANNOTATION_VALUE>e la maggior parte dei casi hanno invece un' eziologia sporadica.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e la maggior parte dei casi hanno invece un'eziologia sporadica.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a139" TIME_SLOT_REF1="ts276" TIME_SLOT_REF2="ts277">
-				<ANNOTATION_VALUE>l' altro aspetto comune a tutte le neuropatologie tranne la sclerosi multipla ed è per questa che la teniamo sempre un po' a parte,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'altro aspetto comune a tutte le neuropatologie tranne la sclerosi multipla ed è per questa che la teniamo sempre un po' a parte,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1868,12 +1868,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a148" TIME_SLOT_REF1="ts294" TIME_SLOT_REF2="ts295">
-				<ANNOTATION_VALUE>perché c' è proprio un' aterazione a carico del emtabolismo delle proteine.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché c'è proprio un'aterazione a carico del emtabolismo delle proteine.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a149" TIME_SLOT_REF1="ts296" TIME_SLOT_REF2="ts297">
-				<ANNOTATION_VALUE>in particolar modo c' è un' alterazione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in particolar modo c'è un'alterazione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1888,22 +1888,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a152" TIME_SLOT_REF1="ts302" TIME_SLOT_REF2="ts303">
-				<ANNOTATION_VALUE>ehper cui m:h diciamo c' è un legame molto stretto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ehper cui m:h diciamo c'è un legame molto stretto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a153" TIME_SLOT_REF1="ts304" TIME_SLOT_REF2="ts305">
-				<ANNOTATION_VALUE>tra l' accumulo di questi aggregati</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tra l'accumulo di questi aggregati</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a154" TIME_SLOT_REF1="ts306" TIME_SLOT_REF2="ts307">
-				<ANNOTATION_VALUE>e l' alterzione dei sistemi di degradazione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e l'alterzione dei sistemi di degradazione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a155" TIME_SLOT_REF1="ts308" TIME_SLOT_REF2="ts309">
-				<ANNOTATION_VALUE>poi come sempre se dobbiamo stabilire qual è l' uovo qual è la gallina,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi come sempre se dobbiamo stabilire qual è l'uovo qual è la gallina,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1918,7 +1918,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a158" TIME_SLOT_REF1="ts314" TIME_SLOT_REF2="ts315">
-				<ANNOTATION_VALUE>l' aggregato</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'aggregato</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1933,22 +1933,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a161" TIME_SLOT_REF1="ts320" TIME_SLOT_REF2="ts321">
-				<ANNOTATION_VALUE>e::h l' alterazione del pathway di degradazione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h l'alterazione del pathway di degradazione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a162" TIME_SLOT_REF1="ts322" TIME_SLOT_REF2="ts323">
-				<ANNOTATION_VALUE>oppure s el' aggregato si forma perché il pathway di degradazione non funziona.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>oppure s el'aggregato si forma perché il pathway di degradazione non funziona.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a163" TIME_SLOT_REF1="ts324" TIME_SLOT_REF2="ts325">
-				<ANNOTATION_VALUE>tra l' altro non possiamo escludere che i processi vadano in parallelo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tra l'altro non possiamo escludere che i processi vadano in parallelo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a164" TIME_SLOT_REF1="ts326" TIME_SLOT_REF2="ts327">
-				<ANNOTATION_VALUE>e s' influenzino a vicenda.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e s'(influenzino a vicenda.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1958,7 +1958,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a166" TIME_SLOT_REF1="ts330" TIME_SLOT_REF2="ts331">
-				<ANNOTATION_VALUE>l' altro aspetto importante riguardo agli aggregati è che per molto tempo l' aggregato veniva considerato</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'altro aspetto importante riguardo agli aggregati è che per molto tempo l'aggregato veniva considerato</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1983,7 +1983,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a171" TIME_SLOT_REF1="ts340" TIME_SLOT_REF2="ts341">
-				<ANNOTATION_VALUE>cioè dei f~ delle molecole che cerchino di bloccare l' aggregazione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè dei f~ delle molecole che cerchino di bloccare l'aggregazione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2023,7 +2023,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a179" TIME_SLOT_REF1="ts356" TIME_SLOT_REF2="ts357">
-				<ANNOTATION_VALUE>ehm la forma tossica non è l' aggregato</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ehm la forma tossica non è l'aggregato</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2033,7 +2033,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a181" TIME_SLOT_REF1="ts360" TIME_SLOT_REF2="ts361">
-				<ANNOTATION_VALUE>e anzi molti ricercatori pensano che creare l' aggregato sia un sistema</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e anzi molti ricercatori pensano che creare l'aggregato sia un sistema</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2043,17 +2043,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a183" TIME_SLOT_REF1="ts364" TIME_SLOT_REF2="ts365">
-				<ANNOTATION_VALUE>perché dentro l' aggregato alla fine sono molto meno pericolose.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché dentro l'aggregato alla fine sono molto meno pericolose.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a184" TIME_SLOT_REF1="ts366" TIME_SLOT_REF2="ts367">
-				<ANNOTATION_VALUE>tra l' altro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tra l'altro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a185" TIME_SLOT_REF1="ts368" TIME_SLOT_REF2="ts369">
-				<ANNOTATION_VALUE>l' aggregato stimola la microglia quando è funzionante alla fagocitosi mentre la fibrilla libera no</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'aggregato stimola la microglia quando è funzionante alla fagocitosi mentre la fibrilla libera no</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2083,7 +2083,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a191" TIME_SLOT_REF1="ts380" TIME_SLOT_REF2="ts381">
-				<ANNOTATION_VALUE>l' altro aspetto che sottolinea questo possibile ruolo di diciamo protezione dell' aggregato rispetto alle fibrille,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'altro aspetto che sottolinea questo possibile ruolo di diciamo protezione dell'aggregato rispetto alle fibrille,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2108,7 +2108,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a196" TIME_SLOT_REF1="ts390" TIME_SLOT_REF2="ts391">
-				<ANNOTATION_VALUE>evidentemente l' aggregato può non essere</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>evidentemente l'aggregato può non essere</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2208,7 +2208,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a216" TIME_SLOT_REF1="ts430" TIME_SLOT_REF2="ts431">
-				<ANNOTATION_VALUE>l' eziogenesi sia diversa vengono incluse in un termine che è quello di anglonliopatie.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'eziogenesi sia diversa vengono incluse in un termine che è quello di anglonliopatie.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2248,7 +2248,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a224" TIME_SLOT_REF1="ts446" TIME_SLOT_REF2="ts447">
-				<ANNOTATION_VALUE>mentre ovviamente nelle malattie da coliglutammina come l' huntington abbiamo degli aggregati di poliglutammina però queste sono un po' mh particolari,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mentre ovviamente nelle malattie da coliglutammina come l'huntington abbiamo degli aggregati di poliglutammina però queste sono un po' mh particolari,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2283,7 +2283,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a231" TIME_SLOT_REF1="ts460" TIME_SLOT_REF2="ts461">
-				<ANNOTATION_VALUE>e i confini &gt;come vedete&lt; tra una patologia e l' altra diventano sempre più sfumati.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e i confini &gt;come vedete&lt; tra una patologia e l'altra diventano sempre più sfumati.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2303,12 +2303,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a235" TIME_SLOT_REF1="ts468" TIME_SLOT_REF2="ts469">
-				<ANNOTATION_VALUE>che sembra supportare l' idea di meccanismi comuni alle diverse forme neuropatologiche.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che sembra supportare l'idea di meccanismi comuni alle diverse forme neuropatologiche.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a236" TIME_SLOT_REF1="ts470" TIME_SLOT_REF2="ts471">
-				<ANNOTATION_VALUE>l' altro m:h diciamo non ho la slide per questo ma l' altro aspetto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'altro m:h diciamo non ho la slide per questo ma l'altro aspetto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2333,7 +2333,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a241" TIME_SLOT_REF1="ts480" TIME_SLOT_REF2="ts481">
-				<ANNOTATION_VALUE>l' ipotesi è che diversi tipi neuronali siano suscettibili siano maggiormente suscettibili a un certo tipo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'ipotesi è che diversi tipi neuronali siano suscettibili siano maggiormente suscettibili a un certo tipo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2343,12 +2343,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a243" TIME_SLOT_REF1="ts484" TIME_SLOT_REF2="ts485">
-				<ANNOTATION_VALUE>e::h però poi con l' avanzare della patologia ad un certo punto iniziano a degenerare a:nche altri tipi neuronali nelle diverse patologie,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h però poi con l'avanzare della patologia ad un certo punto iniziano a degenerare a:nche altri tipi neuronali nelle diverse patologie,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a244" TIME_SLOT_REF1="ts486" TIME_SLOT_REF2="ts487">
-				<ANNOTATION_VALUE>e i confini tra una e l' altra e dal punto di vista della neurodegenerazione, e dal punto di vista dei meccanismi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e i confini tra una e l'altra e dal punto di vista della neurodegenerazione, e dal punto di vista dei meccanismi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2433,7 +2433,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a261" TIME_SLOT_REF1="ts520" TIME_SLOT_REF2="ts521">
-				<ANNOTATION_VALUE>dall' altra,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dall'altra,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2478,7 +2478,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a270" TIME_SLOT_REF1="ts538" TIME_SLOT_REF2="ts539">
-				<ANNOTATION_VALUE>e::h intasano quindi l' attività del proteasoma,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h intasano quindi l'attività del proteasoma,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2513,7 +2513,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a277" TIME_SLOT_REF1="ts552" TIME_SLOT_REF2="ts553">
-				<ANNOTATION_VALUE>bloccano il processo dell' autofagia,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>bloccano il processo dell'autofagia,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2563,7 +2563,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a287" TIME_SLOT_REF1="ts572" TIME_SLOT_REF2="ts573">
-				<ANNOTATION_VALUE>e c' è un numero elevato e crescente di neuroni espo~ esposti a questa situazione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e c'è un numero elevato e crescente di neuroni espo~ esposti a questa situazione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2583,7 +2583,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a291" TIME_SLOT_REF1="ts580" TIME_SLOT_REF2="ts581">
-				<ANNOTATION_VALUE>a parte quelle che hanno la causa genetica perché li se c' è una familiarità si sa prima che arriverà la malattia,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a parte quelle che hanno la causa genetica perché li se c'è una familiarità si sa prima che arriverà la malattia,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2663,7 +2663,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a307" TIME_SLOT_REF1="ts612" TIME_SLOT_REF2="ts613">
-				<ANNOTATION_VALUE>ma ovviamente in una patologia come l' alzheimer in cui c' è una devastazione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma ovviamente in una patologia come l'alzheimer in cui c'è una devastazione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2703,12 +2703,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a315" TIME_SLOT_REF1="ts628" TIME_SLOT_REF2="ts629">
-				<ANNOTATION_VALUE>meglio ancora se fuori perché così arriva la microglia e facogita e l' abbiamo nominato,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>meglio ancora se fuori perché così arriva la microglia e facogita e l'abbiamo nominato,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a316" TIME_SLOT_REF1="ts630" TIME_SLOT_REF2="ts631">
-				<ANNOTATION_VALUE>e non c' è fondamentalmente il danno cellulare che è legato a: alla presenza di queste proteine malfoldate.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e non c'è fondamentalmente il danno cellulare che è legato a: alla presenza di queste proteine malfoldate.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2723,7 +2723,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a319" TIME_SLOT_REF1="ts636" TIME_SLOT_REF2="ts637">
-				<ANNOTATION_VALUE>in proteine che normalmente non ce l' hanno</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in proteine che normalmente non ce l'hanno</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2743,7 +2743,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a323" TIME_SLOT_REF1="ts644" TIME_SLOT_REF2="ts645">
-				<ANNOTATION_VALUE>cioè attaccarsi una all' altra.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè attaccarsi una all'altra.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2798,7 +2798,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a334" TIME_SLOT_REF1="ts666" TIME_SLOT_REF2="ts667">
-				<ANNOTATION_VALUE>ora eh in tutte le malattie neurodegenerative le diverse proteine quindi la betamilosi per l' alzheimer, l' alfasinucleina per il parkinson, il ti di pi quarantatre per la sla e la demenza frontotemporale, e così via,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ora eh in tutte le malattie neurodegenerative le diverse proteine quindi la betamilosi per l'alzheimer, l'alfasinucleina per il parkinson, il ti di pi quarantatre per la sla e la demenza frontotemporale, e così via,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2818,17 +2818,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a338" TIME_SLOT_REF1="ts674" TIME_SLOT_REF2="ts675">
-				<ANNOTATION_VALUE>per dimostrare l' ipotesi prio~ prionica è stato fatto questo esperimento in cui si è preso un topo con una malattia neurodegenerativa ed è stato fatto per la proteina prionica ed è stato fatto per la mucca pazza per intenderci,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per dimostrare l'ipotesi prio~ prionica è stato fatto questo esperimento in cui si è preso un topo con una malattia neurodegenerativa ed è stato fatto per la proteina prionica ed è stato fatto per la mucca pazza per intenderci,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a339" TIME_SLOT_REF1="ts676" TIME_SLOT_REF2="ts677">
-				<ANNOTATION_VALUE>come controllo positivo di un' ipotesi prionica,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come controllo positivo di un'ipotesi prionica,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a340" TIME_SLOT_REF1="ts678" TIME_SLOT_REF2="ts679">
-				<ANNOTATION_VALUE>è stato fatto per la proteina betamiloide l' alfasinucleina la proteina tau e più recentemente per ti di pi quarantatré</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è stato fatto per la proteina betamiloide l'alfasinucleina la proteina tau e più recentemente per ti di pi quarantatré</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2893,7 +2893,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a353" TIME_SLOT_REF1="ts704" TIME_SLOT_REF2="ts705">
-				<ANNOTATION_VALUE>e si arriva alla morte dell' animale con dei sintomi tipo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e si arriva alla morte dell'animale con dei sintomi tipo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2908,12 +2908,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a356" TIME_SLOT_REF1="ts710" TIME_SLOT_REF2="ts711">
-				<ANNOTATION_VALUE>questo ha ovviamente dimostrato l' ipotesi prionica.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo ha ovviamente dimostrato l'ipotesi prionica.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a357" TIME_SLOT_REF1="ts712" TIME_SLOT_REF2="ts713">
-				<ANNOTATION_VALUE>del e::h diciamo del ruolo dell' effetto di queste proteine nelle diverse neuropatologie.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>del e::h diciamo del ruolo dell'effetto di queste proteine nelle diverse neuropatologie.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2923,7 +2923,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a359" TIME_SLOT_REF1="ts716" TIME_SLOT_REF2="ts717">
-				<ANNOTATION_VALUE>ora m:h abbiamo detto che l' effetto di queste proteine malfoldate di questi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ora m:h abbiamo detto che l'effetto di queste proteine malfoldate di questi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2968,22 +2968,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a368" TIME_SLOT_REF1="ts734" TIME_SLOT_REF2="ts735">
-				<ANNOTATION_VALUE>come pure comune a tutte queste pa~ a tutte queste patologie è un' alterazione a carico dei mitocondri</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come pure comune a tutte queste pa~ a tutte queste patologie è un'alterazione a carico dei mitocondri</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a369" TIME_SLOT_REF1="ts736" TIME_SLOT_REF2="ts737">
-				<ANNOTATION_VALUE>i mitocondri tendono ad essere danneggiati e c' è un' alterazione dell' omeostasi del calcio della fissione e della fusione dei mitocondri,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>i mitocondri tendono ad essere danneggiati e c'è un'alterazione dell'omeostasi del calcio della fissione e della fusione dei mitocondri,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a370" TIME_SLOT_REF1="ts738" TIME_SLOT_REF2="ts739">
-				<ANNOTATION_VALUE>e c' è una grossa produzione di specie reattive dell' ossigeno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e c'è una grossa produzione di specie reattive dell'ossigeno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a371" TIME_SLOT_REF1="ts740" TIME_SLOT_REF2="ts741">
-				<ANNOTATION_VALUE>che vanno a propagare l' alterazione mitocondriale e il danno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che vanno a propagare l'alterazione mitocondriale e il danno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3003,12 +3003,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a375" TIME_SLOT_REF1="ts748" TIME_SLOT_REF2="ts749">
-				<ANNOTATION_VALUE>e::h non sappiamo se sono queste proteine malfoldate che provocano l' alterazione mitocondriale o provocano l' apoptosi e indirettamente l' alterazione mitocondriale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h non sappiamo se sono queste proteine malfoldate che provocano l'alterazione mitocondriale o provocano l'apoptosi e indirettamente l'alterazione mitocondriale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a376" TIME_SLOT_REF1="ts750" TIME_SLOT_REF2="ts751">
-				<ANNOTATION_VALUE>cioè l' ordine la sequenza con cui compaiono nelle diverse patologie questi xxx,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè l'ordine la sequenza con cui compaiono nelle diverse patologie questi xxx,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3063,7 +3063,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a392" TIME_SLOT_REF1="ts782" TIME_SLOT_REF2="ts783">
-				<ANNOTATION_VALUE>quello lo devi chiedere a madre natura non a me ((ride)) perché cioè ((ride)) per me poteva bastare l' apoptosi evidentemente no. &gt;diciamo&lt; sono dei pathway diversi poi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quello lo devi chiedere a madre natura non a me ((ride)) perché cioè ((ride)) per me poteva bastare l'apoptosi evidentemente no. &gt;diciamo&lt; sono dei pathway diversi poi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3073,17 +3073,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a394" TIME_SLOT_REF1="ts786" TIME_SLOT_REF2="ts787">
-				<ANNOTATION_VALUE>e sembrano veramente diciamo un continuum di tipi di morti avendo come estremi l' apoptosi e la necrosi classica e in mezzo ositutti questi tipi di morbo programmata,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e sembrano veramente diciamo un continuum di tipi di morti avendo come estremi l'apoptosi e la necrosi classica e in mezzo ositutti questi tipi di morbo programmata,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a395" TIME_SLOT_REF1="ts788" TIME_SLOT_REF2="ts789">
-				<ANNOTATION_VALUE>tra cui anche la morte autofagica perché c' è anche quella.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tra cui anche la morte autofagica perché c'è anche quella.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a396" TIME_SLOT_REF1="ts790" TIME_SLOT_REF2="ts791">
-				<ANNOTATION_VALUE>per cui è diciamo una situazione più complessa però quello che è interessante xxx però perché un tipo di morte o l' altro non te lo so dire cioè non</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per cui è diciamo una situazione più complessa però quello che è interessante xxx però perché un tipo di morte o l'altro non te lo so dire cioè non</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3118,17 +3118,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a403" TIME_SLOT_REF1="ts804" TIME_SLOT_REF2="ts805">
-				<ANNOTATION_VALUE>e::h quindi c' è un legame veramente strettissimo tra mitocondri e sistema nervoso.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h quindi c'è un legame veramente strettissimo tra mitocondri e sistema nervoso.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a404" TIME_SLOT_REF1="ts806" TIME_SLOT_REF2="ts807">
-				<ANNOTATION_VALUE>perché magari semplicemente che il sistema nervoso è più sensibile e suscettibile all' alterazione della funzionalità dei mitocondri,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché magari semplicemente che il sistema nervoso è più sensibile e suscettibile all'alterazione della funzionalità dei mitocondri,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a405" TIME_SLOT_REF1="ts808" TIME_SLOT_REF2="ts809">
-				<ANNOTATION_VALUE>però fondamentalmente questo è il punto c' è un legame strettissimo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però fondamentalmente questo è il punto c'è un legame strettissimo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3158,27 +3158,27 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a411" TIME_SLOT_REF1="ts820" TIME_SLOT_REF2="ts821">
-				<ANNOTATION_VALUE>in queste ehp opolazioni rurali c' era un' incidenza elevatissimadi parkinson,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in queste ehp opolazioni rurali c'era un'incidenza elevatissimadi parkinson,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a412" TIME_SLOT_REF1="ts822" TIME_SLOT_REF2="ts823">
-				<ANNOTATION_VALUE>ed è stata messa in diciamo in relazione all' utilizzo di questi antiparassitari che andavano proprio ad agire sul complesso primo della catena respiratoria.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ed è stata messa in diciamo in relazione all'utilizzo di questi antiparassitari che andavano proprio ad agire sul complesso primo della catena respiratoria.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a413" TIME_SLOT_REF1="ts824" TIME_SLOT_REF2="ts825">
-				<ANNOTATION_VALUE>tant' è che adesso noi utilizziamo queste molecole per creare dei modelli farmacologici di parkinson.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tant'è che adesso noi utilizziamo queste molecole per creare dei modelli farmacologici di parkinson.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a414" TIME_SLOT_REF1="ts826" TIME_SLOT_REF2="ts827">
-				<ANNOTATION_VALUE>proprio perché c' è una casua~ causalità diretta.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>proprio perché c'è una casua~ causalità diretta.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a415" TIME_SLOT_REF1="ts828" TIME_SLOT_REF2="ts829">
-				<ANNOTATION_VALUE>ora e::hm l' altro aspetto è che specialmente nel parkinson,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ora e::hm l'altro aspetto è che specialmente nel parkinson,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3188,7 +3188,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a417" TIME_SLOT_REF1="ts832" TIME_SLOT_REF2="ts833">
-				<ANNOTATION_VALUE>quindi c' è un legame strettissimo specialmente per il parkinson ma anche per le altre forme di</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi c'è un legame strettissimo specialmente per il parkinson ma anche per le altre forme di</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3198,7 +3198,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a419" TIME_SLOT_REF1="ts836" TIME_SLOT_REF2="ts837">
-				<ANNOTATION_VALUE>l' altro aspetto è che ovviamente sapete bene che il mitocondrio è centrale nella morte apoptotica,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'altro aspetto è che ovviamente sapete bene che il mitocondrio è centrale nella morte apoptotica,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3208,17 +3208,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a421" TIME_SLOT_REF1="ts840" TIME_SLOT_REF2="ts841">
-				<ANNOTATION_VALUE>ed è ovviamente se è alterata la funzionalità del mitocondrio si producono specie reattive dell' ossigeno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ed è ovviamente se è alterata la funzionalità del mitocondrio si producono specie reattive dell'ossigeno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a422" TIME_SLOT_REF1="ts842" TIME_SLOT_REF2="ts843">
-				<ANNOTATION_VALUE>e quindi la centralità del mitocondrio dell' alterazione mitocondriale è abbastanza ovvia in quasi tutte in tutte le malattie neurodegenerative.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi la centralità del mitocondrio dell'alterazione mitocondriale è abbastanza ovvia in quasi tutte in tutte le malattie neurodegenerative.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a423" TIME_SLOT_REF1="ts844" TIME_SLOT_REF2="ts845">
-				<ANNOTATION_VALUE>l' altro e::hm aspetto eh che è tipicamente neuronale ovviamente è il fatto che ne momento in cui ci sono queste neurofibrille,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'altro e::hm aspetto eh che è tipicamente neuronale ovviamente è il fatto che ne momento in cui ci sono queste neurofibrille,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3233,32 +3233,32 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a426" TIME_SLOT_REF1="ts850" TIME_SLOT_REF2="ts851">
-				<ANNOTATION_VALUE>le vescicole e le proteine coinvolte nella sintesi dei neurotrasmettitori non raggiungono l' estremità sinattica.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>le vescicole e le proteine coinvolte nella sintesi dei neurotrasmettitori non raggiungono l'estremità sinattica.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a427" TIME_SLOT_REF1="ts852" TIME_SLOT_REF2="ts853">
-				<ANNOTATION_VALUE>eh in secondo luogo quello che succede è che le proteine e organuli invecchiati che devono essere sostituiti che si trovano all' estremità sinattica non riescono ad essere riportati nel corpo neuronale e quindi non riescono ad essere eliminati propriamente.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh in secondo luogo quello che succede è che le proteine e organuli invecchiati che devono essere sostituiti che si trovano all'estremità sinattica non riescono ad essere riportati nel corpo neuronale e quindi non riescono ad essere eliminati propriamente.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a428" TIME_SLOT_REF1="ts854" TIME_SLOT_REF2="ts855">
-				<ANNOTATION_VALUE>per cui c' è un accumulo di queste proteine e organuli malfunzionanti a livello dell' estremità sinattica che altera proprio la funzionalità della neurotrasmissione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per cui c'è un accumulo di queste proteine e organuli malfunzionanti a livello dell'estremità sinattica che altera proprio la funzionalità della neurotrasmissione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a429" TIME_SLOT_REF1="ts856" TIME_SLOT_REF2="ts857">
-				<ANNOTATION_VALUE>unito al fatto che appunto c' è un deficit a carico dei neurotrasmettitori.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>unito al fatto che appunto c'è un deficit a carico dei neurotrasmettitori.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a430" TIME_SLOT_REF1="ts858" TIME_SLOT_REF2="ts859">
-				<ANNOTATION_VALUE>e::hm ora questa è un' immagine che vi ho già fatto vedere quando vi ho parlato del trasporto assonale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::hm ora questa è un'immagine che vi ho già fatto vedere quando vi ho parlato del trasporto assonale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a431" TIME_SLOT_REF1="ts860" TIME_SLOT_REF2="ts861">
-				<ANNOTATION_VALUE>e quest' immagine vi mostra anche e::h un' altra situazione perché?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quest'immagine vi mostra anche e::h un'altra situazione perché?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3268,12 +3268,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a433" TIME_SLOT_REF1="ts864" TIME_SLOT_REF2="ts865">
-				<ANNOTATION_VALUE>che sono l' huntington e le demenze:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che sono l'huntington e le demenze:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a434" TIME_SLOT_REF1="ts866" TIME_SLOT_REF2="ts867">
-				<ANNOTATION_VALUE>scusatemi l' huntington l' alzheimer e le demenze associate a aggregati di proteina tau,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>scusatemi l'huntington l'alzheimer e le demenze associate a aggregati di proteina tau,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3288,22 +3288,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a437" TIME_SLOT_REF1="ts872" TIME_SLOT_REF2="ts873">
-				<ANNOTATION_VALUE>nelle forme patologiche la proteina tau viene iperfosforilata e l' iperfosforilazione di questa proteina fa sì che non riesca a funzionare propriamente associata ai microtubuli e e::hm inizialmente si altera al trasporto ma quello che succede alla fine è che c' è proprio una disgregazione dei microtubuli.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nelle forme patologiche la proteina tau viene iperfosforilata e l'iperfosforilazione di questa proteina fa sì che non riesca a funzionare propriamente associata ai microtubuli e e::hm inizialmente si altera al trasporto ma quello che succede alla fine è che c'è proprio una disgregazione dei microtubuli.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a438" TIME_SLOT_REF1="ts874" TIME_SLOT_REF2="ts875">
-				<ANNOTATION_VALUE>tant' è che all' interno delle cellule si creano i cosiddetti grovigli neurofibrillari che sono dei grovigli fatti da proteina tau iperfosforilata e alfa e beta xxxx che rimangono diciamo inglobati in questi grovigli.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tant'è che all'interno delle cellule si creano i cosiddetti grovigli neurofibrillari che sono dei grovigli fatti da proteina tau iperfosforilata e alfa e beta xxxx che rimangono diciamo inglobati in questi grovigli.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a439" TIME_SLOT_REF1="ts876" TIME_SLOT_REF2="ts877">
-				<ANNOTATION_VALUE>nell' huntington invece c' è un' alterazione dell' acetilazione m:h vedremo anche nell' articolo la prossima settimana e questa alterazione dell' acetilazione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell'huntington invece c'è un'alterazione dell'acetilazione m:h vedremo anche nell'articolo la prossima settimana e questa alterazione dell'acetilazione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a440" TIME_SLOT_REF1="ts878" TIME_SLOT_REF2="ts879">
-				<ANNOTATION_VALUE>e::hm determina una modificazione della struttura e della funzione dei microtubuli che porta a un' alterazione del trasporto assonale e lì è stato visto in maniera molto evidente e rilevante,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::hm determina una modificazione della struttura e della funzione dei microtubuli che porta a un'alterazione del trasporto assonale e lì è stato visto in maniera molto evidente e rilevante,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3313,7 +3313,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a442" TIME_SLOT_REF1="ts882" TIME_SLOT_REF2="ts883">
-				<ANNOTATION_VALUE>perché e::h spesso l' alterazione del trasporto e l' alterazione citoscheletrica precede la morte del neurone.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché e::h spesso l'alterazione del trasporto e l'alterazione citoscheletrica precede la morte del neurone.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3333,7 +3333,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a446" TIME_SLOT_REF1="ts890" TIME_SLOT_REF2="ts891">
-				<ANNOTATION_VALUE>e::hm l' ultimo aspetto che è comune alle diverse neuropatologie riguarda le cellule non neuronali del sistema nervoso centrale e principlamente microglia e assonciti.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::hm l'ultimo aspetto che è comune alle diverse neuropatologie riguarda le cellule non neuronali del sistema nervoso centrale e principlamente microglia e assonciti.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3343,7 +3343,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a448" TIME_SLOT_REF1="ts894" TIME_SLOT_REF2="ts895">
-				<ANNOTATION_VALUE>perché nelle fasi avanzate dell patologia e negli studi post mortem una caratteristica comune tra l' altro trasversale a tutte le forme delle patologie croniche,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché nelle fasi avanzate dell patologia e negli studi post mortem una caratteristica comune tra l'altro trasversale a tutte le forme delle patologie croniche,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3383,7 +3383,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a456" TIME_SLOT_REF1="ts910" TIME_SLOT_REF2="ts911">
-				<ANNOTATION_VALUE>eh sia durante lo sviluppo che nell' adulto,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh sia durante lo sviluppo che nell'adulto,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3413,7 +3413,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a462" TIME_SLOT_REF1="ts922" TIME_SLOT_REF2="ts923">
-				<ANNOTATION_VALUE>questo è vero soprattutto per la microglia per cui vi ricordo che nelle diverse patologie è stato visto che prima c' è una cosiddetta attivazione emme due,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo è vero soprattutto per la microglia per cui vi ricordo che nelle diverse patologie è stato visto che prima c'è una cosiddetta attivazione emme due,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3438,22 +3438,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a467" TIME_SLOT_REF1="ts932" TIME_SLOT_REF2="ts933">
-				<ANNOTATION_VALUE>la presenza delle neurofibrille, l' alterazione del proteasoma, l' at~ l' alterazione della funzionalità mitocondriale, la produzione di radicali dell' ossigeno, non sono solo a acrico dei neuroni ma sono anche a carico di osseociti e di xxxx e questo farebbe sì che queste cellule perdano la loro capacità e innescherebbero quindi la morte a carico dei neuroni.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la presenza delle neurofibrille, l'alterazione del proteasoma, l'at~ l'alterazione della funzionalità mitocondriale, la produzione di radicali dell'ossigeno, non sono solo a acrico dei neuroni ma sono anche a carico di osseociti e di xxxx e questo farebbe sì che queste cellule perdano la loro capacità e innescherebbero quindi la morte a carico dei neuroni.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a468" TIME_SLOT_REF1="ts934" TIME_SLOT_REF2="ts935">
-				<ANNOTATION_VALUE>ora e::h questa è un' ipotesi che sta eh diciamo diventando sempre più rilevante soprattutto associata ad un altro concetto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ora e::h questa è un'ipotesi che sta eh diciamo diventando sempre più rilevante soprattutto associata ad un altro concetto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a469" TIME_SLOT_REF1="ts936" TIME_SLOT_REF2="ts937">
-				<ANNOTATION_VALUE>voi sapete che queste patologie tutte hanno come fattore di rischio principale l' età infatti sono tutte patologie la cui incidenza aumenta con la me~ con l' aumentare dell' età.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>voi sapete che queste patologie tutte hanno come fattore di rischio principale l'età infatti sono tutte patologie la cui incidenza aumenta con la me~ con l'aumentare dell'età.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a470" TIME_SLOT_REF1="ts938" TIME_SLOT_REF2="ts939">
-				<ANNOTATION_VALUE>per alcune è evidentissimo per altre meno però fondamentalmente l' età è il principale fattore di rischio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per alcune è evidentissimo per altre meno però fondamentalmente l'età è il principale fattore di rischio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3483,7 +3483,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a476" TIME_SLOT_REF1="ts950" TIME_SLOT_REF2="ts951">
-				<ANNOTATION_VALUE>e::hm protei~ neurofibrille radicali dell' ossigeno o qualsiasi altra cosa c' è una microglia in grado di eliminare gli aggregati fagocitarli fagocitare le cellule morte e quindi fondamentalmente tiene controllato il danno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::hm protei~ neurofibrille radicali dell'ossigeno o qualsiasi altra cosa c'è una microglia in grado di eliminare gli aggregati fagocitarli fagocitare le cellule morte e quindi fondamentalmente tiene controllato il danno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3493,22 +3493,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a478" TIME_SLOT_REF1="ts954" TIME_SLOT_REF2="ts955">
-				<ANNOTATION_VALUE>questa situazione negativa che si realizza all' interno del neurone e questo spiegherebbe anche perché</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questa situazione negativa che si realizza all'interno del neurone e questo spiegherebbe anche perché</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a479" TIME_SLOT_REF1="ts956" TIME_SLOT_REF2="ts957">
-				<ANNOTATION_VALUE>tutta una serie di stili di vita a partire dall' alimentazione alla assenza di patologie come il diabete,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tutta una serie di stili di vita a partire dall'alimentazione alla assenza di patologie come il diabete,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a480" TIME_SLOT_REF1="ts958" TIME_SLOT_REF2="ts959">
-				<ANNOTATION_VALUE>e::h con~ diciamo lo stile di vita contribuirebbe alla comparsa più o meno precoce della patologia andando proprio a modulare l' attivazione della microglia.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h con~ diciamo lo stile di vita contribuirebbe alla comparsa più o meno precoce della patologia andando proprio a modulare l'attivazione della microglia.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a481" TIME_SLOT_REF1="ts960" TIME_SLOT_REF2="ts961">
-				<ANNOTATION_VALUE>perché se uno fa una dieta sana ed equilibrata la cosiddetta dieta mediterranea fa attività sportiva non fuma e ha uno stile di vita sano questo abbassa l' infiammazione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché se uno fa una dieta sana ed equilibrata la cosiddetta dieta mediterranea fa attività sportiva non fuma e ha uno stile di vita sano questo abbassa l'infiammazione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3518,7 +3518,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a483" TIME_SLOT_REF1="ts964" TIME_SLOT_REF2="ts965">
-				<ANNOTATION_VALUE>diciamo una ipotesi che lega l' incidenza degli stili di vita alla comparsa delle patologie.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>diciamo una ipotesi che lega l'incidenza degli stili di vita alla comparsa delle patologie.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3528,7 +3528,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a485" TIME_SLOT_REF1="ts968" TIME_SLOT_REF2="ts969">
-				<ANNOTATION_VALUE>un altro caratteristi~ un' altra caratteristica comune a tutte le patologie,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un altro caratteristi~ un'altra caratteristica comune a tutte le patologie,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3568,17 +3568,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a493" TIME_SLOT_REF1="ts984" TIME_SLOT_REF2="ts985">
-				<ANNOTATION_VALUE>secondo perché la ti di pi quarantatre si trova negli aggregati intracellulari anche delle forme di sla e di demenza frontotemporale sporadiche quindi c' è un legame molto stretto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>secondo perché la ti di pi quarantatre si trova negli aggregati intracellulari anche delle forme di sla e di demenza frontotemporale sporadiche quindi c'è un legame molto stretto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a494" TIME_SLOT_REF1="ts986" TIME_SLOT_REF2="ts987">
-				<ANNOTATION_VALUE>e::h ma aggregati contenenti questi granuli da stress si trovano anche nell' alzheimer e in altre patologie.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h ma aggregati contenenti questi granuli da stress si trovano anche nell'alzheimer e in altre patologie.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a495" TIME_SLOT_REF1="ts988" TIME_SLOT_REF2="ts989">
-				<ANNOTATION_VALUE>e sembrano essere importanti nell' eziogenesi delle patologie perché andrebebro ad alterare,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e sembrano essere importanti nell'eziogenesi delle patologie perché andrebebro ad alterare,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3618,7 +3618,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a503" TIME_SLOT_REF1="ts1004" TIME_SLOT_REF2="ts1005">
-				<ANNOTATION_VALUE>e quello che succede è che si creano questi granuli da stress che si aggregano all' interno delle cellule.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quello che succede è che si creano questi granuli da stress che si aggregano all'interno delle cellule.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3628,17 +3628,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a505" TIME_SLOT_REF1="ts1008" TIME_SLOT_REF2="ts1009">
-				<ANNOTATION_VALUE>un po' meno per altre patologie ma sembrano essere coinvolte perché in tutte queste patologie abbiamo un' alterazione dell' epressione genica che</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un po' meno per altre patologie ma sembrano essere coinvolte perché in tutte queste patologie abbiamo un'alterazione dell'epressione genica che</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a506" TIME_SLOT_REF1="ts1010" TIME_SLOT_REF2="ts1011">
-				<ANNOTATION_VALUE>può essere dovuta ad espressioni trascrizionali come sa~ vedremo è molto evidente nell' huntington.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>può essere dovuta ad espressioni trascrizionali come sa~ vedremo è molto evidente nell'huntington.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a507" TIME_SLOT_REF1="ts1012" TIME_SLOT_REF2="ts1013">
-				<ANNOTATION_VALUE>ma può essere anche dovuta ad un' alterazione dei meccanismi di traduzione locale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma può essere anche dovuta ad un'alterazione dei meccanismi di traduzione locale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3648,7 +3648,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a509" TIME_SLOT_REF1="ts1016" TIME_SLOT_REF2="ts1017">
-				<ANNOTATION_VALUE>ovviamente se c' è una condizione di stress la cellula cerca di proteggere questi trascritti formando questi granuli da stress</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ovviamente se c'è una condizione di stress la cellula cerca di proteggere questi trascritti formando questi granuli da stress</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3703,7 +3703,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a520" TIME_SLOT_REF1="ts1038" TIME_SLOT_REF2="ts1039">
-				<ANNOTATION_VALUE>il morbo di alzheimer è stato diciamo identificato all' inizio del secolo scorso.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il morbo di alzheimer è stato diciamo identificato all'inizio del secolo scorso.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3713,17 +3713,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a522" TIME_SLOT_REF1="ts1042" TIME_SLOT_REF2="ts1043">
-				<ANNOTATION_VALUE>e e::hm studiò il caso di questa donna che aveva una cinquantina d' anni e che manifestava</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e e::hm studiò il caso di questa donna che aveva una cinquantina d'anni e che manifestava</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a523" TIME_SLOT_REF1="ts1044" TIME_SLOT_REF2="ts1045">
-				<ANNOTATION_VALUE>una strana forma di patologia psichiatrica. allora siamo negli anni di freud, jung e tutto il resto, quindi c' era molto attenzione specialmente nella zona</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>una strana forma di patologia psichiatrica. allora siamo negli anni di freud, jung e tutto il resto, quindi c'era molto attenzione specialmente nella zona</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a524" TIME_SLOT_REF1="ts1046" TIME_SLOT_REF2="ts1047">
-				<ANNOTATION_VALUE>austriaca tedesca della svizzera tedesca e della germania del sud c' era molta attenzione verso questi casi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>austriaca tedesca della svizzera tedesca e della germania del sud c'era molta attenzione verso questi casi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3748,17 +3748,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a529" TIME_SLOT_REF1="ts1056" TIME_SLOT_REF2="ts1057">
-				<ANNOTATION_VALUE>in più aveva disturbi del sonno, sintomi psichiatrici, tutta una serie di il quadro classico delle vie dell' alzheimer.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in più aveva disturbi del sonno, sintomi psichiatrici, tutta una serie di il quadro classico delle vie dell'alzheimer.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a530" TIME_SLOT_REF1="ts1058" TIME_SLOT_REF2="ts1059">
-				<ANNOTATION_VALUE>e::hm quando questa donna morì ovviamente essendo un medico, un patologo decise di fare l' autopsia.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::hm quando questa donna morì ovviamente essendo un medico, un patologo decise di fare l'autopsia.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a531" TIME_SLOT_REF1="ts1060" TIME_SLOT_REF2="ts1061">
-				<ANNOTATION_VALUE>e si trovò di fronte ad un encefalo in cui c' è una forte riduzione della sostanza grigia un aumento della dimensione dei ventricoli e la presenza di queste caratteristiche inclusioni,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e si trovò di fronte ad un encefalo in cui c'è una forte riduzione della sostanza grigia un aumento della dimensione dei ventricoli e la presenza di queste caratteristiche inclusioni,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3833,22 +3833,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a546" TIME_SLOT_REF1="ts1090" TIME_SLOT_REF2="ts1091">
-				<ANNOTATION_VALUE>quello che secondo me succede per lo meno in italia poi in altri paesi so che in belgio sono più diciamo c' è una diagnostica molto più avanzata visto al' ultimo congresso della: xxx sull' azheimer parkinson,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quello che secondo me succede per lo meno in italia poi in altri paesi so che in belgio sono più diciamo c'è una diagnostica molto più avanzata visto al'ultimo congresso della: xxx sull'azheimer parkinson,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a547" TIME_SLOT_REF1="ts1092" TIME_SLOT_REF2="ts1093">
-				<ANNOTATION_VALUE>quindi c' è una differenza fra paesi europei in in italia secondo la mia personalissima opinione questo dato è sopradimensionato ci sono tante demenze ma l' alzheimer non è detto che contribuisca per almeno la metà.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi c'è una differenza fra paesi europei in in italia secondo la mia personalissima opinione questo dato è sopradimensionato ci sono tante demenze ma l'alzheimer non è detto che contribuisca per almeno la metà.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a548" TIME_SLOT_REF1="ts1094" TIME_SLOT_REF2="ts1095">
-				<ANNOTATION_VALUE>ora e::hm quello che è noto è che la prevalenza della demenza è inferiore all' un per cento nei soggetti di età compresa tra i sessanta e i sessantaquattro anni,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ora e::hm quello che è noto è che la prevalenza della demenza è inferiore all'un per cento nei soggetti di età compresa tra i sessanta e i sessantaquattro anni,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a549" TIME_SLOT_REF1="ts1096" TIME_SLOT_REF2="ts1097">
-				<ANNOTATION_VALUE>ma mostra un aumento esponenziale con l' età al punto che oltre gli ottantacinque anni,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma mostra un aumento esponenziale con l'età al punto che oltre gli ottantacinque anni,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3858,7 +3858,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a551" TIME_SLOT_REF1="ts1100" TIME_SLOT_REF2="ts1101">
-				<ANNOTATION_VALUE>e::h per cui ovviamente questo fa sì che le demenze incluso l' alzheimer rappresentino un problema mo:lto importante di salute pubblica,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h per cui ovviamente questo fa sì che le demenze incluso l'alzheimer rappresentino un problema mo:lto importante di salute pubblica,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3868,12 +3868,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a553" TIME_SLOT_REF1="ts1104" TIME_SLOT_REF2="ts1105">
-				<ANNOTATION_VALUE>eh si è m:h è noto che nel duemilaeuno c' erano oltre ventiquattro milioni di persone con segni di demenza e si stima che nel duemilaquaranta si possa arrivare fino a ottantuno milioni.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh si è m:h è noto che nel duemilaeuno c'erano oltre ventiquattro milioni di persone con segni di demenza e si stima che nel duemilaquaranta si possa arrivare fino a ottantuno milioni.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a554" TIME_SLOT_REF1="ts1106" TIME_SLOT_REF2="ts1107">
-				<ANNOTATION_VALUE>questo è dovuto al fatto che c' è un incremento progressivo della vita della durata della vita media che però,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo è dovuto al fatto che c'è un incremento progressivo della vita della durata della vita media che però,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3888,12 +3888,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a557" TIME_SLOT_REF1="ts1112" TIME_SLOT_REF2="ts1113">
-				<ANNOTATION_VALUE>diciamo sovrapponibile a una buona lunga vita e quindi ovviamente c' è un incremento di queste e::h di queste patologie.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>diciamo sovrapponibile a una buona lunga vita e quindi ovviamente c'è un incremento di queste e::h di queste patologie.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a558" TIME_SLOT_REF1="ts1114" TIME_SLOT_REF2="ts1115">
-				<ANNOTATION_VALUE>quindi questo fa sì che l' età e l' invecchiamento siano il fattore di rischio principale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi questo fa sì che l'età e l'invecchiamento siano il fattore di rischio principale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

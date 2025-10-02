@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:18:34+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:19+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
@@ -4556,7 +4556,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1245" TIME_SLOT_REF1="ts2488" TIME_SLOT_REF2="ts2489">
-				<ANNOTATION_VALUE>anch' io uguale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>anch'io uguale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4571,12 +4571,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1252" TIME_SLOT_REF1="ts2502" TIME_SLOT_REF2="ts2503">
-				<ANNOTATION_VALUE>xx lo frequenterò: quest' anno</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>xx lo frequenterò: quest'anno</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1253" TIME_SLOT_REF1="ts2504" TIME_SLOT_REF2="ts2505">
-				<ANNOTATION_VALUE>quest' anno</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quest'anno</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4601,12 +4601,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1282" TIME_SLOT_REF1="ts2562" TIME_SLOT_REF2="ts2563">
-				<ANNOTATION_VALUE>io faccio l' erasmus</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>io faccio l'erasmus</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1309" TIME_SLOT_REF1="ts2616" TIME_SLOT_REF2="ts2617">
-				<ANNOTATION_VALUE>e::h quindi lo scritto si terrebbe l' ultima settimana di (lezione)</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h quindi lo scritto si terrebbe l'ultima settimana di (lezione)</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4621,7 +4621,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1341" TIME_SLOT_REF1="ts2680" TIME_SLOT_REF2="ts2681">
-				<ANNOTATION_VALUE>l' ultima la s~ sesta settimana di lezione &gt;cioè&lt; non è xxx</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'ultima la s~ sesta settimana di lezione &gt;cioè&lt; non è xxx</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4683,7 +4683,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
-				<ANNOTATION_VALUE>forse qualcuno mi ha gia incontrato al laboratorio di scrittura (.) l' anno scorso,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>forse qualcuno mi ha gia incontrato al laboratorio di scrittura (.) l'anno scorso,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4693,7 +4693,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
-				<ANNOTATION_VALUE>spero quest' anno di essere</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>spero quest'anno di essere</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4708,7 +4708,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts25">
-				<ANNOTATION_VALUE>allora, il corso di (.) quest' anno</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora, il corso di (.) quest'anno</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4863,7 +4863,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
-				<ANNOTATION_VALUE>in cui io (.) spiego dall' inizio alla fine un argomento,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in cui io (.) spiego dall'inizio alla fine un argomento,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4903,7 +4903,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts103">
-				<ANNOTATION_VALUE>n::~ non c' entra quasi nulla</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>n::~ non c'entra quasi nulla</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4913,7 +4913,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts107">
-				<ANNOTATION_VALUE>intuia:mo essere l' amore.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>intuia:mo essere l'amore.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5003,7 +5003,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts142" TIME_SLOT_REF2="ts143">
-				<ANNOTATION_VALUE>l' una delle primissime edizioni a stampa del canzoniere,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'una delle primissime edizioni a stampa del canzoniere,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5028,12 +5028,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts152" TIME_SLOT_REF2="ts153">
-				<ANNOTATION_VALUE>dall' ini~ dall' invenzione della sta:mpa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dall'ini~ dall'invenzione della sta:mpa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts154" TIME_SLOT_REF2="ts155">
-				<ANNOTATION_VALUE>dall' invenzione della stampa fino alla fine del quindicesimo secolo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dall'invenzione della stampa fino alla fine del quindicesimo secolo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5048,7 +5048,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts161">
-				<ANNOTATION_VALUE>dall' invenzione della stampa,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dall'invenzione della stampa,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5068,7 +5068,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts168" TIME_SLOT_REF2="ts169">
-				<ANNOTATION_VALUE>dall' a::nn:o millecinquecento cominciano le cinquecentine</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dall'a::nn:o millecinquecento cominciano le cinquecentine</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5088,7 +5088,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts176" TIME_SLOT_REF2="ts177">
-				<ANNOTATION_VALUE>sull' italiano,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sull'italiano,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5103,7 +5103,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a92" TIME_SLOT_REF1="ts182" TIME_SLOT_REF2="ts183">
-				<ANNOTATION_VALUE>tengo molto al rispetto dell' ortografi:a,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tengo molto al rispetto dell'ortografi:a,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5148,7 +5148,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts200" TIME_SLOT_REF2="ts201">
-				<ANNOTATION_VALUE>quando si risponde a una domanda soprattutto in un' occasione formale come un esame</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quando si risponde a una domanda soprattutto in un'occasione formale come un esame</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5188,7 +5188,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts216" TIME_SLOT_REF2="ts217">
-				<ANNOTATION_VALUE>il millecinquecento è l' anno uno cinque zero zero</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il millecinquecento è l'anno uno cinque zero zero</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5248,12 +5248,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a121" TIME_SLOT_REF1="ts240" TIME_SLOT_REF2="ts241">
-				<ANNOTATION_VALUE>è l' edizione del millequattrocentosettanta</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è l'edizione del millequattrocentosettanta</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a122" TIME_SLOT_REF1="ts242" TIME_SLOT_REF2="ts243">
-				<ANNOTATION_VALUE>vindelino da s~ l' editore è vindelino da spira, una stampa venezia:na</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vindelino da s~ l'editore è vindelino da spira, una stampa venezia:na</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5358,12 +5358,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a143" TIME_SLOT_REF1="ts284" TIME_SLOT_REF2="ts285">
-				<ANNOTATION_VALUE>ci fanno però capi:re, vedete che c' è il libro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ci fanno però capi:re, vedete che c'è il libro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a144" TIME_SLOT_REF1="ts286" TIME_SLOT_REF2="ts287">
-				<ANNOTATION_VALUE>c' è continuamente il li:bro delle rime come protagoni:sta</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è continuamente il li:bro delle rime come protagoni:sta</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5398,7 +5398,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts300" TIME_SLOT_REF2="ts301">
-				<ANNOTATION_VALUE>gli uomini dell' umanesimo e del rinascimento avevano in mente una sto:ria,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>gli uomini dell'umanesimo e del rinascimento avevano in mente una sto:ria,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5408,7 +5408,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a153" TIME_SLOT_REF1="ts304" TIME_SLOT_REF2="ts305">
-				<ANNOTATION_VALUE>un:::' ambientazione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un:::'ambientazione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5718,7 +5718,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a215" TIME_SLOT_REF1="ts428" TIME_SLOT_REF2="ts429">
-				<ANNOTATION_VALUE>la storia dell' innamoramento tra francesco e laura</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la storia dell'innamoramento tra francesco e laura</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5748,7 +5748,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a221" TIME_SLOT_REF1="ts440" TIME_SLOT_REF2="ts441">
-				<ANNOTATION_VALUE>intanto perché quando si parla d' &lt;innamoramento&gt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>intanto perché quando si parla d'&lt;innamoramento&gt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5928,7 +5928,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a257" TIME_SLOT_REF1="ts512" TIME_SLOT_REF2="ts513">
-				<ANNOTATION_VALUE>incontra il dante che l' aveva amata</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>incontra il dante che l'aveva amata</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5963,7 +5963,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a264" TIME_SLOT_REF1="ts526" TIME_SLOT_REF2="ts527">
-				<ANNOTATION_VALUE>°eh dell' infer~°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>°eh dell'infer~°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6028,12 +6028,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a277" TIME_SLOT_REF1="ts552" TIME_SLOT_REF2="ts553">
-				<ANNOTATION_VALUE>quindi noi non possiamo fare un' inferenza così brutale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi noi non possiamo fare un'inferenza così brutale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a278" TIME_SLOT_REF1="ts554" TIME_SLOT_REF2="ts555">
-				<ANNOTATION_VALUE>e di:re è la storia dell' amore tra francesco e laura</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e di:re è la storia dell'amore tra francesco e laura</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6078,7 +6078,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a287" TIME_SLOT_REF1="ts572" TIME_SLOT_REF2="ts573">
-				<ANNOTATION_VALUE>insomma voi vivete in un' era:::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>insomma voi vivete in un'era:::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6098,12 +6098,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a291" TIME_SLOT_REF1="ts580" TIME_SLOT_REF2="ts581">
-				<ANNOTATION_VALUE>più grandi tesori dell' umanità, ve li farò vedere</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>più grandi tesori dell'umanità, ve li farò vedere</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a292" TIME_SLOT_REF1="ts582" TIME_SLOT_REF2="ts583">
-				<ANNOTATION_VALUE>perché: l' opera di: digitalizzazione dei documenti antichi è ormai</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché: l'opera di: digitalizzazione dei documenti antichi è ormai</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6173,7 +6173,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a306" TIME_SLOT_REF1="ts610" TIME_SLOT_REF2="ts611">
-				<ANNOTATION_VALUE>nella carta e nell' inchiostro, per cui se voi aprite</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nella carta e nell'inchiostro, per cui se voi aprite</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6183,7 +6183,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a308" TIME_SLOT_REF1="ts614" TIME_SLOT_REF2="ts615">
-				<ANNOTATION_VALUE>l' inchiostro si ve:de dalle due parti della ca:rta,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'inchiostro si ve:de dalle due parti della ca:rta,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6198,7 +6198,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a311" TIME_SLOT_REF1="ts620" TIME_SLOT_REF2="ts621">
-				<ANNOTATION_VALUE>vedevate proprio: l' evoluzione del mercato librario, della produzione libraria.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vedevate proprio: l'evoluzione del mercato librario, della produzione libraria.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6208,7 +6208,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a313" TIME_SLOT_REF1="ts624" TIME_SLOT_REF2="ts625">
-				<ANNOTATION_VALUE>da google books ha fatto un' opera (.) mostruo:sa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>da google books ha fatto un'opera (.) mostruo:sa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6298,7 +6298,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a331" TIME_SLOT_REF1="ts660" TIME_SLOT_REF2="ts661">
-				<ANNOTATION_VALUE>città del vaticano è un' enclave come sapete, uno sta:to</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>città del vaticano è un'enclave come sapete, uno sta:to</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6363,7 +6363,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a344" TIME_SLOT_REF1="ts686" TIME_SLOT_REF2="ts687">
-				<ANNOTATION_VALUE>il, l' originale del canzoniere</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il, l'originale del canzoniere</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6463,7 +6463,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a364" TIME_SLOT_REF1="ts726" TIME_SLOT_REF2="ts727">
-				<ANNOTATION_VALUE>questo è l' indice di cui poi parleremo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo è l'indice di cui poi parleremo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6473,7 +6473,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a366" TIME_SLOT_REF1="ts730" TIME_SLOT_REF2="ts731">
-				<ANNOTATION_VALUE>scusate: °l' ho già perso°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>scusate: °l'ho già perso°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6483,7 +6483,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a368" TIME_SLOT_REF1="ts734" TIME_SLOT_REF2="ts735">
-				<ANNOTATION_VALUE>questa è la prima pagina dell' originale del canzonie:re</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questa è la prima pagina dell'originale del canzonie:re</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6503,7 +6503,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a372" TIME_SLOT_REF1="ts742" TIME_SLOT_REF2="ts743">
-				<ANNOTATION_VALUE>in ci:ma vedete l' iscrizione, il titolo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in ci:ma vedete l'iscrizione, il titolo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6548,7 +6548,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a381" TIME_SLOT_REF1="ts760" TIME_SLOT_REF2="ts761">
-				<ANNOTATION_VALUE>pubblicare nel medioevo (.) prima dell' invenzione della stampa voleva dire</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>pubblicare nel medioevo (.) prima dell'invenzione della stampa voleva dire</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6558,7 +6558,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a383" TIME_SLOT_REF1="ts764" TIME_SLOT_REF2="ts765">
-				<ANNOTATION_VALUE>una copia (.) in pulito di un' opera</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>una copia (.) in pulito di un'opera</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6573,7 +6573,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a386" TIME_SLOT_REF1="ts770" TIME_SLOT_REF2="ts771">
-				<ANNOTATION_VALUE>(com' è) questo caso</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>(com'è) questo caso</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6618,12 +6618,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a395" TIME_SLOT_REF1="ts788" TIME_SLOT_REF2="ts789">
-				<ANNOTATION_VALUE>non c' è numerazio:ne come in tutti</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non c'è numerazio:ne come in tutti</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a396" TIME_SLOT_REF1="ts790" TIME_SLOT_REF2="ts791">
-				<ANNOTATION_VALUE>i testi antichi non c' è numerazione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>i testi antichi non c'è numerazione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6763,12 +6763,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a424" TIME_SLOT_REF1="ts846" TIME_SLOT_REF2="ts847">
-				<ANNOTATION_VALUE>cioè prima c' è il genitivo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè prima c'è il genitivo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a425" TIME_SLOT_REF1="ts848" TIME_SLOT_REF2="ts849">
-				<ANNOTATION_VALUE>dell' autore</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dell'autore</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6803,7 +6803,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a432" TIME_SLOT_REF1="ts862" TIME_SLOT_REF2="ts863">
-				<ANNOTATION_VALUE>l' unico articolo che in italiano si può apporre a questo titolo è</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'unico articolo che in italiano si può apporre a questo titolo è</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6818,7 +6818,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a435" TIME_SLOT_REF1="ts868" TIME_SLOT_REF2="ts869">
-				<ANNOTATION_VALUE>perché il neutro plurale in latino è passato all' italian~ al al maschile</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché il neutro plurale in latino è passato all'italian~ al al maschile</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6848,7 +6848,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a441" TIME_SLOT_REF1="ts880" TIME_SLOT_REF2="ts881">
-				<ANNOTATION_VALUE>noi dobbiamo accordare (.) l' articolo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>noi dobbiamo accordare (.) l'articolo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6878,7 +6878,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a447" TIME_SLOT_REF1="ts892" TIME_SLOT_REF2="ts893">
-				<ANNOTATION_VALUE>questo è l' unico punto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo è l'unico punto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6898,17 +6898,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a451" TIME_SLOT_REF1="ts900" TIME_SLOT_REF2="ts901">
-				<ANNOTATION_VALUE>è l' auto::re</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è l'auto::re</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a452" TIME_SLOT_REF1="ts902" TIME_SLOT_REF2="ts903">
-				<ANNOTATION_VALUE>l' autore</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'autore</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a453" TIME_SLOT_REF1="ts904" TIME_SLOT_REF2="ts905">
-				<ANNOTATION_VALUE>in ro:sso si indica l' autore</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in ro:sso si indica l'autore</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6943,7 +6943,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a460" TIME_SLOT_REF1="ts918" TIME_SLOT_REF2="ts919">
-				<ANNOTATION_VALUE>questo è l' unico punto dove</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo è l'unico punto dove</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6958,7 +6958,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a463" TIME_SLOT_REF1="ts924" TIME_SLOT_REF2="ts925">
-				<ANNOTATION_VALUE>come de:signazione dell' auto:re.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come de:signazione dell'auto:re.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6968,7 +6968,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a465" TIME_SLOT_REF1="ts928" TIME_SLOT_REF2="ts929">
-				<ANNOTATION_VALUE>dante c' è dante autore e dante personaggio</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dante c'è dante autore e dante personaggio</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6993,7 +6993,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a470" TIME_SLOT_REF1="ts938" TIME_SLOT_REF2="ts939">
-				<ANNOTATION_VALUE>quindi l' unica maniera</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi l'unica maniera</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7008,7 +7008,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a473" TIME_SLOT_REF1="ts944" TIME_SLOT_REF2="ts945">
-				<ANNOTATION_VALUE>l' io.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'io.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7028,7 +7028,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a477" TIME_SLOT_REF1="ts952" TIME_SLOT_REF2="ts953">
-				<ANNOTATION_VALUE>ma anche nei saggi di chi:: non ha: riflettuto molto sull' argomento.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma anche nei saggi di chi:: non ha: riflettuto molto sull'argomento.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7048,12 +7048,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a481" TIME_SLOT_REF1="ts960" TIME_SLOT_REF2="ts961">
-				<ANNOTATION_VALUE>di nuovo un' inferenza fra l' i::o autoriale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di nuovo un'inferenza fra l'i::o autoriale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a482" TIME_SLOT_REF1="ts962" TIME_SLOT_REF2="ts963">
-				<ANNOTATION_VALUE>e l' i:o del personaggio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e l'i:o del personaggio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7068,7 +7068,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a485" TIME_SLOT_REF1="ts968" TIME_SLOT_REF2="ts969">
-				<ANNOTATION_VALUE>perché in molti punti del canzoniere (.) l' io personaggio dice</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché in molti punti del canzoniere (.) l'io personaggio dice</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7308,7 +7308,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a533" TIME_SLOT_REF1="ts1064" TIME_SLOT_REF2="ts1065">
-				<ANNOTATION_VALUE>nell' originale (.) del canzoniere.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell'originale (.) del canzoniere.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7338,7 +7338,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a539" TIME_SLOT_REF1="ts1076" TIME_SLOT_REF2="ts1077">
-				<ANNOTATION_VALUE>la scheda dell' insegnamento.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la scheda dell'insegnamento.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7358,7 +7358,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a543" TIME_SLOT_REF1="ts1084" TIME_SLOT_REF2="ts1085">
-				<ANNOTATION_VALUE>e: poi le modalità d' esame.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: poi le modalità d'esame.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7413,7 +7413,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a554" TIME_SLOT_REF1="ts1106" TIME_SLOT_REF2="ts1107">
-				<ANNOTATION_VALUE>che a questo punto dell' anno dovrebbero aver già</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che a questo punto dell'anno dovrebbero aver già</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7493,7 +7493,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a570" TIME_SLOT_REF1="ts1138" TIME_SLOT_REF2="ts1139">
-				<ANNOTATION_VALUE>e di farvi dare l' esame prima possibile</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e di farvi dare l'esame prima possibile</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7528,7 +7528,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a577" TIME_SLOT_REF1="ts1152" TIME_SLOT_REF2="ts1153">
-				<ANNOTATION_VALUE>c' è un esame scritto alla fi:ne</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è un esame scritto alla fi:ne</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7588,7 +7588,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a589" TIME_SLOT_REF1="ts1176" TIME_SLOT_REF2="ts1177">
-				<ANNOTATION_VALUE>all' orale portate soltanto (.) la parte (.) istituzionale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'orale portate soltanto (.) la parte (.) istituzionale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7803,7 +7803,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a632" TIME_SLOT_REF1="ts1262" TIME_SLOT_REF2="ts1263">
-				<ANNOTATION_VALUE>all' inizio: sarà: un po'difficile poi vedrete che vi:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'inizio: sarà: un po'difficile poi vedrete che vi:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7868,7 +7868,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a645" TIME_SLOT_REF1="ts1288" TIME_SLOT_REF2="ts1289">
-				<ANNOTATION_VALUE>i pochi me:si che ci servono per passare l' esame</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>i pochi me:si che ci servono per passare l'esame</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7918,7 +7918,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a655" TIME_SLOT_REF1="ts1308" TIME_SLOT_REF2="ts1309">
-				<ANNOTATION_VALUE>da studia:re du:rante le lezioni in maniera da dare l' esame più in fretta possibile</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>da studia:re du:rante le lezioni in maniera da dare l'esame più in fretta possibile</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7953,7 +7953,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a662" TIME_SLOT_REF1="ts1322" TIME_SLOT_REF2="ts1323">
-				<ANNOTATION_VALUE>insegnamenti dell' area letteraria</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>insegnamenti dell'area letteraria</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8093,7 +8093,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a690" TIME_SLOT_REF1="ts1378" TIME_SLOT_REF2="ts1379">
-				<ANNOTATION_VALUE>la filologia poi comprende anche l' accertamento del testo di riferimento::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la filologia poi comprende anche l'accertamento del testo di riferimento::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8113,7 +8113,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a694" TIME_SLOT_REF1="ts1386" TIME_SLOT_REF2="ts1387">
-				<ANNOTATION_VALUE>che cos' è la poesia lirica, che cos' è un canzoniere.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che cos'è la poesia lirica, che cos'è un canzoniere.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8138,12 +8138,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a699" TIME_SLOT_REF1="ts1396" TIME_SLOT_REF2="ts1397">
-				<ANNOTATION_VALUE>l' obiettivo della vostra formazione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'obiettivo della vostra formazione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a700" TIME_SLOT_REF1="ts1398" TIME_SLOT_REF2="ts1399">
-				<ANNOTATION_VALUE>l' obiettivo della formazione non è saper dire quando è nato petrarca</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'obiettivo della formazione non è saper dire quando è nato petrarca</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8223,7 +8223,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a720" TIME_SLOT_REF1="ts1438" TIME_SLOT_REF2="ts1439">
-				<ANNOTATION_VALUE>erano anche compagni d' esilio</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>erano anche compagni d'esilio</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8353,12 +8353,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a746" TIME_SLOT_REF1="ts1490" TIME_SLOT_REF2="ts1491">
-				<ANNOTATION_VALUE>c' è anche l' epitaffio di laura</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è anche l'epitaffio di laura</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a747" TIME_SLOT_REF1="ts1492" TIME_SLOT_REF2="ts1493">
-				<ANNOTATION_VALUE>laura che apparve per per la prima volta ai miei occhi nella chiesa di santa chiara d' avignone</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>laura che apparve per per la prima volta ai miei occhi nella chiesa di santa chiara d'avignone</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8368,7 +8368,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a749" TIME_SLOT_REF1="ts1496" TIME_SLOT_REF2="ts1497">
-				<ANNOTATION_VALUE>c' è voluta pensate</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è voluta pensate</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8383,7 +8383,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a752" TIME_SLOT_REF1="ts1502" TIME_SLOT_REF2="ts1503">
-				<ANNOTATION_VALUE>&gt;eccetera eccetera nel milletrecentoquaran~ nel maggio del milletrecentoquaranto~&lt; nell' aprile</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;eccetera eccetera nel milletrecentoquaran~ nel maggio del milletrecentoquaranto~&lt; nell'aprile</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8418,7 +8418,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a759" TIME_SLOT_REF1="ts1516" TIME_SLOT_REF2="ts1517">
-				<ANNOTATION_VALUE>bastava che: l' avessero contratta anche lui: e boccaccio</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>bastava che: l'avessero contratta anche lui: e boccaccio</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8453,7 +8453,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a766" TIME_SLOT_REF1="ts1530" TIME_SLOT_REF2="ts1531">
-				<ANNOTATION_VALUE>eh non c' è niente da fare sono &gt;sopravvissuti&lt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh non c'è niente da fare sono &gt;sopravvissuti&lt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8513,7 +8513,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a778" TIME_SLOT_REF1="ts1554" TIME_SLOT_REF2="ts1555">
-				<ANNOTATION_VALUE>c' è voluta una studiosa americana</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è voluta una studiosa americana</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8533,7 +8533,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a782" TIME_SLOT_REF1="ts1562" TIME_SLOT_REF2="ts1563">
-				<ANNOTATION_VALUE>nell' avignone del trecento non esisteva nessuna chiera chiesa di santa chiara</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell'avignone del trecento non esisteva nessuna chiera chiesa di santa chiara</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8553,7 +8553,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a786" TIME_SLOT_REF1="ts1570" TIME_SLOT_REF2="ts1571">
-				<ANNOTATION_VALUE>ben attesta:ti nell' antichità.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ben attesta:ti nell'antichità.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8708,7 +8708,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a817" TIME_SLOT_REF1="ts1632" TIME_SLOT_REF2="ts1633">
-				<ANNOTATION_VALUE>questo è l' obiettivo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo è l'obiettivo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8718,7 +8718,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a819" TIME_SLOT_REF1="ts1636" TIME_SLOT_REF2="ts1637">
-				<ANNOTATION_VALUE>risultati dell' apprendimento attesi che corrispondono a quello che dovrete fa:re</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>risultati dell'apprendimento attesi che corrispondono a quello che dovrete fa:re</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8738,7 +8738,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a823" TIME_SLOT_REF1="ts1644" TIME_SLOT_REF2="ts1645">
-				<ANNOTATION_VALUE>perché: il canzoniere così come noi l' abbiamo oggi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché: il canzoniere così come noi l'abbiamo oggi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8773,7 +8773,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a830" TIME_SLOT_REF1="ts1658" TIME_SLOT_REF2="ts1659">
-				<ANNOTATION_VALUE>che no:n si ridu:ce all' innamoramento tra francesco e laura</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che no:n si ridu:ce all'innamoramento tra francesco e laura</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8783,7 +8783,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a832" TIME_SLOT_REF1="ts1662" TIME_SLOT_REF2="ts1663">
-				<ANNOTATION_VALUE>conoscere la fisionomia dell' originale dei &gt;rerum vulgarium fragmenta&lt; lo faremo a lezio:ne</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>conoscere la fisionomia dell'originale dei &gt;rerum vulgarium fragmenta&lt; lo faremo a lezio:ne</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9043,7 +9043,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a884" TIME_SLOT_REF1="ts1766" TIME_SLOT_REF2="ts1767">
-				<ANNOTATION_VALUE>l' i:o</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'i:o</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9083,7 +9083,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a892" TIME_SLOT_REF1="ts1782" TIME_SLOT_REF2="ts1783">
-				<ANNOTATION_VALUE>un' entità difficile da definire però</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un'entità difficile da definire però</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9113,7 +9113,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a898" TIME_SLOT_REF1="ts1794" TIME_SLOT_REF2="ts1795">
-				<ANNOTATION_VALUE>ed è una delle chiavi d' acce:sso alla cultura medievale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ed è una delle chiavi d'acce:sso alla cultura medievale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9233,7 +9233,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a922" TIME_SLOT_REF1="ts1842" TIME_SLOT_REF2="ts1843">
-				<ANNOTATION_VALUE>difficoltà dell' ultimo minuto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>difficoltà dell'ultimo minuto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9323,7 +9323,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a940" TIME_SLOT_REF1="ts1878" TIME_SLOT_REF2="ts1879">
-				<ANNOTATION_VALUE>perché per accedere all' esame scritto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché per accedere all'esame scritto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9368,12 +9368,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a949" TIME_SLOT_REF1="ts1896" TIME_SLOT_REF2="ts1897">
-				<ANNOTATION_VALUE>l' esame scritto è riservato ai frequentanti.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'esame scritto è riservato ai frequentanti.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a950" TIME_SLOT_REF1="ts1898" TIME_SLOT_REF2="ts1899">
-				<ANNOTATION_VALUE>e::h altrimenti non avrebbe senso d' essere</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h altrimenti non avrebbe senso d'essere</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9403,7 +9403,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a956" TIME_SLOT_REF1="ts1910" TIME_SLOT_REF2="ts1911">
-				<ANNOTATION_VALUE>soltanto quelli che vogliono fare l' esame scritto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>soltanto quelli che vogliono fare l'esame scritto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9423,7 +9423,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a960" TIME_SLOT_REF1="ts1918" TIME_SLOT_REF2="ts1919">
-				<ANNOTATION_VALUE>il l' esame (.) in fretta.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il l'esame (.) in fretta.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9433,7 +9433,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a962" TIME_SLOT_REF1="ts1922" TIME_SLOT_REF2="ts1923">
-				<ANNOTATION_VALUE>c' è scritto potranno sostituire l' esame sulla parte monografica</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è scritto potranno sostituire l'esame sulla parte monografica</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9443,7 +9443,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a964" TIME_SLOT_REF1="ts1926" TIME_SLOT_REF2="ts1927">
-				<ANNOTATION_VALUE>c' è anche un' altra maniera ((tossisce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è anche un'altra maniera ((tossisce))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9593,12 +9593,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a994" TIME_SLOT_REF1="ts1986" TIME_SLOT_REF2="ts1987">
-				<ANNOTATION_VALUE>quindi non fa~ non c' è conflitto d' interessi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi non fa~ non c'è conflitto d'interessi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a995" TIME_SLOT_REF1="ts1988" TIME_SLOT_REF2="ts1989">
-				<ANNOTATION_VALUE>&gt;non c' è conflitto di&lt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;non c'è conflitto di&lt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9608,7 +9608,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a997" TIME_SLOT_REF1="ts1992" TIME_SLOT_REF2="ts1993">
-				<ANNOTATION_VALUE>sono l' unica au~ autore einaudi &gt;a non essere m:ai stata pagata da einaudi per&lt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sono l'unica au~ autore einaudi &gt;a non essere m:ai stata pagata da einaudi per&lt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9633,7 +9633,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1002" TIME_SLOT_REF1="ts2002" TIME_SLOT_REF2="ts2003">
-				<ANNOTATION_VALUE>potete prendere e::h l' altra edizione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>potete prendere e::h l'altra edizione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9658,7 +9658,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1007" TIME_SLOT_REF1="ts2012" TIME_SLOT_REF2="ts2013">
-				<ANNOTATION_VALUE>e:: una un' edizione commenta:ta</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: una un'edizione commenta:ta</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9808,7 +9808,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1037" TIME_SLOT_REF1="ts2072" TIME_SLOT_REF2="ts2073">
-				<ANNOTATION_VALUE>questa molto recente, uscita l' anno sco:rso,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questa molto recente, uscita l'anno sco:rso,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9903,7 +9903,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1056" TIME_SLOT_REF1="ts2110" TIME_SLOT_REF2="ts2111">
-				<ANNOTATION_VALUE>leggere l' orlando furio:so,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>leggere l'orlando furio:so,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10018,7 +10018,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1079" TIME_SLOT_REF1="ts2156" TIME_SLOT_REF2="ts2157">
-				<ANNOTATION_VALUE>con l' altro libro che è questo, lessico critico petrarchesco</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>con l'altro libro che è questo, lessico critico petrarchesco</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10073,7 +10073,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1090" TIME_SLOT_REF1="ts2178" TIME_SLOT_REF2="ts2179">
-				<ANNOTATION_VALUE>amo:re, c' è la mia voce amore che vi ho caricato fra i materiali (.) didattici</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>amo:re, c'è la mia voce amore che vi ho caricato fra i materiali (.) didattici</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10283,7 +10283,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1132" TIME_SLOT_REF1="ts2262" TIME_SLOT_REF2="ts2263">
-				<ANNOTATION_VALUE>ah per l' ora~ chi fa lo scritto (.) chi fa lo scritto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ah per l'ora~ chi fa lo scritto (.) chi fa lo scritto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10298,17 +10298,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1135" TIME_SLOT_REF1="ts2268" TIME_SLOT_REF2="ts2269">
-				<ANNOTATION_VALUE>all' orale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'orale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1136" TIME_SLOT_REF1="ts2270" TIME_SLOT_REF2="ts2271">
-				<ANNOTATION_VALUE>e decidiamo poi un' integrazione, lo decido durante il corso.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e decidiamo poi un'integrazione, lo decido durante il corso.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1137" TIME_SLOT_REF1="ts2272" TIME_SLOT_REF2="ts2273">
-				<ANNOTATION_VALUE>&gt;quindi vedete&lt; che l' orale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;quindi vedete&lt; che l'orale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10393,7 +10393,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1155" TIME_SLOT_REF1="ts2308" TIME_SLOT_REF2="ts2309">
-				<ANNOTATION_VALUE>decidere all' inizio se no sarebbe una verifica falsa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>decidere all'inizio se no sarebbe una verifica falsa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10553,7 +10553,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1187" TIME_SLOT_REF1="ts2372" TIME_SLOT_REF2="ts2373">
-				<ANNOTATION_VALUE>m:h dall' esperienza che ho avuto negli anni precedenti</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>m:h dall'esperienza che ho avuto negli anni precedenti</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10578,7 +10578,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1192" TIME_SLOT_REF1="ts2382" TIME_SLOT_REF2="ts2383">
-				<ANNOTATION_VALUE>rispetto ai testi che io già so ho l' ansia di dire tutto quello che ho studiato</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>rispetto ai testi che io già so ho l'ansia di dire tutto quello che ho studiato</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10658,7 +10658,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1208" TIME_SLOT_REF1="ts2414" TIME_SLOT_REF2="ts2415">
-				<ANNOTATION_VALUE>perché s:ervono per l' interpretazione dei sonetti</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché s:ervono per l'interpretazione dei sonetti</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10668,7 +10668,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1210" TIME_SLOT_REF1="ts2418" TIME_SLOT_REF2="ts2419">
-				<ANNOTATION_VALUE>all' orale non porta più tutto il materiale didattico</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'orale non porta più tutto il materiale didattico</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10693,17 +10693,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1215" TIME_SLOT_REF1="ts2428" TIME_SLOT_REF2="ts2429">
-				<ANNOTATION_VALUE>all' esame.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'esame.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1216" TIME_SLOT_REF1="ts2430" TIME_SLOT_REF2="ts2431">
-				<ANNOTATION_VALUE>però siete sicu:ri che la lettera bi dovete portarla all' orale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però siete sicu:ri che la lettera bi dovete portarla all'orale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1217" TIME_SLOT_REF1="ts2432" TIME_SLOT_REF2="ts2433">
-				<ANNOTATION_VALUE>quindi il grosso dell' esame</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi il grosso dell'esame</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10858,12 +10858,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1261" TIME_SLOT_REF1="ts2520" TIME_SLOT_REF2="ts2521">
-				<ANNOTATION_VALUE>stilistica metrica chi l' ha dato?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>stilistica metrica chi l'ha dato?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1263" TIME_SLOT_REF1="ts2524" TIME_SLOT_REF2="ts2525">
-				<ANNOTATION_VALUE>a::h ah va bene lo farete quest' anno pe[rò]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a::h ah va bene lo farete quest'anno pe[rò]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10903,12 +10903,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1273" TIME_SLOT_REF1="ts2544" TIME_SLOT_REF2="ts2545">
-				<ANNOTATION_VALUE>&gt;cioè&lt; o vedo che chi l' ha dato già s~</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;cioè&lt; o vedo che chi l'ha dato già s~</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1274" TIME_SLOT_REF1="ts2546" TIME_SLOT_REF2="ts2547">
-				<ANNOTATION_VALUE>siccome c' è solo una persona che l' ha dato comunque</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>siccome c'è solo una persona che l'ha dato comunque</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -11098,17 +11098,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1314" TIME_SLOT_REF1="ts2626" TIME_SLOT_REF2="ts2627">
-				<ANNOTATION_VALUE>sì alla ripre:sa credo l' o~ l' otto o il nove</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì alla ripre:sa credo l'o~ l'otto o il nove</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1315" TIME_SLOT_REF1="ts2628" TIME_SLOT_REF2="ts2629">
-				<ANNOTATION_VALUE>&gt;l' otto o il nove gennaio&lt; ma ve lo dico</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;l'otto o il nove gennaio&lt; ma ve lo dico</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1316" TIME_SLOT_REF1="ts2630" TIME_SLOT_REF2="ts2631">
-				<ANNOTATION_VALUE>perché:: ah perché c' è anche un altro problema, allora</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché:: ah perché c'è anche un altro problema, allora</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -11313,7 +11313,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1360" TIME_SLOT_REF1="ts2718" TIME_SLOT_REF2="ts2719">
-				<ANNOTATION_VALUE>dell' origina:le</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dell'origina:le</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -11448,7 +11448,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1387" TIME_SLOT_REF1="ts2772" TIME_SLOT_REF2="ts2773">
-				<ANNOTATION_VALUE>sulla base di un' operazione filologica</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sulla base di un'operazione filologica</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -11583,7 +11583,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1414" TIME_SLOT_REF1="ts2826" TIME_SLOT_REF2="ts2827">
-				<ANNOTATION_VALUE>di facies linguistica toscana si:ano quelli più vicini all' originale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di facies linguistica toscana si:ano quelli più vicini all'originale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -11653,7 +11653,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1428" TIME_SLOT_REF1="ts2854" TIME_SLOT_REF2="ts2855">
-				<ANNOTATION_VALUE>l' originale del canzoniere</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'originale del canzoniere</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -11763,7 +11763,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1450" TIME_SLOT_REF1="ts2898" TIME_SLOT_REF2="ts2899">
-				<ANNOTATION_VALUE>c' è scritto (.) che il copista si chiama giovanni malpaghi:ni</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è scritto (.) che il copista si chiama giovanni malpaghi:ni</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -11778,7 +11778,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1453" TIME_SLOT_REF1="ts2904" TIME_SLOT_REF2="ts2905">
-				<ANNOTATION_VALUE>un paio d' anni fa una nostra collega filologa dice</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un paio d'anni fa una nostra collega filologa dice</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -11803,7 +11803,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1458" TIME_SLOT_REF1="ts2914" TIME_SLOT_REF2="ts2915">
-				<ANNOTATION_VALUE>se n' è andata a gambe all' aria pure le:i perché sembra che:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se n'è andata a gambe all'aria pure le:i perché sembra che:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -11913,7 +11913,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1480" TIME_SLOT_REF1="ts2958" TIME_SLOT_REF2="ts2959">
-				<ANNOTATION_VALUE>prima dell' invenzione della stampa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>prima dell'invenzione della stampa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -11953,7 +11953,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1488" TIME_SLOT_REF1="ts2974" TIME_SLOT_REF2="ts2975">
-				<ANNOTATION_VALUE>i copisti di professione erano l' equivalente degli edito:ri</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>i copisti di professione erano l'equivalente degli edito:ri</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12163,7 +12163,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1530" TIME_SLOT_REF1="ts3058" TIME_SLOT_REF2="ts3059">
-				<ANNOTATION_VALUE>correzioni nell' interli:nea</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>correzioni nell'interli:nea</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12203,7 +12203,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1538" TIME_SLOT_REF1="ts3074" TIME_SLOT_REF2="ts3075">
-				<ANNOTATION_VALUE>va abbastanza be:ne (.) e lo copia così com' è.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>va abbastanza be:ne (.) e lo copia così com'è.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12248,7 +12248,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1547" TIME_SLOT_REF1="ts3092" TIME_SLOT_REF2="ts3093">
-				<ANNOTATION_VALUE>almo sol quella lu:ce ch' io sola amo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>almo sol quella lu:ce ch'io sola amo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12323,7 +12323,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1562" TIME_SLOT_REF1="ts3122" TIME_SLOT_REF2="ts3123">
-				<ANNOTATION_VALUE>un' immagine visi:va di dove siete arrivati.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un'immagine visi:va di dove siete arrivati.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12363,7 +12363,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1570" TIME_SLOT_REF1="ts3138" TIME_SLOT_REF2="ts3139">
-				<ANNOTATION_VALUE>&gt;che cos' è questa poesia&lt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;che cos'è questa poesia&lt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12453,7 +12453,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1589" TIME_SLOT_REF1="ts3176" TIME_SLOT_REF2="ts3177">
-				<ANNOTATION_VALUE>di quei sospiri ond' io nudriva il core.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di quei sospiri ond'io nudriva il core.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12588,7 +12588,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1616" TIME_SLOT_REF1="ts3230" TIME_SLOT_REF2="ts3231">
-				<ANNOTATION_VALUE>si perde l' assetto medievale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si perde l'assetto medievale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12598,7 +12598,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1618" TIME_SLOT_REF1="ts3234" TIME_SLOT_REF2="ts3235">
-				<ANNOTATION_VALUE>che potremmo definire più moderno senz' altro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che potremmo definire più moderno senz'altro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12668,7 +12668,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1632" TIME_SLOT_REF1="ts3262" TIME_SLOT_REF2="ts3263">
-				<ANNOTATION_VALUE>c' era una rigatura fatta (.) a mina secca</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'era una rigatura fatta (.) a mina secca</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12763,7 +12763,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1651" TIME_SLOT_REF1="ts3300" TIME_SLOT_REF2="ts3301">
-				<ANNOTATION_VALUE>guardate soltanto visivamente com' è</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>guardate soltanto visivamente com'è</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12798,7 +12798,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1658" TIME_SLOT_REF1="ts3314" TIME_SLOT_REF2="ts3315">
-				<ANNOTATION_VALUE>que:sto è l' equivale~ questa roba qui</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>que:sto è l'equivale~ questa roba qui</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12878,12 +12878,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1674" TIME_SLOT_REF1="ts3346" TIME_SLOT_REF2="ts3347">
-				<ANNOTATION_VALUE>l' impostazione della pagina</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'impostazione della pagina</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1675" TIME_SLOT_REF1="ts3348" TIME_SLOT_REF2="ts3349">
-				<ANNOTATION_VALUE>l' impostazione della pagina</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'impostazione della pagina</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12918,7 +12918,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1682" TIME_SLOT_REF1="ts3362" TIME_SLOT_REF2="ts3363">
-				<ANNOTATION_VALUE>e vi si apre un' altra finestra con tutti i numeri</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e vi si apre un'altra finestra con tutti i numeri</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12933,7 +12933,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1685" TIME_SLOT_REF1="ts3368" TIME_SLOT_REF2="ts3369">
-				<ANNOTATION_VALUE>che cos' ha studiato ha studiato le proporzioni di questa pagina</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che cos'ha studiato ha studiato le proporzioni di questa pagina</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12963,7 +12963,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1691" TIME_SLOT_REF1="ts3380" TIME_SLOT_REF2="ts3381">
-				<ANNOTATION_VALUE>e la competenza di impaginazione dell' autore.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e la competenza di impaginazione dell'autore.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12988,7 +12988,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1696" TIME_SLOT_REF1="ts3390" TIME_SLOT_REF2="ts3391">
-				<ANNOTATION_VALUE>comporla così com' è</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>comporla così com'è</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13013,7 +13013,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1701" TIME_SLOT_REF1="ts3400" TIME_SLOT_REF2="ts3401">
-				<ANNOTATION_VALUE>°vediamo se ce n' è qualcuna più visibile°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>°vediamo se ce n'è qualcuna più visibile°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13313,7 +13313,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1761" TIME_SLOT_REF1="ts3520" TIME_SLOT_REF2="ts3521">
-				<ANNOTATION_VALUE>do:nna non vivi (d' io)</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>do:nna non vivi (d'io)</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13343,7 +13343,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1767" TIME_SLOT_REF1="ts3532" TIME_SLOT_REF2="ts3533">
-				<ANNOTATION_VALUE>vediamo subito la lunghezza dell' endecasillabo e</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vediamo subito la lunghezza dell'endecasillabo e</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13398,7 +13398,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1778" TIME_SLOT_REF1="ts3554" TIME_SLOT_REF2="ts3555">
-				<ANNOTATION_VALUE>rilevati (.) rispetto all' armonia</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>rilevati (.) rispetto all'armonia</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13443,7 +13443,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1787" TIME_SLOT_REF1="ts3572" TIME_SLOT_REF2="ts3573">
-				<ANNOTATION_VALUE>quella che vi ho fatto vedere dove c' è:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quella che vi ho fatto vedere dove c'è:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13478,7 +13478,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1794" TIME_SLOT_REF1="ts3586" TIME_SLOT_REF2="ts3587">
-				<ANNOTATION_VALUE>la carta dietro c' è il ve:rso</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la carta dietro c'è il ve:rso</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13533,12 +13533,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1805" TIME_SLOT_REF1="ts3608" TIME_SLOT_REF2="ts3609">
-				<ANNOTATION_VALUE>l' importante è che noi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'importante è che noi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1806" TIME_SLOT_REF1="ts3610" TIME_SLOT_REF2="ts3611">
-				<ANNOTATION_VALUE>sappiamo che c' è un recto e un verso</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sappiamo che c'è un recto e un verso</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13578,7 +13578,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1814" TIME_SLOT_REF1="ts3626" TIME_SLOT_REF2="ts3627">
-				<ANNOTATION_VALUE>cioè l' altra carta (.) di destra come vedete</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè l'altra carta (.) di destra come vedete</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13633,17 +13633,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1825" TIME_SLOT_REF1="ts3648" TIME_SLOT_REF2="ts3649">
-				<ANNOTATION_VALUE>se la apro all' inizio del purgatorio</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se la apro all'inizio del purgatorio</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1826" TIME_SLOT_REF1="ts3650" TIME_SLOT_REF2="ts3651">
-				<ANNOTATION_VALUE>so che sono all' inizio della seconda cantica</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>so che sono all'inizio della seconda cantica</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1827" TIME_SLOT_REF1="ts3652" TIME_SLOT_REF2="ts3653">
-				<ANNOTATION_VALUE>magari nell' a:nti purgatorio</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>magari nell'a:nti purgatorio</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13668,7 +13668,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1832" TIME_SLOT_REF1="ts3662" TIME_SLOT_REF2="ts3663">
-				<ANNOTATION_VALUE>nell' anti purgatorio ci stanno</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell'anti purgatorio ci stanno</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13698,7 +13698,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1838" TIME_SLOT_REF1="ts3674" TIME_SLOT_REF2="ts3675">
-				<ANNOTATION_VALUE>se io lo apro alla fine del purgatorio so che c' è il paradiso terrestre</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se io lo apro alla fine del purgatorio so che c'è il paradiso terrestre</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13723,7 +13723,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1843" TIME_SLOT_REF1="ts3684" TIME_SLOT_REF2="ts3685">
-				<ANNOTATION_VALUE>dall' inizio della storia dell' umanità:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dall'inizio della storia dell'umanità:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13733,7 +13733,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1845" TIME_SLOT_REF1="ts3688" TIME_SLOT_REF2="ts3689">
-				<ANNOTATION_VALUE>m::h arrivo all' inizio del: del paradi:so</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>m::h arrivo all'inizio del: del paradi:so</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13773,17 +13773,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1853" TIME_SLOT_REF1="ts3704" TIME_SLOT_REF2="ts3705">
-				<ANNOTATION_VALUE>verso il ba:sso, verso l' a:lto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>verso il ba:sso, verso l'a:lto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1854" TIME_SLOT_REF1="ts3706" TIME_SLOT_REF2="ts3707">
-				<ANNOTATION_VALUE>verso l' alto con so:ste,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>verso l'alto con so:ste,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1855" TIME_SLOT_REF1="ts3708" TIME_SLOT_REF2="ts3709">
-				<ANNOTATION_VALUE>verso l' alto più velocemente, in paradiso</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>verso l'alto più velocemente, in paradiso</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13803,7 +13803,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1859" TIME_SLOT_REF1="ts3716" TIME_SLOT_REF2="ts3717">
-				<ANNOTATION_VALUE>allora andiamo (.) all' altro grande:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora andiamo (.) all'altro grande:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13818,7 +13818,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1862" TIME_SLOT_REF1="ts3722" TIME_SLOT_REF2="ts3723">
-				<ANNOTATION_VALUE>diciamo all' altro grande aggrega:to di liriche:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>diciamo all'altro grande aggrega:to di liriche:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13938,7 +13938,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1889" TIME_SLOT_REF1="ts3776" TIME_SLOT_REF2="ts3777">
-				<ANNOTATION_VALUE>e qui l' ordinamento è chiaro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e qui l'ordinamento è chiaro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13953,12 +13953,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1892" TIME_SLOT_REF1="ts3782" TIME_SLOT_REF2="ts3783">
-				<ANNOTATION_VALUE>cosa dice all' inizio</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cosa dice all'inizio</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1893" TIME_SLOT_REF1="ts3784" TIME_SLOT_REF2="ts3785">
-				<ANNOTATION_VALUE>cosa racconta all' inizio &gt;della vita nova&lt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cosa racconta all'inizio &gt;della vita nova&lt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13973,7 +13973,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1897" TIME_SLOT_REF1="ts3792" TIME_SLOT_REF2="ts3793">
-				<ANNOTATION_VALUE>nel senso che all' inizio racconta vi ricordate?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nel senso che all'inizio racconta vi ricordate?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13983,22 +13983,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1899" TIME_SLOT_REF1="ts3796" TIME_SLOT_REF2="ts3797">
-				<ANNOTATION_VALUE>quando &gt;erano&lt; nel no:::no anno d' età</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quando &gt;erano&lt; nel no:::no anno d'età</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1900" TIME_SLOT_REF1="ts3798" TIME_SLOT_REF2="ts3799">
-				<ANNOTATION_VALUE>no:no anno d' età &gt;vuol dire che avevano compiuto&lt; otto anni</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no:no anno d'età &gt;vuol dire che avevano compiuto&lt; otto anni</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1901" TIME_SLOT_REF1="ts3800" TIME_SLOT_REF2="ts3801">
-				<ANNOTATION_VALUE>nel nono anno d' età</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nel nono anno d'età</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1902" TIME_SLOT_REF1="ts3802" TIME_SLOT_REF2="ts3803">
-				<ANNOTATION_VALUE>la seconda volta che si rive:dono diciottesimo anno d' età</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la seconda volta che si rive:dono diciottesimo anno d'età</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14068,7 +14068,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1916" TIME_SLOT_REF1="ts3830" TIME_SLOT_REF2="ts3831">
-				<ANNOTATION_VALUE>c' è un ini:zio vero e proprio</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è un ini:zio vero e proprio</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14168,7 +14168,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1936" TIME_SLOT_REF1="ts3870" TIME_SLOT_REF2="ts3871">
-				<ANNOTATION_VALUE>non c' è tessuto connettivo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non c'è tessuto connettivo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14238,7 +14238,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1950" TIME_SLOT_REF1="ts3898" TIME_SLOT_REF2="ts3899">
-				<ANNOTATION_VALUE>be:mbo pietro bembo all' inizio del cinquecento</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>be:mbo pietro bembo all'inizio del cinquecento</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14253,7 +14253,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1953" TIME_SLOT_REF1="ts3904" TIME_SLOT_REF2="ts3905">
-				<ANNOTATION_VALUE>il canzoniere non c' era ancora eh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il canzoniere non c'era ancora eh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14283,17 +14283,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1959" TIME_SLOT_REF1="ts3916" TIME_SLOT_REF2="ts3917">
-				<ANNOTATION_VALUE>nell' originale petrarchesco</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell'originale petrarchesco</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1960" TIME_SLOT_REF1="ts3918" TIME_SLOT_REF2="ts3919">
-				<ANNOTATION_VALUE>non esiste non c' è nessuna indicazione in vita e in mo:rte</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non esiste non c'è nessuna indicazione in vita e in mo:rte</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1961" TIME_SLOT_REF1="ts3920" TIME_SLOT_REF2="ts3921">
-				<ANNOTATION_VALUE>c' è soltanto una prima parte separata dalla seconda</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è soltanto una prima parte separata dalla seconda</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14303,7 +14303,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1963" TIME_SLOT_REF1="ts3924" TIME_SLOT_REF2="ts3925">
-				<ANNOTATION_VALUE>°c' è s~°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>°c'è s~°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14348,12 +14348,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1972" TIME_SLOT_REF1="ts3942" TIME_SLOT_REF2="ts3943">
-				<ANNOTATION_VALUE>fa quest' edizione sulla base di co:dici</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>fa quest'edizione sulla base di co:dici</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1973" TIME_SLOT_REF1="ts3944" TIME_SLOT_REF2="ts3945">
-				<ANNOTATION_VALUE>che rispettano l' ordinamento</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che rispettano l'ordinamento</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14393,7 +14393,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1981" TIME_SLOT_REF1="ts3960" TIME_SLOT_REF2="ts3961">
-				<ANNOTATION_VALUE>tranne l' ultima parte di cui parleremo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tranne l'ultima parte di cui parleremo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14423,7 +14423,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1987" TIME_SLOT_REF1="ts3972" TIME_SLOT_REF2="ts3973">
-				<ANNOTATION_VALUE>se io volessi prendere un canto dell' anti purgatorio</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se io volessi prendere un canto dell'anti purgatorio</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14503,7 +14503,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2003" TIME_SLOT_REF1="ts4004" TIME_SLOT_REF2="ts4005">
-				<ANNOTATION_VALUE>questa è un' edizione successiva, del cinquanta</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questa è un'edizione successiva, del cinquanta</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14558,7 +14558,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2014" TIME_SLOT_REF1="ts4026" TIME_SLOT_REF2="ts4027">
-				<ANNOTATION_VALUE>legge l' edizione di::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>legge l'edizione di::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14603,12 +14603,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2023" TIME_SLOT_REF1="ts4044" TIME_SLOT_REF2="ts4045">
-				<ANNOTATION_VALUE>quindi lui rispecchia l' ordine</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi lui rispecchia l'ordine</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2024" TIME_SLOT_REF1="ts4046" TIME_SLOT_REF2="ts4047">
-				<ANNOTATION_VALUE>dell' originale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dell'originale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14633,7 +14633,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2029" TIME_SLOT_REF1="ts4056" TIME_SLOT_REF2="ts4057">
-				<ANNOTATION_VALUE>e:h l' originale del canzoniere non è possibile</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h l'originale del canzoniere non è possibile</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14653,7 +14653,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2033" TIME_SLOT_REF1="ts4064" TIME_SLOT_REF2="ts4065">
-				<ANNOTATION_VALUE>l' identificazione di questo testo con l' originale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'identificazione di questo testo con l'originale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14723,7 +14723,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2047" TIME_SLOT_REF1="ts4092" TIME_SLOT_REF2="ts4093">
-				<ANNOTATION_VALUE>la canzone all' italia,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la canzone all'italia,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14748,7 +14748,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2052" TIME_SLOT_REF1="ts4102" TIME_SLOT_REF2="ts4103">
-				<ANNOTATION_VALUE>il canzoniere alla storia d' amore</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il canzoniere alla storia d'amore</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14833,7 +14833,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2069" TIME_SLOT_REF1="ts4136" TIME_SLOT_REF2="ts4137">
-				<ANNOTATION_VALUE>così com' è il canzoniere non si capisce.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>così com'è il canzoniere non si capisce.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14883,7 +14883,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2079" TIME_SLOT_REF1="ts4156" TIME_SLOT_REF2="ts4157">
-				<ANNOTATION_VALUE>perché in francia nel cinquecento c' è:::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché in francia nel cinquecento c'è:::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -15018,7 +15018,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2106" TIME_SLOT_REF1="ts4210" TIME_SLOT_REF2="ts4211">
-				<ANNOTATION_VALUE>le sequenze non s:ono visibili nell' originale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>le sequenze non s:ono visibili nell'originale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -15028,12 +15028,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2108" TIME_SLOT_REF1="ts4214" TIME_SLOT_REF2="ts4215">
-				<ANNOTATION_VALUE>hanno riconosciuto soprattutto fransisco rico e marco sant' agata</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>hanno riconosciuto soprattutto fransisco rico e marco sant'agata</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2109" TIME_SLOT_REF1="ts4216" TIME_SLOT_REF2="ts4217">
-				<ANNOTATION_VALUE>hanno riconosciuto l' esistenza di un preambolo di un</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>hanno riconosciuto l'esistenza di un preambolo di un</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -15093,7 +15093,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2121" TIME_SLOT_REF1="ts4240" TIME_SLOT_REF2="ts4241">
-				<ANNOTATION_VALUE>due e tre raccontano l' innamoramento,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>due e tre raccontano l'innamoramento,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -15203,7 +15203,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2143" TIME_SLOT_REF1="ts4284" TIME_SLOT_REF2="ts4285">
-				<ANNOTATION_VALUE>all' altro personaggio di questa famiglia</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'altro personaggio di questa famiglia</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -15308,7 +15308,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2164" TIME_SLOT_REF1="ts4326" TIME_SLOT_REF2="ts4327">
-				<ANNOTATION_VALUE>c' è la la ballata u:ndici presuppone</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è la la ballata u:ndici presuppone</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -15368,7 +15368,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2176" TIME_SLOT_REF1="ts4350" TIME_SLOT_REF2="ts4351">
-				<ANNOTATION_VALUE>c' è questo v:elo che cala sulla donna</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è questo v:elo che cala sulla donna</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -15388,7 +15388,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2180" TIME_SLOT_REF1="ts4358" TIME_SLOT_REF2="ts4359">
-				<ANNOTATION_VALUE>che è l' oggetto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che è l'oggetto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -15453,7 +15453,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2193" TIME_SLOT_REF1="ts4384" TIME_SLOT_REF2="ts4385">
-				<ANNOTATION_VALUE>l' impossibilità</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'impossibilità</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -15463,12 +15463,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2195" TIME_SLOT_REF1="ts4388" TIME_SLOT_REF2="ts4389">
-				<ANNOTATION_VALUE>l' oggetto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'oggetto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2196" TIME_SLOT_REF1="ts4390" TIME_SLOT_REF2="ts4391">
-				<ANNOTATION_VALUE>&gt;della della&lt; del proprio amore della contemplazione. l' assenza</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;della della&lt; del proprio amore della contemplazione. l'assenza</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -15573,12 +15573,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2217" TIME_SLOT_REF1="ts4432" TIME_SLOT_REF2="ts4433">
-				<ANNOTATION_VALUE>tutto il tempo a disposizione dell' amante</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tutto il tempo a disposizione dell'amante</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2218" TIME_SLOT_REF1="ts4434" TIME_SLOT_REF2="ts4435">
-				<ANNOTATION_VALUE>all' inizio del canzoniere</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'inizio del canzoniere</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

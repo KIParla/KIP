@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:18:35+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:16+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
@@ -1634,7 +1634,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
-				<ANNOTATION_VALUE>ah vabbè non è che adesso non è che c' ho problemi a parla' lo sai</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ah vabbè non è che adesso non è che c'ho problemi a parla' lo sai</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1679,12 +1679,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
-				<ANNOTATION_VALUE>[un con]to è se l' avevo verbalizzato ma non l' ho verbalizzato</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[un con]to è se l'avevo verbalizzato ma non l'ho verbalizzato</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
-				<ANNOTATION_VALUE>adesso c' hai quest' altr(a)</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>adesso c'hai quest'altr(a)</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1709,7 +1709,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts81">
-				<ANNOTATION_VALUE>lo ripeto perché quando dico valore me se tipo mi s' intreccia blblbl cos[ì]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lo ripeto perché quando dico valore me se tipo mi s'(intreccia blblbl cos[ì]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1749,7 +1749,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
-				<ANNOTATION_VALUE>in un &lt;periodo&gt; non lo so in un' era probabilmente se po [chiama'] questa non lo [so]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in un &lt;periodo&gt; non lo so in un'era probabilmente se po [chiama'] questa non lo [so]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1844,7 +1844,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts170" TIME_SLOT_REF2="ts171">
-				<ANNOTATION_VALUE>che c' è</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che c'è</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2034,7 +2034,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a132" TIME_SLOT_REF1="ts262" TIME_SLOT_REF2="ts263">
-				<ANNOTATION_VALUE>sta in tutt' altro quindi i veri</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sta in tutt'altro quindi i veri</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2139,7 +2139,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a164" TIME_SLOT_REF1="ts326" TIME_SLOT_REF2="ts327">
-				<ANNOTATION_VALUE>musica d' attesa ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>musica d'attesa ((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2194,7 +2194,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a176" TIME_SLOT_REF1="ts350" TIME_SLOT_REF2="ts351">
-				<ANNOTATION_VALUE>c' è una x rielaborazione no</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è una x rielaborazione no</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2219,7 +2219,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a190" TIME_SLOT_REF1="ts378" TIME_SLOT_REF2="ts379">
-				<ANNOTATION_VALUE>[cinquan]t' anni fa ma[ssimo]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[cinquan]t'anni fa ma[ssimo]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2229,7 +2229,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a194" TIME_SLOT_REF1="ts386" TIME_SLOT_REF2="ts387">
-				<ANNOTATION_VALUE>[eh ma infatti massimo] cinquant' anni ho detto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[eh ma infatti massimo] cinquant'anni ho detto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2284,7 +2284,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a215" TIME_SLOT_REF1="ts428" TIME_SLOT_REF2="ts429">
-				<ANNOTATION_VALUE>figura del radical chic secondo me s' è anche affermato il vintage</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>figura del radical chic secondo me s'(è anche affermato il vintage</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2364,7 +2364,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a252" TIME_SLOT_REF1="ts502" TIME_SLOT_REF2="ts503">
-				<ANNOTATION_VALUE>frontale no no va bene ma ci sta nel senso almeno se parla de qualcosa (de) diverso rispetto a io che t' insulto te che m' insul[ti o]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>frontale no no va bene ma ci sta nel senso almeno se parla de qualcosa (de) diverso rispetto a io che t'(insulto te che m'(insul[ti o]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2379,7 +2379,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a260" TIME_SLOT_REF1="ts518" TIME_SLOT_REF2="ts519">
-				<ANNOTATION_VALUE>[aspetta che c' è un po' di cas]ino qua</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[aspetta che c'è un po' di cas]ino qua</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2424,12 +2424,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a275" TIME_SLOT_REF1="ts548" TIME_SLOT_REF2="ts549">
-				<ANNOTATION_VALUE>levi's che c' aveva mamma a vent' anni</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>levi's che c'aveva mamma a vent'anni</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a277" TIME_SLOT_REF1="ts552" TIME_SLOT_REF2="ts553">
-				<ANNOTATION_VALUE>&gt;cioè&lt; che uno dice sì è vintage però sì mamma negli anni &lt;ottanta:&gt; ottanta c' aveva vent' anni</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;cioè&lt; che uno dice sì è vintage però sì mamma negli anni &lt;ottanta:&gt; ottanta c'aveva vent'anni</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2444,7 +2444,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a280" TIME_SLOT_REF1="ts558" TIME_SLOT_REF2="ts559">
-				<ANNOTATION_VALUE>è più l' apparenza capito, [della] cosa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è più l'apparenza capito, [della] cosa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2554,7 +2554,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a326" TIME_SLOT_REF1="ts650" TIME_SLOT_REF2="ts651">
-				<ANNOTATION_VALUE>vedi questa foto del kebab com' è</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vedi questa foto del kebab com'è</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2629,12 +2629,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a354" TIME_SLOT_REF1="ts706" TIME_SLOT_REF2="ts707">
-				<ANNOTATION_VALUE>&gt;cioè&lt; questa chiaramente me l' hai fatta veni(re) in mente te eh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;cioè&lt; questa chiaramente me l'hai fatta veni(re) in mente te eh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a355" TIME_SLOT_REF1="ts708" TIME_SLOT_REF2="ts709">
-				<ANNOTATION_VALUE>&gt;nel [sens]o&lt; sta cosa però effettivamente anche nella letteratura e nell' arte si è osato talmente tanto talmente tanti che pensa ai futuristi cioè</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;nel [sens]o&lt; sta cosa però effettivamente anche nella letteratura e nell'arte si è osato talmente tanto talmente tanti che pensa ai futuristi cioè</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2659,7 +2659,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a365" TIME_SLOT_REF1="ts728" TIME_SLOT_REF2="ts729">
-				<ANNOTATION_VALUE>perché sono una critica d' arte molto famosa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché sono una critica d'arte molto famosa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2684,7 +2684,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a375" TIME_SLOT_REF1="ts748" TIME_SLOT_REF2="ts749">
-				<ANNOTATION_VALUE>&gt;cioè&lt; secondo me è l' osare talmente tanto che</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;cioè&lt; secondo me è l'osare talmente tanto che</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2719,7 +2719,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a385" TIME_SLOT_REF1="ts768" TIME_SLOT_REF2="ts769">
-				<ANNOTATION_VALUE>rapo~ rapporto perso con la natura &gt;cio[è&lt; un po ' le s]ensazioni che c' hai</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>rapo~ rapporto perso con la natura &gt;cio[è&lt; un po' le s]ensazioni che c'hai</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2764,7 +2764,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a396" TIME_SLOT_REF1="ts790" TIME_SLOT_REF2="ts791">
-				<ANNOTATION_VALUE>&gt;cioè&lt; è come se: c' è un ritorno naturale come se fosse un impulso naturale [al ritorno al]le radici no</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;cioè&lt; è come se: c'è un ritorno naturale come se fosse un impulso naturale [al ritorno al]le radici no</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2779,7 +2779,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a402" TIME_SLOT_REF1="ts802" TIME_SLOT_REF2="ts803">
-				<ANNOTATION_VALUE>questo non c' ho più niente da dire</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo non c'ho più niente da dire</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2829,7 +2829,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a437" TIME_SLOT_REF1="ts872" TIME_SLOT_REF2="ts873">
-				<ANNOTATION_VALUE>beh secondo me no[n è vero che non] c' è scusa finisci</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>beh secondo me no[n è vero che non] c'è scusa finisci</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2844,7 +2844,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a450" TIME_SLOT_REF1="ts898" TIME_SLOT_REF2="ts899">
-				<ANNOTATION_VALUE>io credo un' altra cosa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>io credo un'altra cosa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2869,7 +2869,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a456" TIME_SLOT_REF1="ts910" TIME_SLOT_REF2="ts911">
-				<ANNOTATION_VALUE>rispetto anche (no)n so: alla fine dell' ottocento per dirti</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>rispetto anche (no)n so: alla fine dell'ottocento per dirti</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2879,12 +2879,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a459" TIME_SLOT_REF1="ts916" TIME_SLOT_REF2="ts917">
-				<ANNOTATION_VALUE>dell' ante~ e del dopoguerra [di entram]be le guerre</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dell'ante~ e del dopoguerra [di entram]be le guerre</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a462" TIME_SLOT_REF1="ts922" TIME_SLOT_REF2="ts923">
-				<ANNOTATION_VALUE>[però po]i &gt;cioè&lt; c' è stato come un ritorno a quello che c' è già stato fatto oppure no~ e come se fosse sempre continuato però sotto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[però po]i &gt;cioè&lt; c'è stato come un ritorno a quello che c'è già stato fatto oppure no~ e come se fosse sempre continuato però sotto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2894,7 +2894,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a464" TIME_SLOT_REF1="ts926" TIME_SLOT_REF2="ts927">
-				<ANNOTATION_VALUE>modi di~ &gt;cioè&lt; con modi diversi tipo nei periodi de:~delle guerre oppure</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>modi di~ &gt;cioè&lt; con modi diversi tipo nei periodi de~ delle guerre oppure</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2984,7 +2984,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a489" TIME_SLOT_REF1="ts976" TIME_SLOT_REF2="ts977">
-				<ANNOTATION_VALUE>&gt;cioè&lt; ripe~ pensando ad oggi all:' a~ all' arte che va oggi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;cioè&lt; ripe~ pensando ad oggi all:'a~ all'arte che va oggi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3009,7 +3009,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a494" TIME_SLOT_REF1="ts986" TIME_SLOT_REF2="ts987">
-				<ANNOTATION_VALUE>per esperienza personale senza mette(re) (i)n: mezzo tutta l' umanità intera</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per esperienza personale senza mette(re) (i)n: mezzo tutta l'umanità intera</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3059,7 +3059,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a506" TIME_SLOT_REF1="ts1010" TIME_SLOT_REF2="ts1011">
-				<ANNOTATION_VALUE>però valido come l' ho sempre percepito io</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però valido come l'ho sempre percepito io</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3384,7 +3384,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a599" TIME_SLOT_REF1="ts1196" TIME_SLOT_REF2="ts1197">
-				<ANNOTATION_VALUE>&gt;cioè&lt; l' arte fa sempre il suo dovere lo sta facendo anche a~ o~ anche ora</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;cioè&lt; l'arte fa sempre il suo dovere lo sta facendo anche a~ o~ anche ora</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3394,7 +3394,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a603" TIME_SLOT_REF1="ts1204" TIME_SLOT_REF2="ts1205">
-				<ANNOTATION_VALUE>e la [critica &gt;cioè&lt; c' è s]empre stata e questa non la possiamo togliere</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e la [critica &gt;cioè&lt; c'è s]empre stata e questa non la possiamo togliere</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3484,7 +3484,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a631" TIME_SLOT_REF1="ts1260" TIME_SLOT_REF2="ts1261">
-				<ANNOTATION_VALUE>non c' ha</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non c'ha</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3574,7 +3574,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a653" TIME_SLOT_REF1="ts1304" TIME_SLOT_REF2="ts1305">
-				<ANNOTATION_VALUE>&gt;cioè&lt; che ha sessant' anni, ha un lavoro fisso, ha una famiglia ma dentro di sé ha sempre voluto provare magari</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;cioè&lt; che ha sessant'anni, ha un lavoro fisso, ha una famiglia ma dentro di sé ha sempre voluto provare magari</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3689,7 +3689,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a683" TIME_SLOT_REF1="ts1364" TIME_SLOT_REF2="ts1365">
-				<ANNOTATION_VALUE>(°&gt;del&lt;°)l' onestà intellettuale è questa no? non so come dire</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>(°&gt;del&lt;°)l'onestà intellettuale è questa no? non so come dire</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3829,7 +3829,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a801" TIME_SLOT_REF1="ts1600" TIME_SLOT_REF2="ts1601">
-				<ANNOTATION_VALUE>[s:ì dai adesso devo guarda(re) i cost]umi da calzedonia c' ho da fa(re)</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[s:ì dai adesso devo guarda(re) i cost]umi da calzedonia c'ho da fa(re)</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3876,12 +3876,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
-				<ANNOTATION_VALUE>eh ho visto l' altra volta</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh ho visto l'altra volta</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts33">
-				<ANNOTATION_VALUE>[no non è que]llo è che c' è proprio il punto in cui e non lo ripeto adesso però perché ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[no non è que]llo è che c'è proprio il punto in cui e non lo ripeto adesso però perché ((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4001,7 +4001,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts152" TIME_SLOT_REF2="ts153">
-				<ANNOTATION_VALUE>dici una canzone: tu dici ah è dell' anno scorso uno dice ah beh dai</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dici una canzone: tu dici ah è dell'anno scorso uno dice ah beh dai</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4016,7 +4016,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts161">
-				<ANNOTATION_VALUE>non c' è il tempo [per:]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non c'è il tempo [per:]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4161,7 +4161,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a187" TIME_SLOT_REF1="ts372" TIME_SLOT_REF2="ts373">
-				<ANNOTATION_VALUE>non so da quan:t' è che ci sia la co~ perché comunque vintage non è che parliamo di cose capito antiche</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non so da quan:t'è che ci sia la co~ perché comunque vintage non è che parliamo di cose capito antiche</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4311,7 +4311,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a240" TIME_SLOT_REF1="ts478" TIME_SLOT_REF2="ts479">
-				<ANNOTATION_VALUE>un po' è un appunto interessante sull' effetto nostalgia</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un po' è un appunto interessante sull'effetto nostalgia</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4431,7 +4431,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a300" TIME_SLOT_REF1="ts598" TIME_SLOT_REF2="ts599">
-				<ANNOTATION_VALUE>magari non n~ non nei film=eh ma nei video musicali e vabbè chiaramente arrivo sempre lì con l' argomento</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>magari non n~ non nei film=eh ma nei video musicali e vabbè chiaramente arrivo sempre lì con l'argomento</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4451,7 +4451,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a307" TIME_SLOT_REF1="ts612" TIME_SLOT_REF2="ts613">
-				<ANNOTATION_VALUE>il ne~ il nero &gt;non&lt; è mai nero sempre un po' schiarito così [come s~ per s]imulare l' effetto di</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il ne~ il nero &gt;non&lt; è mai nero sempre un po' schiarito così [come s~ per s]imulare l'effetto di</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4561,7 +4561,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a340" TIME_SLOT_REF1="ts678" TIME_SLOT_REF2="ts679">
-				<ANNOTATION_VALUE>a me dà quell' impress[ione lì almeno]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a me dà quell'impress[ione lì almeno]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4686,7 +4686,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a406" TIME_SLOT_REF1="ts810" TIME_SLOT_REF2="ts811">
-				<ANNOTATION_VALUE>[io sì] che da un lato non so è interessante secondo me vedere queste cose nell' arte di vario tipo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[io sì] che da un lato non so è interessante secondo me vedere queste cose nell'arte di vario tipo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4701,7 +4701,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a409" TIME_SLOT_REF1="ts816" TIME_SLOT_REF2="ts817">
-				<ANNOTATION_VALUE>è una cosa interessante perché l' arte è sempre specchio della società del momento bla bla bla ovvio</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è una cosa interessante perché l'arte è sempre specchio della società del momento bla bla bla ovvio</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4721,7 +4721,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a414" TIME_SLOT_REF1="ts826" TIME_SLOT_REF2="ts827">
-				<ANNOTATION_VALUE>d' altra parte ogni tanto mi fa venire un po' come dire</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>d'altra parte ogni tanto mi fa venire un po' come dire</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4781,7 +4781,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a433" TIME_SLOT_REF1="ts864" TIME_SLOT_REF2="ts865">
-				<ANNOTATION_VALUE>non so a volte mi dà l' im~ come l' impressione che non: ci sia abbastanza coraggio da:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non so a volte mi dà l'im~ come l'impressione che non: ci sia abbastanza coraggio da:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5236,7 +5236,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a702" TIME_SLOT_REF1="ts1402" TIME_SLOT_REF2="ts1403">
-				<ANNOTATION_VALUE>e dall' altra poi esprimere q~ &gt;cioè&lt; qual=a=l è la mia opinione: nel senso</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e dall'altra poi esprimere q~ &gt;cioè&lt; qual=a=l è la mia opinione: nel senso</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5256,7 +5256,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a706" TIME_SLOT_REF1="ts1410" TIME_SLOT_REF2="ts1411">
-				<ANNOTATION_VALUE>non c' è nessun artista di cui dico a:h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non c'è nessun artista di cui dico a:h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5351,7 +5351,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a727" TIME_SLOT_REF1="ts1452" TIME_SLOT_REF2="ts1453">
-				<ANNOTATION_VALUE>tu non lo puoi sapere all'=eh già: da dall' inizio</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tu non lo puoi sapere all'=eh già: da dall'inizio</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5361,7 +5361,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a729" TIME_SLOT_REF1="ts1456" TIME_SLOT_REF2="ts1457">
-				<ANNOTATION_VALUE>un' opera d' arte che &lt;rimane:&gt; nel tempo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un'opera d'arte che &lt;rimane:&gt; nel tempo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5396,7 +5396,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a738" TIME_SLOT_REF1="ts1474" TIME_SLOT_REF2="ts1475">
-				<ANNOTATION_VALUE>tipo: un secoldo dopo a:h cent' anni fa c' era questo artista gran[dissi(mo) xx ques]ta canzone così</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tipo: un secoldo dopo a:h cent'anni fa c'era questo artista gran[dissi(mo) xx ques]ta canzone così</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5411,7 +5411,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a742" TIME_SLOT_REF1="ts1482" TIME_SLOT_REF2="ts1483">
-				<ANNOTATION_VALUE>un' opera d' arte valida, qualcosa che parli: al cuore dell' essere umano</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un'opera d'arte valida, qualcosa che parli: al cuore dell'essere umano</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5466,12 +5466,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a755" TIME_SLOT_REF1="ts1508" TIME_SLOT_REF2="ts1509">
-				<ANNOTATION_VALUE>&gt;cioè&lt; sicuramente c' è chi ci crede veramente</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;cioè&lt; sicuramente c'è chi ci crede veramente</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a756" TIME_SLOT_REF1="ts1510" TIME_SLOT_REF2="ts1511">
-				<ANNOTATION_VALUE>ma secondo me c' è anche qualcuno che lo fa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma secondo me c'è anche qualcuno che lo fa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5581,7 +5581,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a792" TIME_SLOT_REF1="ts1582" TIME_SLOT_REF2="ts1583">
-				<ANNOTATION_VALUE>non so mi pareva che fosse nel primo canto del paradiso di dante a proposito di a proposito di opere d' arte che rimangono nel tempo ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non so mi pareva che fosse nel primo canto del paradiso di dante a proposito di a proposito di opere d'arte che rimangono nel tempo ((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

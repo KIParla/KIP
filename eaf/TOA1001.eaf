@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:18:35+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:18+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
@@ -1109,28 +1109,6 @@
 		<TIME_SLOT TIME_SLOT_ID="ts1104" TIME_VALUE="2178170" />
 		<TIME_SLOT TIME_SLOT_ID="ts1105" TIME_VALUE="2181946" />
 		</TIME_ORDER>
-	<TIER TIER_ID="???" LINGUISTIC_TYPE_REF="default-lt">
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a272" TIME_SLOT_REF1="ts542" TIME_SLOT_REF2="ts543">
-				<ANNOTATION_VALUE>volevo solo saluta[rti]</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a274" TIME_SLOT_REF1="ts546" TIME_SLOT_REF2="ts547">
-				<ANNOTATION_VALUE>cia[o]</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a315" TIME_SLOT_REF1="ts628" TIME_SLOT_REF2="ts629">
-				<ANNOTATION_VALUE>[permesso]?</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a317" TIME_SLOT_REF1="ts632" TIME_SLOT_REF2="ts633">
-				<ANNOTATION_VALUE>[okay]. nessun problema.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		</TIER>
 	<TIER TIER_ID="TO027" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
@@ -1179,7 +1157,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts41">
-				<ANNOTATION_VALUE>ah, sì. allora=mh, guardo. perché [(non l' avevo notato.)]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ah, sì. allora=mh, guardo. perché [(non l'avevo notato.)]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1194,17 +1172,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
-				<ANNOTATION_VALUE>[sì l' avevo trovato::],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì l'avevo trovato::],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts57">
-				<ANNOTATION_VALUE>sì l' avevo:: (.) infatti nello spagnolo avevo usato un libro più recente perché:: (.) [] in quello c' erano:, c' era un capitolo sul=eh, sul linguaggio spagnolo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì l'avevo:: (.) infatti nello spagnolo avevo usato un libro più recente perché:: (.) [] in quello c'erano:, c'era un capitolo sul=eh, sul linguaggio spagnolo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
-				<ANNOTATION_VALUE>però negli altri:, avevo trovato solo nell' altro libro più::,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però negli altri:, avevo trovato solo nell'altro libro più::,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1214,7 +1192,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts71">
-				<ANNOTATION_VALUE>[eh volevo] fare una::, una specie di panora:mica:: anche sull' europa per ve[dere come si=era],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[eh volevo] fare una::, una specie di panora:mica:: anche sull'europa per ve[dere come si=era],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1249,7 +1227,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
-				<ANNOTATION_VALUE>e poi in quello spagnolo, dove c' erano dei:: (.) dei ricorsi del linguaggio: italiano.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e poi in quello spagnolo, dove c'erano dei:: (.) dei ricorsi del linguaggio: italiano.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1294,7 +1272,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts146" TIME_SLOT_REF2="ts147">
-				<ANNOTATION_VALUE>[o se no pos]so trovare dei materiali di parte mia, per inte[grare, per (.) perché nei], sì perché in quei libri lì non so (se) c' era altro su ques[ti argomen]ti qua.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[o se no pos]so trovare dei materiali di parte mia, per inte[grare, per (.) perché nei], sì perché in quei libri lì non so (se) c'era altro su ques[ti argomen]ti qua.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1354,7 +1332,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts212" TIME_SLOT_REF2="ts213">
-				<ANNOTATION_VALUE>ah: sì. perché::=mh c' erano le due germa:nie, (.) [e u]na era più evoluta dell' altra, quindi nella [germania],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ah: sì. perché::=mh c'erano le due germa:nie, (.) [e u]na era più evoluta dell'altra, quindi nella [germania],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1364,7 +1342,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a111" TIME_SLOT_REF1="ts220" TIME_SLOT_REF2="ts221">
-				<ANNOTATION_VALUE>invece in quella orientale, (.) e::h dove c' erano ques~ questi regimi forti (.) e:h socialisti,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>invece in quella orientale, (.) e::h dove c'erano ques~ questi regimi forti (.) e:h socialisti,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1514,7 +1492,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a169" TIME_SLOT_REF1="ts336" TIME_SLOT_REF2="ts337">
-				<ANNOTATION_VALUE>[ah. okay. sì. ades]so:, non mi ricordo se l' avevan scritto loro però. forse [l' aveva scrit]to qualcun altro.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[ah. okay. sì. ades]so:, non mi ricordo se l'avevan scritto loro però. forse [l'aveva scrit]to qualcun altro.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1544,7 +1522,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a182" TIME_SLOT_REF1="ts362" TIME_SLOT_REF2="ts363">
-				<ANNOTATION_VALUE>sì. forse è un riferimento per i giovani sempre: nell' ambito del=eh linguaggio giovanile.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì. forse è un riferimento per i giovani sempre: nell'ambito del=eh linguaggio giovanile.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1559,7 +1537,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a186" TIME_SLOT_REF1="ts370" TIME_SLOT_REF2="ts371">
-				<ANNOTATION_VALUE>[(no) sì]. (.) mi pare che avesse avuto un' eco:: [presso i giovani].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[(no) sì]. (.) mi pare che avesse avuto un'eco:: [presso i giovani].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1629,7 +1607,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a227" TIME_SLOT_REF1="ts452" TIME_SLOT_REF2="ts453">
-				<ANNOTATION_VALUE>[okayy]..</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[okay.]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1684,7 +1662,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a252" TIME_SLOT_REF1="ts502" TIME_SLOT_REF2="ts503">
-				<ANNOTATION_VALUE>adesso non:: boh. mh=[mi pare fosse, no. lo de]vo riguardare. perché non mi ricordo:, (.) se ho sbagliato a scrivere io o se c' era scritto così. [però],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>adesso non:: boh. mh=[mi pare fosse, no. lo de]vo riguardare. perché non mi ricordo:, (.) se ho sbagliato a scrivere io o se c'era scritto così. [però],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1739,7 +1717,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a277" TIME_SLOT_REF1="ts552" TIME_SLOT_REF2="ts553">
-				<ANNOTATION_VALUE>cioè non era:::, diventata quasi un ibrido. (.) tra l' inglese, e il francese.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè non era:::, diventata quasi un ibrido. (.) tra l'inglese, e il francese.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1899,7 +1877,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a375" TIME_SLOT_REF1="ts748" TIME_SLOT_REF2="ts749">
-				<ANNOTATION_VALUE>perché [forse qua c' era scritto &lt;bue]nas días&gt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché [forse qua c'era scritto &lt;bue]nas días&gt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1959,7 +1937,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a410" TIME_SLOT_REF1="ts818" TIME_SLOT_REF2="ts819">
-				<ANNOTATION_VALUE>sì [però: no. mh nel senso::] superficialmente magari viene:: mh (.) viene usato:: in un modo quando si mette la esse o nell' altro: (.) co~ con superficialità.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì [però: no. mh nel senso::] superficialmente magari viene:: mh (.) viene usato:: in un modo quando si mette la esse o nell'altro: (.) co~ con superficialità.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1974,7 +1952,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a416" TIME_SLOT_REF1="ts830" TIME_SLOT_REF2="ts831">
-				<ANNOTATION_VALUE>[ah sì. perché lì c' è scrit]to si è avuto un disco[noscimento]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[ah sì. perché lì c'è scrit]to si è avuto un disco[noscimento]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1984,12 +1962,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a420" TIME_SLOT_REF1="ts838" TIME_SLOT_REF2="ts839">
-				<ANNOTATION_VALUE>eh [non=mh (.) non ho xx, l' avevo letto però, cioè. l' avevo s~ letto lì però, (.) mh cioè: (.) mh::=se].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh [non=mh (.) non ho xx, l'avevo letto però, cioè. l'avevo s~ letto lì però, (.) mh cioè: (.) mh::=se].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a424" TIME_SLOT_REF1="ts846" TIME_SLOT_REF2="ts847">
-				<ANNOTATION_VALUE>[no adesso:: dimos~ dimostrarlo non so se] ((ride)) se (era vero) però::, l' avevo letto e:: l' avevo messo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[no adesso:: dimos~ dimostrarlo non so se] ((ride)) se (era vero) però::, l'avevo letto e:: l'avevo messo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2024,7 +2002,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a447" TIME_SLOT_REF1="ts892" TIME_SLOT_REF2="ts893">
-				<ANNOTATION_VALUE>com~ quando l' avevo letto, non mi ricordo se aveva un=mh un=eh un=e::h significato più specifico.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>com~ quando l'avevo letto, non mi ricordo se aveva un=mh un=eh un=e::h significato più specifico.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2039,7 +2017,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a455" TIME_SLOT_REF1="ts908" TIME_SLOT_REF2="ts909">
-				<ANNOTATION_VALUE>[sì. lì c' era stato],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì. lì c'era stato],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2054,7 +2032,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a461" TIME_SLOT_REF1="ts920" TIME_SLOT_REF2="ts921">
-				<ANNOTATION_VALUE>[sì. nell' an~, sì].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì. nell'an~, sì].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2119,7 +2097,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a489" TIME_SLOT_REF1="ts976" TIME_SLOT_REF2="ts977">
-				<ANNOTATION_VALUE>[questo qua] l' influenza:: gli avevo messo [ques]to,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[questo qua] l'influenza:: gli avevo messo [ques]to,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2159,17 +2137,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a505" TIME_SLOT_REF1="ts1008" TIME_SLOT_REF2="ts1009">
-				<ANNOTATION_VALUE>(ne,) perché c' era, cioè: [scrive~ xx]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>(ne,) perché c'era, cioè: [scrive~ xx]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a507" TIME_SLOT_REF1="ts1012" TIME_SLOT_REF2="ts1013">
-				<ANNOTATION_VALUE>[perché scriverei proprio il linguaggio set]toriale cioè l' ambito me:dico::, sporti:vo::, (.) anche il gergo dei drogati che, cioè dava proprio dei termini, però adesso non so più se sono, (.) [se li posso scri]vere se sono ehm: datati. alcuni o se det~ alcuni termini permangono nel tempo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[perché scriverei proprio il linguaggio set]toriale cioè l'ambito me:dico::, sporti:vo::, (.) anche il gergo dei drogati che, cioè dava proprio dei termini, però adesso non so più se sono, (.) [se li posso scri]vere se sono ehm: datati. alcuni o se det~ alcuni termini permangono nel tempo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a510" TIME_SLOT_REF1="ts1018" TIME_SLOT_REF2="ts1019">
-				<ANNOTATION_VALUE>perché c' eran tanti termini non so::: [(un sa~)]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché c'eran tanti termini non so::: [(un sa~)]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2219,7 +2197,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a530" TIME_SLOT_REF1="ts1058" TIME_SLOT_REF2="ts1059">
-				<ANNOTATION_VALUE>[sì. tanto è qua]si finito, e poi:: stavo:: accorciando l' altro paragrafo, quel[lo pri]ma,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì. tanto è qua]si finito, e poi:: stavo:: accorciando l'altro paragrafo, quel[lo pri]ma,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2316,7 +2294,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
-				<ANNOTATION_VALUE>[sì]. ma magari, (.) e::h tra i riferimenti che le avevo dato, c' è anche quel volume (.) e::h nel quale trova il saggio di fusco, un volume curato da:: neuland mi pare,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì]. ma magari, (.) e::h tra i riferimenti che le avevo dato, c'è anche quel volume (.) e::h nel quale trova il saggio di fusco, un volume curato da:: neuland mi pare,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2336,7 +2314,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
-				<ANNOTATION_VALUE>[qui è centrato sull' influ]enza appunto dello spagnolo, sul linguaggio giovanile italiano,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[qui è centrato sull'influ]enza appunto dello spagnolo, sul linguaggio giovanile italiano,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2391,7 +2369,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
-				<ANNOTATION_VALUE>&gt;l' influenza (viene accettata)&lt; da alcuni, (.) nel linguaggio giovanile italiano o straniero, cosa voleva dire qui?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;l'influenza (viene accettata)&lt; da alcuni, (.) nel linguaggio giovanile italiano o straniero, cosa voleva dire qui?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2466,7 +2444,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts139">
-				<ANNOTATION_VALUE>e:::h &lt;rispetto a::&gt; tradizione di studio (del) linguaggio giovanile:, (.) e:::h in eh paesi eh [d' europa o altro]ve. sì.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h &lt;rispetto a::&gt; tradizione di studio (del) linguaggio giovanile:, (.) e:::h in eh paesi eh [d'europa o altro]ve. sì.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2501,7 +2479,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts166" TIME_SLOT_REF2="ts167">
-				<ANNOTATION_VALUE>e::h non so. nei paesi anglofoni l' orientamento sociolinguistico si è limitato alla descrizione di (varietà regionali) sociali, è un po' forte. [metterei],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h non so. nei paesi anglofoni l'orientamento sociolinguistico si è limitato alla descrizione di (varietà regionali) sociali, è un po' forte. [metterei],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2516,7 +2494,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts178" TIME_SLOT_REF2="ts179">
-				<ANNOTATION_VALUE>cioè pe~ per sfu[mare un po' (&gt;capito&lt;) un pochino più cauta l' afferma]zione no, e quando ci si è dedicati allo studio del=eh bla bla, si è puntato più che altro a,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè pe~ per sfu[mare un po' (&gt;capito&lt;) un pochino più cauta l'afferma]zione no, e quando ci si è dedicati allo studio del=eh bla bla, si è puntato più che altro a,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2606,12 +2584,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a119" TIME_SLOT_REF1="ts236" TIME_SLOT_REF2="ts237">
-				<ANNOTATION_VALUE>[un conto è diciamo] (.) e:::h studiare o no il linguaggio giovanile, (.) l' altro conto è vietarne esplicitamente l' uso. no,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[un conto è diciamo] (.) e:::h studiare o no il linguaggio giovanile, (.) l'altro conto è vietarne esplicitamente l'uso. no,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a121" TIME_SLOT_REF1="ts240" TIME_SLOT_REF2="ts241">
-				<ANNOTATION_VALUE>ma c~ chi avrà mai vietato esplicitamente l' uso del linguaggio giovanile:: (.) [(dico)].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma c~ chi avrà mai vietato esplicitamente l'uso del linguaggio giovanile:: (.) [(dico)].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2671,7 +2649,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a144" TIME_SLOT_REF1="ts286" TIME_SLOT_REF2="ts287">
-				<ANNOTATION_VALUE>se banfi e sobrero novantadue corrisponde al volume ci sarà una certa entrata. se con~ corrisponde al saggio introduttivo, (.) allora ce ne [sarà un' altra, no]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se banfi e sobrero novantadue corrisponde al volume ci sarà una certa entrata. se con~ corrisponde al saggio introduttivo, (.) allora ce ne [sarà un'altra, no]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2681,12 +2659,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a148" TIME_SLOT_REF1="ts294" TIME_SLOT_REF2="ts295">
-				<ANNOTATION_VALUE>[no p~ perché] il libro è una miscellanea no? quindi (.) [] è è una curatela, quindi diciamo, sono contenuti più saggi all' inter[no no]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[no p~ perché] il libro è una miscellanea no? quindi (.) [] è è una curatela, quindi diciamo, sono contenuti più saggi all'inter[no no]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts300" TIME_SLOT_REF2="ts301">
-				<ANNOTATION_VALUE>poi ci sarà un saggio di banfi e sobrero all' interno. [no]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi ci sarà un saggio di banfi e sobrero all'interno. [no]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2741,7 +2719,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a173" TIME_SLOT_REF1="ts344" TIME_SLOT_REF2="ts345">
-				<ANNOTATION_VALUE>poi formalmente metterei, piuttosto che uno studio tedesco occidentale, uno studio pubblicato nella germania dell' ovest, e qui lo stesso, (.) e::h germania dell' est, no, piuttosto che tedesco orien[tale] no?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi formalmente metterei, piuttosto che uno studio tedesco occidentale, uno studio pubblicato nella germania dell'ovest, e qui lo stesso, (.) e::h germania dell'est, no, piuttosto che tedesco orien[tale] no?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2756,17 +2734,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a180" TIME_SLOT_REF1="ts358" TIME_SLOT_REF2="ts359">
-				<ANNOTATION_VALUE>qui forse ho capito poi, (.) d:i:ce un' opera: bla bla, scritta negli anni sessanta e considerata un punto di riferimento per i giovani.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>qui forse ho capito poi, (.) d:i:ce un'opera: bla bla, scritta negli anni sessanta e considerata un punto di riferimento per i giovani.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a181" TIME_SLOT_REF1="ts360" TIME_SLOT_REF2="ts361">
-				<ANNOTATION_VALUE>in che senso? cioè. (.) e::h è un' opera::: che=m::h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in che senso? cioè. (.) e::h è un'opera::: che=m::h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a184" TIME_SLOT_REF1="ts366" TIME_SLOT_REF2="ts367">
-				<ANNOTATION_VALUE>eh ma diciamo, (.) è un punto di riferimento per chi voglia studiare il linguaggio giovanile, in germania in quegli anni? oppure quell' opera (.) ha avuto diciamo un' eco così, e:::h [per l~ il suo va]lore intrinseco culturale diciamo [presso i giovani di quell' epoca]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh ma diciamo, (.) è un punto di riferimento per chi voglia studiare il linguaggio giovanile, in germania in quegli anni? oppure quell'opera (.) ha avuto diciamo un'eco così, e:::h [per l~ il suo va]lore intrinseco culturale diciamo [presso i giovani di quell'epoca]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2856,7 +2834,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a213" TIME_SLOT_REF1="ts424" TIME_SLOT_REF2="ts425">
-				<ANNOTATION_VALUE>m::h gli studi del linguaggio giovanile in italia:: per tradizione hanno conosciuto::: questa:: impostazione e:h, bene. se si dice, questa è l' impostazione degli s~ degli &gt;studi del linguaggio giovanile&lt; in italia, vuol dire che lo è ancora oggi. no?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>m::h gli studi del linguaggio giovanile in italia:: per tradizione hanno conosciuto::: questa:: impostazione e:h, bene. se si dice, questa è l'impostazione degli s~ degli &gt;studi del linguaggio giovanile&lt; in italia, vuol dire che lo è ancora oggi. no?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2926,7 +2904,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a235" TIME_SLOT_REF1="ts468" TIME_SLOT_REF2="ts469">
-				<ANNOTATION_VALUE>sì. qui, (.) qui anche attenuavo un po':: l' informazio~ l~ la la: (.) la formulazione. no?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì. qui, (.) qui anche attenuavo un po':: l'informazio~ l~ la la: (.) la formulazione. no?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2966,7 +2944,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a249" TIME_SLOT_REF1="ts496" TIME_SLOT_REF2="ts497">
-				<ANNOTATION_VALUE>[oppure], (.) il verlan funziona non solo con l' inversione delle sillabe ma anche con l' inversione dei suoni. quindi potrebbe essere mec chem. diciamo no?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[oppure], (.) il verlan funziona non solo con l'inversione delle sillabe ma anche con l'inversione dei suoni. quindi potrebbe essere mec chem. diciamo no?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2976,7 +2954,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a253" TIME_SLOT_REF1="ts504" TIME_SLOT_REF2="ts505">
-				<ANNOTATION_VALUE>[(riguardi) un po' l' esempio. sì].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[(riguardi) un po' l'esempio. sì].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2991,7 +2969,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a256" TIME_SLOT_REF1="ts510" TIME_SLOT_REF2="ts511">
-				<ANNOTATION_VALUE>immagino che nel=eh nel nel lavoro e::h da cui l' ha tratto, ci fosse un cenno, in fondo un cenno di questo tipo. cioè che, e:h guarda rapporti fra le dimensioni di variazione nella variazione del francese. no?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>immagino che nel=eh nel nel lavoro e::h da cui l'ha tratto, ci fosse un cenno, in fondo un cenno di questo tipo. cioè che, e:h guarda rapporti fra le dimensioni di variazione nella variazione del francese. no?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3006,7 +2984,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a262" TIME_SLOT_REF1="ts522" TIME_SLOT_REF2="ts523">
-				<ANNOTATION_VALUE>[perché è un argomen]to grosso. (.) &gt;allo [stesso tem]po&lt; dire di più su questo, (.) porta un po':: (.) [eh=a usci]re sì dal da dal=eh dalla linea argomen~ dell' argomentazione, e anche dal tema stesso del lavoro. no? quindi io, lo eliminerei.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[perché è un argomen]to grosso. (.) &gt;allo [stesso tem]po&lt; dire di più su questo, (.) porta un po':: (.) [eh=a usci]re sì dal da dal=eh dalla linea argomen~ dell'argomentazione, e anche dal tema stesso del lavoro. no? quindi io, lo eliminerei.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3016,7 +2994,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a267" TIME_SLOT_REF1="ts532" TIME_SLOT_REF2="ts533">
-				<ANNOTATION_VALUE>qui cosa voleva di:re? questo è un segno evidente di francesizzazione del termine. ad esempio, c' est hilare, j' ai un xxxx, (quello che è)</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>qui cosa voleva di:re? questo è un segno evidente di francesizzazione del termine. ad esempio, c'est hilare, j' ai un xxxx, (quello che è)</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3061,7 +3039,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a285" TIME_SLOT_REF1="ts568" TIME_SLOT_REF2="ts569">
-				<ANNOTATION_VALUE>però lascerei soltanto questo secondo esempio. qui, c' è un adattamento in fondo morfologico no? del prestito dall' inglese</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però lascerei soltanto questo secondo esempio. qui, c'è un adattamento in fondo morfologico no? del prestito dall'inglese</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3071,7 +3049,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a288" TIME_SLOT_REF1="ts574" TIME_SLOT_REF2="ts575">
-				<ANNOTATION_VALUE>questi due casi, (.) mh::::: in fondo: l~ la morfologia è: è dell' inglese. no? [quindi no~] (.) non saprei. [qui è sicuramente i~] inserito in un enunciato in francese ma è comunque un prestito non adattato no?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questi due casi, (.) mh::::: in fondo: l~ la morfologia è: è dell'inglese. no? [quindi no~] (.) non saprei. [qui è sicuramente i~] inserito in un enunciato in francese ma è comunque un prestito non adattato no?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3111,12 +3089,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a299" TIME_SLOT_REF1="ts596" TIME_SLOT_REF2="ts597">
-				<ANNOTATION_VALUE>s~ s~ sono considerazioni diciamo, valutati:ve, (.) s::ul perché la tradizione di studi sul linguaggio giovanile in spagna, abbia percorso questa strada piuttosto che un' altra.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>s~ s~ sono considerazioni diciamo, valutati:ve, (.) s::ul perché la tradizione di studi sul linguaggio giovanile in spagna, abbia percorso questa strada piuttosto che un'altra.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a300" TIME_SLOT_REF1="ts598" TIME_SLOT_REF2="ts599">
-				<ANNOTATION_VALUE>e di nuovo è un argomento, molto gra:nde no:? come l' argomento [preceden]te, si sarà trovato come cenno in quel saggio, ma questo è un altro tipo di testo no? [quindi],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e di nuovo è un argomento, molto gra:nde no:? come l'argomento [preceden]te, si sarà trovato come cenno in quel saggio, ma questo è un altro tipo di testo no? [quindi],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3136,7 +3114,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a306" TIME_SLOT_REF1="ts610" TIME_SLOT_REF2="ts611">
-				<ANNOTATION_VALUE>e:::h è diciamo nel suo interesse. no? cioè [d' in]teresse avere un lavoro che in sede di discussione di laurea sia poco attaccabile. no?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h è diciamo nel suo interesse. no? cioè [d'in]teresse avere un lavoro che in sede di discussione di laurea sia poco attaccabile. no?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3146,7 +3124,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a311" TIME_SLOT_REF1="ts620" TIME_SLOT_REF2="ts621">
-				<ANNOTATION_VALUE>lei [l' ha scritta oggi]. ((ride)) (.) ((ride)) sì. esatto. no? quindi e:::h eliminiamo le parti veramente che (.) non sono più attuali, e cerchiamo di inserire invece parti attuali. no?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lei [l'ha scritta oggi]. ((ride)) (.) ((ride)) sì. esatto. no? quindi e:::h eliminiamo le parti veramente che (.) non sono più attuali, e cerchiamo di inserire invece parti attuali. no?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3166,12 +3144,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a320" TIME_SLOT_REF1="ts638" TIME_SLOT_REF2="ts639">
-				<ANNOTATION_VALUE>[ri]sente molto di un' unica fonte::.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[ri]sente molto di un'unica fonte::.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a322" TIME_SLOT_REF1="ts642" TIME_SLOT_REF2="ts643">
-				<ANNOTATION_VALUE>[che] (.) a sua volta diciamo ha il difetto di essere di trent' anni fa. ma in generale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[che] (.) a sua volta diciamo ha il difetto di essere di trent'anni fa. ma in generale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3186,12 +3164,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a328" TIME_SLOT_REF1="ts654" TIME_SLOT_REF2="ts655">
-				<ANNOTATION_VALUE>qui c' è un altro aspetto, che non so quanto sia attuale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>qui c'è un altro aspetto, che non so quanto sia attuale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a329" TIME_SLOT_REF1="ts656" TIME_SLOT_REF2="ts657">
-				<ANNOTATION_VALUE>parla della preponderanza dell' influsso diciamo dello spagnolo dell' america latina.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>parla della preponderanza dell'influsso diciamo dello spagnolo dell'america latina.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3201,7 +3179,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a331" TIME_SLOT_REF1="ts660" TIME_SLOT_REF2="ts661">
-				<ANNOTATION_VALUE>[an]che per l' impatto che appunto aveva (.) avuto nel decennio precedente in europa l' america latina no? per fatti anche politici, ma oggi è ancora così?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[an]che per l'impatto che appunto aveva (.) avuto nel decennio precedente in europa l'america latina no? per fatti anche politici, ma oggi è ancora così?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3246,7 +3224,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a343" TIME_SLOT_REF1="ts684" TIME_SLOT_REF2="ts685">
-				<ANNOTATION_VALUE>e::h non è un eh un testo accademico, non è un articolo::=o un libro o un volume, (.) è una raccolta appunto di esempi di linguaggio giovanile, provenienti da diverse eh aree d' italia,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h non è un eh un testo accademico, non è un articolo::=o un libro o un volume, (.) è una raccolta appunto di esempi di linguaggio giovanile, provenienti da diverse eh aree d'italia,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3316,7 +3294,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a362" TIME_SLOT_REF1="ts722" TIME_SLOT_REF2="ts723">
-				<ANNOTATION_VALUE>quindi io qui metterei, (.) i prestiti dallo spagnolo in certi casi non richiedono un adattamento sostanziale, è il caso ad esempio di bla bla bla bla, in altri casi è invece evidente l' intervento di fenomeni di adattamento come in termini quali, ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi io qui metterei, (.) i prestiti dallo spagnolo in certi casi non richiedono un adattamento sostanziale, è il caso ad esempio di bla bla bla bla, in altri casi è invece evidente l'intervento di fenomeni di adattamento come in termini quali, ((legge))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3346,7 +3324,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a370" TIME_SLOT_REF1="ts738" TIME_SLOT_REF2="ts739">
-				<ANNOTATION_VALUE>[cio]è c' è una forma di saluto al femminile?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[cio]è c'è una forma di saluto al femminile?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3371,7 +3349,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a382" TIME_SLOT_REF1="ts762" TIME_SLOT_REF2="ts763">
-				<ANNOTATION_VALUE>sì[per.ò siccome ha la=a, diciamo] è stata interpre[tahta. come fem]mini~. capito.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì [però siccome ha la=a, diciamo] è stata interpre[tahta. come fem]mini~. capito.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3421,7 +3399,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a394" TIME_SLOT_REF1="ts786" TIME_SLOT_REF2="ts787">
-				<ANNOTATION_VALUE>per effetto dell' interpretazione errata di días come forma di genere femmini:le, versus buenos días.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per effetto dell'interpretazione errata di días come forma di genere femmini:le, versus buenos días.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3611,7 +3589,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a454" TIME_SLOT_REF1="ts906" TIME_SLOT_REF2="ts907">
-				<ANNOTATION_VALUE>si riferisce veramente al=eh periodo (.) [e::h pre caduta] del mu:ro, e non ha veramente nessun legame col lavoro di tesi. no? soprattutto (.) n~ così una quindicina di righe no? su la situazione (dei) paesi dell' est,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si riferisce veramente al=eh periodo (.) [e::h pre caduta] del mu:ro, e non ha veramente nessun legame col lavoro di tesi. no? soprattutto (.) n~ così una quindicina di righe no? su la situazione (dei) paesi dell'est,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3646,7 +3624,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a466" TIME_SLOT_REF1="ts930" TIME_SLOT_REF2="ts931">
-				<ANNOTATION_VALUE>[sintetizzarlo sì. però comunque c' è sem]pre da chiedersi e::h (.) ciò che si scrive:, (.) s~ diciamo, ((sospira)) che contributo porta no:: al::: [com~ (il::) al lavoro nel com]plesso sì.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sintetizzarlo sì. però comunque c'è sem]pre da chiedersi e::h (.) ciò che si scrive:, (.) s~ diciamo, ((sospira)) che contributo porta no:: al::: [com~ (il::) al lavoro nel com]plesso sì.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3661,7 +3639,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a472" TIME_SLOT_REF1="ts942" TIME_SLOT_REF2="ts943">
-				<ANNOTATION_VALUE>[eliminare le osser]vazioni che non sono più attu[ali, ques]to l' avrei già fatto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[eliminare le osser]vazioni che non sono più attu[ali, ques]to l'avrei già fatto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3676,12 +3654,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a478" TIME_SLOT_REF1="ts954" TIME_SLOT_REF2="ts955">
-				<ANNOTATION_VALUE>no °e:h° sembra scritto [trent' an]ni fa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no °e:h° sembra scritto [trent'an]ni fa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a481" TIME_SLOT_REF1="ts960" TIME_SLOT_REF2="ts961">
-				<ANNOTATION_VALUE>[e::: poi co]sa le volevo di::re:, sì. e poi ecco in ogni modo tenga conto non soltanto di un' unica fonte. no?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e::: poi co]sa le volevo di::re:, sì. e poi ecco in ogni modo tenga conto non soltanto di un'unica fonte. no?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3696,7 +3674,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a486" TIME_SLOT_REF1="ts970" TIME_SLOT_REF2="ts971">
-				<ANNOTATION_VALUE>piuttosto appunto dedicarsi di più all' analisi dei materiali che,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>piuttosto appunto dedicarsi di più all'analisi dei materiali che,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3816,7 +3794,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a532" TIME_SLOT_REF1="ts1062" TIME_SLOT_REF2="ts1063">
-				<ANNOTATION_VALUE>e poi c' è l' analisi dei materiali però=[eh, ques]ta,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e poi c'è l'analisi dei materiali però=[eh, ques]ta,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3826,7 +3804,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a536" TIME_SLOT_REF1="ts1070" TIME_SLOT_REF2="ts1071">
-				<ANNOTATION_VALUE>&gt;però de~&lt; dedichi un certo tempo anche appunto all' analisi di di materia:li=o, analisi di materiali da intendere anche come, esempi che abbia raccolto e che le sembrano, per[tinenti per il discorso che ha fatto. no]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;però de~&lt; dedichi un certo tempo anche appunto all'analisi di di materia:li=o, analisi di materiali da intendere anche come, esempi che abbia raccolto e che le sembrano, per[tinenti per il discorso che ha fatto. no]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3872,6 +3850,28 @@
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a553" TIME_SLOT_REF1="ts1104" TIME_SLOT_REF2="ts1105">
 				<ANNOTATION_VALUE>mi mandi quello: e poi le scrivo::: per un appuntamento settimana,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
+	<TIER TIER_ID="???" LINGUISTIC_TYPE_REF="default-lt">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a272" TIME_SLOT_REF1="ts542" TIME_SLOT_REF2="ts543">
+				<ANNOTATION_VALUE>volevo solo saluta[rti]</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a274" TIME_SLOT_REF1="ts546" TIME_SLOT_REF2="ts547">
+				<ANNOTATION_VALUE>cia[o]</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a315" TIME_SLOT_REF1="ts628" TIME_SLOT_REF2="ts629">
+				<ANNOTATION_VALUE>[permesso]?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a317" TIME_SLOT_REF1="ts632" TIME_SLOT_REF2="ts633">
+				<ANNOTATION_VALUE>[okay]. nessun problema.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>

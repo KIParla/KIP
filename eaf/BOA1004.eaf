@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:18:35+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:15+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
@@ -385,98 +385,6 @@
 		<TIME_SLOT TIME_SLOT_ID="ts380" TIME_VALUE="438023" />
 		<TIME_SLOT TIME_SLOT_ID="ts381" TIME_VALUE="438731" />
 		</TIME_ORDER>
-	<TIER TIER_ID="???" LINGUISTIC_TYPE_REF="default-lt">
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts300" TIME_SLOT_REF2="ts301">
-				<ANNOTATION_VALUE>io ho lo stesso suo problema, ho dato:: didattica: d[elle lingue italiane],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a153" TIME_SLOT_REF1="ts304" TIME_SLOT_REF2="ts305">
-				<ANNOTATION_VALUE>[duemilatredici duemilaquattordici].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a154" TIME_SLOT_REF1="ts306" TIME_SLOT_REF2="ts307">
-				<ANNOTATION_VALUE>no. forse il programma era duemiladodici duemilatredici però,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a156" TIME_SLOT_REF1="ts310" TIME_SLOT_REF2="ts311">
-				<ANNOTATION_VALUE>e ho [fatto lo scritto],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a158" TIME_SLOT_REF1="ts314" TIME_SLOT_REF2="ts315">
-				<ANNOTATION_VALUE>verdi mara.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a159" TIME_SLOT_REF1="ts316" TIME_SLOT_REF2="ts317">
-				<ANNOTATION_VALUE>°e: quindi ho fatto lo scritto:: con l' analisi dell' interlingua e le due domande aperte e poi (l' orale).°</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a161" TIME_SLOT_REF1="ts320" TIME_SLOT_REF2="ts321">
-				<ANNOTATION_VALUE>sì.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a164" TIME_SLOT_REF1="ts326" TIME_SLOT_REF2="ts327">
-				<ANNOTATION_VALUE>[devo sostituire],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a165" TIME_SLOT_REF1="ts328" TIME_SLOT_REF2="ts329">
-				<ANNOTATION_VALUE>[sì].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a166" TIME_SLOT_REF1="ts330" TIME_SLOT_REF2="ts331">
-				<ANNOTATION_VALUE>quindi al posto: della prima parte che c' è scritta [sul programma, il libro].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a168" TIME_SLOT_REF1="ts334" TIME_SLOT_REF2="ts335">
-				<ANNOTATION_VALUE>s[osti]tuite alla prima parte [del pr]ogramma che c' è scritt[o. okay]. quindi mi iscrivo anch' io al[la li]sta ma no:n devo presentarmi allo scritto.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a174" TIME_SLOT_REF1="ts346" TIME_SLOT_REF2="ts347">
-				<ANNOTATION_VALUE>okay.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a175" TIME_SLOT_REF1="ts348" TIME_SLOT_REF2="ts349">
-				<ANNOTATION_VALUE>°va bene°</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a178" TIME_SLOT_REF1="ts354" TIME_SLOT_REF2="ts355">
-				<ANNOTATION_VALUE>okay.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a180" TIME_SLOT_REF1="ts358" TIME_SLOT_REF2="ts359">
-				<ANNOTATION_VALUE>okay. e poi le [devo rispondere per dirle che n]o:n che no:n devo dare lo scritto, (.) o lo °sa già lei.°</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a182" TIME_SLOT_REF1="ts362" TIME_SLOT_REF2="ts363">
-				<ANNOTATION_VALUE>c[ioè le rispond~]</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a184" TIME_SLOT_REF1="ts366" TIME_SLOT_REF2="ts367">
-				<ANNOTATION_VALUE>[o]kay.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a186" TIME_SLOT_REF1="ts370" TIME_SLOT_REF2="ts371">
-				<ANNOTATION_VALUE>va bene allora io mi iscrivo:</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		</TIER>
 	<TIER TIER_ID="BO026" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
@@ -505,7 +413,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
-				<ANNOTATION_VALUE>[lei me l' ha già fatto::]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[lei me l'ha già fatto::]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -595,7 +503,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts93">
-				<ANNOTATION_VALUE>che le servono pe::r l' analisi della sequenza,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che le servono pe::r l'analisi della sequenza,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -620,7 +528,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts107">
-				<ANNOTATION_VALUE>quindi c' è già l' articolo in inglese [quello] di tom c[oley sul]l' interazione in classe,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi c'è già l'articolo in inglese [quello] di tom c[oley sul]l'interazione in classe,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -645,7 +553,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
-				<ANNOTATION_VALUE>è sempre °sull' interazione in classe.°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è sempre °sull'interazione in classe.°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -710,7 +618,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts161">
-				<ANNOTATION_VALUE>così le serve proprio per l' analisi della sequen[za].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>così le serve proprio per l'analisi della sequen[za].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -745,12 +653,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts190" TIME_SLOT_REF2="ts191">
-				<ANNOTATION_VALUE>no no. non può fare solo una parte dell' esame. se lei ha fatto,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no no. non può fare solo una parte dell'esame. se lei ha fatto,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts192" TIME_SLOT_REF2="ts193">
-				<ANNOTATION_VALUE>l~ già la prova scritta sull' analisi dell' interli[ngua],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l~ già la prova scritta sull'analisi dell'interli[ngua],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -785,7 +693,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts216" TIME_SLOT_REF2="ts217">
-				<ANNOTATION_VALUE>perché lo scritto lo ha già f[atto l' analis]i dell' in[terlingua].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché lo scritto lo ha già f[atto l'analis]i dell'in[terlingua].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -800,7 +708,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a119" TIME_SLOT_REF1="ts236" TIME_SLOT_REF2="ts237">
-				<ANNOTATION_VALUE>l' appello (.) comincia il dodi[ci (.) giu]gno?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'appello (.) comincia il dodi[ci (.) giu]gno?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -810,7 +718,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a123" TIME_SLOT_REF1="ts244" TIME_SLOT_REF2="ts245">
-				<ANNOTATION_VALUE>il dodici giugno in base al numero degli studenti effettivamente presenti comunico la data dell' orale che sarà due giorni dopo. tre giorni dopo. quindi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il dodici giugno in base al numero degli studenti effettivamente presenti comunico la data dell'orale che sarà due giorni dopo. tre giorni dopo. quindi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -820,12 +728,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a127" TIME_SLOT_REF1="ts252" TIME_SLOT_REF2="ts253">
-				<ANNOTATION_VALUE>sì mi manda una mail perché (.) e:: io le mando anche le l' indicazione de~ dell'[altro] testo [che sostitu]isce la prima [parte].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì mi manda una mail perché (.) e:: io le mando anche le l'indicazione de~ dell'[altro] testo [che sostitu]isce la prima [parte].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a131" TIME_SLOT_REF1="ts260" TIME_SLOT_REF2="ts261">
-				<ANNOTATION_VALUE>e::=mh valentini ed altri (accurati) sull' italiano:: le abilità di studio in italiano elle due.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::=mh valentini ed altri (accurati) sull'italiano:: le abilità di studio in italiano elle due.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -870,7 +778,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a143" TIME_SLOT_REF1="ts284" TIME_SLOT_REF2="ts285">
-				<ANNOTATION_VALUE>[all' come se xx xxx sono io] che verifico eh [sulla base delle medie d]egli studenti che non faranno: lo scritto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[all'come se xx xxx sono io] che verifico eh [sulla base delle medie d]egli studenti che non faranno: lo scritto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -890,7 +798,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a152" TIME_SLOT_REF1="ts302" TIME_SLOT_REF2="ts303">
-				<ANNOTATION_VALUE>[in che anno, c~] co[s' era duemil duemila~ quattordi]ci.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[in che anno, c~] co[s'era duemil duemila~ quattordi]ci.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -990,7 +898,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a190" TIME_SLOT_REF1="ts378" TIME_SLOT_REF2="ts379">
-				<ANNOTATION_VALUE>d' accordo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>d'accordo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>
@@ -1017,7 +925,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
-				<ANNOTATION_VALUE>per dei saggi: e: &gt;praticamente io ho dato l' esame di:&lt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per dei saggi: e: &gt;praticamente io ho dato l'esame di:&lt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1032,7 +940,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
-				<ANNOTATION_VALUE>[ho da]to [l' esame di: didattica elle due] in triennale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[ho da]to [l'esame di: didattica elle due] in triennale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1042,7 +950,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
-				<ANNOTATION_VALUE>[s~ p]raticamente lei mi aveva detto che siccome il l' esame: con il programma di quest' anno solamente due saggi si: si ripetono,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[s~ p]raticamente lei mi aveva detto che siccome il l'esame: con il programma di quest'anno solamente due saggi si: si ripetono,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1077,7 +985,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
-				<ANNOTATION_VALUE>e:: non avevo fatto la tesina ma c' era comunque la parte scritta in cui c' è l' analisi dell' interlingua.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: non avevo fatto la tesina ma c'era comunque la parte scritta in cui c'è l'analisi dell'interlingua.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1087,12 +995,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts71">
-				<ANNOTATION_VALUE>[esa]tto [stiamo parlando del duemilaundici duem]iladodici quando la [secon]da parte era a[ncora] scritta [e io] avevo analizzato la: l' interlingua scr~</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[esa]tto [stiamo parlando del duemilaundici duem]iladodici quando la [secon]da parte era a[ncora] scritta [e io] avevo analizzato la: l'interlingua scr~</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts81">
-				<ANNOTATION_VALUE>all' esame scritto la parte scritta.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'esame scritto la parte scritta.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1137,7 +1045,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts123">
-				<ANNOTATION_VALUE>non c' è problema.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non c'è problema.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1172,7 +1080,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts170" TIME_SLOT_REF2="ts171">
-				<ANNOTATION_VALUE>[e: quindi n]oi eravamo rimaste poi che io dovevo sostenere solamente la: m:h l' esame orale no,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e: quindi n]oi eravamo rimaste poi che io dovevo sostenere solamente la: m:h l'esame orale no,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1192,7 +1100,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts184" TIME_SLOT_REF2="ts185">
-				<ANNOTATION_VALUE>lei mi aveva detto nel caso poi: facciamo un' analisi direttamente all' orale insomma in classe,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lei mi aveva detto nel caso poi: facciamo un'analisi direttamente all'orale insomma in classe,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1252,7 +1160,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a117" TIME_SLOT_REF1="ts232" TIME_SLOT_REF2="ts233">
-				<ANNOTATION_VALUE>mi manca questo è l' ultimo esame.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mi manca questo è l'ultimo esame.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1338,6 +1246,98 @@
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a191" TIME_SLOT_REF1="ts380" TIME_SLOT_REF2="ts381">
 				<ANNOTATION_VALUE>°grazie arrivederci.°</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
+	<TIER TIER_ID="???" LINGUISTIC_TYPE_REF="default-lt">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts300" TIME_SLOT_REF2="ts301">
+				<ANNOTATION_VALUE>io ho lo stesso suo problema, ho dato:: didattica: d[elle lingue italiane],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a153" TIME_SLOT_REF1="ts304" TIME_SLOT_REF2="ts305">
+				<ANNOTATION_VALUE>[duemilatredici duemilaquattordici].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a154" TIME_SLOT_REF1="ts306" TIME_SLOT_REF2="ts307">
+				<ANNOTATION_VALUE>no. forse il programma era duemiladodici duemilatredici però,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a156" TIME_SLOT_REF1="ts310" TIME_SLOT_REF2="ts311">
+				<ANNOTATION_VALUE>e ho [fatto lo scritto],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a158" TIME_SLOT_REF1="ts314" TIME_SLOT_REF2="ts315">
+				<ANNOTATION_VALUE>verdi mara.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a159" TIME_SLOT_REF1="ts316" TIME_SLOT_REF2="ts317">
+				<ANNOTATION_VALUE>°e: quindi ho fatto lo scritto:: con l'analisi dell'interlingua e le due domande aperte e poi (l'orale).°</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a161" TIME_SLOT_REF1="ts320" TIME_SLOT_REF2="ts321">
+				<ANNOTATION_VALUE>sì.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a164" TIME_SLOT_REF1="ts326" TIME_SLOT_REF2="ts327">
+				<ANNOTATION_VALUE>[devo sostituire],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a165" TIME_SLOT_REF1="ts328" TIME_SLOT_REF2="ts329">
+				<ANNOTATION_VALUE>[sì].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a166" TIME_SLOT_REF1="ts330" TIME_SLOT_REF2="ts331">
+				<ANNOTATION_VALUE>quindi al posto: della prima parte che c'è scritta [sul programma, il libro].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a168" TIME_SLOT_REF1="ts334" TIME_SLOT_REF2="ts335">
+				<ANNOTATION_VALUE>s[osti]tuite alla prima parte [del pr]ogramma che c'è scritt[o. okay]. quindi mi iscrivo anch'io al[la li]sta ma no:n devo presentarmi allo scritto.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a174" TIME_SLOT_REF1="ts346" TIME_SLOT_REF2="ts347">
+				<ANNOTATION_VALUE>okay.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a175" TIME_SLOT_REF1="ts348" TIME_SLOT_REF2="ts349">
+				<ANNOTATION_VALUE>°va bene°</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a178" TIME_SLOT_REF1="ts354" TIME_SLOT_REF2="ts355">
+				<ANNOTATION_VALUE>okay.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a180" TIME_SLOT_REF1="ts358" TIME_SLOT_REF2="ts359">
+				<ANNOTATION_VALUE>okay. e poi le [devo rispondere per dirle che n]o:n che no:n devo dare lo scritto, (.) o lo °sa già lei.°</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a182" TIME_SLOT_REF1="ts362" TIME_SLOT_REF2="ts363">
+				<ANNOTATION_VALUE>c[ioè le rispond~]</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a184" TIME_SLOT_REF1="ts366" TIME_SLOT_REF2="ts367">
+				<ANNOTATION_VALUE>[o]kay.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a186" TIME_SLOT_REF1="ts370" TIME_SLOT_REF2="ts371">
+				<ANNOTATION_VALUE>va bene allora io mi iscrivo:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>

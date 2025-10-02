@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:18:35+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:19+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
@@ -2942,7 +2942,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
-				<ANNOTATION_VALUE>la:: l' ultima parte del corso quella eh monografica co:me si diceva un tempo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la:: l'ultima parte del corso quella eh monografica co:me si diceva un tempo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2977,12 +2977,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts25">
-				<ANNOTATION_VALUE>e::h sull' argomento</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h sull'argomento</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
-				<ANNOTATION_VALUE>e:::h tra i quali ognuno può liberamente scegliere l' uno o l' altro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h tra i quali ognuno può liberamente scegliere l'uno o l'altro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3067,7 +3067,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
-				<ANNOTATION_VALUE>e::h docente dell' università di bologna, marica tolomelli</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h docente dell'università di bologna, marica tolomelli</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3087,7 +3087,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
-				<ANNOTATION_VALUE>penso sia giusto darvi intanto un' informazione sulla differenza tra i due:: testi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>penso sia giusto darvi intanto un'informazione sulla differenza tra i due:: testi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3227,12 +3227,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
-				<ANNOTATION_VALUE>procedura. non escludo che ce l' abbiamo anche altre case editrici eh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>procedura. non escludo che ce l'abbiamo anche altre case editrici eh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
-				<ANNOTATION_VALUE>non ho nessuna intenzione di fare l' agente commerciale della di una libreria però</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non ho nessuna intenzione di fare l'agente commerciale della di una libreria però</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3252,7 +3252,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts135">
-				<ANNOTATION_VALUE>pre:~ sostenere già l' esame negli appelli</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>pre:~ sostenere già l'esame negli appelli</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3267,7 +3267,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts141">
-				<ANNOTATION_VALUE>per chi vuole dare l' esame in quei (due appelli)</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per chi vuole dare l'esame in quei (due appelli)</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3277,7 +3277,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts145">
-				<ANNOTATION_VALUE>a cercare chi volesse prendere il libro della tolomelli non svegliarsi dopo l' epifania</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a cercare chi volesse prendere il libro della tolomelli non svegliarsi dopo l'epifania</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3292,12 +3292,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts151">
-				<ANNOTATION_VALUE>detto questo però poi chiudo subito l' inciso e passo alla lezione di oggi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>detto questo però poi chiudo subito l'inciso e passo alla lezione di oggi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts152" TIME_SLOT_REF2="ts153">
-				<ANNOTATION_VALUE>un' informazione di massima sulle differenze tra questi due testi che ho indicato</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un'informazione di massima sulle differenze tra questi due testi che ho indicato</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3312,7 +3312,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts158" TIME_SLOT_REF2="ts159">
-				<ANNOTATION_VALUE>è un' analisi: del sessantotto: diciamo poi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è un'analisi: del sessantotto: diciamo poi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3342,12 +3342,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts170" TIME_SLOT_REF2="ts171">
-				<ANNOTATION_VALUE>del discussione all' interno dei movimenti studenteschi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>del discussione all'interno dei movimenti studenteschi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts172" TIME_SLOT_REF2="ts173">
-				<ANNOTATION_VALUE>i rapporti col movimenti operaio eccetera. è l' italia però, essenzialmente</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>i rapporti col movimenti operaio eccetera. è l'italia però, essenzialmente</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3362,7 +3362,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts178" TIME_SLOT_REF2="ts179">
-				<ANNOTATION_VALUE>e::h e inoltre nella parte e:h nell' ultima parte del libro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h e inoltre nella parte e:h nell'ultima parte del libro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3392,12 +3392,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts190" TIME_SLOT_REF2="ts191">
-				<ANNOTATION_VALUE>ecco questa dimensione di: approfondimento storiografico c' è nel libro della tolomelli</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ecco questa dimensione di: approfondimento storiografico c'è nel libro della tolomelli</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts192" TIME_SLOT_REF2="ts193">
-				<ANNOTATION_VALUE>c' è molto di meno nel libro di °diego giachetti.°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è molto di meno nel libro di °diego giachetti.°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3412,12 +3412,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts198" TIME_SLOT_REF2="ts199">
-				<ANNOTATION_VALUE>di dare un' occhiata a questi due libri in biblioteca</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di dare un'occhiata a questi due libri in biblioteca</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts200" TIME_SLOT_REF2="ts201">
-				<ANNOTATION_VALUE>o: in qualche mod~ di farsene un' idea e scegliere per tempo quale:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>o: in qualche mod~ di farsene un'idea e scegliere per tempo quale:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3452,7 +3452,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a108" TIME_SLOT_REF1="ts214" TIME_SLOT_REF2="ts215">
-				<ANNOTATION_VALUE>chiaro il discorso che: ho fatto o non s' è capito niente? no chiaro.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>chiaro il discorso che: ho fatto o non s'(è capito niente? no chiaro.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3482,7 +3482,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a114" TIME_SLOT_REF1="ts226" TIME_SLOT_REF2="ts227">
-				<ANNOTATION_VALUE>dello stato liberale in italia e e:h l' avvento del</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dello stato liberale in italia e e:h l'avvento del</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3492,7 +3492,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a116" TIME_SLOT_REF1="ts230" TIME_SLOT_REF2="ts231">
-				<ANNOTATION_VALUE>io mi ero fermato nell' ultima lezione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>io mi ero fermato nell'ultima lezione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3537,7 +3537,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a125" TIME_SLOT_REF1="ts248" TIME_SLOT_REF2="ts249">
-				<ANNOTATION_VALUE>e::h esisteva (il) regno d' italia in cui</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h esisteva (il) regno d'italia in cui</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3592,7 +3592,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a136" TIME_SLOT_REF1="ts270" TIME_SLOT_REF2="ts271">
-				<ANNOTATION_VALUE>perché perché se c' è un' altra anomalia ancora</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché perché se c'è un'altra anomalia ancora</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3602,7 +3602,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a138" TIME_SLOT_REF1="ts274" TIME_SLOT_REF2="ts275">
-				<ANNOTATION_VALUE>che la guerra l' avevano vinta intendiamoci</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che la guerra l'avevano vinta intendiamoci</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3662,7 +3662,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a150" TIME_SLOT_REF1="ts298" TIME_SLOT_REF2="ts299">
-				<ANNOTATION_VALUE>non torno su questo punto perché ne avevo parlato già a proposito dell' ottocento,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non torno su questo punto perché ne avevo parlato già a proposito dell'ottocento,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3747,17 +3747,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a167" TIME_SLOT_REF1="ts332" TIME_SLOT_REF2="ts333">
-				<ANNOTATION_VALUE>ribadisco ancora ciò che avevo detto nell' ultima lezione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ribadisco ancora ciò che avevo detto nell'ultima lezione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a168" TIME_SLOT_REF1="ts334" TIME_SLOT_REF2="ts335">
-				<ANNOTATION_VALUE>e cioè che l' italia è un caso eh molto particolare</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e cioè che l'italia è un caso eh molto particolare</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a169" TIME_SLOT_REF1="ts336" TIME_SLOT_REF2="ts337">
-				<ANNOTATION_VALUE>perché è un paese che la guerra e::h l' ha vinta</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché è un paese che la guerra e::h l'ha vinta</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3807,7 +3807,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a179" TIME_SLOT_REF1="ts356" TIME_SLOT_REF2="ts357">
-				<ANNOTATION_VALUE>e::h secondo giuristi di area liberale dell' epoca</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h secondo giuristi di area liberale dell'epoca</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3837,7 +3837,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a185" TIME_SLOT_REF1="ts368" TIME_SLOT_REF2="ts369">
-				<ANNOTATION_VALUE>perché attorno a quell' elemento c' era la possibilità</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché attorno a quell'elemento c'era la possibilità</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3862,12 +3862,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a190" TIME_SLOT_REF1="ts378" TIME_SLOT_REF2="ts379">
-				<ANNOTATION_VALUE>esiste una specificità dell' italia</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>esiste una specificità dell'italia</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a191" TIME_SLOT_REF1="ts380" TIME_SLOT_REF2="ts381">
-				<ANNOTATION_VALUE>e::h esistono contraddizioni che sono specifiche dell' italia,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h esistono contraddizioni che sono specifiche dell'italia,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3887,7 +3887,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a195" TIME_SLOT_REF1="ts388" TIME_SLOT_REF2="ts389">
-				<ANNOTATION_VALUE>politiche, l' aumento del conflitto sociale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>politiche, l'aumento del conflitto sociale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3962,7 +3962,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a210" TIME_SLOT_REF1="ts418" TIME_SLOT_REF2="ts419">
-				<ANNOTATION_VALUE>è la modalità con cui l' italia era entrata in guerra</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è la modalità con cui l'italia era entrata in guerra</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4047,7 +4047,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a227" TIME_SLOT_REF1="ts452" TIME_SLOT_REF2="ts453">
-				<ANNOTATION_VALUE>all' interno della classe politica liberale eh mh lasciamo perdere</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'interno della classe politica liberale eh mh lasciamo perdere</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4102,7 +4102,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a238" TIME_SLOT_REF1="ts474" TIME_SLOT_REF2="ts475">
-				<ANNOTATION_VALUE>di non vedere l' ora che la guerra finisse,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di non vedere l'ora che la guerra finisse,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4147,7 +4147,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a247" TIME_SLOT_REF1="ts492" TIME_SLOT_REF2="ts493">
-				<ANNOTATION_VALUE>eh a cavallo tra la fine della guerra e l' immediato dopo guerra</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh a cavallo tra la fine della guerra e l'immediato dopo guerra</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4167,7 +4167,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a251" TIME_SLOT_REF1="ts500" TIME_SLOT_REF2="ts501">
-				<ANNOTATION_VALUE>l' interpretazione del: patto di londra del millenovecentoquindici, la questione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'interpretazione del: patto di londra del millenovecentoquindici, la questione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4177,7 +4177,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a253" TIME_SLOT_REF1="ts504" TIME_SLOT_REF2="ts505">
-				<ANNOTATION_VALUE>l' impossibilità politica</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'impossibilità politica</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4307,7 +4307,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a279" TIME_SLOT_REF1="ts556" TIME_SLOT_REF2="ts557">
-				<ANNOTATION_VALUE>l' obiettivo di portare l' italia in guerra.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'obiettivo di portare l'italia in guerra.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4357,7 +4357,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a289" TIME_SLOT_REF1="ts576" TIME_SLOT_REF2="ts577">
-				<ANNOTATION_VALUE>e cioè ottenere tutto quello che c' era nel patto di londra non è possibile</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e cioè ottenere tutto quello che c'era nel patto di londra non è possibile</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4367,7 +4367,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a291" TIME_SLOT_REF1="ts580" TIME_SLOT_REF2="ts581">
-				<ANNOTATION_VALUE>cosa assolutamente inaccettabile per i nazionalisti, per d' annunziani</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cosa assolutamente inaccettabile per i nazionalisti, per d'annunziani</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4442,7 +4442,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a306" TIME_SLOT_REF1="ts610" TIME_SLOT_REF2="ts611">
-				<ANNOTATION_VALUE>all' interno della classe politica</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'interno della classe politica</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4522,7 +4522,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a322" TIME_SLOT_REF1="ts642" TIME_SLOT_REF2="ts643">
-				<ANNOTATION_VALUE>fare della guerra quell' elemento di</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>fare della guerra quell'elemento di</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4537,7 +4537,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a325" TIME_SLOT_REF1="ts648" TIME_SLOT_REF2="ts649">
-				<ANNOTATION_VALUE>&gt;cioè&lt; l' unica forza politica italiana che durante tutta la guerra era sempre stata</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;cioè&lt; l'unica forza politica italiana che durante tutta la guerra era sempre stata</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4702,7 +4702,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a358" TIME_SLOT_REF1="ts714" TIME_SLOT_REF2="ts715">
-				<ANNOTATION_VALUE>sicuramente il partito popolare si è costituito con l' assenso</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sicuramente il partito popolare si è costituito con l'assenso</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4737,7 +4737,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a365" TIME_SLOT_REF1="ts728" TIME_SLOT_REF2="ts729">
-				<ANNOTATION_VALUE>non c' è mai stata una dichiarazione di accettazione dello stato</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non c'è mai stata una dichiarazione di accettazione dello stato</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4752,7 +4752,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a368" TIME_SLOT_REF1="ts734" TIME_SLOT_REF2="ts735">
-				<ANNOTATION_VALUE>nell millenovecentodiciannove l' avevano smessa con le disco~ i discorsi sul papa prigioniero</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell millenovecentodiciannove l'avevano smessa con le disco~ i discorsi sul papa prigioniero</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4802,7 +4802,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a378" TIME_SLOT_REF1="ts754" TIME_SLOT_REF2="ts755">
-				<ANNOTATION_VALUE>all' apertura della cosa se ne sono usciti dall' aula cantando l' internazionale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'apertura della cosa se ne sono usciti dall'aula cantando l'internazionale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4817,12 +4817,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a381" TIME_SLOT_REF1="ts760" TIME_SLOT_REF2="ts761">
-				<ANNOTATION_VALUE>si poneva (nel) millenovecentodiciannove l' obiettivo di una rivoluzione socialista</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si poneva (nel) millenovecentodiciannove l'obiettivo di una rivoluzione socialista</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a382" TIME_SLOT_REF1="ts762" TIME_SLOT_REF2="ts763">
-				<ANNOTATION_VALUE>queste cose ci danno l' idea di un parlamento (.) come dire</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>queste cose ci danno l'idea di un parlamento (.) come dire</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4902,7 +4902,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a398" TIME_SLOT_REF1="ts794" TIME_SLOT_REF2="ts795">
-				<ANNOTATION_VALUE>cioè l' odiatissimo giolitti</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè l'odiatissimo giolitti</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4927,7 +4927,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a403" TIME_SLOT_REF1="ts804" TIME_SLOT_REF2="ts805">
-				<ANNOTATION_VALUE>che quella classe politica con l' assenso del re</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che quella classe politica con l'assenso del re</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4952,7 +4952,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a408" TIME_SLOT_REF1="ts814" TIME_SLOT_REF2="ts815">
-				<ANNOTATION_VALUE>e:::h messo sotto stato d' accusa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h messo sotto stato d'accusa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4977,7 +4977,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a413" TIME_SLOT_REF1="ts824" TIME_SLOT_REF2="ts825">
-				<ANNOTATION_VALUE>alla guida dell' esecutivo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>alla guida dell'esecutivo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4997,7 +4997,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a417" TIME_SLOT_REF1="ts832" TIME_SLOT_REF2="ts833">
-				<ANNOTATION_VALUE>nel frattempo c' era stata alla fine del diciannove</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nel frattempo c'era stata alla fine del diciannove</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5047,12 +5047,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a427" TIME_SLOT_REF1="ts852" TIME_SLOT_REF2="ts853">
-				<ANNOTATION_VALUE>l' italia aveva oltre a trieste gorizia e i territori</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'italia aveva oltre a trieste gorizia e i territori</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a428" TIME_SLOT_REF1="ts854" TIME_SLOT_REF2="ts855">
-				<ANNOTATION_VALUE>e::h annetteva l' istria</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h annetteva l'istria</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5072,7 +5072,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a432" TIME_SLOT_REF1="ts862" TIME_SLOT_REF2="ts863">
-				<ANNOTATION_VALUE>a maggioranza linguistica italiana che venne attribuita all' italia</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a maggioranza linguistica italiana che venne attribuita all'italia</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5112,7 +5112,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a440" TIME_SLOT_REF1="ts878" TIME_SLOT_REF2="ts879">
-				<ANNOTATION_VALUE>fiume venne eh annessa all' italia ma questo c' entra</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>fiume venne eh annessa all'italia ma questo c'entra</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5127,7 +5127,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a443" TIME_SLOT_REF1="ts884" TIME_SLOT_REF2="ts885">
-				<ANNOTATION_VALUE>il governo di giolitti eh fece scattare:: l' azione di: di forza diciamo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il governo di giolitti eh fece scattare:: l'azione di: di forza diciamo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5152,7 +5152,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a448" TIME_SLOT_REF1="ts894" TIME_SLOT_REF2="ts895">
-				<ANNOTATION_VALUE>l' esercito le truppe regolari attaccano fiume dalla terra e dal mare</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'esercito le truppe regolari attaccano fiume dalla terra e dal mare</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5207,7 +5207,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a459" TIME_SLOT_REF1="ts916" TIME_SLOT_REF2="ts917">
-				<ANNOTATION_VALUE>sia nell' industria sia nelle campagne</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sia nell'industria sia nelle campagne</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5222,7 +5222,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a462" TIME_SLOT_REF1="ts922" TIME_SLOT_REF2="ts923">
-				<ANNOTATION_VALUE>n:on fate l' errore di vedere questa cosa il biennio rosso famoso</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>n:on fate l'errore di vedere questa cosa il biennio rosso famoso</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5232,12 +5232,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a464" TIME_SLOT_REF1="ts926" TIME_SLOT_REF2="ts927">
-				<ANNOTATION_VALUE>quel fenomeno c' è in quasi tutti i paesi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quel fenomeno c'è in quasi tutti i paesi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a465" TIME_SLOT_REF1="ts928" TIME_SLOT_REF2="ts929">
-				<ANNOTATION_VALUE>c' è persino negli stati uniti d' america</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è persino negli stati uniti d'america</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5257,7 +5257,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a469" TIME_SLOT_REF1="ts936" TIME_SLOT_REF2="ts937">
-				<ANNOTATION_VALUE>a cui avevo accennato è un fenomeno che c' è</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a cui avevo accennato è un fenomeno che c'è</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5392,17 +5392,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a496" TIME_SLOT_REF1="ts990" TIME_SLOT_REF2="ts991">
-				<ANNOTATION_VALUE>basta sottolineare la parola d' ordine della repubblica</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>basta sottolineare la parola d'ordine della repubblica</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a497" TIME_SLOT_REF1="ts992" TIME_SLOT_REF2="ts993">
-				<ANNOTATION_VALUE>l' obiettivo repubblicano</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'obiettivo repubblicano</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a498" TIME_SLOT_REF1="ts994" TIME_SLOT_REF2="ts995">
-				<ANNOTATION_VALUE>nell' italia del millenovecentodiciannove se uno</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell'italia del millenovecentodiciannove se uno</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5422,7 +5422,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a502" TIME_SLOT_REF1="ts1002" TIME_SLOT_REF2="ts1003">
-				<ANNOTATION_VALUE>l' ambiguità del movimento fascista</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'ambiguità del movimento fascista</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5497,7 +5497,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a517" TIME_SLOT_REF1="ts1032" TIME_SLOT_REF2="ts1033">
-				<ANNOTATION_VALUE>la: grandezza dell' italia:: l::~ la vittoria mutilata</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la: grandezza dell'italia:: l::~ la vittoria mutilata</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5537,7 +5537,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a525" TIME_SLOT_REF1="ts1048" TIME_SLOT_REF2="ts1049">
-				<ANNOTATION_VALUE>in alcune regioni d' italia e questo fenomeno riguardò</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in alcune regioni d'italia e questo fenomeno riguardò</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5587,7 +5587,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a535" TIME_SLOT_REF1="ts1068" TIME_SLOT_REF2="ts1069">
-				<ANNOTATION_VALUE>che è un' espressione che nel millenovecentodiciannove non: non esisteva non aveva neanche senso</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che è un'espressione che nel millenovecentodiciannove non: non esisteva non aveva neanche senso</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5632,7 +5632,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a544" TIME_SLOT_REF1="ts1086" TIME_SLOT_REF2="ts1087">
-				<ANNOTATION_VALUE>ex anarchici pochi ma c' erano anche quelli</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ex anarchici pochi ma c'erano anche quelli</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5802,7 +5802,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a578" TIME_SLOT_REF1="ts1154" TIME_SLOT_REF2="ts1155">
-				<ANNOTATION_VALUE>c' era anche &gt;beh&lt; era stato espulso dal partito socialista per cui c' era un rancore fortissimo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'era anche &gt;beh&lt; era stato espulso dal partito socialista per cui c'era un rancore fortissimo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5817,7 +5817,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a581" TIME_SLOT_REF1="ts1160" TIME_SLOT_REF2="ts1161">
-				<ANNOTATION_VALUE>al~ all' uso della violenza</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>al~ all'uso della violenza</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5837,7 +5837,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a585" TIME_SLOT_REF1="ts1168" TIME_SLOT_REF2="ts1169">
-				<ANNOTATION_VALUE>l' episodio avvenuto a milano già i:l quindici aprile</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'episodio avvenuto a milano già i:l quindici aprile</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5852,12 +5852,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a588" TIME_SLOT_REF1="ts1174" TIME_SLOT_REF2="ts1175">
-				<ANNOTATION_VALUE>e gli aderenti ai fasci di combattimento diedero l' assalto alla sede milanese:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e gli aderenti ai fasci di combattimento diedero l'assalto alla sede milanese:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a589" TIME_SLOT_REF1="ts1176" TIME_SLOT_REF2="ts1177">
-				<ANNOTATION_VALUE>della dell' avanti del quotidiano socialista</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>della dell'avanti del quotidiano socialista</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5872,7 +5872,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a592" TIME_SLOT_REF1="ts1182" TIME_SLOT_REF2="ts1183">
-				<ANNOTATION_VALUE>in realtà delle forze dell' ordine gli diedero fuoco eccetera</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in realtà delle forze dell'ordine gli diedero fuoco eccetera</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5882,7 +5882,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a594" TIME_SLOT_REF1="ts1186" TIME_SLOT_REF2="ts1187">
-				<ANNOTATION_VALUE>quell' elemento è indubbio che ci fosse e:h intendiamoci d' altra parte basterebbe</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quell'elemento è indubbio che ci fosse e:h intendiamoci d'altra parte basterebbe</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5892,7 +5892,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a596" TIME_SLOT_REF1="ts1190" TIME_SLOT_REF2="ts1191">
-				<ANNOTATION_VALUE>qualche antologia del popolo d' italia in quel periodo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>qualche antologia del popolo d'italia in quel periodo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5902,7 +5902,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a598" TIME_SLOT_REF1="ts1194" TIME_SLOT_REF2="ts1195">
-				<ANNOTATION_VALUE>l' indicazione:: alla violenza &gt;(tutte que~)&lt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'indicazione:: alla violenza &gt;(tutte que~)&lt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5912,7 +5912,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a600" TIME_SLOT_REF1="ts1198" TIME_SLOT_REF2="ts1199">
-				<ANNOTATION_VALUE>che stavano dentro il clima dell' epoca</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che stavano dentro il clima dell'epoca</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5927,7 +5927,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a603" TIME_SLOT_REF1="ts1204" TIME_SLOT_REF2="ts1205">
-				<ANNOTATION_VALUE>della lotta politica dell' epoca</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>della lotta politica dell'epoca</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5952,7 +5952,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a608" TIME_SLOT_REF1="ts1214" TIME_SLOT_REF2="ts1215">
-				<ANNOTATION_VALUE>e::h il partito socialista (tra l' altro) forte di quel consenso che aveva</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h il partito socialista (tra l'altro) forte di quel consenso che aveva</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6032,7 +6032,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a624" TIME_SLOT_REF1="ts1246" TIME_SLOT_REF2="ts1247">
-				<ANNOTATION_VALUE>non c' è dubbio che nel millenovecentoventi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non c'è dubbio che nel millenovecentoventi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6067,7 +6067,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a631" TIME_SLOT_REF1="ts1260" TIME_SLOT_REF2="ts1261">
-				<ANNOTATION_VALUE>e anche il l' adozione delle camice nere per indicare gli appartenenti alle: squadre</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e anche il l'adozione delle camice nere per indicare gli appartenenti alle: squadre</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6127,7 +6127,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a643" TIME_SLOT_REF1="ts1284" TIME_SLOT_REF2="ts1285">
-				<ANNOTATION_VALUE>braccianti agricoli eh perché una delle specificità dell' agricoltura moderna</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>braccianti agricoli eh perché una delle specificità dell'agricoltura moderna</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6182,7 +6182,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a654" TIME_SLOT_REF1="ts1306" TIME_SLOT_REF2="ts1307">
-				<ANNOTATION_VALUE>cioè l' obbligo di assumere contrattandolo di assumere un certo numero di braccianti</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè l'obbligo di assumere contrattandolo di assumere un certo numero di braccianti</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6242,7 +6242,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a666" TIME_SLOT_REF1="ts1330" TIME_SLOT_REF2="ts1331">
-				<ANNOTATION_VALUE>nei centri industriali l' atteggiamento dei fascisti</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nei centri industriali l'atteggiamento dei fascisti</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6407,7 +6407,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a699" TIME_SLOT_REF1="ts1396" TIME_SLOT_REF2="ts1397">
-				<ANNOTATION_VALUE>benché all' inizio a quanto pare eh xx fosse</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>benché all'inizio a quanto pare eh xx fosse</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6512,7 +6512,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a720" TIME_SLOT_REF1="ts1438" TIME_SLOT_REF2="ts1439">
-				<ANNOTATION_VALUE>quando c' erano state le elezioni amministrative nella città di bologna</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quando c'erano state le elezioni amministrative nella città di bologna</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6542,7 +6542,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a726" TIME_SLOT_REF1="ts1450" TIME_SLOT_REF2="ts1451">
-				<ANNOTATION_VALUE>la cerimonia di insediamento nel palazzo del comune, palazzo d' accursio</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la cerimonia di insediamento nel palazzo del comune, palazzo d'accursio</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6552,12 +6552,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a728" TIME_SLOT_REF1="ts1454" TIME_SLOT_REF2="ts1455">
-				<ANNOTATION_VALUE>diciamo i fatti di palazzo d' accursio sono m::h uno di quei tanti episodi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>diciamo i fatti di palazzo d'accursio sono m::h uno di quei tanti episodi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a729" TIME_SLOT_REF1="ts1456" TIME_SLOT_REF2="ts1457">
-				<ANNOTATION_VALUE>estremamente complicati e controversi perché c' è stato un numero molto alto di vittime</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>estremamente complicati e controversi perché c'è stato un numero molto alto di vittime</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6602,7 +6602,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a738" TIME_SLOT_REF1="ts1474" TIME_SLOT_REF2="ts1475">
-				<ANNOTATION_VALUE>l' italia e::h in quel periodo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'italia e::h in quel periodo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6617,7 +6617,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a741" TIME_SLOT_REF1="ts1480" TIME_SLOT_REF2="ts1481">
-				<ANNOTATION_VALUE>mettendo al centro dell' argomentazione (.) sempre</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mettendo al centro dell'argomentazione (.) sempre</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6627,7 +6627,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a743" TIME_SLOT_REF1="ts1484" TIME_SLOT_REF2="ts1485">
-				<ANNOTATION_VALUE>e:::h l' instabilità del parlamento</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h l'instabilità del parlamento</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6652,7 +6652,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a748" TIME_SLOT_REF1="ts1494" TIME_SLOT_REF2="ts1495">
-				<ANNOTATION_VALUE>questo anche dà l' indice della incertezza e della fragilità del tutto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo anche dà l'indice della incertezza e della fragilità del tutto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6692,7 +6692,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a756" TIME_SLOT_REF1="ts1510" TIME_SLOT_REF2="ts1511">
-				<ANNOTATION_VALUE>come si disse all' epoca</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come si disse all'epoca</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6777,7 +6777,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a773" TIME_SLOT_REF1="ts1544" TIME_SLOT_REF2="ts1545">
-				<ANNOTATION_VALUE>e::h c' era evidentemente questo limite molto ottocentesco diciamo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h c'era evidentemente questo limite molto ottocentesco diciamo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6842,7 +6842,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a786" TIME_SLOT_REF1="ts1570" TIME_SLOT_REF2="ts1571">
-				<ANNOTATION_VALUE>c' era indubbiamente un errore clamoroso</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'era indubbiamente un errore clamoroso</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6867,7 +6867,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a791" TIME_SLOT_REF1="ts1580" TIME_SLOT_REF2="ts1581">
-				<ANNOTATION_VALUE>certo aveva anche l' obiettivo di entrare in parlamento</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>certo aveva anche l'obiettivo di entrare in parlamento</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6887,12 +6887,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a795" TIME_SLOT_REF1="ts1588" TIME_SLOT_REF2="ts1589">
-				<ANNOTATION_VALUE>quell' atteggiamento nettamente antiparlamentare e antiliberale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quell'atteggiamento nettamente antiparlamentare e antiliberale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a796" TIME_SLOT_REF1="ts1590" TIME_SLOT_REF2="ts1591">
-				<ANNOTATION_VALUE>ce l' avevano anche i nazionalisti</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ce l'avevano anche i nazionalisti</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6942,7 +6942,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a806" TIME_SLOT_REF1="ts1610" TIME_SLOT_REF2="ts1611">
-				<ANNOTATION_VALUE>non so se ce l' avrebbero fatta anche nel ventuno</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non so se ce l'avrebbero fatta anche nel ventuno</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7032,7 +7032,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a824" TIME_SLOT_REF1="ts1646" TIME_SLOT_REF2="ts1647">
-				<ANNOTATION_VALUE>perché torno sempre sull' elemento della crisi del partito liberale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché torno sempre sull'elemento della crisi del partito liberale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7122,12 +7122,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a842" TIME_SLOT_REF1="ts1682" TIME_SLOT_REF2="ts1683">
-				<ANNOTATION_VALUE>e::h l' avvio di:: m::h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h l'avvio di:: m::h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a843" TIME_SLOT_REF1="ts1684" TIME_SLOT_REF2="ts1685">
-				<ANNOTATION_VALUE>un orientamento molto controverso all' interno del fascismo ovviamente, ma</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un orientamento molto controverso all'interno del fascismo ovviamente, ma</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7177,7 +7177,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a853" TIME_SLOT_REF1="ts1704" TIME_SLOT_REF2="ts1705">
-				<ANNOTATION_VALUE>alle giornate cruciali dell' ottobre del millenovecentoventidue</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>alle giornate cruciali dell'ottobre del millenovecentoventidue</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7197,7 +7197,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a857" TIME_SLOT_REF1="ts1712" TIME_SLOT_REF2="ts1713">
-				<ANNOTATION_VALUE>fin dall' inizio una</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>fin dall'inizio una</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7227,7 +7227,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a863" TIME_SLOT_REF1="ts1724" TIME_SLOT_REF2="ts1725">
-				<ANNOTATION_VALUE>dell' insurrezione, del colpo di mano: armato</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dell'insurrezione, del colpo di mano: armato</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7242,12 +7242,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a866" TIME_SLOT_REF1="ts1730" TIME_SLOT_REF2="ts1731">
-				<ANNOTATION_VALUE>questa dialettica c' era all' interno stesso del (.) fascismo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questa dialettica c'era all'interno stesso del (.) fascismo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a867" TIME_SLOT_REF1="ts1732" TIME_SLOT_REF2="ts1733">
-				<ANNOTATION_VALUE>quindi nacque l' idea,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi nacque l'idea,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7282,7 +7282,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a874" TIME_SLOT_REF1="ts1746" TIME_SLOT_REF2="ts1747">
-				<ANNOTATION_VALUE>obiettivo e l' inizio della mobilitazione venne fissato</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>obiettivo e l'inizio della mobilitazione venne fissato</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7367,7 +7367,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a891" TIME_SLOT_REF1="ts1780" TIME_SLOT_REF2="ts1781">
-				<ANNOTATION_VALUE>all' idea del colpo di mano a cui i i</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'idea del colpo di mano a cui i i</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7382,7 +7382,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a894" TIME_SLOT_REF1="ts1786" TIME_SLOT_REF2="ts1787">
-				<ANNOTATION_VALUE>nell' uso disinvolto dei due elementi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell'uso disinvolto dei due elementi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7417,7 +7417,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a901" TIME_SLOT_REF1="ts1800" TIME_SLOT_REF2="ts1801">
-				<ANNOTATION_VALUE>di fatto il colpo di mano, l' entrata in città, eccetera</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di fatto il colpo di mano, l'entrata in città, eccetera</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7437,7 +7437,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a905" TIME_SLOT_REF1="ts1808" TIME_SLOT_REF2="ts1809">
-				<ANNOTATION_VALUE>°diciamo° tant' è vero che mussolini</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>°diciamo° tant'è vero che mussolini</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7447,7 +7447,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a907" TIME_SLOT_REF1="ts1812" TIME_SLOT_REF2="ts1813">
-				<ANNOTATION_VALUE>la marcia su roma l' ha seguita da milano</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la marcia su roma l'ha seguita da milano</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7577,7 +7577,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a933" TIME_SLOT_REF1="ts1864" TIME_SLOT_REF2="ts1865">
-				<ANNOTATION_VALUE>generale dell' esercito cioè in pratica la proclamazione dello stato d' assedio</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>generale dell'esercito cioè in pratica la proclamazione dello stato d'assedio</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7597,7 +7597,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a937" TIME_SLOT_REF1="ts1872" TIME_SLOT_REF2="ts1873">
-				<ANNOTATION_VALUE>poi i fascisti l' han~ sempre chiamata rivoluzione eh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi i fascisti l'han~ sempre chiamata rivoluzione eh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7612,7 +7612,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a940" TIME_SLOT_REF1="ts1878" TIME_SLOT_REF2="ts1879">
-				<ANNOTATION_VALUE>firmare (.) eh lo stato d' assedio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>firmare (.) eh lo stato d'assedio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7647,7 +7647,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a947" TIME_SLOT_REF1="ts1892" TIME_SLOT_REF2="ts1893">
-				<ANNOTATION_VALUE>l' idea che senza i fascisti,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'idea che senza i fascisti,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7667,7 +7667,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a951" TIME_SLOT_REF1="ts1900" TIME_SLOT_REF2="ts1901">
-				<ANNOTATION_VALUE>a fronte dell marcia su roma la proclamazione dello stato d' assedio si risolvesse</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a fronte dell marcia su roma la proclamazione dello stato d'assedio si risolvesse</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7692,12 +7692,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a956" TIME_SLOT_REF1="ts1910" TIME_SLOT_REF2="ts1911">
-				<ANNOTATION_VALUE>che l' esercito potesse non obbedire</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che l'esercito potesse non obbedire</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a957" TIME_SLOT_REF1="ts1912" TIME_SLOT_REF2="ts1913">
-				<ANNOTATION_VALUE>all' ordine di e::h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'ordine di e::h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7742,7 +7742,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a966" TIME_SLOT_REF1="ts1930" TIME_SLOT_REF2="ts1931">
-				<ANNOTATION_VALUE>il pallino in mano nel gioco ce l' aveva lui</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il pallino in mano nel gioco ce l'aveva lui</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7807,7 +7807,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a979" TIME_SLOT_REF1="ts1956" TIME_SLOT_REF2="ts1957">
-				<ANNOTATION_VALUE>non secondariamente era una cosa provocatoria perché quest' uomo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non secondariamente era una cosa provocatoria perché quest'uomo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7862,7 +7862,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a990" TIME_SLOT_REF1="ts1978" TIME_SLOT_REF2="ts1979">
-				<ANNOTATION_VALUE>andare dal re s' è messo in ghingheri cosa che non</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>andare dal re s'(è messo in ghingheri cosa che non</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7872,7 +7872,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a992" TIME_SLOT_REF1="ts1982" TIME_SLOT_REF2="ts1983">
-				<ANNOTATION_VALUE>si presentò dal re e il re quindi gli diede l' incarico di formare il nuovo governo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si presentò dal re e il re quindi gli diede l'incarico di formare il nuovo governo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7907,7 +7907,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a999" TIME_SLOT_REF1="ts1996" TIME_SLOT_REF2="ts1997">
-				<ANNOTATION_VALUE>perché qui e::h c' è sempre stata nella storia e::h italiana e::h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché qui e::h c'è sempre stata nella storia e::h italiana e::h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7942,7 +7942,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1006" TIME_SLOT_REF1="ts2010" TIME_SLOT_REF2="ts2011">
-				<ANNOTATION_VALUE>però io segnalo sempre il fatto che all' epoca</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però io segnalo sempre il fatto che all'epoca</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7982,7 +7982,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1014" TIME_SLOT_REF1="ts2026" TIME_SLOT_REF2="ts2027">
-				<ANNOTATION_VALUE>dà l' incarico a un personaggio</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dà l'incarico a un personaggio</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8007,7 +8007,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1019" TIME_SLOT_REF1="ts2036" TIME_SLOT_REF2="ts2037">
-				<ANNOTATION_VALUE>perché e::h mussolini ha avuto l' incarico</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché e::h mussolini ha avuto l'incarico</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8017,7 +8017,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1021" TIME_SLOT_REF1="ts2040" TIME_SLOT_REF2="ts2041">
-				<ANNOTATION_VALUE>e::h ottenne l' assenso da parte di molti liberali</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h ottenne l'assenso da parte di molti liberali</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8052,7 +8052,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1028" TIME_SLOT_REF1="ts2054" TIME_SLOT_REF2="ts2055">
-				<ANNOTATION_VALUE>il momento clu è una delle pagine più drammatiche della storia d' italia ma che ci dice anche</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il momento clu è una delle pagine più drammatiche della storia d'italia ma che ci dice anche</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8092,7 +8092,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1036" TIME_SLOT_REF1="ts2070" TIME_SLOT_REF2="ts2071">
-				<ANNOTATION_VALUE>potevo fare di quest' aula sorda e grigia un bivacco di manipoli</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>potevo fare di quest'aula sorda e grigia un bivacco di manipoli</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8172,7 +8172,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1052" TIME_SLOT_REF1="ts2102" TIME_SLOT_REF2="ts2103">
-				<ANNOTATION_VALUE>l' iter, la prassi parlamentare</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'iter, la prassi parlamentare</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8202,7 +8202,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1058" TIME_SLOT_REF1="ts2114" TIME_SLOT_REF2="ts2115">
-				<ANNOTATION_VALUE>(pre::) la non firma del decreto per lo stato d' assedio avvenuto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>(pre::) la non firma del decreto per lo stato d'assedio avvenuto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8212,7 +8212,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1060" TIME_SLOT_REF1="ts2118" TIME_SLOT_REF2="ts2119">
-				<ANNOTATION_VALUE>c' è qualche decina di migliaia di scalmanati armati che circondano la capitale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è qualche decina di migliaia di scalmanati armati che circondano la capitale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8282,7 +8282,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1074" TIME_SLOT_REF1="ts2146" TIME_SLOT_REF2="ts2147">
-				<ANNOTATION_VALUE>clima dell' epoca, nel: cioè questi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>clima dell'epoca, nel: cioè questi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8322,22 +8322,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1082" TIME_SLOT_REF1="ts2162" TIME_SLOT_REF2="ts2163">
-				<ANNOTATION_VALUE>e::h del fatto che l' esercito potesse</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h del fatto che l'esercito potesse</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1083" TIME_SLOT_REF1="ts2164" TIME_SLOT_REF2="ts2165">
-				<ANNOTATION_VALUE>dio non voglia quando l' esercio si rifiu~ in un qualsiasi paese</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dio non voglia quando l'esercio si rifiu~ in un qualsiasi paese</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1084" TIME_SLOT_REF1="ts2166" TIME_SLOT_REF2="ts2167">
-				<ANNOTATION_VALUE>quando l' esercito si rifiuta di obbedire</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quando l'esercito si rifiuta di obbedire</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1085" TIME_SLOT_REF1="ts2168" TIME_SLOT_REF2="ts2169">
-				<ANNOTATION_VALUE>agli ordini dell' esecutivo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>agli ordini dell'esecutivo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8537,7 +8537,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1125" TIME_SLOT_REF1="ts2248" TIME_SLOT_REF2="ts2249">
-				<ANNOTATION_VALUE>e::h entrava a far parte dell' ordinamento dello stato</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h entrava a far parte dell'ordinamento dello stato</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8552,7 +8552,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1128" TIME_SLOT_REF1="ts2254" TIME_SLOT_REF2="ts2255">
-				<ANNOTATION_VALUE>a differenza (.) di tutti i corpi dell' esercito</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a differenza (.) di tutti i corpi dell'esercito</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8582,7 +8582,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1134" TIME_SLOT_REF1="ts2266" TIME_SLOT_REF2="ts2267">
-				<ANNOTATION_VALUE>tutti i corpi dell' esercito</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tutti i corpi dell'esercito</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8612,7 +8612,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1140" TIME_SLOT_REF1="ts2278" TIME_SLOT_REF2="ts2279">
-				<ANNOTATION_VALUE>l' esercito dal punto di vista formale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'esercito dal punto di vista formale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8637,7 +8637,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1145" TIME_SLOT_REF1="ts2288" TIME_SLOT_REF2="ts2289">
-				<ANNOTATION_VALUE>e tra l' altro: mal sopportato dall' esercito: regolare</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e tra l'altro: mal sopportato dall'esercito: regolare</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8657,7 +8657,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1149" TIME_SLOT_REF1="ts2296" TIME_SLOT_REF2="ts2297">
-				<ANNOTATION_VALUE>ai generali dell' esercito</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ai generali dell'esercito</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8752,7 +8752,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1168" TIME_SLOT_REF1="ts2334" TIME_SLOT_REF2="ts2335">
-				<ANNOTATION_VALUE>c' era la possibilità</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'era la possibilità</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8777,7 +8777,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1173" TIME_SLOT_REF1="ts2344" TIME_SLOT_REF2="ts2345">
-				<ANNOTATION_VALUE>i quali per altro erano per l' abbattimento violento dello stato xx</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>i quali per altro erano per l'abbattimento violento dello stato xx</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8787,7 +8787,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1175" TIME_SLOT_REF1="ts2348" TIME_SLOT_REF2="ts2349">
-				<ANNOTATION_VALUE>di fatto il partito comunista d' italia</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di fatto il partito comunista d'italia</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8797,7 +8797,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1177" TIME_SLOT_REF1="ts2352" TIME_SLOT_REF2="ts2353">
-				<ANNOTATION_VALUE>tra l' altro è però in tutti i casi è curioso qui mi avvio a</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tra l'altro è però in tutti i casi è curioso qui mi avvio a</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8812,12 +8812,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1180" TIME_SLOT_REF1="ts2358" TIME_SLOT_REF2="ts2359">
-				<ANNOTATION_VALUE>quando si parla dell' italia, del fascismo, eccetera, mi sembra anche giusto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quando si parla dell'italia, del fascismo, eccetera, mi sembra anche giusto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1181" TIME_SLOT_REF1="ts2360" TIME_SLOT_REF2="ts2361">
-				<ANNOTATION_VALUE>dedicargli una lezione, una lezione e mezzo o due insomma per l' importanza che ha</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dedicargli una lezione, una lezione e mezzo o due insomma per l'importanza che ha</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8867,7 +8867,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1191" TIME_SLOT_REF1="ts2380" TIME_SLOT_REF2="ts2381">
-				<ANNOTATION_VALUE>che aveva avuto e::h l' assenso del re e il voto di fiducia</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che aveva avuto e::h l'assenso del re e il voto di fiducia</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8882,7 +8882,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1194" TIME_SLOT_REF1="ts2386" TIME_SLOT_REF2="ts2387">
-				<ANNOTATION_VALUE>all' idea di uno stravolgimento (.) dello stato liberale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'idea di uno stravolgimento (.) dello stato liberale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8937,7 +8937,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1205" TIME_SLOT_REF1="ts2408" TIME_SLOT_REF2="ts2409">
-				<ANNOTATION_VALUE>formale nella storia d' italia alla dittatura fascista vera e propria</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>formale nella storia d'italia alla dittatura fascista vera e propria</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9172,7 +9172,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1252" TIME_SLOT_REF1="ts2502" TIME_SLOT_REF2="ts2503">
-				<ANNOTATION_VALUE>e::h allora nell' italia fascista</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h allora nell'italia fascista</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9217,7 +9217,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1261" TIME_SLOT_REF1="ts2520" TIME_SLOT_REF2="ts2521">
-				<ANNOTATION_VALUE>verso il regime (.) dei vertici dell' esercito</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>verso il regime (.) dei vertici dell'esercito</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9242,7 +9242,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1266" TIME_SLOT_REF1="ts2530" TIME_SLOT_REF2="ts2531">
-				<ANNOTATION_VALUE>era non era mai andato oltre il grado di che cosa era stato non me lo ricordo più nell' esercito</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>era non era mai andato oltre il grado di che cosa era stato non me lo ricordo più nell'esercito</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9257,12 +9257,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1269" TIME_SLOT_REF1="ts2536" TIME_SLOT_REF2="ts2537">
-				<ANNOTATION_VALUE>generali dell' ese~ badate che non è un caso eh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>generali dell'ese~ badate che non è un caso eh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1270" TIME_SLOT_REF1="ts2538" TIME_SLOT_REF2="ts2539">
-				<ANNOTATION_VALUE>per~ cioè queste cose contano nell' aspe~ e come se contano perché poi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per~ cioè queste cose contano nell'aspe~ e come se contano perché poi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9292,7 +9292,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1276" TIME_SLOT_REF1="ts2550" TIME_SLOT_REF2="ts2551">
-				<ANNOTATION_VALUE>c' è una logica eh in queste co~</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è una logica eh in queste co~</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9362,7 +9362,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1290" TIME_SLOT_REF1="ts2578" TIME_SLOT_REF2="ts2579">
-				<ANNOTATION_VALUE>perché non c' ha mai pensato il re di fare una cosa del genere</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché non c'ha mai pensato il re di fare una cosa del genere</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9377,7 +9377,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1293" TIME_SLOT_REF1="ts2584" TIME_SLOT_REF2="ts2585">
-				<ANNOTATION_VALUE>non c' è</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non c'è</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9387,7 +9387,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1295" TIME_SLOT_REF1="ts2588" TIME_SLOT_REF2="ts2589">
-				<ANNOTATION_VALUE>il di~ il rapporto del nazionalsocialismo con l' esercito è stato</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il di~ il rapporto del nazionalsocialismo con l'esercito è stato</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9402,12 +9402,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1298" TIME_SLOT_REF1="ts2594" TIME_SLOT_REF2="ts2595">
-				<ANNOTATION_VALUE>sono alti ufficiali dell' esercito, prussiani</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sono alti ufficiali dell'esercito, prussiani</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1299" TIME_SLOT_REF1="ts2596" TIME_SLOT_REF2="ts2597">
-				<ANNOTATION_VALUE>di quelli un vecchio nucleo centrale del dell' esercito tedesco</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di quelli un vecchio nucleo centrale del dell'esercito tedesco</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9437,22 +9437,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1305" TIME_SLOT_REF1="ts2608" TIME_SLOT_REF2="ts2609">
-				<ANNOTATION_VALUE>e:h su co~ con l' invito a ragionare</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h su co~ con l'invito a ragionare</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1306" TIME_SLOT_REF1="ts2610" TIME_SLOT_REF2="ts2611">
-				<ANNOTATION_VALUE>poi in termini di analogie e differenze con l' altro grande</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi in termini di analogie e differenze con l'altro grande</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1307" TIME_SLOT_REF1="ts2612" TIME_SLOT_REF2="ts2613">
-				<ANNOTATION_VALUE>sistema (.) fascista delle dell' europa del dopoguerra</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sistema (.) fascista delle dell'europa del dopoguerra</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1308" TIME_SLOT_REF1="ts2614" TIME_SLOT_REF2="ts2615">
-				<ANNOTATION_VALUE>l' italia è un caso in cui ci vogliono alcuni anni</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'italia è un caso in cui ci vogliono alcuni anni</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9512,7 +9512,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1320" TIME_SLOT_REF1="ts2638" TIME_SLOT_REF2="ts2639">
-				<ANNOTATION_VALUE>ma qualcun' altro forse scemo lo era ma mussolini credo proprio di no</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma qualcun'altro forse scemo lo era ma mussolini credo proprio di no</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9597,7 +9597,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1337" TIME_SLOT_REF1="ts2672" TIME_SLOT_REF2="ts2673">
-				<ANNOTATION_VALUE>la fusione con l' associazione nazionalista.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la fusione con l'associazione nazionalista.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9632,12 +9632,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1344" TIME_SLOT_REF1="ts2686" TIME_SLOT_REF2="ts2687">
-				<ANNOTATION_VALUE>l' associazione nazionalista una sua cultura politica molto ben precisa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'associazione nazionalista una sua cultura politica molto ben precisa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1345" TIME_SLOT_REF1="ts2688" TIME_SLOT_REF2="ts2689">
-				<ANNOTATION_VALUE>il nazionalismo c~ ce l' aveva</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il nazionalismo c~ ce l'aveva</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9677,7 +9677,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1353" TIME_SLOT_REF1="ts2704" TIME_SLOT_REF2="ts2705">
-				<ANNOTATION_VALUE>che fu anche l' estensore principale del nuovo codice penale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che fu anche l'estensore principale del nuovo codice penale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9757,7 +9757,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1369" TIME_SLOT_REF1="ts2736" TIME_SLOT_REF2="ts2737">
-				<ANNOTATION_VALUE>c' è questa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è questa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9782,7 +9782,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1374" TIME_SLOT_REF1="ts2746" TIME_SLOT_REF2="ts2747">
-				<ANNOTATION_VALUE>e movimento fascista quindi c' è un suo senso.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e movimento fascista quindi c'è un suo senso.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9902,12 +9902,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1398" TIME_SLOT_REF1="ts2794" TIME_SLOT_REF2="ts2795">
-				<ANNOTATION_VALUE>quindi c' è questo el~ nella legge acerbo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi c'è questo el~ nella legge acerbo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1399" TIME_SLOT_REF1="ts2796" TIME_SLOT_REF2="ts2797">
-				<ANNOTATION_VALUE>c' era sicuramente questo elemento fortemente maggioritario</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'era sicuramente questo elemento fortemente maggioritario</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9922,7 +9922,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1402" TIME_SLOT_REF1="ts2802" TIME_SLOT_REF2="ts2803">
-				<ANNOTATION_VALUE>&gt;cioè&lt; le leggi maggioritarie di questi ultimi vent' anni in italia</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;cioè&lt; le leggi maggioritarie di questi ultimi vent'anni in italia</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9982,7 +9982,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1414" TIME_SLOT_REF1="ts2826" TIME_SLOT_REF2="ts2827">
-				<ANNOTATION_VALUE>ha diritto alla maggioranza (.) le scorse elezioni non c' è arrivato nessuno</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ha diritto alla maggioranza (.) le scorse elezioni non c'è arrivato nessuno</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9997,7 +9997,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1417" TIME_SLOT_REF1="ts2832" TIME_SLOT_REF2="ts2833">
-				<ANNOTATION_VALUE>nelle elezioni (.) dell' anno passa~ di quest' anno</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nelle elezioni (.) dell'anno passa~ di quest'anno</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10032,7 +10032,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1424" TIME_SLOT_REF1="ts2846" TIME_SLOT_REF2="ts2847">
-				<ANNOTATION_VALUE>però riflettete su questa cosa che rimanda sempre a quell' ambiguità,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però riflettete su questa cosa che rimanda sempre a quell'ambiguità,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10042,7 +10042,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1426" TIME_SLOT_REF1="ts2850" TIME_SLOT_REF2="ts2851">
-				<ANNOTATION_VALUE>cioè l' instaurazione della dittutatura è stata un processo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè l'instaurazione della dittutatura è stata un processo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10067,7 +10067,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1431" TIME_SLOT_REF1="ts2860" TIME_SLOT_REF2="ts2861">
-				<ANNOTATION_VALUE>e::h maggioritaria, questo dà l' idea</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h maggioritaria, questo dà l'idea</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10122,7 +10122,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1442" TIME_SLOT_REF1="ts2882" TIME_SLOT_REF2="ts2883">
-				<ANNOTATION_VALUE>da non passare l' esame ((ride)) quello</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>da non passare l'esame ((ride)) quello</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10157,7 +10157,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1449" TIME_SLOT_REF1="ts2896" TIME_SLOT_REF2="ts2897">
-				<ANNOTATION_VALUE>mah l' avrete già capito, l' ho già detto prima (.) è che</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mah l'avrete già capito, l'ho già detto prima (.) è che</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10167,7 +10167,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1451" TIME_SLOT_REF1="ts2900" TIME_SLOT_REF2="ts2901">
-				<ANNOTATION_VALUE>direi che l' orientamento</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>direi che l'orientamento</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

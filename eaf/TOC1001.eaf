@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:18:34+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:18+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
@@ -977,7 +977,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
-				<ANNOTATION_VALUE>i suoi:: (.) i suoi colleghi l' anno prossimo. in[somma]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>i suoi:: (.) i suoi colleghi l'anno prossimo. in[somma]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1027,7 +1027,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts113">
-				<ANNOTATION_VALUE>uh (.) può può essere una de:lle: (.) delle tante cause dell' immigrazione:.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>uh (.) può può essere una de:lle: (.) delle tante cause dell'immigrazione:.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1042,7 +1042,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
-				<ANNOTATION_VALUE>in che modo l' indebitamento: (.) m::h (.) apre la strada per l' imm~ (.) e:::::h all' immigrazione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in che modo l'indebitamento: (.) m::h (.) apre la strada per l'imm~ (.) e:::::h all'immigrazione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1077,7 +1077,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts165">
-				<ANNOTATION_VALUE>o meglio non è la risposta che m' aspetta[vo io. (forse è questa cosa)]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>o meglio non è la risposta che m'(aspetta[vo io. (forse è questa cosa)]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1092,17 +1092,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts174" TIME_SLOT_REF2="ts175">
-				<ANNOTATION_VALUE>e:h perché in fin de conto la situazione che m' ha descritto lei è quello della fuga da. (.) qualcuno che (.) ti=e::h,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h perché in fin de conto la situazione che m'(ha descritto lei è quello della fuga da. (.) qualcuno che (.) ti=e::h,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts178" TIME_SLOT_REF2="ts179">
-				<ANNOTATION_VALUE>[allora in che modo l' emmi~ l' immi~] (.) l' emigrazione può servire,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[allora in che modo l'emmi~ l'immi~] (.) l'emigrazione può servire,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a91" TIME_SLOT_REF1="ts180" TIME_SLOT_REF2="ts181">
-				<ANNOTATION_VALUE>come risposta all' end~ all' endibitamento (.) [dal punto di vista di chi],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come risposta all'end~ all'endibitamento (.) [dal punto di vista di chi],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1127,17 +1127,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts212" TIME_SLOT_REF2="ts213">
-				<ANNOTATION_VALUE>ragioni sull' indebitamento.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ragioni sull'indebitamento.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts216" TIME_SLOT_REF2="ts217">
-				<ANNOTATION_VALUE>[sull' indebitame]nto vuol dire che</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sull'indebitame]nto vuol dire che</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a110" TIME_SLOT_REF1="ts218" TIME_SLOT_REF2="ts219">
-				<ANNOTATION_VALUE>se io m' indebito per ics ragioni. [come il co]ntadino per avere le sementi per coltivare il grano [o per compra]rmi una macchina agricola che mi permette di xxrare meno fatica o di implemenetare la mia produzione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se io m'(indebito per ics ragioni. [come il co]ntadino per avere le sementi per coltivare il grano [o per compra]rmi una macchina agricola che mi permette di xxrare meno fatica o di implemenetare la mia produzione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1167,7 +1167,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a121" TIME_SLOT_REF1="ts240" TIME_SLOT_REF2="ts241">
-				<ANNOTATION_VALUE>un' altra parte, un altro modo è essere (.) quello dell' immigrazione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un'altra parte, un altro modo è essere (.) quello dell'immigrazione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1177,7 +1177,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a124" TIME_SLOT_REF1="ts246" TIME_SLOT_REF2="ts247">
-				<ANNOTATION_VALUE>[che cosa] ci faccio fare: (.) cosa mi serve l' immigrazione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[che cosa] ci faccio fare: (.) cosa mi serve l'immigrazione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1192,7 +1192,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a131" TIME_SLOT_REF1="ts260" TIME_SLOT_REF2="ts261">
-				<ANNOTATION_VALUE>hanno diverse funzioni. certo non ce n' hanno solo una eh a seconda eh ma possono essere usate,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>hanno diverse funzioni. certo non ce n'hanno solo una eh a seconda eh ma possono essere usate,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1207,7 +1207,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a135" TIME_SLOT_REF1="ts268" TIME_SLOT_REF2="ts269">
-				<ANNOTATION_VALUE>in un (.) all' estero diciamo do~ dove (.) dove ci sono maggiori opportunità di lavoro, dove si può soprattutto procacciarsi (.) magari anche una: (.) una moneta che ha un alto valore di scambio,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in un (.) all'estero diciamo do~ dove (.) dove ci sono maggiori opportunità di lavoro, dove si può soprattutto procacciarsi (.) magari anche una: (.) una moneta che ha un alto valore di scambio,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1247,12 +1247,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a150" TIME_SLOT_REF1="ts298" TIME_SLOT_REF2="ts299">
-				<ANNOTATION_VALUE>[eh quando si parla di legami int]er-transnazionale si parla sì di legami tra=tra=tra stati (.) situati molto lontani li uno rispetto all' altro ma anche di legam~ (.) si parla di legami transnazionali anche tra le famiglie o di famiglie transnazionali.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[eh quando si parla di legami int]er-transnazionale si parla sì di legami tra=tra=tra stati (.) situati molto lontani li uno rispetto all'altro ma anche di legam~ (.) si parla di legami transnazionali anche tra le famiglie o di famiglie transnazionali.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a152" TIME_SLOT_REF1="ts302" TIME_SLOT_REF2="ts303">
-				<ANNOTATION_VALUE>all' in~ (.) tra le~</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'in~ (.) tra le~</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1282,7 +1282,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a158" TIME_SLOT_REF1="ts314" TIME_SLOT_REF2="ts315">
-				<ANNOTATION_VALUE>dell' immigrazione attiva.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dell'immigrazione attiva.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1292,7 +1292,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a160" TIME_SLOT_REF1="ts318" TIME_SLOT_REF2="ts319">
-				<ANNOTATION_VALUE>che ai nostri l' immigrato qui o:ra,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che ai nostri l'immigrato qui o:ra,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1327,7 +1327,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a169" TIME_SLOT_REF1="ts336" TIME_SLOT_REF2="ts337">
-				<ANNOTATION_VALUE>il debito è contratto [xx semplicemente anche] per (.) in un' ottica di [mobilità sociale].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il debito è contratto [xx semplicemente anche] per (.) in un'ottica di [mobilità sociale].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1352,7 +1352,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a187" TIME_SLOT_REF1="ts372" TIME_SLOT_REF2="ts373">
-				<ANNOTATION_VALUE>((il docente interrompe l' interrogazione per consultarsi con il collega))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>((il_docente_interrompe_interrogazione_per_consultarsi_con_collega))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1392,7 +1392,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a204" TIME_SLOT_REF1="ts406" TIME_SLOT_REF2="ts407">
-				<ANNOTATION_VALUE>m:h=sì ora non so perché siamo andati finiti nell' immigrazione:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>m:h=sì ora non so perché siamo andati finiti nell'immigrazione:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1402,7 +1402,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a207" TIME_SLOT_REF1="ts412" TIME_SLOT_REF2="ts413">
-				<ANNOTATION_VALUE>un' altra parte del libro suxx io non so più capa~ son più incapace di far domande non so più che::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un'altra parte del libro suxx io non so più capa~ son più incapace di far domande non so più che::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1457,7 +1457,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a234" TIME_SLOT_REF1="ts466" TIME_SLOT_REF2="ts467">
-				<ANNOTATION_VALUE>o come l' ha capita lei</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>o come l'ha capita lei</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1472,7 +1472,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a238" TIME_SLOT_REF1="ts474" TIME_SLOT_REF2="ts475">
-				<ANNOTATION_VALUE>l' utilità di questa:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'utilità di questa:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1637,7 +1637,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a308" TIME_SLOT_REF1="ts614" TIME_SLOT_REF2="ts615">
-				<ANNOTATION_VALUE>[senz' altro] eh=eh ha colto uno degli aspetti del=e::h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[senz'altro] eh=eh ha colto uno degli aspetti del=e::h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1647,7 +1647,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a311" TIME_SLOT_REF1="ts620" TIME_SLOT_REF2="ts621">
-				<ANNOTATION_VALUE>e::h=dell' istituzione globale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h=dell'istituzione globale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1677,12 +1677,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a318" TIME_SLOT_REF1="ts634" TIME_SLOT_REF2="ts635">
-				<ANNOTATION_VALUE>inizialmente all' interno di istituzioni globali</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>inizialmente all'interno di istituzioni globali</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a319" TIME_SLOT_REF1="ts636" TIME_SLOT_REF2="ts637">
-				<ANNOTATION_VALUE>eh a partire dall' onu [o::::]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh a partire dall'onu [o::::]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1717,7 +1717,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a327" TIME_SLOT_REF1="ts652" TIME_SLOT_REF2="ts653">
-				<ANNOTATION_VALUE>ormai entrato anche nelle scienze sociali, diciamo (di origine) linguistica=perf,ormativi servono per (.) fare delle cose.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ormai entrato anche nelle scienze sociali, diciamo (di origine) linguistica=performativi servono per (.) fare delle cose.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1912,12 +1912,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a434" TIME_SLOT_REF1="ts866" TIME_SLOT_REF2="ts867">
-				<ANNOTATION_VALUE>e:::h quindi c' è sempre una dimensione di invenzione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h quindi c'è sempre una dimensione di invenzione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a435" TIME_SLOT_REF1="ts868" TIME_SLOT_REF2="ts869">
-				<ANNOTATION_VALUE>nell' invenzione che passa attraverso</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell'invenzione che passa attraverso</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1962,12 +1962,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a446" TIME_SLOT_REF1="ts890" TIME_SLOT_REF2="ts891">
-				<ANNOTATION_VALUE>all' interno di u:n [e::h] di un sistema territoriale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'interno di u:n [e::h] di un sistema territoriale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a448" TIME_SLOT_REF1="ts894" TIME_SLOT_REF2="ts895">
-				<ANNOTATION_VALUE>e:h facendolo oggetto di valorizzazioni::: all' uopo insomma.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h facendolo oggetto di valorizzazioni::: all'uopo insomma.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1994,7 +1994,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a195" TIME_SLOT_REF1="ts388" TIME_SLOT_REF2="ts389">
-				<ANNOTATION_VALUE>[cose] brutte m' ha detto professore</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[cose] brutte m'(ha detto professore</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>
@@ -2096,7 +2096,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
-				<ANNOTATION_VALUE>cinquecento anni che:=m:h=addirittura venivano trasportati (.) i neri dall' africa: all' americhe:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cinquecento anni che:=m:h=addirittura venivano trasportati (.) i neri dall'africa: all'americhe:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2126,17 +2126,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts83">
-				<ANNOTATION_VALUE>(prendo) ad esempio il libro che fa l' esempio del bonded labor (.) che=m:h=nient' altro che praticamente &gt;quello che già avveniva tempo fa cioè&lt; (.) (e) una famiglia si indebita con uno strozzino,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>(prendo) ad esempio il libro che fa l'esempio del bonded labor (.) che=m:h=nient'altro che praticamente &gt;quello che già avveniva tempo fa cioè&lt; (.) (e) una famiglia si indebita con uno strozzino,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts85">
-				<ANNOTATION_VALUE>questo strozzino porta:=a: (.) al massimo i livelli di tasso d' interesse su:l=m:h (.) su:l=m:h l' indebitamento,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo strozzino porta:=a: (.) al massimo i livelli di tasso d'interesse su:l=m:h (.) su:l=m:h l'indebitamento,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
-				<ANNOTATION_VALUE>e quindi praticamente l' unica soluzione che la famiglia ha per sdebitarsi (.) è di (.) e:h=schiavizzarsi. (.) di: (.) di rendersi schiava:. (.) [per] sopperire a questa:=e:h (.) a questa impossiblità di venire incontro al debito: che: è stato:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi praticamente l'unica soluzione che la famiglia ha per sdebitarsi (.) è di (.) e:h=schiavizzarsi. (.) di: (.) di rendersi schiava:. (.) [per] sopperire a questa:=e:h (.) a questa impossiblità di venire incontro al debito: che: è stato:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2156,7 +2156,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
-				<ANNOTATION_VALUE>costruire::=mh ad esempio (.) fa l' esempio di una bambina che:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>costruire::=mh ad esempio (.) fa l'esempio di una bambina che:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2166,7 +2166,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts105">
-				<ANNOTATION_VALUE>della terra dell' argilla. [per dire].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>della terra dell'argilla. [per dire].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2181,17 +2181,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts120" TIME_SLOT_REF2="ts121">
-				<ANNOTATION_VALUE>[beh da questo pun]to di vista:=m:h=c' è un aspetto molto importante cioè quello che (.) un tempo l' immigrazione (.) avveniva soprattutto dai paesi cosiddetti del sud del mondo al nord del mondo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[beh da questo pun]to di vista:=m:h=c'è un aspetto molto importante cioè quello che (.) un tempo l'immigrazione (.) avveniva soprattutto dai paesi cosiddetti del sud del mondo al nord del mondo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts123">
-				<ANNOTATION_VALUE>invece adesso: (.) eh spesso e volentieri (.) capita che: e:h (.) i profughi (.) eh=siano anche profughi (di) cosiddetti interni. cioè all' interno dello stesso stato di appartenenza.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>invece adesso: (.) eh spesso e volentieri (.) capita che: e:h (.) i profughi (.) eh=siano anche profughi (di) cosiddetti interni. cioè all'interno dello stesso stato di appartenenza.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
-				<ANNOTATION_VALUE>che magari sfuggono da: una zona:, in cui appunto c' è questa pratica della: (.) dello sfruttamento minari:le, dello: dello schiavismo:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che magari sfuggono da: una zona:, in cui appunto c'è questa pratica della: (.) dello sfruttamento minari:le, dello: dello schiavismo:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2286,7 +2286,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts194" TIME_SLOT_REF2="ts195">
-				<ANNOTATION_VALUE>potremmo anche dire che la fuga di cervelli è sempre una fuga: da, però non &gt;per quanto riguarda&lt; la famiglia, (.) ma, (.) per l' individuo in sè.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>potremmo anche dire che la fuga di cervelli è sempre una fuga: da, però non &gt;per quanto riguarda&lt; la famiglia, (.) ma, (.) per l'individuo in sè.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2296,7 +2296,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts198" TIME_SLOT_REF2="ts199">
-				<ANNOTATION_VALUE>m:h cioè l' aspettativa non è di lasciare un paese:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>m:h cioè l'aspettativa non è di lasciare un paese:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2321,7 +2321,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a108" TIME_SLOT_REF1="ts214" TIME_SLOT_REF2="ts215">
-				<ANNOTATION_VALUE>ah okay sull' indebitame[nto::]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ah okay sull'indebitame[nto::]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2356,7 +2356,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a125" TIME_SLOT_REF1="ts248" TIME_SLOT_REF2="ts249">
-				<ANNOTATION_VALUE>nel senso di spostarsi un' altra città per trovare lavoro e pagare il debito::m:h=che si è contratti (.) che si è contratto nei confronti di uno strozzino ad esempio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nel senso di spostarsi un'altra città per trovare lavoro e pagare il debito::m:h=che si è contratti (.) che si è contratto nei confronti di uno strozzino ad esempio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2401,7 +2401,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a147" TIME_SLOT_REF1="ts292" TIME_SLOT_REF2="ts293">
-				<ANNOTATION_VALUE>mh=però c' è anche questa realtà comunque che va considerata perché:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mh=però c'è anche questa realtà comunque che va considerata perché:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2411,7 +2411,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a149" TIME_SLOT_REF1="ts296" TIME_SLOT_REF2="ts297">
-				<ANNOTATION_VALUE>cioè dei lega:mi, che si creano tra lo stato di origine del profugo e: lo stato in cui il profugo si trasferisce per chiedere: (.) per trovare lavoro, m:h chiedere l' asilo politico:, (.) [o: per mille altri motivi].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè dei lega:mi, che si creano tra lo stato di origine del profugo e: lo stato in cui il profugo si trasferisce per chiedere: (.) per trovare lavoro, m:h chiedere l'asilo politico:, (.) [o: per mille altri motivi].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2486,7 +2486,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a184" TIME_SLOT_REF1="ts366" TIME_SLOT_REF2="ts367">
-				<ANNOTATION_VALUE>il che è indice del fatto che che non c' è [appunto:]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il che è indice del fatto che che non c'è [appunto:]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2546,7 +2546,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a211" TIME_SLOT_REF1="ts420" TIME_SLOT_REF2="ts421">
-				<ANNOTATION_VALUE>no dicevo un' altra parte che: no:n che non mi è piaciuta o::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no dicevo un'altra parte che: no:n che non mi è piaciuta o::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2711,7 +2711,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a281" TIME_SLOT_REF1="ts560" TIME_SLOT_REF2="ts561">
-				<ANNOTATION_VALUE>le istitu~[beh] soprattutto a scala global[e::]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>le istitu~ [beh] soprattutto a scala global[e::]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2726,7 +2726,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a286" TIME_SLOT_REF1="ts570" TIME_SLOT_REF2="ts571">
-				<ANNOTATION_VALUE>[in] scala glo[bale: (.) l' o]nu: o::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[in] scala glo[bale: (.) l'o]nu: o::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2821,7 +2821,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a337" TIME_SLOT_REF1="ts672" TIME_SLOT_REF2="ts673">
-				<ANNOTATION_VALUE>oppure (.) mi è anche venuta (.) ad esempio in mente un' altra cosa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>oppure (.) mi è anche venuta (.) ad esempio in mente un'altra cosa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2851,7 +2851,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a343" TIME_SLOT_REF1="ts684" TIME_SLOT_REF2="ts685">
-				<ANNOTATION_VALUE>l' immagina della la protesta degl~ degli agricoltori italiani, che:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'immagina della la protesta degl~ degli agricoltori italiani, che:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2961,7 +2961,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a375" TIME_SLOT_REF1="ts748" TIME_SLOT_REF2="ts749">
-				<ANNOTATION_VALUE>e quindi: in questo caso sì c' è una interazione diretta tra le multinazionali che</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi: in questo caso sì c'è una interazione diretta tra le multinazionali che</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2991,7 +2991,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a382" TIME_SLOT_REF1="ts762" TIME_SLOT_REF2="ts763">
-				<ANNOTATION_VALUE>(e) c' è il contesto naturale in sé,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>(e) c'è il contesto naturale in sé,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3006,17 +3006,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a385" TIME_SLOT_REF1="ts768" TIME_SLOT_REF2="ts769">
-				<ANNOTATION_VALUE>per esempio nel caso dell' unesco:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per esempio nel caso dell'unesco:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a386" TIME_SLOT_REF1="ts770" TIME_SLOT_REF2="ts771">
-				<ANNOTATION_VALUE>eh l' ultimo territorio che è entrato: è quello fortunatamente dove vivo io che sono le: colline del monferrato,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh l'ultimo territorio che è entrato: è quello fortunatamente dove vivo io che sono le: colline del monferrato,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a387" TIME_SLOT_REF1="ts772" TIME_SLOT_REF2="ts773">
-				<ANNOTATION_VALUE>è entrato a far parte dell' unesco e [quindi]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è entrato a far parte dell'unesco e [quindi]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3026,7 +3026,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a390" TIME_SLOT_REF1="ts778" TIME_SLOT_REF2="ts779">
-				<ANNOTATION_VALUE>poi c' è ad esempio c~ si parla anche di capitale istituzionale che sono ad esempio: potrebbe essere l' università di torino che</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi c'è ad esempio c~ si parla anche di capitale istituzionale che sono ad esempio: potrebbe essere l'università di torino che</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3071,7 +3071,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a401" TIME_SLOT_REF1="ts800" TIME_SLOT_REF2="ts801">
-				<ANNOTATION_VALUE>[e anche] se uh=mh c' è=m:h secondo me c' è un mh lato negativo di questa faccenda</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e anche] se uh=mh c'è=m:h secondo me c'è un mh lato negativo di questa faccenda</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3116,7 +3116,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a413" TIME_SLOT_REF1="ts824" TIME_SLOT_REF2="ts825">
-				<ANNOTATION_VALUE>dal nulla dove da dove non c' era questa tradizione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dal nulla dove da dove non c'era questa tradizione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3136,12 +3136,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a417" TIME_SLOT_REF1="ts832" TIME_SLOT_REF2="ts833">
-				<ANNOTATION_VALUE>non c' è nella realtà non c' è mai stata non ha mai avuto attestazioni storiche:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non c'è nella realtà non c'è mai stata non ha mai avuto attestazioni storiche:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a418" TIME_SLOT_REF1="ts834" TIME_SLOT_REF2="ts835">
-				<ANNOTATION_VALUE>quando d' altra parte invece ci sono [molte di que]ste tradizioni</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quando d'altra parte invece ci sono [molte di que]ste tradizioni</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

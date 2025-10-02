@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:18:36+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:16+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
@@ -923,6 +923,1453 @@
 		<TIME_SLOT TIME_SLOT_ID="ts918" TIME_VALUE="1362300" />
 		<TIME_SLOT TIME_SLOT_ID="ts919" TIME_VALUE="1363050" />
 		</TIME_ORDER>
+	<TIER TIER_ID="BO143" LINGUISTIC_TYPE_REF="default-lt">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+				<ANNOTATION_VALUE>e:h (.) pos[so entrare? xx (.) grazie].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+				<ANNOTATION_VALUE>buongiorno.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
+				<ANNOTATION_VALUE>[sì].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
+				<ANNOTATION_VALUE>sì.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
+				<ANNOTATION_VALUE>sì.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+				<ANNOTATION_VALUE>[okay].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
+				<ANNOTATION_VALUE>e:h sì.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
+				<ANNOTATION_VALUE>[sì:] (.) sì [sì sì (.) certo].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
+				<ANNOTATION_VALUE>e::h (.) beh, (.) allora, e::h beh, (.) mi è:: mi è interessato molto, la parte relativa (.) agli errori infatti non a caso dopo,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
+				<ANNOTATION_VALUE>e::h (.) ho voluto concentrarmi appunto su quella parte per=e::h la: (.) stesura appunto della mia tesina,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
+				<ANNOTATION_VALUE>e anche: mi è:: (.) mi è interessato molto:, (.) il=e:h (.) diciamo l'analisi che abbiamo fatto dell'intercomprensione fra lingue e affini.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
+				<ANNOTATION_VALUE>quegli approcci appunto plura:li,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
+				<ANNOTATION_VALUE>e in particolare appunto l'intercomprensio:ne,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts71">
+				<ANNOTATION_VALUE>e l'analisi di:: appunto di galanet, e di euron ci[nque].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts75">
+				<ANNOTATION_VALUE>sì,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts77">
+				<ANNOTATION_VALUE>allora,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts79">
+				<ANNOTATION_VALUE>per quanto riguarda gli approcci appunto plurali,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts81">
+				<ANNOTATION_VALUE>possiamo appunto: abbiamo appunto la::,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts83">
+				<ANNOTATION_VALUE>e:::h l'approccio interculturale,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts85">
+				<ANNOTATION_VALUE>la:: didattica: (.) e::h (.) integrata,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
+				<ANNOTATION_VALUE>e:::h il=e::h appunto (.) le xxx au langue, (.) che è una serie appunto d[i::],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts91">
+				<ANNOTATION_VALUE>[e (.) e ve]l lel~ (.) xx [perdoni, non so il franc]ese.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
+				<ANNOTATION_VALUE>e il clicl appunto, (.) eh content and language integrated learning,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts97">
+				<ANNOTATION_VALUE>e (.) appunto all'intercomprensione fra lingue e affini (.) per intercomprensione, o, comprensione multilingue, si intende l'apprendimento ricettivo,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
+				<ANNOTATION_VALUE>eh (.) di più lingue mediante lo sviluppo di strategie,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
+				<ANNOTATION_VALUE>e::h (.) che consentono di traferire, (.) processi cognitivi,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts103">
+				<ANNOTATION_VALUE>eh (.) conoscenze, esprerienze, abilità già acquisite, da una lingua all'altra.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts107">
+				<ANNOTATION_VALUE>e [in mo~],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts117">
+				<ANNOTATION_VALUE>beh diciamo che (.) e::h=m (.) gli approcci plurali nascono comunque da nuove tendenze all'interno della didattica.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts119">
+				<ANNOTATION_VALUE>e::h linguistica,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts120" TIME_SLOT_REF2="ts121">
+				<ANNOTATION_VALUE>in particolar modo abbiamo appunto il=e::h carap, che è appunto il (.) quadro di riferimento per gli approcci plura~ (.) plurali, e il=eh=m:h,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts123">
+				<ANNOTATION_VALUE>e::h nuovo e:h (.) quadro strategico appunto per il plurilinguismo diciamo che fondamentalmente l'obbiettivo generale degli approcci plurali,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
+				<ANNOTATION_VALUE>è quello di (.) eh portare avanti una politica di differenziazione linguistica, al fine di superare,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
+				<ANNOTATION_VALUE>contesti e situazioni di monolinguismo come ad esempio, (.) può essere per l'inglese,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
+				<ANNOTATION_VALUE>e::h (.) e quindi, (.) e::h ci sono appunto varie direzioni appunto che si sono prese,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
+				<ANNOTATION_VALUE>ad esempio appunto la, (.) suddivisione della: (.) della scomposizione della lingua appunto in,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts133">
+				<ANNOTATION_VALUE>unità più piccole,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts135">
+				<ANNOTATION_VALUE>e::::h (.) abbiamo &gt;allo stesso tempo&lt; il progetto lingue mode:rne del millenovecento (.) e settantuno appunto le:: unità appunto capitalizzabili in unit credit system,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts137">
+				<ANNOTATION_VALUE>e (.) eh il=e::h=m:h,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts139">
+				<ANNOTATION_VALUE>e (.) inoltre e::h (.) e la appunto la fissa~ (.) diciamo il fissare appunto obbiettivi diciamo ridotti.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts141">
+				<ANNOTATION_VALUE>e::h (.) e quin=diciamo che, (.) m::h lo scopo fondamentale è quello comunque di, e::h diciamo promuovere,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts142" TIME_SLOT_REF2="ts143">
+				<ANNOTATION_VALUE>una:: cultura:: (.) del (.) plurilinguismo appunto nel cittadino europeo, quindi valorizzare (.) la::: la dimensione interculturale della dell'apprendimento,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts145">
+				<ANNOTATION_VALUE>e:::h=m::h,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts146" TIME_SLOT_REF2="ts147">
+				<ANNOTATION_VALUE>e::::=mh,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts149">
+				<ANNOTATION_VALUE>qui[ndi sì ecco],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts154" TIME_SLOT_REF2="ts155">
+				<ANNOTATION_VALUE>[sì].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts158" TIME_SLOT_REF2="ts159">
+				<ANNOTATION_VALUE>[sì].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts162" TIME_SLOT_REF2="ts163">
+				<ANNOTATION_VALUE>e:: (.) allora, (.) eh per quanto riguarda appunto l'intercomprensione,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts165">
+				<ANNOTATION_VALUE>e:::=m:::h,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts166" TIME_SLOT_REF2="ts167">
+				<ANNOTATION_VALUE>allora abbiamo appunto:, abbiamo visto noi abbiamo appunto in particolare analizzato appunto galanet, ed euron quattro e cinque, in particolare e::h,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts168" TIME_SLOT_REF2="ts169">
+				<ANNOTATION_VALUE>e:h a me, (.) m'(ha interessato particolarmente appunto eurom=e:h (.) eh cinque,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts170" TIME_SLOT_REF2="ts171">
+				<ANNOTATION_VALUE>che appunto lo s~ (.) è=mh diciamo=mh il metodo appunto eurom, (.) è quello di e::h consente l'apprendimento di (.) eh qua~ fino a quattro appunto lingue, (.) eh romanze,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts172" TIME_SLOT_REF2="ts173">
+				<ANNOTATION_VALUE>per chi ne sa già una, in particolar modo appunto italiano, (.) spagnolo francese catalano e (.) portoghese,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts174" TIME_SLOT_REF2="ts175">
+				<ANNOTATION_VALUE>in maniera (.) eh ricettiva.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts176" TIME_SLOT_REF2="ts177">
+				<ANNOTATION_VALUE>e e:::h il=e::h=m::h,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts178" TIME_SLOT_REF2="ts179">
+				<ANNOTATION_VALUE>appun[to il],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts184" TIME_SLOT_REF2="ts185">
+				<ANNOTATION_VALUE>sì.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts186" TIME_SLOT_REF2="ts187">
+				<ANNOTATION_VALUE>[e:h focali~] sì in maniera appunto sì (.) esatto focalizzandosi sulle abilità:::=mh (.) ricettive,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts190" TIME_SLOT_REF2="ts191">
+				<ANNOTATION_VALUE>e e:h quindi (.) elaborando strategie di comprensione generali,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts192" TIME_SLOT_REF2="ts193">
+				<ANNOTATION_VALUE>e e::::h in particolar modo i presupposti teorici sono appunto, la comprensione del testo e quieta teoria dei sette setacci, che sono appunto questi filtri o domini,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts194" TIME_SLOT_REF2="ts195">
+				<ANNOTATION_VALUE>e:h attraverso cui è possibile trasferire le (.) e:h le conoscenze da una lingua all'altra, che sono appunto il lessico internazionale, il lessico panromanzo quindi diciamo il lessico affine tra le varie,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a99" TIME_SLOT_REF1="ts196" TIME_SLOT_REF2="ts197">
+				<ANNOTATION_VALUE>lingue romanze elencate,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts198" TIME_SLOT_REF2="ts199">
+				<ANNOTATION_VALUE>eh le corrispondenze fonologiche, la grafia e la pronuncia,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts200" TIME_SLOT_REF2="ts201">
+				<ANNOTATION_VALUE>le:: strutture sintattiche e gli elementi morfosintattici,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a102" TIME_SLOT_REF1="ts202" TIME_SLOT_REF2="ts203">
+				<ANNOTATION_VALUE>i prefissi, e i suffissi.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" TIME_SLOT_REF1="ts204" TIME_SLOT_REF2="ts205">
+				<ANNOTATION_VALUE>quin=diciamo che,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts206" TIME_SLOT_REF2="ts207">
+				<ANNOTATION_VALUE>ci si basa un po' su un'analisi comunque di quelle che sono (.) le e::h (.) le analogie, fra le lngue romanze.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a105" TIME_SLOT_REF1="ts208" TIME_SLOT_REF2="ts209">
+				<ANNOTATION_VALUE>naturalmente anche con molte generalizzazioni.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a106" TIME_SLOT_REF1="ts210" TIME_SLOT_REF2="ts211">
+				<ANNOTATION_VALUE>infatti (.) diciamo che (.) è un metodo che mi lascia un po': come dire,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts212" TIME_SLOT_REF2="ts213">
+				<ANNOTATION_VALUE>m:::h non s[o sono un (.) un po' p]erples[sa s]ì non so effetttivamente quanto possa: (.) funzionare, però l'ho trovato molto inter[essante perché è un approccio che non] avevo mai:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a111" TIME_SLOT_REF1="ts220" TIME_SLOT_REF2="ts221">
+				<ANNOTATION_VALUE>[considerato diciamo].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a114" TIME_SLOT_REF1="ts226" TIME_SLOT_REF2="ts227">
+				<ANNOTATION_VALUE>[e::]::h,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a115" TIME_SLOT_REF1="ts228" TIME_SLOT_REF2="ts229">
+				<ANNOTATION_VALUE>o[ddio],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a117" TIME_SLOT_REF1="ts232" TIME_SLOT_REF2="ts233">
+				<ANNOTATION_VALUE>[sì sì sì sì sì sì sì (.) sì sì sì sì sì].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a120" TIME_SLOT_REF1="ts238" TIME_SLOT_REF2="ts239">
+				<ANNOTATION_VALUE>sì infatti il metodo appunto eurom,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a121" TIME_SLOT_REF1="ts240" TIME_SLOT_REF2="ts241">
+				<ANNOTATION_VALUE>diciamo che sono ab~ appunto nel metodo eurom si hanno appunto venti articoli, per venti appunto lezioni di circa un'ora e mezza,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a122" TIME_SLOT_REF1="ts242" TIME_SLOT_REF2="ts243">
+				<ANNOTATION_VALUE>e::h ciascuna,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a123" TIME_SLOT_REF1="ts244" TIME_SLOT_REF2="ts245">
+				<ANNOTATION_VALUE>e::h e il=e::h appunto il lettore diciamo barra apprendente ha accesso solamente alla traduzione del titolo,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a124" TIME_SLOT_REF1="ts246" TIME_SLOT_REF2="ts247">
+				<ANNOTATION_VALUE>e::h=m:h in diverse lingue, mentre &gt;invece&lt; in eurom quattro aveva accesso anche ad un breve (.) riasunto,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a125" TIME_SLOT_REF1="ts248" TIME_SLOT_REF2="ts249">
+				<ANNOTATION_VALUE>e::h e quindi (.) prima ci si:=m:h focalizza appunto prima s~=ciamo si fa un ascolto perché si possono anche ascoltare i testi,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a126" TIME_SLOT_REF1="ts250" TIME_SLOT_REF2="ts251">
+				<ANNOTATION_VALUE>e::h letti appunto da: un parlante nativo,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a127" TIME_SLOT_REF1="ts252" TIME_SLOT_REF2="ts253">
+				<ANNOTATION_VALUE>e:::h (.) molto generale senza focalizzarsi diciamo sugli elementi linguistici,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a128" TIME_SLOT_REF1="ts254" TIME_SLOT_REF2="ts255">
+				<ANNOTATION_VALUE>e: poi si fa un primo tentativo di (.) traduzione,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a129" TIME_SLOT_REF1="ts256" TIME_SLOT_REF2="ts257">
+				<ANNOTATION_VALUE>naturalmente (.) il diritto all'approssimazione (.) è più che legittimo nel senso che (.) naturalmente: (.) diciamo che m::h m::h,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a130" TIME_SLOT_REF1="ts258" TIME_SLOT_REF2="ts259">
+				<ANNOTATION_VALUE>diciamo che (.) uno dei degli approcci su cui si basa eurom, è che appunto bisogna accettare,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a131" TIME_SLOT_REF1="ts260" TIME_SLOT_REF2="ts261">
+				<ANNOTATION_VALUE>che (.) non è necessario conoscere tutte le parole di un testo per (.) comunque accedere al significato generale,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a132" TIME_SLOT_REF1="ts262" TIME_SLOT_REF2="ts263">
+				<ANNOTATION_VALUE>perciò appunto sono (.) consentite traduzioni approssimative, ad esempio si adotta la cosiddetta tecnica della parola vuota,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a133" TIME_SLOT_REF1="ts264" TIME_SLOT_REF2="ts265">
+				<ANNOTATION_VALUE>quindi le: i termini opachi, quindi non sono ben specificati, possono essere sostituiti da riempitivi come cosa</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a134" TIME_SLOT_REF1="ts266" TIME_SLOT_REF2="ts267">
+				<ANNOTATION_VALUE>o (.) eh (.) cosare.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a135" TIME_SLOT_REF1="ts268" TIME_SLOT_REF2="ts269">
+				<ANNOTATION_VALUE>poi si (.) e:h (.) fa un (.) si procede ad un secondo ascolto ad una seconda lettura, e si ci si focalizza appunto sugli elementi,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a136" TIME_SLOT_REF1="ts270" TIME_SLOT_REF2="ts271">
+				<ANNOTATION_VALUE>e:h (.) sintattici, appunto lessicali, in questo caso.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a137" TIME_SLOT_REF1="ts272" TIME_SLOT_REF2="ts273">
+				<ANNOTATION_VALUE>quindi appunto si adottano tutta una serie di strategie di comprensione, quindi ad esempio appunto si:: (.) diciamo si sceglie un approccio alla lettura,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a138" TIME_SLOT_REF1="ts274" TIME_SLOT_REF2="ts275">
+				<ANNOTATION_VALUE>a:::m::h (.) &gt;diciamo&lt; che corrisponde (.) a (.) quelli che sono i propri obbiettivi,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a139" TIME_SLOT_REF1="ts276" TIME_SLOT_REF2="ts277">
+				<ANNOTATION_VALUE>si: (.) costruisce appunto un percorso di lettura,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a140" TIME_SLOT_REF1="ts278" TIME_SLOT_REF2="ts279">
+				<ANNOTATION_VALUE>e:::h=m:h,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a141" TIME_SLOT_REF1="ts280" TIME_SLOT_REF2="ts281">
+				<ANNOTATION_VALUE>e quindi insomm[a:::],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a143" TIME_SLOT_REF1="ts284" TIME_SLOT_REF2="ts285">
+				<ANNOTATION_VALUE>e poi::: (.) sì.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a144" TIME_SLOT_REF1="ts286" TIME_SLOT_REF2="ts287">
+				<ANNOTATION_VALUE>quindi ad esempio ci si:, (.) focalizza a esempio sul, (.) si cerca appunto di capire il genere,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a145" TIME_SLOT_REF1="ts288" TIME_SLOT_REF2="ts289">
+				<ANNOTATION_VALUE>e::h il forma:to, (.) magari il periodo appunto di pubblicazione del: (.) dell'articolo, appunto in genere sono articoli tratti da settimanali o quotidiani,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a147" TIME_SLOT_REF1="ts292" TIME_SLOT_REF2="ts293">
+				<ANNOTATION_VALUE>e:::h=m::h,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a148" TIME_SLOT_REF1="ts294" TIME_SLOT_REF2="ts295">
+				<ANNOTATION_VALUE>si: (.) individuano ad esempio le seguenze appunto discorsive, o comunque (.) i generi testuali,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a149" TIME_SLOT_REF1="ts296" TIME_SLOT_REF2="ts297">
+				<ANNOTATION_VALUE>e:::h=m:h,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a150" TIME_SLOT_REF1="ts298" TIME_SLOT_REF2="ts299">
+				<ANNOTATION_VALUE>e poi appunto ci si focalizza sugli aspetti appunto::,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts300" TIME_SLOT_REF2="ts301">
+				<ANNOTATION_VALUE>più legati, maggiormente legati insomma alla lingua, appunto (.) come dicevo prima trovando appunto analogi:e,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a152" TIME_SLOT_REF1="ts302" TIME_SLOT_REF2="ts303">
+				<ANNOTATION_VALUE>e magari a volte anche insomma differenze.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a157" TIME_SLOT_REF1="ts312" TIME_SLOT_REF2="ts313">
+				<ANNOTATION_VALUE>allora, (.) il [quadro],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a160" TIME_SLOT_REF1="ts318" TIME_SLOT_REF2="ts319">
+				<ANNOTATION_VALUE>allora, il quadro comune europeo di riferimento (.) per la conoscenza delle lingue,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a161" TIME_SLOT_REF1="ts320" TIME_SLOT_REF2="ts321">
+				<ANNOTATION_VALUE>è un documento importantissimo,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a162" TIME_SLOT_REF1="ts322" TIME_SLOT_REF2="ts323">
+				<ANNOTATION_VALUE>eh (.) stilato appunto nel (.) eh duemilaeuno,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a163" TIME_SLOT_REF1="ts324" TIME_SLOT_REF2="ts325">
+				<ANNOTATION_VALUE>ed è (.) e::h=mh (.) all'interno di esso troviamo (.) e:h la descrizione dei: (.) e:h=i sei appunto livelli,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a164" TIME_SLOT_REF1="ts326" TIME_SLOT_REF2="ts327">
+				<ANNOTATION_VALUE>eh di competenza linguistica,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a165" TIME_SLOT_REF1="ts328" TIME_SLOT_REF2="ts329">
+				<ANNOTATION_VALUE>che sono appunto, (.) a uno a due, (.) e:h b uno b due, c uno e c due,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a166" TIME_SLOT_REF1="ts330" TIME_SLOT_REF2="ts331">
+				<ANNOTATION_VALUE>e (.) appunto (.) eh (.) per ogni livello viene descritto cosa l'apprendente sa fare,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a167" TIME_SLOT_REF1="ts332" TIME_SLOT_REF2="ts333">
+				<ANNOTATION_VALUE>nella lingua target, in quel dato momento della sua (.) dell'evoluzione del suo processo insomma, (.) eh linguistico,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a168" TIME_SLOT_REF1="ts334" TIME_SLOT_REF2="ts335">
+				<ANNOTATION_VALUE>e:: naturalmente, (.) e::h a seconda appunto dei vari ambiti, quindi ad esempio abbiamo appunto scale specifiche,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a169" TIME_SLOT_REF1="ts336" TIME_SLOT_REF2="ts337">
+				<ANNOTATION_VALUE>relative alle vare competenze, ad esempio ci sono scale,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a170" TIME_SLOT_REF1="ts338" TIME_SLOT_REF2="ts339">
+				<ANNOTATION_VALUE>un una scala potrebbe essere ad esempio la, (.) comprensione di un'interazione fra parlanti nativi, ad esempio.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a171" TIME_SLOT_REF1="ts340" TIME_SLOT_REF2="ts341">
+				<ANNOTATION_VALUE>e:: appunto è un documento importantissimo, proprio perché per la prima volta, si cerca di individuare, (.) una linea comune,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a172" TIME_SLOT_REF1="ts342" TIME_SLOT_REF2="ts343">
+				<ANNOTATION_VALUE>che possa andare bene per tutta europa, per quanto riguarda,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a173" TIME_SLOT_REF1="ts344" TIME_SLOT_REF2="ts345">
+				<ANNOTATION_VALUE>a[ppunto la:],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a179" TIME_SLOT_REF1="ts356" TIME_SLOT_REF2="ts357">
+				<ANNOTATION_VALUE>[e::::h],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a180" TIME_SLOT_REF1="ts358" TIME_SLOT_REF2="ts359">
+				<ANNOTATION_VALUE>ah (.) beh (.) sì, appunto nel millenovecento (.) e settantuno, c'era stato il progetto lingue mode:rne,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a181" TIME_SLOT_REF1="ts360" TIME_SLOT_REF2="ts361">
+				<ANNOTATION_VALUE>che: (.) appunto, si basava appunto sulle: (.) unità capitalizzabili, e tui (.) sui (.) threshold level che appunto livello soglia che sarebbe appunto livello,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a182" TIME_SLOT_REF1="ts362" TIME_SLOT_REF2="ts363">
+				<ANNOTATION_VALUE>di (.) mh minimo:, (.) diciamo a livello linguistico, (.) eh grazie a cui un apprendente può sopravvivere in un paese stranie:ro,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a183" TIME_SLOT_REF1="ts364" TIME_SLOT_REF2="ts365">
+				<ANNOTATION_VALUE>e instaurare e mantenere rapporti, con i parlanti nativi.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a184" TIME_SLOT_REF1="ts366" TIME_SLOT_REF2="ts367">
+				<ANNOTATION_VALUE>e:: però sì,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a185" TIME_SLOT_REF1="ts368" TIME_SLOT_REF2="ts369">
+				<ANNOTATION_VALUE>diciamo che:, (.) &gt;probabilmente&lt; questa è la prima volta in cui si ha un documento un po' più sistematico.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a186" TIME_SLOT_REF1="ts370" TIME_SLOT_REF2="ts371">
+				<ANNOTATION_VALUE>e::::,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a188" TIME_SLOT_REF1="ts374" TIME_SLOT_REF2="ts375">
+				<ANNOTATION_VALUE>[che f~],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a189" TIME_SLOT_REF1="ts376" TIME_SLOT_REF2="ts377">
+				<ANNOTATION_VALUE>sì, unita:rio.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a191" TIME_SLOT_REF1="ts380" TIME_SLOT_REF2="ts381">
+				<ANNOTATION_VALUE>che infatti viene tutt'ora insomma utilizzato naturalmente in riferimento appunto al quadro comune europeo:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a192" TIME_SLOT_REF1="ts382" TIME_SLOT_REF2="ts383">
+				<ANNOTATION_VALUE>m:h (.) [&gt;cioè&lt;, c'è sempre],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a194" TIME_SLOT_REF1="ts386" TIME_SLOT_REF2="ts387">
+				<ANNOTATION_VALUE>[sì:],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a195" TIME_SLOT_REF1="ts388" TIME_SLOT_REF2="ts389">
+				<ANNOTATION_VALUE>[sì] sì sì.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a196" TIME_SLOT_REF1="ts390" TIME_SLOT_REF2="ts391">
+				<ANNOTATION_VALUE>infatti anche noi abbiamo visto appunto: mi ricordo quando abbiamo appunto:: (.) durante appunto il suo modulo, analizzato la:: (.) l'interazione,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a197" TIME_SLOT_REF1="ts392" TIME_SLOT_REF2="ts393">
+				<ANNOTATION_VALUE>fra: due (.) studentesse di italiano, come lingua straniera, di madrelingua francese, julie e amelie mi pareva,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a198" TIME_SLOT_REF1="ts394" TIME_SLOT_REF2="ts395">
+				<ANNOTATION_VALUE>e:: avevamo usato appunto anche noi i descrittori naturalmente del quadro comune::: europeo, proprio per attribuire,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a199" TIME_SLOT_REF1="ts396" TIME_SLOT_REF2="ts397">
+				<ANNOTATION_VALUE>il livello lin~ (.) di padronanza linguis[tica].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a201" TIME_SLOT_REF1="ts400" TIME_SLOT_REF2="ts401">
+				<ANNOTATION_VALUE>quindi appunto avevamo visto l'esposizio:ne, appunto la correttezza quindi l'assenza,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a203" TIME_SLOT_REF1="ts404" TIME_SLOT_REF2="ts405">
+				<ANNOTATION_VALUE>o no di erro:ri,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a204" TIME_SLOT_REF1="ts406" TIME_SLOT_REF2="ts407">
+				<ANNOTATION_VALUE>la:: la fluenza, quindi comunque il ritmo dell'el[oquio, la] velocità,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a206" TIME_SLOT_REF1="ts410" TIME_SLOT_REF2="ts411">
+				<ANNOTATION_VALUE>le: f[alse partenze],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a210" TIME_SLOT_REF1="ts418" TIME_SLOT_REF2="ts419">
+				<ANNOTATION_VALUE>e::::,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a212" TIME_SLOT_REF1="ts422" TIME_SLOT_REF2="ts423">
+				<ANNOTATION_VALUE>[sì],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a213" TIME_SLOT_REF1="ts424" TIME_SLOT_REF2="ts425">
+				<ANNOTATION_VALUE>[e::::h],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a214" TIME_SLOT_REF1="ts426" TIME_SLOT_REF2="ts427">
+				<ANNOTATION_VALUE>beh, (.) e:::h=mh,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a215" TIME_SLOT_REF1="ts428" TIME_SLOT_REF2="ts429">
+				<ANNOTATION_VALUE>oddio, ((ride))</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a216" TIME_SLOT_REF1="ts430" TIME_SLOT_REF2="ts431">
+				<ANNOTATION_VALUE>e:::h=m:h,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a217" TIME_SLOT_REF1="ts432" TIME_SLOT_REF2="ts433">
+				<ANNOTATION_VALUE>non:=non so se ho capito bene la domand[a].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a219" TIME_SLOT_REF1="ts436" TIME_SLOT_REF2="ts437">
+				<ANNOTATION_VALUE>[sì],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a220" TIME_SLOT_REF1="ts438" TIME_SLOT_REF2="ts439">
+				<ANNOTATION_VALUE>s[ì],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a222" TIME_SLOT_REF1="ts442" TIME_SLOT_REF2="ts443">
+				<ANNOTATION_VALUE>[beh, (.) e::h],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a223" TIME_SLOT_REF1="ts444" TIME_SLOT_REF2="ts445">
+				<ANNOTATION_VALUE>beh, che probabilmente (.) comunque,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a224" TIME_SLOT_REF1="ts446" TIME_SLOT_REF2="ts447">
+				<ANNOTATION_VALUE>è un modello forse troppo rigido,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a225" TIME_SLOT_REF1="ts448" TIME_SLOT_REF2="ts449">
+				<ANNOTATION_VALUE>nel senso che comunque,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a226" TIME_SLOT_REF1="ts450" TIME_SLOT_REF2="ts451">
+				<ANNOTATION_VALUE>l'apprendimento:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a227" TIME_SLOT_REF1="ts452" TIME_SLOT_REF2="ts453">
+				<ANNOTATION_VALUE>ha=mh, (.) insomma=m:h, (.) secondo appunto i vari studi appunto della linguistica acquisizionale,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a228" TIME_SLOT_REF1="ts454" TIME_SLOT_REF2="ts455">
+				<ANNOTATION_VALUE>risulta essere,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a229" TIME_SLOT_REF1="ts456" TIME_SLOT_REF2="ts457">
+				<ANNOTATION_VALUE>bene o male, in parte anche soggettivo, nel senso che comunque,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a230" TIME_SLOT_REF1="ts458" TIME_SLOT_REF2="ts459">
+				<ANNOTATION_VALUE>come:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a231" TIME_SLOT_REF1="ts460" TIME_SLOT_REF2="ts461">
+				<ANNOTATION_VALUE>appunto diceva corder, noi impariamo:, (.) in maniera conforme, al nostro sillabo interno,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a232" TIME_SLOT_REF1="ts462" TIME_SLOT_REF2="ts463">
+				<ANNOTATION_VALUE>e quindi, in maniera differente da persona a persona:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a233" TIME_SLOT_REF1="ts464" TIME_SLOT_REF2="ts465">
+				<ANNOTATION_VALUE>quindi:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a234" TIME_SLOT_REF1="ts466" TIME_SLOT_REF2="ts467">
+				<ANNOTATION_VALUE>diciamo che probabilmente non=e::h, (.) non ci può essere un metodo che va bene per tutti,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a235" TIME_SLOT_REF1="ts468" TIME_SLOT_REF2="ts469">
+				<ANNOTATION_VALUE>perché appunto:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a236" TIME_SLOT_REF1="ts470" TIME_SLOT_REF2="ts471">
+				<ANNOTATION_VALUE>diverse:, (.) s=diversissime possono essere le situazioni che si incontrano nella prassi dell'insegnamento, (.) diversi sono gli attori che vi prendono parte,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a237" TIME_SLOT_REF1="ts472" TIME_SLOT_REF2="ts473">
+				<ANNOTATION_VALUE>le esigenze, i bisogni, (.) e:::: insomma tutta [una se]rie insomma di fattori da tenere:: in conto,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a240" TIME_SLOT_REF1="ts478" TIME_SLOT_REF2="ts479">
+				<ANNOTATION_VALUE>[sì],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a241" TIME_SLOT_REF1="ts480" TIME_SLOT_REF2="ts481">
+				<ANNOTATION_VALUE>[probabilmente è un po' una:],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a242" TIME_SLOT_REF1="ts482" TIME_SLOT_REF2="ts483">
+				<ANNOTATION_VALUE>[sì proba]bilmente è un po' una generalizzazio:ne che, (.) sicuramente è necessaria, perché altrimenti:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a243" TIME_SLOT_REF1="ts484" TIME_SLOT_REF2="ts485">
+				<ANNOTATION_VALUE>non ci si potrebbe basare insomma su nulla:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a244" TIME_SLOT_REF1="ts486" TIME_SLOT_REF2="ts487">
+				<ANNOTATION_VALUE>ma però comunque (.) rim[ane ta]:le, probabilment[e],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a247" TIME_SLOT_REF1="ts492" TIME_SLOT_REF2="ts493">
+				<ANNOTATION_VALUE>[sì, degl]i standard, esatt[o (.) a cui, appunto bisogna] (.) a cui appunto l'apprendente deve tentare di adattarsi,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a249" TIME_SLOT_REF1="ts496" TIME_SLOT_REF2="ts497">
+				<ANNOTATION_VALUE>ma naturalmente appunto::, diciamo che si sta andando nella direzione contro al metodo, si parla::: addirittura di morte del metodo appunto:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a250" TIME_SLOT_REF1="ts498" TIME_SLOT_REF2="ts499">
+				<ANNOTATION_VALUE>e:::h,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a251" TIME_SLOT_REF1="ts500" TIME_SLOT_REF2="ts501">
+				<ANNOTATION_VALUE>proprio perché:, (.) non può esistere un metodo che vada bene per tutti fondamentalmente:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a253" TIME_SLOT_REF1="ts504" TIME_SLOT_REF2="ts505">
+				<ANNOTATION_VALUE>[e ques]to pro~, (.) &gt;diciamo&lt; è un po', (.) come dire,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a254" TIME_SLOT_REF1="ts506" TIME_SLOT_REF2="ts507">
+				<ANNOTATION_VALUE>il=e:::h,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a255" TIME_SLOT_REF1="ts508" TIME_SLOT_REF2="ts509">
+				<ANNOTATION_VALUE>le: (.) la direzione che si sta prendendo ultimamente.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a256" TIME_SLOT_REF1="ts510" TIME_SLOT_REF2="ts511">
+				<ANNOTATION_VALUE>e quindi mentre prima avevamo proprio questa:, (.) diciamo rigità assoluta del metodo, soprattutto anche nei primi appunto:: (.) approcci, nei primi comunque:: metodi,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a257" TIME_SLOT_REF1="ts512" TIME_SLOT_REF2="ts513">
+				<ANNOTATION_VALUE>adesso invece sta andando a[ppunto nella] direzione proprio inve:rsa.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a259" TIME_SLOT_REF1="ts516" TIME_SLOT_REF2="ts517">
+				<ANNOTATION_VALUE>[diciamo] che la glottodidattica è (.) comunque appunto una disciplina molto permeabile, anche a::: appunto cambiamenti sociali, appunto [poli]tici culturali,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a262" TIME_SLOT_REF1="ts522" TIME_SLOT_REF2="ts523">
+				<ANNOTATION_VALUE>e anche,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a263" TIME_SLOT_REF1="ts524" TIME_SLOT_REF2="ts525">
+				<ANNOTATION_VALUE>m::h, (.) per quanto riguarda, (.) le le idee comunque [sulla ri]cerca linguistica in [generale].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a271" TIME_SLOT_REF1="ts540" TIME_SLOT_REF2="ts541">
+				<ANNOTATION_VALUE>[sì].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a279" TIME_SLOT_REF1="ts556" TIME_SLOT_REF2="ts557">
+				<ANNOTATION_VALUE>[sì],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a281" TIME_SLOT_REF1="ts560" TIME_SLOT_REF2="ts561">
+				<ANNOTATION_VALUE>[beh], (.) diciamo quelle che possiamo:::, (.) diciamo quelle che,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a282" TIME_SLOT_REF1="ts562" TIME_SLOT_REF2="ts563">
+				<ANNOTATION_VALUE>possono essere considerate le competenze generali dell'apprendente, sono appunto (.) sape:re, saper fare, saper essere, saper comprendere quindi non abbiamo più appunto solo,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a283" TIME_SLOT_REF1="ts564" TIME_SLOT_REF2="ts565">
+				<ANNOTATION_VALUE>quelle:: linguistico comunicative, che erano appunto lessicale, grammaticale:, semantica, fonologica, ortografica, ortoepica,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a284" TIME_SLOT_REF1="ts566" TIME_SLOT_REF2="ts567">
+				<ANNOTATION_VALUE>e:::h (.) socio::: (.) cultu~ (.) e::h=m::h,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a285" TIME_SLOT_REF1="ts568" TIME_SLOT_REF2="ts569">
+				<ANNOTATION_VALUE>sociolinguistica appunto,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a286" TIME_SLOT_REF1="ts570" TIME_SLOT_REF2="ts571">
+				<ANNOTATION_VALUE>eh discorsiva e strategica,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a287" TIME_SLOT_REF1="ts572" TIME_SLOT_REF2="ts573">
+				<ANNOTATION_VALUE>ma, (.) appunto:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a288" TIME_SLOT_REF1="ts574" TIME_SLOT_REF2="ts575">
+				<ANNOTATION_VALUE>è::,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a289" TIME_SLOT_REF1="ts576" TIME_SLOT_REF2="ts577">
+				<ANNOTATION_VALUE>diciamo:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a290" TIME_SLOT_REF1="ts578" TIME_SLOT_REF2="ts579">
+				<ANNOTATION_VALUE>viene appunto valorizzato molto anche::, negli ultimi tempi, anche l'autonomia, comunque, (.) e l'autoapprendimento, quindi appunto self learning, che appunto è la modalità di studio.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a291" TIME_SLOT_REF1="ts580" TIME_SLOT_REF2="ts581">
+				<ANNOTATION_VALUE>quindi appunto, (.) il=l'apprende anche grazie appunto all'intoduzione: (.) e::h del=e::h (.) delle tecnologie multimediali.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a292" TIME_SLOT_REF1="ts582" TIME_SLOT_REF2="ts583">
+				<ANNOTATION_VALUE>e::h (.) a supporto, appunto, della didattica:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a293" TIME_SLOT_REF1="ts584" TIME_SLOT_REF2="ts585">
+				<ANNOTATION_VALUE>e::h riesce appunto a gestire in maniera più autonoma comunque il proprio processo di apprendimen[to].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a304" TIME_SLOT_REF1="ts606" TIME_SLOT_REF2="ts607">
+				<ANNOTATION_VALUE>sì,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a305" TIME_SLOT_REF1="ts608" TIME_SLOT_REF2="ts609">
+				<ANNOTATION_VALUE>allora:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a306" TIME_SLOT_REF1="ts610" TIME_SLOT_REF2="ts611">
+				<ANNOTATION_VALUE>e::h la:: appunto la::=m::::h,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a307" TIME_SLOT_REF1="ts612" TIME_SLOT_REF2="ts613">
+				<ANNOTATION_VALUE>il=e:::h il=il=appunto la valutazio~, (.) per quanto riguarda la valutazione,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a308" TIME_SLOT_REF1="ts614" TIME_SLOT_REF2="ts615">
+				<ANNOTATION_VALUE>possiamo distinguere fra,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a309" TIME_SLOT_REF1="ts616" TIME_SLOT_REF2="ts617">
+				<ANNOTATION_VALUE>appunto::: il=e::h diciamo test appunto fattoriale o di elementi discreti, che appunto sono basati su un unico aspetto della lingua,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a310" TIME_SLOT_REF1="ts618" TIME_SLOT_REF2="ts619">
+				<ANNOTATION_VALUE>e (.) e::h (.) prove di tipo integrativo, che prevedono un uso simultaneo: di (.) e:h più ablità, o elementi appunto linguistici e quindi,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a311" TIME_SLOT_REF1="ts620" TIME_SLOT_REF2="ts621">
+				<ANNOTATION_VALUE>riflettono maggiormente,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a312" TIME_SLOT_REF1="ts622" TIME_SLOT_REF2="ts623">
+				<ANNOTATION_VALUE>quello che (.) è:: diciamo: (.) le condizioni reali della lingua.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a313" TIME_SLOT_REF1="ts624" TIME_SLOT_REF2="ts625">
+				<ANNOTATION_VALUE>e:h le condizioni appunto d'uso:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a314" TIME_SLOT_REF1="ts626" TIME_SLOT_REF2="ts627">
+				<ANNOTATION_VALUE>della lingua,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a315" TIME_SLOT_REF1="ts628" TIME_SLOT_REF2="ts629">
+				<ANNOTATION_VALUE>nella vita reale.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a316" TIME_SLOT_REF1="ts630" TIME_SLOT_REF2="ts631">
+				<ANNOTATION_VALUE>e::: appunto abbiamo diversi tipi di: (.) di test,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a317" TIME_SLOT_REF1="ts632" TIME_SLOT_REF2="ts633">
+				<ANNOTATION_VALUE>&gt;appunto:::&lt; (.) ad esempio, (.) test appunto diretti, o indiretti,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a318" TIME_SLOT_REF1="ts634" TIME_SLOT_REF2="ts635">
+				<ANNOTATION_VALUE>test (.) soggettivi, (.) o (.) eh (.) oggettivi, test appunto xxx reference o test norm reference,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a319" TIME_SLOT_REF1="ts636" TIME_SLOT_REF2="ts637">
+				<ANNOTATION_VALUE>e:: appunto, abbiamo avuto poi una serie appunto diciamo di vari appunto approcci anche per quanto riguarda il testing nella storia della glottodidattica,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a320" TIME_SLOT_REF1="ts638" TIME_SLOT_REF2="ts639">
+				<ANNOTATION_VALUE>ad esempio appunto negli anni cinquanta, avevamo diciamo il cosiddetto,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a321" TIME_SLOT_REF1="ts640" TIME_SLOT_REF2="ts641">
+				<ANNOTATION_VALUE>e::h appunto:: m:::h (.) test appunto: (.) fattoriale appunto d'elementi discreti:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a322" TIME_SLOT_REF1="ts642" TIME_SLOT_REF2="ts643">
+				<ANNOTATION_VALUE>poi c'è stato appunto: (.) l'integrative, o integrated=e:h (.) test,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a323" TIME_SLOT_REF1="ts644" TIME_SLOT_REF2="ts645">
+				<ANNOTATION_VALUE>e poi, (.) il, test appunto comunicativo,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a324" TIME_SLOT_REF1="ts646" TIME_SLOT_REF2="ts647">
+				<ANNOTATION_VALUE>il test comunicativo ha introdotto ad esempio il principio della autenticità:, e distinguiamo tra autenticità interazionale,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a325" TIME_SLOT_REF1="ts648" TIME_SLOT_REF2="ts649">
+				<ANNOTATION_VALUE>e autenticità situazionale,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a326" TIME_SLOT_REF1="ts650" TIME_SLOT_REF2="ts651">
+				<ANNOTATION_VALUE>e:::h il=e:::h (.) principio appunto, (.) quindi uso appunto di materiali autentici o semi-autentici,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a327" TIME_SLOT_REF1="ts652" TIME_SLOT_REF2="ts653">
+				<ANNOTATION_VALUE>e quindi avevamo appunto visto la differenza fra materiale autentico appunto e: (.) materiale grigio,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a328" TIME_SLOT_REF1="ts654" TIME_SLOT_REF2="ts655">
+				<ANNOTATION_VALUE>e::::h,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a329" TIME_SLOT_REF1="ts656" TIME_SLOT_REF2="ts657">
+				<ANNOTATION_VALUE>e poi appunto i::: coefficienti (.) mh con valore appunto come ad esempio quelli della validità:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a330" TIME_SLOT_REF1="ts658" TIME_SLOT_REF2="ts659">
+				<ANNOTATION_VALUE>e: (.) e:h l'affidabilità o fedeltà.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a331" TIME_SLOT_REF1="ts660" TIME_SLOT_REF2="ts661">
+				<ANNOTATION_VALUE>e:::h=m:::h,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a335" TIME_SLOT_REF1="ts668" TIME_SLOT_REF2="ts669">
+				<ANNOTATION_VALUE>[sì],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a336" TIME_SLOT_REF1="ts670" TIME_SLOT_REF2="ts671">
+				<ANNOTATION_VALUE>sì,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a337" TIME_SLOT_REF1="ts672" TIME_SLOT_REF2="ts673">
+				<ANNOTATION_VALUE>[sì sì],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a339" TIME_SLOT_REF1="ts676" TIME_SLOT_REF2="ts677">
+				<ANNOTATION_VALUE>nel senso che appunto sì (.) m:::h il=e:::h (.) il il testing deve essere appunto,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a340" TIME_SLOT_REF1="ts678" TIME_SLOT_REF2="ts679">
+				<ANNOTATION_VALUE>valido, appunto deve essere:, appunto pertinente,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a341" TIME_SLOT_REF1="ts680" TIME_SLOT_REF2="ts681">
+				<ANNOTATION_VALUE>affidabile, (.) e utile, quindi nel senso il testing comunque deve,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a342" TIME_SLOT_REF1="ts682" TIME_SLOT_REF2="ts683">
+				<ANNOTATION_VALUE>essere utile anche all'apprendente per,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a343" TIME_SLOT_REF1="ts684" TIME_SLOT_REF2="ts685">
+				<ANNOTATION_VALUE>imparare qualcosa (.) di più a=mh sul proprio processo:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a344" TIME_SLOT_REF1="ts686" TIME_SLOT_REF2="ts687">
+				<ANNOTATION_VALUE>di: di acquisizione, deve essere comunque, un modo con cui l'apprendente,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a345" TIME_SLOT_REF1="ts688" TIME_SLOT_REF2="ts689">
+				<ANNOTATION_VALUE>si autovaluta anche possiamo dire.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a346" TIME_SLOT_REF1="ts690" TIME_SLOT_REF2="ts691">
+				<ANNOTATION_VALUE>&gt;nel senso che comunque&lt;,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a347" TIME_SLOT_REF1="ts692" TIME_SLOT_REF2="ts693">
+				<ANNOTATION_VALUE>m::h, (.) diciamo che il testing (.) nel (.) per quanto riguarda: le (.) conoscenze linguistiche, (.) è inevitabile proprio perché:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a348" TIME_SLOT_REF1="ts694" TIME_SLOT_REF2="ts695">
+				<ANNOTATION_VALUE>io devo avere, (.) una:: (.) cioè, devo testare le mie abilità, devo avere un riscontro pratico e concreto di quello che effettivamente so fare.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a350" TIME_SLOT_REF1="ts698" TIME_SLOT_REF2="ts699">
+				<ANNOTATION_VALUE>però naturalmen[te],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a352" TIME_SLOT_REF1="ts702" TIME_SLOT_REF2="ts703">
+				<ANNOTATION_VALUE>sì, (.) diciamo che la=il &gt;appunto&lt; il principio olistico dell'utilità, è collegato: (.) ad altri (.) fattori che sono appunto,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a353" TIME_SLOT_REF1="ts704" TIME_SLOT_REF2="ts705">
+				<ANNOTATION_VALUE>l'autenticità:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a354" TIME_SLOT_REF1="ts706" TIME_SLOT_REF2="ts707">
+				<ANNOTATION_VALUE>l'interattività:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a355" TIME_SLOT_REF1="ts708" TIME_SLOT_REF2="ts709">
+				<ANNOTATION_VALUE>che e:::h=m::h,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a356" TIME_SLOT_REF1="ts710" TIME_SLOT_REF2="ts711">
+				<ANNOTATION_VALUE>si collega alle caratteristiche: (.) eh socio-biografiche del candidato,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a357" TIME_SLOT_REF1="ts712" TIME_SLOT_REF2="ts713">
+				<ANNOTATION_VALUE>l'impatto appunto sulla società, sui=l ca~ (.) sui candidati, apppunto sui decisori,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a358" TIME_SLOT_REF1="ts714" TIME_SLOT_REF2="ts715">
+				<ANNOTATION_VALUE>e per questo si parla appunto di (.) test appunto high stake test come ad esempio il test il proficency test, il test di padronanza, o di certificazione,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a359" TIME_SLOT_REF1="ts716" TIME_SLOT_REF2="ts717">
+				<ANNOTATION_VALUE>che dipende dal contesto,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a360" TIME_SLOT_REF1="ts718" TIME_SLOT_REF2="ts719">
+				<ANNOTATION_VALUE>e quello invece low stake:, (.) [a esempio], il test diagnostico, che invece è dipende dal contesto,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a363" TIME_SLOT_REF1="ts724" TIME_SLOT_REF2="ts725">
+				<ANNOTATION_VALUE>[e: (.) e:]::h la fattibilità, ossia appunto le concrete opportunità di finanziamento, di gestione, di amministrazione, perché poi naturalmente ci sono tutta una serie di,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a364" TIME_SLOT_REF1="ts726" TIME_SLOT_REF2="ts727">
+				<ANNOTATION_VALUE>comunque componenti burocratiche e (.) pre~ (.) più molto più pratiche da tenere in considerazione natu[ralme]nte.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a366" TIME_SLOT_REF1="ts730" TIME_SLOT_REF2="ts731">
+				<ANNOTATION_VALUE>anche [per quan]to riguarda appunto il numero [dei candi],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a369" TIME_SLOT_REF1="ts736" TIME_SLOT_REF2="ts737">
+				<ANNOTATION_VALUE>[sì],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a371" TIME_SLOT_REF1="ts740" TIME_SLOT_REF2="ts741">
+				<ANNOTATION_VALUE>beh, (.) perché comnque:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a372" TIME_SLOT_REF1="ts742" TIME_SLOT_REF2="ts743">
+				<ANNOTATION_VALUE>sono fattori da tenere (.) assolutamente in considerazione.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a373" TIME_SLOT_REF1="ts744" TIME_SLOT_REF2="ts745">
+				<ANNOTATION_VALUE>le: (.) caratteristiche socio-biografiche dei candidati.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a374" TIME_SLOT_REF1="ts746" TIME_SLOT_REF2="ts747">
+				<ANNOTATION_VALUE>e si sta sempre andando (.) secondo me:, (.) in direz~ (.) si sta si sta andando sempre di più:, (.) diciamo nella direzione di evidenziare proprio,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a375" TIME_SLOT_REF1="ts748" TIME_SLOT_REF2="ts749">
+				<ANNOTATION_VALUE>quelle che sono le conoscenze: linguistiche magari pregresse del candida:to,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a376" TIME_SLOT_REF1="ts750" TIME_SLOT_REF2="ts751">
+				<ANNOTATION_VALUE>o quelle che sono le esperienze linguistiche che lui ha fatto sempre soggiorni di studio all'estero eccetera, anche attraverso,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a377" TIME_SLOT_REF1="ts752" TIME_SLOT_REF2="ts753">
+				<ANNOTATION_VALUE>documenti come il (.) portfo~ (.) il=e::h portfolio appunto europeo per le lingue,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a378" TIME_SLOT_REF1="ts754" TIME_SLOT_REF2="ts755">
+				<ANNOTATION_VALUE>che appunto:, comprende,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a379" TIME_SLOT_REF1="ts756" TIME_SLOT_REF2="ts757">
+				<ANNOTATION_VALUE>e:h la biografia,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a380" TIME_SLOT_REF1="ts758" TIME_SLOT_REF2="ts759">
+				<ANNOTATION_VALUE>il dossier appunto e il passaporto, quindi,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a381" TIME_SLOT_REF1="ts760" TIME_SLOT_REF2="ts761">
+				<ANNOTATION_VALUE>che (.) era xxxxxx diciamo di carta d'identità linguistica dell'apprend[ente],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a383" TIME_SLOT_REF1="ts764" TIME_SLOT_REF2="ts765">
+				<ANNOTATION_VALUE>e poi ci sono appunto altri fattori, appunto a esempio appunto anche l'età:,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a384" TIME_SLOT_REF1="ts766" TIME_SLOT_REF2="ts767">
+				<ANNOTATION_VALUE>perché (.) che è una [variabile a]ppunto imprescindibile, non [solo &lt;per l]o&gt; sviluppo neurologico, ma anche per altre: ipotesi,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a398" TIME_SLOT_REF1="ts794" TIME_SLOT_REF2="ts795">
+				<ANNOTATION_VALUE>[e::h (.) s::::::],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a399" TIME_SLOT_REF1="ts796" TIME_SLOT_REF2="ts797">
+				<ANNOTATION_VALUE>sì=mh,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a400" TIME_SLOT_REF1="ts798" TIME_SLOT_REF2="ts799">
+				<ANNOTATION_VALUE>sì non non ho:: non ho scritto molte tesine in effetti no[n:: non mi è mai] capitato, devo dire prima.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a411" TIME_SLOT_REF1="ts820" TIME_SLOT_REF2="ts821">
+				<ANNOTATION_VALUE>ah, okay, sì.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a413" TIME_SLOT_REF1="ts824" TIME_SLOT_REF2="ts825">
+				<ANNOTATION_VALUE>[sì sì sì sì],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a414" TIME_SLOT_REF1="ts826" TIME_SLOT_REF2="ts827">
+				<ANNOTATION_VALUE>[sì],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a418" TIME_SLOT_REF1="ts834" TIME_SLOT_REF2="ts835">
+				<ANNOTATION_VALUE>[sì],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a419" TIME_SLOT_REF1="ts836" TIME_SLOT_REF2="ts837">
+				<ANNOTATION_VALUE>sì no mi dispiace non:: (.) non sono molto pratica [neanche del (.) mie (.) eh l]o so mi dispiace.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a421" TIME_SLOT_REF1="ts840" TIME_SLOT_REF2="ts841">
+				<ANNOTATION_VALUE>n[o starò insomma più attenta si]curamente [per le (.) prossime occasioni].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a428" TIME_SLOT_REF1="ts854" TIME_SLOT_REF2="ts855">
+				<ANNOTATION_VALUE>okay.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a431" TIME_SLOT_REF1="ts860" TIME_SLOT_REF2="ts861">
+				<ANNOTATION_VALUE>ah, okay, sì.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a435" TIME_SLOT_REF1="ts868" TIME_SLOT_REF2="ts869">
+				<ANNOTATION_VALUE>[ah, okay].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a438" TIME_SLOT_REF1="ts874" TIME_SLOT_REF2="ts875">
+				<ANNOTATION_VALUE>sì (.) sì sì sì sì, ho capito.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a441" TIME_SLOT_REF1="ts880" TIME_SLOT_REF2="ts881">
+				<ANNOTATION_VALUE>sì.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a444" TIME_SLOT_REF1="ts886" TIME_SLOT_REF2="ts887">
+				<ANNOTATION_VALUE>gra[zie].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a446" TIME_SLOT_REF1="ts890" TIME_SLOT_REF2="ts891">
+				<ANNOTATION_VALUE>[okay].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a448" TIME_SLOT_REF1="ts894" TIME_SLOT_REF2="ts895">
+				<ANNOTATION_VALUE>[sì].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a450" TIME_SLOT_REF1="ts898" TIME_SLOT_REF2="ts899">
+				<ANNOTATION_VALUE>e:::h (.) lo studio centoventiquattro [è:::],</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a452" TIME_SLOT_REF1="ts902" TIME_SLOT_REF2="ts903">
+				<ANNOTATION_VALUE>okay.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a457" TIME_SLOT_REF1="ts912" TIME_SLOT_REF2="ts913">
+				<ANNOTATION_VALUE>[grazie].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a458" TIME_SLOT_REF1="ts914" TIME_SLOT_REF2="ts915">
+				<ANNOTATION_VALUE>[crepi, grazie].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a460" TIME_SLOT_REF1="ts918" TIME_SLOT_REF2="ts919">
+				<ANNOTATION_VALUE>[arr]ivederci.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
 	<TIER TIER_ID="BO092" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
@@ -951,7 +2398,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
-				<ANNOTATION_VALUE>dunque marta tu porti il programma dell' anno accademico duemilasedici duemiladiciassette,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dunque marta tu porti il programma dell'anno accademico duemilasedici duemiladiciassette,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -986,17 +2433,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
-				<ANNOTATION_VALUE>°sì° (.) dunque la tua tesina l' ho corretta io, però te la commento: (.) dopo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>°sì° (.) dunque la tua tesina l'ho corretta io, però te la commento: (.) dopo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts41">
-				<ANNOTATION_VALUE>[alla fi]ne dell' esa:me.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[alla fi]ne dell'esa:me.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
-				<ANNOTATION_VALUE>e::h=m::h (.) dunque della par~, (.) tu dai l' esame da frequentante?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h=m::h (.) dunque della par~, (.) tu dai l'esame da frequentante?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1021,7 +2468,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts57">
-				<ANNOTATION_VALUE>qual è: l' argomento che ti ha interessato maggiormente, della seconda: parte: dell' esame?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>qual è: l'argomento che ti ha interessato maggiormente, della seconda: parte: dell'esame?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1081,7 +2528,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts157">
-				<ANNOTATION_VALUE>il=e:h (.) il caso specifico dell' inter&lt;comprens[ione&gt;],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il=e:h (.) il caso specifico dell'inter&lt;comprens[ione&gt;],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1121,7 +2568,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a112" TIME_SLOT_REF1="ts222" TIME_SLOT_REF2="ts223">
-				<ANNOTATION_VALUE>[conosxx (.) ma quando abbia]mo fatto la sperimentazione in: classe c' eri?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[conosxx (.) ma quando abbia]mo fatto la sperimentazione in: classe c'eri?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1166,7 +2613,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a155" TIME_SLOT_REF1="ts308" TIME_SLOT_REF2="ts309">
-				<ANNOTATION_VALUE>va bene, senti che cos' è il, (.) quadro comune europero di riferimento per le lingue?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>va bene, senti che cos'è il, (.) quadro comune europero di riferimento per le lingue?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1191,7 +2638,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a175" TIME_SLOT_REF1="ts348" TIME_SLOT_REF2="ts349">
-				<ANNOTATION_VALUE>c' erano già stati dei tentativi precede:nti, che erano però:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'erano già stati dei tentativi precede:nti, che erano però:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1276,7 +2723,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a239" TIME_SLOT_REF1="ts476" TIME_SLOT_REF2="ts477">
-				<ANNOTATION_VALUE>quindi diciamo che questi descrittori tendono comunque a dare un' idea gen[erale un] [qua:dro, sulla:], (.) progressi[one:],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi diciamo che questi descrittori tendono comunque a dare un'idea gen[erale un] [qua:dro, sulla:], (.) progressi[one:],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1371,7 +2818,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a276" TIME_SLOT_REF1="ts550" TIME_SLOT_REF2="ts551">
-				<ANNOTATION_VALUE>all' abilità (.) linguistico comunicativa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'abilità (.) linguistico comunicativa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1381,7 +2828,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a278" TIME_SLOT_REF1="ts554" TIME_SLOT_REF2="ts555">
-				<ANNOTATION_VALUE>abilità, (.) dell' apprend[ente].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>abilità, (.) dell'apprend[ente].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1401,7 +2848,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a296" TIME_SLOT_REF1="ts590" TIME_SLOT_REF2="ts591">
-				<ANNOTATION_VALUE>°senti°, ti faccio un' ultima domanda:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>°senti°, ti faccio un'ultima domanda:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1466,7 +2913,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a351" TIME_SLOT_REF1="ts700" TIME_SLOT_REF2="ts701">
-				<ANNOTATION_VALUE>[però] gli aspe~ gli aspetti etico-sociali del testing vanno un po' o:ltre cioè si riferiscono per esempio anche all' impatto,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[però] gli aspe~ gli aspetti etico-sociali del testing vanno un po' o:ltre cioè si riferiscono per esempio anche all'impatto,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1596,7 +3043,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a406" TIME_SLOT_REF1="ts810" TIME_SLOT_REF2="ts811">
-				<ANNOTATION_VALUE>uno spazio o due, dopo (.) la:: (.) l' articolo con l' apostrofo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>uno spazio o due, dopo (.) la:: (.) l'articolo con l'apostrofo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1671,7 +3118,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a427" TIME_SLOT_REF1="ts852" TIME_SLOT_REF2="ts853">
-				<ANNOTATION_VALUE>m:::h (.) se è possibile evitare, l' utilizzo doppio, del=e::h (.) delle congiunzioni avversative, è meglio fa:rlo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>m:::h (.) se è possibile evitare, l'utilizzo doppio, del=e::h (.) delle congiunzioni avversative, è meglio fa:rlo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1731,7 +3178,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a445" TIME_SLOT_REF1="ts888" TIME_SLOT_REF2="ts889">
-				<ANNOTATION_VALUE>[e poi] vai allo studio centoventiquattro:, (.) a fare l' altra parte [dell' esa]me,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e poi] vai allo studio centoventiquattro:, (.) a fare l'altra parte [dell'esa]me,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1766,1459 +3213,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a456" TIME_SLOT_REF1="ts910" TIME_SLOT_REF2="ts911">
-				<ANNOTATION_VALUE>[allora in bo]cca al lupo per la [prossima::] (.) parte (.) dell' esame.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[allora in bo]cca al lupo per la [prossima::] (.) parte (.) dell'esame.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a459" TIME_SLOT_REF1="ts916" TIME_SLOT_REF2="ts917">
 				<ANNOTATION_VALUE>arriveder[ci].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		</TIER>
-	<TIER TIER_ID="BO143" LINGUISTIC_TYPE_REF="default-lt">
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
-				<ANNOTATION_VALUE>e:h (.) pos[so entrare? xx (.) grazie].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
-				<ANNOTATION_VALUE>buongiorno.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
-				<ANNOTATION_VALUE>[sì].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
-				<ANNOTATION_VALUE>sì.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
-				<ANNOTATION_VALUE>sì.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
-				<ANNOTATION_VALUE>[okay].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
-				<ANNOTATION_VALUE>e:h sì.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
-				<ANNOTATION_VALUE>[sì:] (.) sì [sì sì (.) certo].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
-				<ANNOTATION_VALUE>e::h (.) beh, (.) allora, e::h beh, (.) mi è:: mi è interessato molto, la parte relativa (.) agli errori infatti non a caso dopo,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
-				<ANNOTATION_VALUE>e::h (.) ho voluto concentrarmi appunto su quella parte per=e::h la: (.) stesura appunto della mia tesina,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
-				<ANNOTATION_VALUE>e anche: mi è:: (.) mi è interessato molto:, (.) il=e:h (.) diciamo l' analisi che abbiamo fatto dell' intercomprensione fra lingue e affini.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
-				<ANNOTATION_VALUE>quegli approcci appunto plura:li,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
-				<ANNOTATION_VALUE>e in particolare appunto l' intercomprensio:ne,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts71">
-				<ANNOTATION_VALUE>e l' analisi di:: appunto di galanet, e di euron ci[nque].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts75">
-				<ANNOTATION_VALUE>sì,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts77">
-				<ANNOTATION_VALUE>allora,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts79">
-				<ANNOTATION_VALUE>per quanto riguarda gli approcci appunto plurali,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts81">
-				<ANNOTATION_VALUE>possiamo appunto: abbiamo appunto la::,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts83">
-				<ANNOTATION_VALUE>e:::h l' approccio interculturale,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts85">
-				<ANNOTATION_VALUE>la:: didattica: (.) e::h (.) integrata,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
-				<ANNOTATION_VALUE>e:::h il=e::h appunto (.) le xxx au langue, (.) che è una serie appunto d[i::],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts91">
-				<ANNOTATION_VALUE>[e (.) e ve]l lel~ (.) xx [perdoni, non so il franc]ese.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
-				<ANNOTATION_VALUE>e il clicl appunto, (.) eh content and language integrated learning,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts97">
-				<ANNOTATION_VALUE>e (.) appunto all' intercomprensione fra lingue e affini (.) per intercomprensione, o, comprensione multilingue, si intende l' apprendimento ricettivo,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
-				<ANNOTATION_VALUE>eh (.) di più lingue mediante lo sviluppo di strategie,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
-				<ANNOTATION_VALUE>e::h (.) che consentono di traferire, (.) processi cognitivi,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts103">
-				<ANNOTATION_VALUE>eh (.) conoscenze, esprerienze, abilità già acquisite, da una lingua all' altra.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts107">
-				<ANNOTATION_VALUE>e [in mo~],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts117">
-				<ANNOTATION_VALUE>beh diciamo che (.) e::h=m (.) gli approcci plurali nascono comunque da nuove tendenze all' interno della didattica.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts119">
-				<ANNOTATION_VALUE>e::h linguistica,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts120" TIME_SLOT_REF2="ts121">
-				<ANNOTATION_VALUE>in particolar modo abbiamo appunto il=e::h carap, che è appunto il (.) quadro di riferimento per gli approcci plura~ (.) plurali, e il=eh=m:h,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts123">
-				<ANNOTATION_VALUE>e::h nuovo e:h (.) quadro strategico appunto per il plurilinguismo diciamo che fondamentalmente l' obbiettivo generale degli approcci plurali,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
-				<ANNOTATION_VALUE>è quello di (.) eh portare avanti una politica di differenziazione linguistica, al fine di superare,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
-				<ANNOTATION_VALUE>contesti e situazioni di monolinguismo come ad esempio, (.) può essere per l' inglese,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
-				<ANNOTATION_VALUE>e::h (.) e quindi, (.) e::h ci sono appunto varie direzioni appunto che si sono prese,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
-				<ANNOTATION_VALUE>ad esempio appunto la, (.) suddivisione della: (.) della scomposizione della lingua appunto in,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts133">
-				<ANNOTATION_VALUE>unità più piccole,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts135">
-				<ANNOTATION_VALUE>e::::h (.) abbiamo &gt;allo stesso tempo&lt; il progetto lingue mode:rne del millenovecento (.) e settantuno appunto le:: unità appunto capitalizzabili in unit credit system,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts137">
-				<ANNOTATION_VALUE>e (.) eh il=e::h=m:h,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts139">
-				<ANNOTATION_VALUE>e (.) inoltre e::h (.) e la appunto la fissa~ (.) diciamo il fissare appunto obbiettivi diciamo ridotti.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts141">
-				<ANNOTATION_VALUE>e::h (.) e quin=diciamo che, (.) m::h lo scopo fondamentale è quello comunque di, e::h diciamo promuovere,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts142" TIME_SLOT_REF2="ts143">
-				<ANNOTATION_VALUE>una:: cultura:: (.) del (.) plurilinguismo appunto nel cittadino europeo, quindi valorizzare (.) la::: la dimensione interculturale della dell' apprendimento,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts145">
-				<ANNOTATION_VALUE>e:::h=m::h,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts146" TIME_SLOT_REF2="ts147">
-				<ANNOTATION_VALUE>e::::=mh,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts149">
-				<ANNOTATION_VALUE>qui[ndi sì ecco],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts154" TIME_SLOT_REF2="ts155">
-				<ANNOTATION_VALUE>[sì].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts158" TIME_SLOT_REF2="ts159">
-				<ANNOTATION_VALUE>[sì].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts162" TIME_SLOT_REF2="ts163">
-				<ANNOTATION_VALUE>e:: (.) allora, (.) eh per quanto riguarda appunto l' intercomprensione,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts165">
-				<ANNOTATION_VALUE>e:::=m:::h,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts166" TIME_SLOT_REF2="ts167">
-				<ANNOTATION_VALUE>allora abbiamo appunto:, abbiamo visto noi abbiamo appunto in particolare analizzato appunto galanet, ed euron quattro e cinque, in particolare e::h,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts168" TIME_SLOT_REF2="ts169">
-				<ANNOTATION_VALUE>e:h a me, (.) m' ha interessato particolarmente appunto eurom=e:h (.) eh cinque,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts170" TIME_SLOT_REF2="ts171">
-				<ANNOTATION_VALUE>che appunto lo s~ (.) è=mh diciamo=mh il metodo appunto eurom, (.) è quello di e::h consente l' apprendimento di (.) eh qua~ fino a quattro appunto lingue, (.) eh romanze,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts172" TIME_SLOT_REF2="ts173">
-				<ANNOTATION_VALUE>per chi ne sa già una, in particolar modo appunto italiano, (.) spagnolo francese catalano e (.) portoghese,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts174" TIME_SLOT_REF2="ts175">
-				<ANNOTATION_VALUE>in maniera (.) eh ricettiva.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts176" TIME_SLOT_REF2="ts177">
-				<ANNOTATION_VALUE>e e:::h il=e::h=m::h,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts178" TIME_SLOT_REF2="ts179">
-				<ANNOTATION_VALUE>appun[to il],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts184" TIME_SLOT_REF2="ts185">
-				<ANNOTATION_VALUE>sì.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts186" TIME_SLOT_REF2="ts187">
-				<ANNOTATION_VALUE>[e:h focali~] sì in maniera appunto sì (.) esatto focalizzandosi sulle abilità:::=mh (.) ricettive,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts190" TIME_SLOT_REF2="ts191">
-				<ANNOTATION_VALUE>e e:h quindi (.) elaborando strategie di comprensione generali,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts192" TIME_SLOT_REF2="ts193">
-				<ANNOTATION_VALUE>e e::::h in particolar modo i presupposti teorici sono appunto, la comprensione del testo e quieta teoria dei sette setacci, che sono appunto questi filtri o domini,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts194" TIME_SLOT_REF2="ts195">
-				<ANNOTATION_VALUE>e:h attraverso cui è possibile trasferire le (.) e:h le conoscenze da una lingua all' altra, che sono appunto il lessico internazionale, il lessico panromanzo quindi diciamo il lessico affine tra le varie,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a99" TIME_SLOT_REF1="ts196" TIME_SLOT_REF2="ts197">
-				<ANNOTATION_VALUE>lingue romanze elencate,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts198" TIME_SLOT_REF2="ts199">
-				<ANNOTATION_VALUE>eh le corrispondenze fonologiche, la grafia e la pronuncia,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts200" TIME_SLOT_REF2="ts201">
-				<ANNOTATION_VALUE>le:: strutture sintattiche e gli elementi morfosintattici,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a102" TIME_SLOT_REF1="ts202" TIME_SLOT_REF2="ts203">
-				<ANNOTATION_VALUE>i prefissi, e i suffissi.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" TIME_SLOT_REF1="ts204" TIME_SLOT_REF2="ts205">
-				<ANNOTATION_VALUE>quin=diciamo che,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts206" TIME_SLOT_REF2="ts207">
-				<ANNOTATION_VALUE>ci si basa un po' su un' analisi comunque di quelle che sono (.) le e::h (.) le analogie, fra le lngue romanze.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a105" TIME_SLOT_REF1="ts208" TIME_SLOT_REF2="ts209">
-				<ANNOTATION_VALUE>naturalmente anche con molte generalizzazioni.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a106" TIME_SLOT_REF1="ts210" TIME_SLOT_REF2="ts211">
-				<ANNOTATION_VALUE>infatti (.) diciamo che (.) è un metodo che mi lascia un po': come dire,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts212" TIME_SLOT_REF2="ts213">
-				<ANNOTATION_VALUE>m:::h non s[o sono un (.) un po' p]erples[sa s]ì non so effetttivamente quanto possa: (.) funzionare, però l' ho trovato molto inter[essante perché è un approccio che non] avevo mai:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a111" TIME_SLOT_REF1="ts220" TIME_SLOT_REF2="ts221">
-				<ANNOTATION_VALUE>[considerato diciamo].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a114" TIME_SLOT_REF1="ts226" TIME_SLOT_REF2="ts227">
-				<ANNOTATION_VALUE>[e::]::h,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a115" TIME_SLOT_REF1="ts228" TIME_SLOT_REF2="ts229">
-				<ANNOTATION_VALUE>o[ddio],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a117" TIME_SLOT_REF1="ts232" TIME_SLOT_REF2="ts233">
-				<ANNOTATION_VALUE>[sì sì sì sì sì sì sì (.) sì sì sì sì sì].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a120" TIME_SLOT_REF1="ts238" TIME_SLOT_REF2="ts239">
-				<ANNOTATION_VALUE>sì infatti il metodo appunto eurom,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a121" TIME_SLOT_REF1="ts240" TIME_SLOT_REF2="ts241">
-				<ANNOTATION_VALUE>diciamo che sono ab~ appunto nel metodo eurom si hanno appunto venti articoli, per venti appunto lezioni di circa un' ora e mezza,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a122" TIME_SLOT_REF1="ts242" TIME_SLOT_REF2="ts243">
-				<ANNOTATION_VALUE>e::h ciascuna,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a123" TIME_SLOT_REF1="ts244" TIME_SLOT_REF2="ts245">
-				<ANNOTATION_VALUE>e::h e il=e::h appunto il lettore diciamo barra apprendente ha accesso solamente alla traduzione del titolo,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a124" TIME_SLOT_REF1="ts246" TIME_SLOT_REF2="ts247">
-				<ANNOTATION_VALUE>e::h=m:h in diverse lingue, mentre &gt;invece&lt; in eurom quattro aveva accesso anche ad un breve (.) riasunto,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a125" TIME_SLOT_REF1="ts248" TIME_SLOT_REF2="ts249">
-				<ANNOTATION_VALUE>e::h e quindi (.) prima ci si:=m:h focalizza appunto prima s~=ciamo si fa un ascolto perché si possono anche ascoltare i testi,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a126" TIME_SLOT_REF1="ts250" TIME_SLOT_REF2="ts251">
-				<ANNOTATION_VALUE>e::h letti appunto da: un parlante nativo,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a127" TIME_SLOT_REF1="ts252" TIME_SLOT_REF2="ts253">
-				<ANNOTATION_VALUE>e:::h (.) molto generale senza focalizzarsi diciamo sugli elementi linguistici,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a128" TIME_SLOT_REF1="ts254" TIME_SLOT_REF2="ts255">
-				<ANNOTATION_VALUE>e: poi si fa un primo tentativo di (.) traduzione,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a129" TIME_SLOT_REF1="ts256" TIME_SLOT_REF2="ts257">
-				<ANNOTATION_VALUE>naturalmente (.) il diritto all' approssimazione (.) è più che legittimo nel senso che (.) naturalmente: (.) diciamo che m::h m::h,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a130" TIME_SLOT_REF1="ts258" TIME_SLOT_REF2="ts259">
-				<ANNOTATION_VALUE>diciamo che (.) uno dei degli approcci su cui si basa eurom, è che appunto bisogna accettare,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a131" TIME_SLOT_REF1="ts260" TIME_SLOT_REF2="ts261">
-				<ANNOTATION_VALUE>che (.) non è necessario conoscere tutte le parole di un testo per (.) comunque accedere al significato generale,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a132" TIME_SLOT_REF1="ts262" TIME_SLOT_REF2="ts263">
-				<ANNOTATION_VALUE>perciò appunto sono (.) consentite traduzioni approssimative, ad esempio si adotta la cosiddetta tecnica della parola vuota,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a133" TIME_SLOT_REF1="ts264" TIME_SLOT_REF2="ts265">
-				<ANNOTATION_VALUE>quindi le: i termini opachi, quindi non sono ben specificati, possono essere sostituiti da riempitivi come cosa</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a134" TIME_SLOT_REF1="ts266" TIME_SLOT_REF2="ts267">
-				<ANNOTATION_VALUE>o (.) eh (.) cosare.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a135" TIME_SLOT_REF1="ts268" TIME_SLOT_REF2="ts269">
-				<ANNOTATION_VALUE>poi si (.) e:h (.) fa un (.) si procede ad un secondo ascolto ad una seconda lettura, e si ci si focalizza appunto sugli elementi,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a136" TIME_SLOT_REF1="ts270" TIME_SLOT_REF2="ts271">
-				<ANNOTATION_VALUE>e:h (.) sintattici, appunto lessicali, in questo caso.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a137" TIME_SLOT_REF1="ts272" TIME_SLOT_REF2="ts273">
-				<ANNOTATION_VALUE>quindi appunto si adottano tutta una serie di strategie di comprensione, quindi ad esempio appunto si:: (.) diciamo si sceglie un approccio alla lettura,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a138" TIME_SLOT_REF1="ts274" TIME_SLOT_REF2="ts275">
-				<ANNOTATION_VALUE>a:::m::h (.) &gt;diciamo&lt; che corrisponde (.) a (.) quelli che sono i propri obbiettivi,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a139" TIME_SLOT_REF1="ts276" TIME_SLOT_REF2="ts277">
-				<ANNOTATION_VALUE>si: (.) costruisce appunto un percorso di lettura,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a140" TIME_SLOT_REF1="ts278" TIME_SLOT_REF2="ts279">
-				<ANNOTATION_VALUE>e:::h=m:h,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a141" TIME_SLOT_REF1="ts280" TIME_SLOT_REF2="ts281">
-				<ANNOTATION_VALUE>e quindi insomm[a:::],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a143" TIME_SLOT_REF1="ts284" TIME_SLOT_REF2="ts285">
-				<ANNOTATION_VALUE>e poi::: (.) sì.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a144" TIME_SLOT_REF1="ts286" TIME_SLOT_REF2="ts287">
-				<ANNOTATION_VALUE>quindi ad esempio ci si:, (.) focalizza a esempio sul, (.) si cerca appunto di capire il genere,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a145" TIME_SLOT_REF1="ts288" TIME_SLOT_REF2="ts289">
-				<ANNOTATION_VALUE>e::h il forma:to, (.) magari il periodo appunto di pubblicazione del: (.) dell' articolo, appunto in genere sono articoli tratti da settimanali o quotidiani,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a147" TIME_SLOT_REF1="ts292" TIME_SLOT_REF2="ts293">
-				<ANNOTATION_VALUE>e:::h=m::h,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a148" TIME_SLOT_REF1="ts294" TIME_SLOT_REF2="ts295">
-				<ANNOTATION_VALUE>si: (.) individuano ad esempio le seguenze appunto discorsive, o comunque (.) i generi testuali,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a149" TIME_SLOT_REF1="ts296" TIME_SLOT_REF2="ts297">
-				<ANNOTATION_VALUE>e:::h=m:h,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a150" TIME_SLOT_REF1="ts298" TIME_SLOT_REF2="ts299">
-				<ANNOTATION_VALUE>e poi appunto ci si focalizza sugli aspetti appunto::,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts300" TIME_SLOT_REF2="ts301">
-				<ANNOTATION_VALUE>più legati, maggiormente legati insomma alla lingua, appunto (.) come dicevo prima trovando appunto analogi:e,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a152" TIME_SLOT_REF1="ts302" TIME_SLOT_REF2="ts303">
-				<ANNOTATION_VALUE>e magari a volte anche insomma differenze.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a157" TIME_SLOT_REF1="ts312" TIME_SLOT_REF2="ts313">
-				<ANNOTATION_VALUE>allora, (.) il [quadro],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a160" TIME_SLOT_REF1="ts318" TIME_SLOT_REF2="ts319">
-				<ANNOTATION_VALUE>allora, il quadro comune europeo di riferimento (.) per la conoscenza delle lingue,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a161" TIME_SLOT_REF1="ts320" TIME_SLOT_REF2="ts321">
-				<ANNOTATION_VALUE>è un documento importantissimo,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a162" TIME_SLOT_REF1="ts322" TIME_SLOT_REF2="ts323">
-				<ANNOTATION_VALUE>eh (.) stilato appunto nel (.) eh duemilaeuno,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a163" TIME_SLOT_REF1="ts324" TIME_SLOT_REF2="ts325">
-				<ANNOTATION_VALUE>ed è (.) e::h=mh (.) all' interno di esso troviamo (.) e:h la descrizione dei: (.) e:h=i sei appunto livelli,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a164" TIME_SLOT_REF1="ts326" TIME_SLOT_REF2="ts327">
-				<ANNOTATION_VALUE>eh di competenza linguistica,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a165" TIME_SLOT_REF1="ts328" TIME_SLOT_REF2="ts329">
-				<ANNOTATION_VALUE>che sono appunto, (.) a uno a due, (.) e:h b uno b due, c uno e c due,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a166" TIME_SLOT_REF1="ts330" TIME_SLOT_REF2="ts331">
-				<ANNOTATION_VALUE>e (.) appunto (.) eh (.) per ogni livello viene descritto cosa l' apprendente sa fare,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a167" TIME_SLOT_REF1="ts332" TIME_SLOT_REF2="ts333">
-				<ANNOTATION_VALUE>nella lingua target, in quel dato momento della sua (.) dell' evoluzione del suo processo insomma, (.) eh linguistico,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a168" TIME_SLOT_REF1="ts334" TIME_SLOT_REF2="ts335">
-				<ANNOTATION_VALUE>e:: naturalmente, (.) e::h a seconda appunto dei vari ambiti, quindi ad esempio abbiamo appunto scale specifiche,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a169" TIME_SLOT_REF1="ts336" TIME_SLOT_REF2="ts337">
-				<ANNOTATION_VALUE>relative alle vare competenze, ad esempio ci sono scale,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a170" TIME_SLOT_REF1="ts338" TIME_SLOT_REF2="ts339">
-				<ANNOTATION_VALUE>un una scala potrebbe essere ad esempio la, (.) comprensione di un' interazione fra parlanti nativi, ad esempio.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a171" TIME_SLOT_REF1="ts340" TIME_SLOT_REF2="ts341">
-				<ANNOTATION_VALUE>e:: appunto è un documento importantissimo, proprio perché per la prima volta, si cerca di individuare, (.) una linea comune,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a172" TIME_SLOT_REF1="ts342" TIME_SLOT_REF2="ts343">
-				<ANNOTATION_VALUE>che possa andare bene per tutta europa, per quanto riguarda,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a173" TIME_SLOT_REF1="ts344" TIME_SLOT_REF2="ts345">
-				<ANNOTATION_VALUE>a[ppunto la:],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a179" TIME_SLOT_REF1="ts356" TIME_SLOT_REF2="ts357">
-				<ANNOTATION_VALUE>[e::::h],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a180" TIME_SLOT_REF1="ts358" TIME_SLOT_REF2="ts359">
-				<ANNOTATION_VALUE>ah (.) beh (.) sì, appunto nel millenovecento (.) e settantuno, c' era stato il progetto lingue mode:rne,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a181" TIME_SLOT_REF1="ts360" TIME_SLOT_REF2="ts361">
-				<ANNOTATION_VALUE>che: (.) appunto, si basava appunto sulle: (.) unità capitalizzabili, e tui (.) sui (.) threshold level che appunto livello soglia che sarebbe appunto livello,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a182" TIME_SLOT_REF1="ts362" TIME_SLOT_REF2="ts363">
-				<ANNOTATION_VALUE>di (.) mh minimo:, (.) diciamo a livello linguistico, (.) eh grazie a cui un apprendente può sopravvivere in un paese stranie:ro,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a183" TIME_SLOT_REF1="ts364" TIME_SLOT_REF2="ts365">
-				<ANNOTATION_VALUE>e instaurare e mantenere rapporti, con i parlanti nativi.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a184" TIME_SLOT_REF1="ts366" TIME_SLOT_REF2="ts367">
-				<ANNOTATION_VALUE>e:: però sì,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a185" TIME_SLOT_REF1="ts368" TIME_SLOT_REF2="ts369">
-				<ANNOTATION_VALUE>diciamo che:, (.) &gt;probabilmente&lt; questa è la prima volta in cui si ha un documento un po' più sistematico.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a186" TIME_SLOT_REF1="ts370" TIME_SLOT_REF2="ts371">
-				<ANNOTATION_VALUE>e::::,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a188" TIME_SLOT_REF1="ts374" TIME_SLOT_REF2="ts375">
-				<ANNOTATION_VALUE>[che f~],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a189" TIME_SLOT_REF1="ts376" TIME_SLOT_REF2="ts377">
-				<ANNOTATION_VALUE>sì, unita:rio.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a191" TIME_SLOT_REF1="ts380" TIME_SLOT_REF2="ts381">
-				<ANNOTATION_VALUE>che infatti viene tutt' ora insomma utilizzato naturalmente in riferimento appunto al quadro comune europeo:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a192" TIME_SLOT_REF1="ts382" TIME_SLOT_REF2="ts383">
-				<ANNOTATION_VALUE>m:h (.) [&gt;cioè&lt;, c' è sempre],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a194" TIME_SLOT_REF1="ts386" TIME_SLOT_REF2="ts387">
-				<ANNOTATION_VALUE>[sì:],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a195" TIME_SLOT_REF1="ts388" TIME_SLOT_REF2="ts389">
-				<ANNOTATION_VALUE>[sì] sì sì.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a196" TIME_SLOT_REF1="ts390" TIME_SLOT_REF2="ts391">
-				<ANNOTATION_VALUE>infatti anche noi abbiamo visto appunto: mi ricordo quando abbiamo appunto:: (.) durante appunto il suo modulo, analizzato la:: (.) l' interazione,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a197" TIME_SLOT_REF1="ts392" TIME_SLOT_REF2="ts393">
-				<ANNOTATION_VALUE>fra: due (.) studentesse di italiano, come lingua straniera, di madrelingua francese, julie e amelie mi pareva,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a198" TIME_SLOT_REF1="ts394" TIME_SLOT_REF2="ts395">
-				<ANNOTATION_VALUE>e:: avevamo usato appunto anche noi i descrittori naturalmente del quadro comune::: europeo, proprio per attribuire,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a199" TIME_SLOT_REF1="ts396" TIME_SLOT_REF2="ts397">
-				<ANNOTATION_VALUE>il livello lin~ (.) di padronanza linguis[tica].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a201" TIME_SLOT_REF1="ts400" TIME_SLOT_REF2="ts401">
-				<ANNOTATION_VALUE>quindi appunto avevamo visto l' esposizio:ne, appunto la correttezza quindi l' assenza,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a203" TIME_SLOT_REF1="ts404" TIME_SLOT_REF2="ts405">
-				<ANNOTATION_VALUE>o no di erro:ri,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a204" TIME_SLOT_REF1="ts406" TIME_SLOT_REF2="ts407">
-				<ANNOTATION_VALUE>la:: la fluenza, quindi comunque il ritmo dell' el[oquio, la] velocità,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a206" TIME_SLOT_REF1="ts410" TIME_SLOT_REF2="ts411">
-				<ANNOTATION_VALUE>le: f[alse partenze],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a210" TIME_SLOT_REF1="ts418" TIME_SLOT_REF2="ts419">
-				<ANNOTATION_VALUE>e::::,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a212" TIME_SLOT_REF1="ts422" TIME_SLOT_REF2="ts423">
-				<ANNOTATION_VALUE>[sì],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a213" TIME_SLOT_REF1="ts424" TIME_SLOT_REF2="ts425">
-				<ANNOTATION_VALUE>[e::::h],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a214" TIME_SLOT_REF1="ts426" TIME_SLOT_REF2="ts427">
-				<ANNOTATION_VALUE>beh, (.) e:::h=mh,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a215" TIME_SLOT_REF1="ts428" TIME_SLOT_REF2="ts429">
-				<ANNOTATION_VALUE>oddio, ((ride))</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a216" TIME_SLOT_REF1="ts430" TIME_SLOT_REF2="ts431">
-				<ANNOTATION_VALUE>e:::h=m:h,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a217" TIME_SLOT_REF1="ts432" TIME_SLOT_REF2="ts433">
-				<ANNOTATION_VALUE>non:=non so se ho capito bene la domand[a].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a219" TIME_SLOT_REF1="ts436" TIME_SLOT_REF2="ts437">
-				<ANNOTATION_VALUE>[sì],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a220" TIME_SLOT_REF1="ts438" TIME_SLOT_REF2="ts439">
-				<ANNOTATION_VALUE>s[ì],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a222" TIME_SLOT_REF1="ts442" TIME_SLOT_REF2="ts443">
-				<ANNOTATION_VALUE>[beh, (.) e::h],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a223" TIME_SLOT_REF1="ts444" TIME_SLOT_REF2="ts445">
-				<ANNOTATION_VALUE>beh, che probabilmente (.) comunque,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a224" TIME_SLOT_REF1="ts446" TIME_SLOT_REF2="ts447">
-				<ANNOTATION_VALUE>è un modello forse troppo rigido,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a225" TIME_SLOT_REF1="ts448" TIME_SLOT_REF2="ts449">
-				<ANNOTATION_VALUE>nel senso che comunque,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a226" TIME_SLOT_REF1="ts450" TIME_SLOT_REF2="ts451">
-				<ANNOTATION_VALUE>l' apprendimento:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a227" TIME_SLOT_REF1="ts452" TIME_SLOT_REF2="ts453">
-				<ANNOTATION_VALUE>ha=mh, (.) insomma=m:h, (.) secondo appunto i vari studi appunto della linguistica acquisizionale,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a228" TIME_SLOT_REF1="ts454" TIME_SLOT_REF2="ts455">
-				<ANNOTATION_VALUE>risulta essere,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a229" TIME_SLOT_REF1="ts456" TIME_SLOT_REF2="ts457">
-				<ANNOTATION_VALUE>bene o male, in parte anche soggettivo, nel senso che comunque,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a230" TIME_SLOT_REF1="ts458" TIME_SLOT_REF2="ts459">
-				<ANNOTATION_VALUE>come:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a231" TIME_SLOT_REF1="ts460" TIME_SLOT_REF2="ts461">
-				<ANNOTATION_VALUE>appunto diceva corder, noi impariamo:, (.) in maniera conforme, al nostro sillabo interno,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a232" TIME_SLOT_REF1="ts462" TIME_SLOT_REF2="ts463">
-				<ANNOTATION_VALUE>e quindi, in maniera differente da persona a persona:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a233" TIME_SLOT_REF1="ts464" TIME_SLOT_REF2="ts465">
-				<ANNOTATION_VALUE>quindi:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a234" TIME_SLOT_REF1="ts466" TIME_SLOT_REF2="ts467">
-				<ANNOTATION_VALUE>diciamo che probabilmente non=e::h, (.) non ci può essere un metodo che va bene per tutti,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a235" TIME_SLOT_REF1="ts468" TIME_SLOT_REF2="ts469">
-				<ANNOTATION_VALUE>perché appunto:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a236" TIME_SLOT_REF1="ts470" TIME_SLOT_REF2="ts471">
-				<ANNOTATION_VALUE>diverse:, (.) s=diversissime possono essere le situazioni che si incontrano nella prassi dell' insegnamento, (.) diversi sono gli attori che vi prendono parte,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a237" TIME_SLOT_REF1="ts472" TIME_SLOT_REF2="ts473">
-				<ANNOTATION_VALUE>le esigenze, i bisogni, (.) e:::: insomma tutta [una se]rie insomma di fattori da tenere:: in conto,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a240" TIME_SLOT_REF1="ts478" TIME_SLOT_REF2="ts479">
-				<ANNOTATION_VALUE>[sì],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a241" TIME_SLOT_REF1="ts480" TIME_SLOT_REF2="ts481">
-				<ANNOTATION_VALUE>[probabilmente è un po' una:],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a242" TIME_SLOT_REF1="ts482" TIME_SLOT_REF2="ts483">
-				<ANNOTATION_VALUE>[sì proba]bilmente è un po' una generalizzazio:ne che, (.) sicuramente è necessaria, perché altrimenti:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a243" TIME_SLOT_REF1="ts484" TIME_SLOT_REF2="ts485">
-				<ANNOTATION_VALUE>non ci si potrebbe basare insomma su nulla:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a244" TIME_SLOT_REF1="ts486" TIME_SLOT_REF2="ts487">
-				<ANNOTATION_VALUE>ma però comunque (.) rim[ane ta]:le, probabilment[e],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a247" TIME_SLOT_REF1="ts492" TIME_SLOT_REF2="ts493">
-				<ANNOTATION_VALUE>[sì, degl]i standard, esatt[o (.) a cui, appunto bisogna] (.) a cui appunto l' apprendente deve tentare di adattarsi,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a249" TIME_SLOT_REF1="ts496" TIME_SLOT_REF2="ts497">
-				<ANNOTATION_VALUE>ma naturalmente appunto::, diciamo che si sta andando nella direzione contro al metodo, si parla::: addirittura di morte del metodo appunto:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a250" TIME_SLOT_REF1="ts498" TIME_SLOT_REF2="ts499">
-				<ANNOTATION_VALUE>e:::h,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a251" TIME_SLOT_REF1="ts500" TIME_SLOT_REF2="ts501">
-				<ANNOTATION_VALUE>proprio perché:, (.) non può esistere un metodo che vada bene per tutti fondamentalmente:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a253" TIME_SLOT_REF1="ts504" TIME_SLOT_REF2="ts505">
-				<ANNOTATION_VALUE>[e ques]to pro~, (.) &gt;diciamo&lt; è un po', (.) come dire,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a254" TIME_SLOT_REF1="ts506" TIME_SLOT_REF2="ts507">
-				<ANNOTATION_VALUE>il=e:::h,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a255" TIME_SLOT_REF1="ts508" TIME_SLOT_REF2="ts509">
-				<ANNOTATION_VALUE>le: (.) la direzione che si sta prendendo ultimamente.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a256" TIME_SLOT_REF1="ts510" TIME_SLOT_REF2="ts511">
-				<ANNOTATION_VALUE>e quindi mentre prima avevamo proprio questa:, (.) diciamo rigità assoluta del metodo, soprattutto anche nei primi appunto:: (.) approcci, nei primi comunque:: metodi,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a257" TIME_SLOT_REF1="ts512" TIME_SLOT_REF2="ts513">
-				<ANNOTATION_VALUE>adesso invece sta andando a[ppunto nella] direzione proprio inve:rsa.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a259" TIME_SLOT_REF1="ts516" TIME_SLOT_REF2="ts517">
-				<ANNOTATION_VALUE>[diciamo] che la glottodidattica è (.) comunque appunto una disciplina molto permeabile, anche a::: appunto cambiamenti sociali, appunto [poli]tici culturali,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a262" TIME_SLOT_REF1="ts522" TIME_SLOT_REF2="ts523">
-				<ANNOTATION_VALUE>e anche,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a263" TIME_SLOT_REF1="ts524" TIME_SLOT_REF2="ts525">
-				<ANNOTATION_VALUE>m::h, (.) per quanto riguarda, (.) le le idee comunque [sulla ri]cerca linguistica in [generale].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a271" TIME_SLOT_REF1="ts540" TIME_SLOT_REF2="ts541">
-				<ANNOTATION_VALUE>[sì].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a279" TIME_SLOT_REF1="ts556" TIME_SLOT_REF2="ts557">
-				<ANNOTATION_VALUE>[sì],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a281" TIME_SLOT_REF1="ts560" TIME_SLOT_REF2="ts561">
-				<ANNOTATION_VALUE>[beh], (.) diciamo quelle che possiamo:::, (.) diciamo quelle che,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a282" TIME_SLOT_REF1="ts562" TIME_SLOT_REF2="ts563">
-				<ANNOTATION_VALUE>possono essere considerate le competenze generali dell' apprendente, sono appunto (.) sape:re, saper fare, saper essere, saper comprendere quindi non abbiamo più appunto solo,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a283" TIME_SLOT_REF1="ts564" TIME_SLOT_REF2="ts565">
-				<ANNOTATION_VALUE>quelle:: linguistico comunicative, che erano appunto lessicale, grammaticale:, semantica, fonologica, ortografica, ortoepica,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a284" TIME_SLOT_REF1="ts566" TIME_SLOT_REF2="ts567">
-				<ANNOTATION_VALUE>e:::h (.) socio::: (.) cultu~ (.) e::h=m::h,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a285" TIME_SLOT_REF1="ts568" TIME_SLOT_REF2="ts569">
-				<ANNOTATION_VALUE>sociolinguistica appunto,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a286" TIME_SLOT_REF1="ts570" TIME_SLOT_REF2="ts571">
-				<ANNOTATION_VALUE>eh discorsiva e strategica,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a287" TIME_SLOT_REF1="ts572" TIME_SLOT_REF2="ts573">
-				<ANNOTATION_VALUE>ma, (.) appunto:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a288" TIME_SLOT_REF1="ts574" TIME_SLOT_REF2="ts575">
-				<ANNOTATION_VALUE>è::,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a289" TIME_SLOT_REF1="ts576" TIME_SLOT_REF2="ts577">
-				<ANNOTATION_VALUE>diciamo:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a290" TIME_SLOT_REF1="ts578" TIME_SLOT_REF2="ts579">
-				<ANNOTATION_VALUE>viene appunto valorizzato molto anche::, negli ultimi tempi, anche l' autonomia, comunque, (.) e l' autoapprendimento, quindi appunto self learning, che appunto è la modalità di studio.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a291" TIME_SLOT_REF1="ts580" TIME_SLOT_REF2="ts581">
-				<ANNOTATION_VALUE>quindi appunto, (.) il=l' apprende anche grazie appunto all' intoduzione: (.) e::h del=e::h (.) delle tecnologie multimediali.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a292" TIME_SLOT_REF1="ts582" TIME_SLOT_REF2="ts583">
-				<ANNOTATION_VALUE>e::h (.) a supporto, appunto, della didattica:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a293" TIME_SLOT_REF1="ts584" TIME_SLOT_REF2="ts585">
-				<ANNOTATION_VALUE>e::h riesce appunto a gestire in maniera più autonoma comunque il proprio processo di apprendimen[to].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a304" TIME_SLOT_REF1="ts606" TIME_SLOT_REF2="ts607">
-				<ANNOTATION_VALUE>sì,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a305" TIME_SLOT_REF1="ts608" TIME_SLOT_REF2="ts609">
-				<ANNOTATION_VALUE>allora:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a306" TIME_SLOT_REF1="ts610" TIME_SLOT_REF2="ts611">
-				<ANNOTATION_VALUE>e::h la:: appunto la::=m::::h,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a307" TIME_SLOT_REF1="ts612" TIME_SLOT_REF2="ts613">
-				<ANNOTATION_VALUE>il=e:::h il=il=appunto la valutazio~, (.) per quanto riguarda la valutazione,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a308" TIME_SLOT_REF1="ts614" TIME_SLOT_REF2="ts615">
-				<ANNOTATION_VALUE>possiamo distinguere fra,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a309" TIME_SLOT_REF1="ts616" TIME_SLOT_REF2="ts617">
-				<ANNOTATION_VALUE>appunto::: il=e::h diciamo test appunto fattoriale o di elementi discreti, che appunto sono basati su un unico aspetto della lingua,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a310" TIME_SLOT_REF1="ts618" TIME_SLOT_REF2="ts619">
-				<ANNOTATION_VALUE>e (.) e::h (.) prove di tipo integrativo, che prevedono un uso simultaneo: di (.) e:h più ablità, o elementi appunto linguistici e quindi,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a311" TIME_SLOT_REF1="ts620" TIME_SLOT_REF2="ts621">
-				<ANNOTATION_VALUE>riflettono maggiormente,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a312" TIME_SLOT_REF1="ts622" TIME_SLOT_REF2="ts623">
-				<ANNOTATION_VALUE>quello che (.) è:: diciamo: (.) le condizioni reali della lingua.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a313" TIME_SLOT_REF1="ts624" TIME_SLOT_REF2="ts625">
-				<ANNOTATION_VALUE>e:h le condizioni appunto d' uso:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a314" TIME_SLOT_REF1="ts626" TIME_SLOT_REF2="ts627">
-				<ANNOTATION_VALUE>della lingua,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a315" TIME_SLOT_REF1="ts628" TIME_SLOT_REF2="ts629">
-				<ANNOTATION_VALUE>nella vita reale.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a316" TIME_SLOT_REF1="ts630" TIME_SLOT_REF2="ts631">
-				<ANNOTATION_VALUE>e::: appunto abbiamo diversi tipi di: (.) di test,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a317" TIME_SLOT_REF1="ts632" TIME_SLOT_REF2="ts633">
-				<ANNOTATION_VALUE>&gt;appunto:::&lt; (.) ad esempio, (.) test appunto diretti, o indiretti,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a318" TIME_SLOT_REF1="ts634" TIME_SLOT_REF2="ts635">
-				<ANNOTATION_VALUE>test (.) soggettivi, (.) o (.) eh (.) oggettivi, test appunto xxx reference o test norm reference,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a319" TIME_SLOT_REF1="ts636" TIME_SLOT_REF2="ts637">
-				<ANNOTATION_VALUE>e:: appunto, abbiamo avuto poi una serie appunto diciamo di vari appunto approcci anche per quanto riguarda il testing nella storia della glottodidattica,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a320" TIME_SLOT_REF1="ts638" TIME_SLOT_REF2="ts639">
-				<ANNOTATION_VALUE>ad esempio appunto negli anni cinquanta, avevamo diciamo il cosiddetto,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a321" TIME_SLOT_REF1="ts640" TIME_SLOT_REF2="ts641">
-				<ANNOTATION_VALUE>e::h appunto:: m:::h (.) test appunto: (.) fattoriale appunto d' elementi discreti:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a322" TIME_SLOT_REF1="ts642" TIME_SLOT_REF2="ts643">
-				<ANNOTATION_VALUE>poi c' è stato appunto: (.) l' integrative, o integrated=e:h (.) test,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a323" TIME_SLOT_REF1="ts644" TIME_SLOT_REF2="ts645">
-				<ANNOTATION_VALUE>e poi, (.) il,(:) test appunto comunicativo,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a324" TIME_SLOT_REF1="ts646" TIME_SLOT_REF2="ts647">
-				<ANNOTATION_VALUE>il test comunicativo ha introdotto ad esempio il principio della autenticità:, e distinguiamo tra autenticità interazionale,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a325" TIME_SLOT_REF1="ts648" TIME_SLOT_REF2="ts649">
-				<ANNOTATION_VALUE>e autenticità situazionale,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a326" TIME_SLOT_REF1="ts650" TIME_SLOT_REF2="ts651">
-				<ANNOTATION_VALUE>e:::h il=e:::h (.) principio appunto, (.) quindi uso appunto di materiali autentici o semi-autentici,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a327" TIME_SLOT_REF1="ts652" TIME_SLOT_REF2="ts653">
-				<ANNOTATION_VALUE>e quindi avevamo appunto visto la differenza fra materiale autentico appunto e: (.) materiale grigio,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a328" TIME_SLOT_REF1="ts654" TIME_SLOT_REF2="ts655">
-				<ANNOTATION_VALUE>e::::h,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a329" TIME_SLOT_REF1="ts656" TIME_SLOT_REF2="ts657">
-				<ANNOTATION_VALUE>e poi appunto i::: coefficienti (.) mh con valore appunto come ad esempio quelli della validità:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a330" TIME_SLOT_REF1="ts658" TIME_SLOT_REF2="ts659">
-				<ANNOTATION_VALUE>e: (.) e:h l' affidabilità o fedeltà.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a331" TIME_SLOT_REF1="ts660" TIME_SLOT_REF2="ts661">
-				<ANNOTATION_VALUE>e:::h=m:::h,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a335" TIME_SLOT_REF1="ts668" TIME_SLOT_REF2="ts669">
-				<ANNOTATION_VALUE>[sì],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a336" TIME_SLOT_REF1="ts670" TIME_SLOT_REF2="ts671">
-				<ANNOTATION_VALUE>sì,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a337" TIME_SLOT_REF1="ts672" TIME_SLOT_REF2="ts673">
-				<ANNOTATION_VALUE>[sì sì],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a339" TIME_SLOT_REF1="ts676" TIME_SLOT_REF2="ts677">
-				<ANNOTATION_VALUE>nel senso che appunto sì (.) m:::h il=e:::h (.) il il testing deve essere appunto,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a340" TIME_SLOT_REF1="ts678" TIME_SLOT_REF2="ts679">
-				<ANNOTATION_VALUE>valido, appunto deve essere:, appunto pertinente,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a341" TIME_SLOT_REF1="ts680" TIME_SLOT_REF2="ts681">
-				<ANNOTATION_VALUE>affidabile, (.) e utile, quindi nel senso il testing comunque deve,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a342" TIME_SLOT_REF1="ts682" TIME_SLOT_REF2="ts683">
-				<ANNOTATION_VALUE>essere utile anche all' apprendente per,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a343" TIME_SLOT_REF1="ts684" TIME_SLOT_REF2="ts685">
-				<ANNOTATION_VALUE>imparare qualcosa (.) di più a=mh sul proprio processo:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a344" TIME_SLOT_REF1="ts686" TIME_SLOT_REF2="ts687">
-				<ANNOTATION_VALUE>di: di acquisizione, deve essere comunque, un modo con cui l' apprendente,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a345" TIME_SLOT_REF1="ts688" TIME_SLOT_REF2="ts689">
-				<ANNOTATION_VALUE>si autovaluta anche possiamo dire.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a346" TIME_SLOT_REF1="ts690" TIME_SLOT_REF2="ts691">
-				<ANNOTATION_VALUE>&gt;nel senso che comunque&lt;,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a347" TIME_SLOT_REF1="ts692" TIME_SLOT_REF2="ts693">
-				<ANNOTATION_VALUE>m::h, (.) diciamo che il testing (.) nel (.) per quanto riguarda: le (.) conoscenze linguistiche, (.) è inevitabile proprio perché:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a348" TIME_SLOT_REF1="ts694" TIME_SLOT_REF2="ts695">
-				<ANNOTATION_VALUE>io devo avere, (.) una:: (.) cioè, devo testare le mie abilità, devo avere un riscontro pratico e concreto di quello che effettivamente so fare.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a350" TIME_SLOT_REF1="ts698" TIME_SLOT_REF2="ts699">
-				<ANNOTATION_VALUE>però naturalmen[te:],,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a352" TIME_SLOT_REF1="ts702" TIME_SLOT_REF2="ts703">
-				<ANNOTATION_VALUE>sì, (.) diciamo che la=il &gt;appunto&lt; il principio olistico dell' utilità, è collegato: (.) ad altri (.) fattori che sono appunto,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a353" TIME_SLOT_REF1="ts704" TIME_SLOT_REF2="ts705">
-				<ANNOTATION_VALUE>l' autenticità:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a354" TIME_SLOT_REF1="ts706" TIME_SLOT_REF2="ts707">
-				<ANNOTATION_VALUE>l' interattività:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a355" TIME_SLOT_REF1="ts708" TIME_SLOT_REF2="ts709">
-				<ANNOTATION_VALUE>che e:::h=m::h,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a356" TIME_SLOT_REF1="ts710" TIME_SLOT_REF2="ts711">
-				<ANNOTATION_VALUE>si collega alle caratteristiche: (.) eh socio-biografiche del candidato,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a357" TIME_SLOT_REF1="ts712" TIME_SLOT_REF2="ts713">
-				<ANNOTATION_VALUE>l' impatto appunto sulla società, sui=l ca~ (.) sui candidati, apppunto sui decisori,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a358" TIME_SLOT_REF1="ts714" TIME_SLOT_REF2="ts715">
-				<ANNOTATION_VALUE>e per questo si parla appunto di (.) test appunto high stake test come ad esempio il test il proficency test, il test di padronanza, o di certificazione,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a359" TIME_SLOT_REF1="ts716" TIME_SLOT_REF2="ts717">
-				<ANNOTATION_VALUE>che dipende dal contesto,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a360" TIME_SLOT_REF1="ts718" TIME_SLOT_REF2="ts719">
-				<ANNOTATION_VALUE>e quello invece low stake:, (.) [a esempio], il test diagnostico, che invece è dipende dal contesto,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a363" TIME_SLOT_REF1="ts724" TIME_SLOT_REF2="ts725">
-				<ANNOTATION_VALUE>[e: (.) e:]::h la fattibilità, ossia appunto le concrete opportunità di finanziamento, di gestione, di amministrazione, perché poi naturalmente ci sono tutta una serie di,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a364" TIME_SLOT_REF1="ts726" TIME_SLOT_REF2="ts727">
-				<ANNOTATION_VALUE>comunque componenti burocratiche e (.) pre~ (.) più molto più pratiche da tenere in considerazione natu[ralme]nte.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a366" TIME_SLOT_REF1="ts730" TIME_SLOT_REF2="ts731">
-				<ANNOTATION_VALUE>anche [per quan]to riguarda appunto il numero [dei candi],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a369" TIME_SLOT_REF1="ts736" TIME_SLOT_REF2="ts737">
-				<ANNOTATION_VALUE>[sì],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a371" TIME_SLOT_REF1="ts740" TIME_SLOT_REF2="ts741">
-				<ANNOTATION_VALUE>beh, (.) perché comnque:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a372" TIME_SLOT_REF1="ts742" TIME_SLOT_REF2="ts743">
-				<ANNOTATION_VALUE>sono fattori da tenere (.) assolutamente in considerazione.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a373" TIME_SLOT_REF1="ts744" TIME_SLOT_REF2="ts745">
-				<ANNOTATION_VALUE>le: (.) caratteristiche socio-biografiche dei candidati.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a374" TIME_SLOT_REF1="ts746" TIME_SLOT_REF2="ts747">
-				<ANNOTATION_VALUE>e si sta sempre andando (.) secondo me:, (.) in direz~ (.) si sta si sta andando sempre di più:, (.) diciamo nella direzione di evidenziare proprio,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a375" TIME_SLOT_REF1="ts748" TIME_SLOT_REF2="ts749">
-				<ANNOTATION_VALUE>quelle che sono le conoscenze: linguistiche magari pregresse del candida:to,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a376" TIME_SLOT_REF1="ts750" TIME_SLOT_REF2="ts751">
-				<ANNOTATION_VALUE>o quelle che sono le esperienze linguistiche che lui ha fatto sempre soggiorni di studio all' estero eccetera, anche attraverso,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a377" TIME_SLOT_REF1="ts752" TIME_SLOT_REF2="ts753">
-				<ANNOTATION_VALUE>documenti come il (.) portfo~ (.) il=e::h portfolio appunto europeo per le lingue,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a378" TIME_SLOT_REF1="ts754" TIME_SLOT_REF2="ts755">
-				<ANNOTATION_VALUE>che appunto:, comprende,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a379" TIME_SLOT_REF1="ts756" TIME_SLOT_REF2="ts757">
-				<ANNOTATION_VALUE>e:h la biografia,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a380" TIME_SLOT_REF1="ts758" TIME_SLOT_REF2="ts759">
-				<ANNOTATION_VALUE>il dossier appunto e il passaporto, quindi,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a381" TIME_SLOT_REF1="ts760" TIME_SLOT_REF2="ts761">
-				<ANNOTATION_VALUE>che (.) era xxxxxx diciamo di carta d' identità linguistica dell' apprend[ente],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a383" TIME_SLOT_REF1="ts764" TIME_SLOT_REF2="ts765">
-				<ANNOTATION_VALUE>e poi ci sono appunto altri fattori, appunto a esempio appunto anche l' età:,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a384" TIME_SLOT_REF1="ts766" TIME_SLOT_REF2="ts767">
-				<ANNOTATION_VALUE>perché (.) che è una [variabile a]ppunto imprescindibile, non [solo &lt;per l]o&gt; sviluppo neurologico, ma anche per altre: ipotesi,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a398" TIME_SLOT_REF1="ts794" TIME_SLOT_REF2="ts795">
-				<ANNOTATION_VALUE>[e::h (.) s::::::],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a399" TIME_SLOT_REF1="ts796" TIME_SLOT_REF2="ts797">
-				<ANNOTATION_VALUE>sì=mh,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a400" TIME_SLOT_REF1="ts798" TIME_SLOT_REF2="ts799">
-				<ANNOTATION_VALUE>sì non non ho:: non ho scritto molte tesine in effetti no[n:: non mi è mai] capitato, devo dire prima.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a411" TIME_SLOT_REF1="ts820" TIME_SLOT_REF2="ts821">
-				<ANNOTATION_VALUE>ah, okay, sì.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a413" TIME_SLOT_REF1="ts824" TIME_SLOT_REF2="ts825">
-				<ANNOTATION_VALUE>[sì sì sì sì],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a414" TIME_SLOT_REF1="ts826" TIME_SLOT_REF2="ts827">
-				<ANNOTATION_VALUE>[sì],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a418" TIME_SLOT_REF1="ts834" TIME_SLOT_REF2="ts835">
-				<ANNOTATION_VALUE>[sì],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a419" TIME_SLOT_REF1="ts836" TIME_SLOT_REF2="ts837">
-				<ANNOTATION_VALUE>sì no mi dispiace non:: (.) non sono molto pratica [neanche del (.) mie (.) eh l]o so mi dispiace.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a421" TIME_SLOT_REF1="ts840" TIME_SLOT_REF2="ts841">
-				<ANNOTATION_VALUE>n[o starò insomma più attenta si]curamente [per le (.) prossime occasioni].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a428" TIME_SLOT_REF1="ts854" TIME_SLOT_REF2="ts855">
-				<ANNOTATION_VALUE>okay.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a431" TIME_SLOT_REF1="ts860" TIME_SLOT_REF2="ts861">
-				<ANNOTATION_VALUE>ah, okay, sì.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a435" TIME_SLOT_REF1="ts868" TIME_SLOT_REF2="ts869">
-				<ANNOTATION_VALUE>[ah, okay].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a438" TIME_SLOT_REF1="ts874" TIME_SLOT_REF2="ts875">
-				<ANNOTATION_VALUE>sì (.) sì sì sì sì, ho capito.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a441" TIME_SLOT_REF1="ts880" TIME_SLOT_REF2="ts881">
-				<ANNOTATION_VALUE>sì.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a444" TIME_SLOT_REF1="ts886" TIME_SLOT_REF2="ts887">
-				<ANNOTATION_VALUE>gra[zie].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a446" TIME_SLOT_REF1="ts890" TIME_SLOT_REF2="ts891">
-				<ANNOTATION_VALUE>[okay].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a448" TIME_SLOT_REF1="ts894" TIME_SLOT_REF2="ts895">
-				<ANNOTATION_VALUE>[sì].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a450" TIME_SLOT_REF1="ts898" TIME_SLOT_REF2="ts899">
-				<ANNOTATION_VALUE>e:::h (.) lo studio centoventiquattro [è:::],</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a452" TIME_SLOT_REF1="ts902" TIME_SLOT_REF2="ts903">
-				<ANNOTATION_VALUE>okay.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a457" TIME_SLOT_REF1="ts912" TIME_SLOT_REF2="ts913">
-				<ANNOTATION_VALUE>[grazie].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a458" TIME_SLOT_REF1="ts914" TIME_SLOT_REF2="ts915">
-				<ANNOTATION_VALUE>[crepi, grazie].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a460" TIME_SLOT_REF1="ts918" TIME_SLOT_REF2="ts919">
-				<ANNOTATION_VALUE>[arr]ivederci.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:18:35+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:18+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
@@ -615,18 +615,6 @@
 		<TIME_SLOT TIME_SLOT_ID="ts610" TIME_VALUE="837433" />
 		<TIME_SLOT TIME_SLOT_ID="ts611" TIME_VALUE="838107" />
 		</TIME_ORDER>
-	<TIER TIER_ID="???" LINGUISTIC_TYPE_REF="default-lt">
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
-				<ANNOTATION_VALUE>lascio aperto?</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
-				<ANNOTATION_VALUE>°arrivederci°</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		</TIER>
 	<TIER TIER_ID="TO028" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
@@ -715,7 +703,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts75">
-				<ANNOTATION_VALUE>però non ha mai sentito lei parlare di pena::li o cose da pagare in più, rispet~ cioè okay restituire i soldi per carità, però penali eccetera io ho letto il bando non c' è scritto nulla</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però non ha mai sentito lei parlare di pena::li o cose da pagare in più, rispet~ cioè okay restituire i soldi per carità, però penali eccetera io ho letto il bando non c'è scritto nulla</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -745,22 +733,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
-				<ANNOTATION_VALUE>[no c' è scri]tto su sul bando che viene ridotta in modo proporzionale a:l~ alla rinuncia se sotto i tre mesi bisogna restituirla tutta,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[no c'è scri]tto su sul bando che viene ridotta in modo proporzionale a:l~ alla rinuncia se sotto i tre mesi bisogna restituirla tutta,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts97">
-				<ANNOTATION_VALUE>e:h=m:::h ad esempio io ho un' integrazione per l' isee basso,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h=m:::h ad esempio io ho un'integrazione per l'isee basso,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
-				<ANNOTATION_VALUE>eh (.) quella invece: se non vengono conseguiti almeno due crediti per ogni mese che si sta all' estero non vien~ non viene [erogata]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh (.) quella invece: se non vengono conseguiti almeno due crediti per ogni mese che si sta all'estero non vien~ non viene [erogata]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts105">
-				<ANNOTATION_VALUE>questo sì, però (.) penali non c' è scritto niente volevo solo una conferma che::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo sì, però (.) penali non c'è scritto niente volevo solo una conferma che::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -830,7 +818,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts149">
-				<ANNOTATION_VALUE>eh no io tanto in realtà all' estero ci sto solo cinque mesi. però la borsa è da nove quindi il dubbio è</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh no io tanto in realtà all'estero ci sto solo cinque mesi. però la borsa è da nove quindi il dubbio è</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -990,12 +978,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a133" TIME_SLOT_REF1="ts264" TIME_SLOT_REF2="ts265">
-				<ANNOTATION_VALUE>[perché lei è un po' più si]cura nel senso che l' università a Glasgow (.) m:h in un certo mod~ in un certo modo è dovrebbe restare così. [la mia m::h]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[perché lei è un po' più si]cura nel senso che l'università a Glasgow (.) m:h in un certo mod~ in un certo modo è dovrebbe restare così. [la mia m::h]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a135" TIME_SLOT_REF1="ts268" TIME_SLOT_REF2="ts269">
-				<ANNOTATION_VALUE>[non] lo s~ non lo so dell' unito, (.) non oso immaginare in spagna.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[non] lo s~ non lo so dell'unito, (.) non oso immaginare in spagna.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1035,7 +1023,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a153" TIME_SLOT_REF1="ts304" TIME_SLOT_REF2="ts305">
-				<ANNOTATION_VALUE>[anti]cipano i:::in realtà anticipano la fu~ la~ l' uscita dei nuovi programmi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[anti]cipano i:::in realtà anticipano la fu~ la~ l'uscita dei nuovi programmi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1055,7 +1043,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a160" TIME_SLOT_REF1="ts318" TIME_SLOT_REF2="ts319">
-				<ANNOTATION_VALUE>[e::h] combinazione va bene questo qua sarebbe tecnologie dell' informazione e della comunicazione applicata all' educazione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e::h] combinazione va bene questo qua sarebbe tecnologie dell'informazione e della comunicazione applicata all'educazione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1080,7 +1068,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a171" TIME_SLOT_REF1="ts340" TIME_SLOT_REF2="ts341">
-				<ANNOTATION_VALUE>così due sono identici (.) [economia] dell' impresa e economia e gestione dell'[impre]sa,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>così due sono identici (.) [economia] dell'impresa e economia e gestione dell'[impre]sa,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1120,7 +1108,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a184" TIME_SLOT_REF1="ts366" TIME_SLOT_REF2="ts367">
-				<ANNOTATION_VALUE>e l' altro è tecnologie inf~ dell' informazione e della comunicazione applicati all' educaz[ione],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e l'altro è tecnologie inf~ dell'informazione e della comunicazione applicati all'educaz[ione],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1130,7 +1118,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a188" TIME_SLOT_REF1="ts374" TIME_SLOT_REF2="ts375">
-				<ANNOTATION_VALUE>[se no::] metto [l' a::ltro e perdo tre] crediti. sì quello sopra [è da sei] e quello sotto è da nove.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[se no::] metto [l'a::ltro e perdo tre] crediti. sì quello sopra [è da sei] e quello sotto è da nove.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1160,7 +1148,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a198" TIME_SLOT_REF1="ts394" TIME_SLOT_REF2="ts395">
-				<ANNOTATION_VALUE>e::h bon (.) così il learn agreement il quindici mi apre:: l' iscrizione alla nuova università e::h [me]tto questo. se lei lo approva così::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h bon (.) così il learn agreement il quindici mi apre:: l'iscrizione alla nuova università e::h [me]tto questo. se lei lo approva così::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1185,7 +1173,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a207" TIME_SLOT_REF1="ts412" TIME_SLOT_REF2="ts413">
-				<ANNOTATION_VALUE>un' ultima domanda è ci sono dei corsi di lingua qua?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un'ultima domanda è ci sono dei corsi di lingua qua?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1210,7 +1198,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a215" TIME_SLOT_REF1="ts428" TIME_SLOT_REF2="ts429">
-				<ANNOTATION_VALUE>l' unito, dovrebbe cioè loro non richiedono una certificazione bi uno dello spagnolo però l' unito dovrebbe certificare che io:: ho il livello.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'unito, dovrebbe cioè loro non richiedono una certificazione bi uno dello spagnolo però l'unito dovrebbe certificare che io:: ho il livello.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1220,7 +1208,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a218" TIME_SLOT_REF1="ts434" TIME_SLOT_REF2="ts435">
-				<ANNOTATION_VALUE>cioè l' idea è quella,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè l'idea è quella,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1235,7 +1223,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a225" TIME_SLOT_REF1="ts448" TIME_SLOT_REF2="ts449">
-				<ANNOTATION_VALUE>[no: c' è SCRITTO] sarà e:hm onere non è onere sarà:: a responsabilità: del (.) dell' università di partenza,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[no: c'è SCRITTO] sarà e:hm onere non è onere sarà:: a responsabilità: del (.) dell'università di partenza,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1260,12 +1248,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a234" TIME_SLOT_REF1="ts466" TIME_SLOT_REF2="ts467">
-				<ANNOTATION_VALUE>[no] io un po' si perché [m]:::h ho un' amica strettissima che è argentina e io stessa ci son stata due o tre volte quindi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[no] io un po' si perché [m]:::h ho un'amica strettissima che è argentina e io stessa ci son stata due o tre volte quindi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a236" TIME_SLOT_REF1="ts470" TIME_SLOT_REF2="ts471">
-				<ANNOTATION_VALUE>se d~ cioè (.) mi sto leggendo tutte le cose dell' università in spagnolo e non ho problemi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se d~ cioè (.) mi sto leggendo tutte le cose dell'università in spagnolo e non ho problemi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1285,12 +1273,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a242" TIME_SLOT_REF1="ts482" TIME_SLOT_REF2="ts483">
-				<ANNOTATION_VALUE>e tra l' altro era l' altro: problema perché lì sono &lt;quattro&gt; mi danno quattro crediti e ci ti esse pe::er quel corso lì, che qua:: boh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e tra l'altro era l'altro: problema perché lì sono &lt;quattro&gt; mi danno quattro crediti e ci ti esse pe::er quel corso lì, che qua:: boh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a245" TIME_SLOT_REF1="ts488" TIME_SLOT_REF2="ts489">
-				<ANNOTATION_VALUE>quello::: eh cioè c' è</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quello::: eh cioè c'è</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1310,7 +1298,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a251" TIME_SLOT_REF1="ts500" TIME_SLOT_REF2="ts501">
-				<ANNOTATION_VALUE>insieme ad altre:: tra l' altro in altre attività che cosa possiamo mettere?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>insieme ad altre:: tra l'altro in altre attività che cosa possiamo mettere?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1345,7 +1333,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a266" TIME_SLOT_REF1="ts530" TIME_SLOT_REF2="ts531">
-				<ANNOTATION_VALUE>questo non lo so (.) non so ne[anche se ha:: un' approvazione]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo non lo so (.) non so ne[anche se ha:: un'approvazione]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1385,7 +1373,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a283" TIME_SLOT_REF1="ts564" TIME_SLOT_REF2="ts565">
-				<ANNOTATION_VALUE>perché io adess~ questi qua son quasi tu~ quest' anno erano,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché io adess~ questi qua son quasi tu~ quest'anno erano,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1400,7 +1388,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a286" TIME_SLOT_REF1="ts570" TIME_SLOT_REF2="ts571">
-				<ANNOTATION_VALUE>qua (.) quest' anno</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>qua (.) quest'anno</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1459,6 +1447,18 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>
+	<TIER TIER_ID="???" LINGUISTIC_TYPE_REF="default-lt">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+				<ANNOTATION_VALUE>lascio aperto?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+				<ANNOTATION_VALUE>°arrivederci°</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
 	<TIER TIER_ID="TO026" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
@@ -1472,7 +1472,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
-				<ANNOTATION_VALUE>ha già incontrato ((nome_raccoglitore)) ?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ha già incontrato @nomepersona?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1637,7 +1637,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts170" TIME_SLOT_REF2="ts171">
-				<ANNOTATION_VALUE>poi però appunto lei diciamo formalmente risulta al~ dov' è che va? non mi ri[cordo più],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi però appunto lei diciamo formalmente risulta al~ dov'è che va? non mi ri[cordo più],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1662,7 +1662,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts188" TIME_SLOT_REF2="ts189">
-				<ANNOTATION_VALUE>ah quindi ah cioè di cui mi parlava prima cioè la rinuncia alla bor[sa sarebbe da]l quinto mese in poi no~[a:h ho ca]pito ho capito</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ah quindi ah cioè di cui mi parlava prima cioè la rinuncia alla bor[sa sarebbe da]l quinto mese in poi no~ [a:h ho ca]pito ho capito</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1772,7 +1772,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a143" TIME_SLOT_REF1="ts284" TIME_SLOT_REF2="ts285">
-				<ANNOTATION_VALUE>[beh] c' è sempre un problema di fondo che non si risolve cioè</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[beh] c'è sempre un problema di fondo che non si risolve cioè</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1787,17 +1787,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a147" TIME_SLOT_REF1="ts292" TIME_SLOT_REF2="ts293">
-				<ANNOTATION_VALUE>e quindi, non si può fare questo a ridosso dell' inizio del del e:hm del semestre o dell' anno accademico</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi, non si può fare questo a ridosso dell'inizio del del e:hm del semestre o dell'anno accademico</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a148" TIME_SLOT_REF1="ts294" TIME_SLOT_REF2="ts295">
-				<ANNOTATION_VALUE>e:h e quindi tipicamente qui:: come anche:: negli altri paesi d' europa, lo si fa quando ad esempio i programmi dei corsi dell' anno successivo non sono ancora definiti.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h e quindi tipicamente qui:: come anche:: negli altri paesi d'europa, lo si fa quando ad esempio i programmi dei corsi dell'anno successivo non sono ancora definiti.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a149" TIME_SLOT_REF1="ts296" TIME_SLOT_REF2="ts297">
-				<ANNOTATION_VALUE>d' altra parte non si può aspettare che [escano perché poi è tro]ppo tardi e::h [quindi uno] piuttosto si basa su ciò che [è offerto l' anno prima] (.) eh [dice::]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>d'altra parte non si può aspettare che [escano perché poi è tro]ppo tardi e::h [quindi uno] piuttosto si basa su ciò che [è offerto l'anno prima] (.) eh [dice::]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1827,7 +1827,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a165" TIME_SLOT_REF1="ts328" TIME_SLOT_REF2="ts329">
-				<ANNOTATION_VALUE>[l' aveva]mo già visti, alcuni di questi, [no? l' altra volta scors~ sì].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[l'aveva]mo già visti, alcuni di questi, [no? l'altra volta scors~ sì].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1837,7 +1837,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a168" TIME_SLOT_REF1="ts334" TIME_SLOT_REF2="ts335">
-				<ANNOTATION_VALUE>e è quest' altro l' ultimo dubbio [no]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e è quest'altro l'ultimo dubbio [no]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1862,12 +1862,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a177" TIME_SLOT_REF1="ts352" TIME_SLOT_REF2="ts353">
-				<ANNOTATION_VALUE>[ah non c' entra] nulla? no e::h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[ah non c'entra] nulla? no e::h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a180" TIME_SLOT_REF1="ts358" TIME_SLOT_REF2="ts359">
-				<ANNOTATION_VALUE>[que~ questo diciamo ha tradotto lei] ha tradotto lei cioè [questo è dell' addi]zione del [corso:::] di [madrid]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[que~ questo diciamo ha tradotto lei] ha tradotto lei cioè [questo è dell'addi]zione del [corso:::] di [madrid]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1947,7 +1947,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a220" TIME_SLOT_REF1="ts438" TIME_SLOT_REF2="ts439">
-				<ANNOTATION_VALUE>e:::h sia l' università di partenza che o comunque diciamo le due università,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h sia l'università di partenza che o comunque diciamo le due università,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1957,7 +1957,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a224" TIME_SLOT_REF1="ts446" TIME_SLOT_REF2="ts447">
-				<ANNOTATION_VALUE>però non mi pare sia scritto da nessuna parte che l' altra università deve fornire delle competenze (.) per cui lo studente &lt;possa&gt; fare l' erasmus no: direi di no. non possono chiederlo no [(diciamo né da madrid né) xx]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però non mi pare sia scritto da nessuna parte che l'altra università deve fornire delle competenze (.) per cui lo studente &lt;possa&gt; fare l'erasmus no: direi di no. non possono chiederlo no [(diciamo né da madrid né) xx]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1992,7 +1992,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a239" TIME_SLOT_REF1="ts476" TIME_SLOT_REF2="ts477">
-				<ANNOTATION_VALUE>è la comunque c' è un cor[so::] introduttivo:: [diciamo di spagnolo],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è la comunque c'è un cor[so::] introduttivo:: [diciamo di spagnolo],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2047,12 +2047,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a262" TIME_SLOT_REF1="ts522" TIME_SLOT_REF2="ts523">
-				<ANNOTATION_VALUE>&gt;poi d' altra parte&lt; è per ah no in un' altra un altro aspetto decisivo è (.) quel corso::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;poi d'altra parte&lt; è per ah no in un'altra un altro aspetto decisivo è (.) quel corso::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a263" TIME_SLOT_REF1="ts524" TIME_SLOT_REF2="ts525">
-				<ANNOTATION_VALUE>e:::h [le as]segna poi un voto o è soltanto un' approvazi[one]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h [le as]segna poi un voto o è soltanto un'approvazi[one]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2062,12 +2062,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a268" TIME_SLOT_REF1="ts534" TIME_SLOT_REF2="ts535">
-				<ANNOTATION_VALUE>c' è il problema però,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è il problema però,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a269" TIME_SLOT_REF1="ts536" TIME_SLOT_REF2="ts537">
-				<ANNOTATION_VALUE>in genere, e::h come regola così che ci siamo dati all' interno di di [xxx] e:hm è di escludere dal learning agreement,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in genere, e::h come regola così che ci siamo dati all'interno di di [xxx] e:hm è di escludere dal learning agreement,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2077,7 +2077,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a272" TIME_SLOT_REF1="ts542" TIME_SLOT_REF2="ts543">
-				<ANNOTATION_VALUE>questo vale sia per corsi che:: eh si sostengono all' estero sia per corsi offerti qui a torino quindi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo vale sia per corsi che:: eh si sostengono all'estero sia per corsi offerti qui a torino quindi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2092,7 +2092,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a278" TIME_SLOT_REF1="ts554" TIME_SLOT_REF2="ts555">
-				<ANNOTATION_VALUE>[per inserire l' esame di spagnolo]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[per inserire l'esame di spagnolo]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

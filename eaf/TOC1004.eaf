@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:18:34+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:19+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
@@ -2994,7 +2994,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a593" TIME_SLOT_REF1="ts1184" TIME_SLOT_REF2="ts1185">
-				<ANNOTATION_VALUE>ma da qui a qui l' incremento è [decisame]nte minore.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma da qui a qui l'incremento è [decisame]nte minore.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3136,7 +3136,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1455" TIME_SLOT_REF1="ts2908" TIME_SLOT_REF2="ts2909">
-				<ANNOTATION_VALUE>c' è ancora (.) un sistema per sessare gli animali.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è ancora (.) un sistema per sessare gli animali.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3156,7 +3156,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1460" TIME_SLOT_REF1="ts2918" TIME_SLOT_REF2="ts2919">
-				<ANNOTATION_VALUE>o il sessaggio all' ala,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>o il sessaggio all'ala,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3198,7 +3198,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts47">
-				<ANNOTATION_VALUE>e: praticamente l' argomento che eh porto oggi in esame eh riguarda appunto la gestione dei suini,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: praticamente l'argomento che eh porto oggi in esame eh riguarda appunto la gestione dei suini,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3228,7 +3228,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
-				<ANNOTATION_VALUE>eh pulita e disinfettate e questo eh diciamo permette comunque all' allevatore di mantenere diciamo un certo grado di e:h igiene a livello diciamo e:h delle sale parto,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh pulita e disinfettate e questo eh diciamo permette comunque all'allevatore di mantenere diciamo un certo grado di e:h igiene a livello diciamo e:h delle sale parto,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3263,17 +3263,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
-				<ANNOTATION_VALUE>eh eh=mh all' interno,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh eh=mh all'interno,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts75">
-				<ANNOTATION_VALUE>all' interno delle sale parto abbiamo praticamente e:h=mh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'interno delle sale parto abbiamo praticamente e:h=mh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts77">
-				<ANNOTATION_VALUE>delle gabbie parto all' i~ che si trovano all' interno di box parto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>delle gabbie parto all'i~ che si trovano all'interno di box parto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3308,7 +3308,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts91">
-				<ANNOTATION_VALUE>la~=all' interno appunto delle: dei box sono presenti del~ delle mangiatoie e delle beverine,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la~=all'interno appunto delle: dei box sono presenti del~ delle mangiatoie e delle beverine,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3318,7 +3318,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
-				<ANNOTATION_VALUE>inoltre e:h=sempre all' interno dei box,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>inoltre e:h=sempre all'interno dei box,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3343,7 +3343,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts105">
-				<ANNOTATION_VALUE>e:h infatti c' è da ten~ diciamo eh=mh infatti,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h infatti c'è da ten~ diciamo eh=mh infatti,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3393,7 +3393,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
-				<ANNOTATION_VALUE>allora e:h=un' altra diciamo cara~ un' altra caratteristica delle sale parto è appunto la presenza di,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora e:h=un'altra diciamo cara~ un'altra caratteristica delle sale parto è appunto la presenza di,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3453,7 +3453,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts149">
-				<ANNOTATION_VALUE>per esempio viene utilizzata in allevamento qui da noi cioè::=nell' allevamento di torino perché la,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per esempio viene utilizzata in allevamento qui da noi cioè::=nell'allevamento di torino perché la,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3473,12 +3473,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts157">
-				<ANNOTATION_VALUE>per quanto riguarda l' ambiente invece abbiamo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per quanto riguarda l'ambiente invece abbiamo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts158" TIME_SLOT_REF2="ts159">
-				<ANNOTATION_VALUE>e::h la temperatura e l' umidità che sono praticamente,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h la temperatura e l'umidità che sono praticamente,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3493,7 +3493,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts165">
-				<ANNOTATION_VALUE>l' umidità in questo caso diciamo deve essere intorno al settanta percento mentre,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'umidità in questo caso diciamo deve essere intorno al settanta percento mentre,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3703,17 +3703,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a148" TIME_SLOT_REF1="ts294" TIME_SLOT_REF2="ts295">
-				<ANNOTATION_VALUE>si ha una diminuzione dell' appetito inoltre,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si ha una diminuzione dell'appetito inoltre,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a149" TIME_SLOT_REF1="ts296" TIME_SLOT_REF2="ts297">
-				<ANNOTATION_VALUE>eh questa diminuzione dell' alimentaz~ diciamo della razione viene effettuata per prevenire,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh questa diminuzione dell'alimentaz~ diciamo della razione viene effettuata per prevenire,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a150" TIME_SLOT_REF1="ts298" TIME_SLOT_REF2="ts299">
-				<ANNOTATION_VALUE>eh per esempio l' insulino resistenza,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh per esempio l'insulino resistenza,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3723,7 +3723,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a152" TIME_SLOT_REF1="ts302" TIME_SLOT_REF2="ts303">
-				<ANNOTATION_VALUE>eh perché comunque e:h=mh=nell' insulino resistenza,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh perché comunque e:h=mh=nell'insulino resistenza,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3808,7 +3808,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a183" TIME_SLOT_REF1="ts364" TIME_SLOT_REF2="ts365">
-				<ANNOTATION_VALUE>va a prevenire la cioè l' allevatore va a prevenire eventuali ipogalassie quindi evitare,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>va a prevenire la cioè l'allevatore va a prevenire eventuali ipogalassie quindi evitare,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3903,7 +3903,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a217" TIME_SLOT_REF1="ts432" TIME_SLOT_REF2="ts433">
-				<ANNOTATION_VALUE>perché:=mh praticamente diciamo (.) la:=mh l' espulsione diciamo del latte avviene in più fasi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché:=mh praticamente diciamo (.) la:=mh l'espulsione diciamo del latte avviene in più fasi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3978,7 +3978,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a241" TIME_SLOT_REF1="ts480" TIME_SLOT_REF2="ts481">
-				<ANNOTATION_VALUE>e:: [stimola l' impulso nervoso e] quindi il lo il [rilascio di ossit]ocina</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: [stimola l'impulso nervoso e] quindi il lo il [rilascio di ossit]ocina</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4003,7 +4003,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a250" TIME_SLOT_REF1="ts498" TIME_SLOT_REF2="ts499">
-				<ANNOTATION_VALUE>e::h i parti diciamo possono essere indotti l' induzione del parto può avvenire al centoquattordicesimo giorno di gestazione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h i parti diciamo possono essere indotti l'induzione del parto può avvenire al centoquattordicesimo giorno di gestazione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4073,7 +4073,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a266" TIME_SLOT_REF1="ts530" TIME_SLOT_REF2="ts531">
-				<ANNOTATION_VALUE>la: e:h l' espulsione degli invogli fetali avviene entro e:h diciamo le quattro ore dall' ultimo uh dall' ultimo nato.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la: e:h l'espulsione degli invogli fetali avviene entro e:h diciamo le quattro ore dall'ultimo uh dall'ultimo nato.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4133,7 +4133,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a278" TIME_SLOT_REF1="ts554" TIME_SLOT_REF2="ts555">
-				<ANNOTATION_VALUE>ed è comunque diciamo l' aspetto fondamentale in queste prime ore di vita dei piccoli.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ed è comunque diciamo l'aspetto fondamentale in queste prime ore di vita dei piccoli.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4168,7 +4168,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a300" TIME_SLOT_REF1="ts598" TIME_SLOT_REF2="ts599">
-				<ANNOTATION_VALUE>[per]ché a livello dell' apparato digerente non riescono più ad assorbire,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[per]ché a livello dell'apparato digerente non riescono più ad assorbire,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4288,7 +4288,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a343" TIME_SLOT_REF1="ts684" TIME_SLOT_REF2="ts685">
-				<ANNOTATION_VALUE>[°dell' allevament~°]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[°dell'allevament~°]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4393,7 +4393,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a387" TIME_SLOT_REF1="ts772" TIME_SLOT_REF2="ts773">
-				<ANNOTATION_VALUE>quello è più: diciamo una scelta dell' allevatore ecco.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quello è più: diciamo una scelta dell'allevatore ecco.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4513,7 +4513,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a439" TIME_SLOT_REF1="ts876" TIME_SLOT_REF2="ts877">
-				<ANNOTATION_VALUE>a: an~ anestetizzare diciamo l' aria,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a: an~ anestetizzare diciamo l'aria,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4533,7 +4533,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a445" TIME_SLOT_REF1="ts888" TIME_SLOT_REF2="ts889">
-				<ANNOTATION_VALUE>e::h controllare l' animale (.) e:h=mh durante la giornata proprio per osservare e prevenire eventuali infezioni quindi disin[fettare l' a]ria eccetera eccetera.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h controllare l'animale (.) e:h=mh durante la giornata proprio per osservare e prevenire eventuali infezioni quindi disin[fettare l'a]ria eccetera eccetera.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4558,7 +4558,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a452" TIME_SLOT_REF1="ts902" TIME_SLOT_REF2="ts903">
-				<ANNOTATION_VALUE>e: praticamente la e:h percentuale diciamo e::h=mh di latte prodotta dalla scrofa aumenta all' aumentare del numero dei piccoli presenti nel ni~ nella nidiata,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: praticamente la e:h percentuale diciamo e::h=mh di latte prodotta dalla scrofa aumenta all'aumentare del numero dei piccoli presenti nel ni~ nella nidiata,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4568,7 +4568,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a454" TIME_SLOT_REF1="ts906" TIME_SLOT_REF2="ts907">
-				<ANNOTATION_VALUE>la percentuale di latte e:h=mh prodotta dalla scrofa aumenta anche e:h=mh con l' aumento del numero dei parti.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la percentuale di latte e:h=mh prodotta dalla scrofa aumenta anche e:h=mh con l'aumento del numero dei parti.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4708,7 +4708,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a495" TIME_SLOT_REF1="ts988" TIME_SLOT_REF2="ts989">
-				<ANNOTATION_VALUE>e:h in base anche al numero dei suinetti e quindi alla prod~ all' a:limentazione che io devo andare che deve andare a:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h in base anche al numero dei suinetti e quindi alla prod~ all'a:limentazione che io devo andare che deve andare a:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4733,7 +4733,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a514" TIME_SLOT_REF1="ts1026" TIME_SLOT_REF2="ts1027">
-				<ANNOTATION_VALUE>[no vabbè fino] a un certo punto diciamo c' è fino:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[no vabbè fino] a un certo punto diciamo c'è fino:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4843,7 +4843,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a560" TIME_SLOT_REF1="ts1118" TIME_SLOT_REF2="ts1119">
-				<ANNOTATION_VALUE>attraverso l' accesso,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>attraverso l'accesso,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4853,12 +4853,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a563" TIME_SLOT_REF1="ts1124" TIME_SLOT_REF2="ts1125">
-				<ANNOTATION_VALUE>[eh attraverso l' ac]cesso: ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[eh attraverso l'ac]cesso: ((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a564" TIME_SLOT_REF1="ts1126" TIME_SLOT_REF2="ts1127">
-				<ANNOTATION_VALUE>attraverso l' a: l' accesso diciamo alle mammelle e l' ac[cesso al]le mammelle,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>attraverso l'a: l'accesso diciamo alle mammelle e l'ac[cesso al]le mammelle,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4918,7 +4918,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a602" TIME_SLOT_REF1="ts1202" TIME_SLOT_REF2="ts1203">
-				<ANNOTATION_VALUE>[quindi e::h questa è l' assunzione de]l latte che appunto avviene i:n cinque o sei fasi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[quindi e::h questa è l'assunzione de]l latte che appunto avviene i:n cinque o sei fasi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4938,7 +4938,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a608" TIME_SLOT_REF1="ts1214" TIME_SLOT_REF2="ts1215">
-				<ANNOTATION_VALUE>e:h l' ho presa dal da un libro diciamo che ho trovato in biblioteca.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h l'ho presa dal da un libro diciamo che ho trovato in biblioteca.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4953,12 +4953,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a614" TIME_SLOT_REF1="ts1226" TIME_SLOT_REF2="ts1227">
-				<ANNOTATION_VALUE>no no l' ho presa dal l[ibro della biblioteca].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no no l'ho presa dal l[ibro della biblioteca].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a619" TIME_SLOT_REF1="ts1236" TIME_SLOT_REF2="ts1237">
-				<ANNOTATION_VALUE>[eh purtroppo non so us]are photoshop perché altrime[nti l' avrei ((ride)) l' avrei:]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[eh purtroppo non so us]are photoshop perché altrime[nti l'avrei ((ride)) l'avrei:]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4983,7 +4983,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a626" TIME_SLOT_REF1="ts1250" TIME_SLOT_REF2="ts1251">
-				<ANNOTATION_VALUE>e:h i dati in italia:=eh relativi quindi ai casi di metriti risultano essere di sette capi su quattrocentocinquanta all' anno circa,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h i dati in italia:=eh relativi quindi ai casi di metriti risultano essere di sette capi su quattrocentocinquanta all'anno circa,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5008,7 +5008,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a633" TIME_SLOT_REF1="ts1264" TIME_SLOT_REF2="ts1265">
-				<ANNOTATION_VALUE>[da]l ti~ dall' allevam[ento e::h]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[da]l ti~ dall'allevam[ento e::h]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5083,7 +5083,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a672" TIME_SLOT_REF1="ts1342" TIME_SLOT_REF2="ts1343">
-				<ANNOTATION_VALUE>[pe]rché praticamente eh risale attraverso diciamo (.) arriva fino all' utero dove poi porta diciamo le infezioni e quindi eh compor[ta l' emme emme] a ad esempio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[pe]rché praticamente eh risale attraverso diciamo (.) arriva fino all'utero dove poi porta diciamo le infezioni e quindi eh compor[ta l'emme emme] a ad esempio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5113,7 +5113,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a683" TIME_SLOT_REF1="ts1364" TIME_SLOT_REF2="ts1365">
-				<ANNOTATION_VALUE>attraverso l' alimentazione micro tossine [°pro~°]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>attraverso l'alimentazione micro tossine [°pro~°]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5173,7 +5173,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a716" TIME_SLOT_REF1="ts1430" TIME_SLOT_REF2="ts1431">
-				<ANNOTATION_VALUE>allora l' espulsione dei feti è di circa: un' ora cinque ore.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora l'espulsione dei feti è di circa: un'ora cinque ore.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5318,7 +5318,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a786" TIME_SLOT_REF1="ts1570" TIME_SLOT_REF2="ts1571">
-				<ANNOTATION_VALUE>[il pri]mo intervento comunque da effettuare appunto è l' igente quindi la pulizia (.) [pre partu]m,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[il pri]mo intervento comunque da effettuare appunto è l'igente quindi la pulizia (.) [pre partu]m,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5363,7 +5363,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a797" TIME_SLOT_REF1="ts1592" TIME_SLOT_REF2="ts1593">
-				<ANNOTATION_VALUE>e::h un u:n un altro intervento potrebbe essere per esempio l' integrazione oppure diciamo l' aumento dei livelli di vitamina e (e) selenio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h un u:n un altro intervento potrebbe essere per esempio l'integrazione oppure diciamo l'aumento dei livelli di vitamina e (e) selenio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5388,7 +5388,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a802" TIME_SLOT_REF1="ts1602" TIME_SLOT_REF2="ts1603">
-				<ANNOTATION_VALUE>l' ultimo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'ultimo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5398,7 +5398,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a805" TIME_SLOT_REF1="ts1608" TIME_SLOT_REF2="ts1609">
-				<ANNOTATION_VALUE>eh=un altro pr~ problema::=mh diciamo nell' allevam~ m::h=nel post partum è appunto la mortalità neonatale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh=un altro pr~ problema::=mh diciamo nell'allevam~ m::h=nel post partum è appunto la mortalità neonatale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5538,7 +5538,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a838" TIME_SLOT_REF1="ts1674" TIME_SLOT_REF2="ts1675">
-				<ANNOTATION_VALUE>e:h=attraverso la: diciamo attraverso l' alimentazione e già diciamo durante la gestazione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h=attraverso la: diciamo attraverso l'alimentazione e già diciamo durante la gestazione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5638,7 +5638,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a892" TIME_SLOT_REF1="ts1782" TIME_SLOT_REF2="ts1783">
-				<ANNOTATION_VALUE>i:l l' articolo com[unque avevo fatto la traduzione però: non mi ricordavo questa co]sa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>i:l l'articolo com[unque avevo fatto la traduzione però: non mi ricordavo questa co]sa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5673,7 +5673,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a907" TIME_SLOT_REF1="ts1812" TIME_SLOT_REF2="ts1813">
-				<ANNOTATION_VALUE>all' interno per esempio del nido del del box.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'interno per esempio del nido del del box.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5753,7 +5753,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a932" TIME_SLOT_REF1="ts1862" TIME_SLOT_REF2="ts1863">
-				<ANNOTATION_VALUE>per esempio: diciamo un caso in~ mh che ho personalmente diciamo riscontrato è stato appunto l' artrogriposi multipla congenita.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per esempio: diciamo un caso in~ mh che ho personalmente diciamo riscontrato è stato appunto l'artrogriposi multipla congenita.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5823,7 +5823,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a959" TIME_SLOT_REF1="ts1916" TIME_SLOT_REF2="ts1917">
-				<ANNOTATION_VALUE>l~ m::h altre malformazioni possono essere ad esempio: l' ernia ombelicale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l~ m::h altre malformazioni possono essere ad esempio: l'ernia ombelicale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5838,12 +5838,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a963" TIME_SLOT_REF1="ts1924" TIME_SLOT_REF2="ts1925">
-				<ANNOTATION_VALUE>eh che consiste praticamente nella divaricazione degli arti posteriori e questo può essere anche dovuto a:l res~ all' insulino resistenza.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh che consiste praticamente nella divaricazione degli arti posteriori e questo può essere anche dovuto a:l res~ all'insulino resistenza.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a964" TIME_SLOT_REF1="ts1926" TIME_SLOT_REF2="ts1927">
-				<ANNOTATION_VALUE>eh=m::h=che viene diciamo trasmessa ai piccoli con l' aumento di glicemia e carenza di insulina.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh=m::h=che viene diciamo trasmessa ai piccoli con l'aumento di glicemia e carenza di insulina.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5898,7 +5898,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a980" TIME_SLOT_REF1="ts1958" TIME_SLOT_REF2="ts1959">
-				<ANNOTATION_VALUE>e:liminare i capi portatori diciamo dell' artrogriposi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:liminare i capi portatori diciamo dell'artrogriposi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5938,17 +5938,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1009" TIME_SLOT_REF1="ts2016" TIME_SLOT_REF2="ts2017">
-				<ANNOTATION_VALUE>e::h=l' intervallo diciamo e:h di di tempo tra il (.) parto in questo caso e=e i:l ritorno al calore sarà diciamo più prolungato.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h=l'intervallo diciamo e:h di di tempo tra il (.) parto in questo caso e=e i:l ritorno al calore sarà diciamo più prolungato.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1010" TIME_SLOT_REF1="ts2018" TIME_SLOT_REF2="ts2019">
-				<ANNOTATION_VALUE>ne~=per esempio nel caso in cui di~ di problematiche come metriti eccetera eccetera possiamo avere e:h un aumento o=dell' intervallo appunto svezzamento u:h calore.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ne~=per esempio nel caso in cui di~ di problematiche come metriti eccetera eccetera possiamo avere e:h un aumento o=dell'intervallo appunto svezzamento u:h calore.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1011" TIME_SLOT_REF1="ts2020" TIME_SLOT_REF2="ts2021">
-				<ANNOTATION_VALUE>e::h=mh questo può determinare diciamo un problema per e:h=mh per l' alle~</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h=mh questo può determinare diciamo un problema per e:h=mh per l'alle~</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5963,7 +5963,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1030" TIME_SLOT_REF1="ts2058" TIME_SLOT_REF2="ts2059">
-				<ANNOTATION_VALUE>e::h=presenti nella: nella nidiata comunque diciamo va influenzare appunto e:h=mh il ritorno diciamo dell' estro e quindi l' intervallo di tempo che intercorre tra lo svezzamento e l' estro.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h=presenti nella: nella nidiata comunque diciamo va influenzare appunto e:h=mh il ritorno diciamo dell'estro e quindi l'intervallo di tempo che intercorre tra lo svezzamento e l'estro.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5998,7 +5998,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1047" TIME_SLOT_REF1="ts2092" TIME_SLOT_REF2="ts2093">
-				<ANNOTATION_VALUE>a:=m:h a influenzare appunto l' intervallo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a:=m:h a influenzare appunto l'intervallo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6048,7 +6048,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1066" TIME_SLOT_REF1="ts2130" TIME_SLOT_REF2="ts2131">
-				<ANNOTATION_VALUE>eh=d[all' inter~]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh=d[all'inter~]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6073,7 +6073,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1085" TIME_SLOT_REF1="ts2168" TIME_SLOT_REF2="ts2169">
-				<ANNOTATION_VALUE>praticamente so~ diciamo:: m::h=&gt;rientra nel numero delle scrofe diciamo presenti nell' allevamento e il numero&lt; di: di parti diciamo all' anno che avvengono,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>praticamente so~ diciamo:: m::h=&gt;rientra nel numero delle scrofe diciamo presenti nell'allevamento e il numero&lt; di: di parti diciamo all'anno che avvengono,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6093,7 +6093,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1099" TIME_SLOT_REF1="ts2196" TIME_SLOT_REF2="ts2197">
-				<ANNOTATION_VALUE>in~ l' interparto diciamo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in~ l'interparto diciamo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6188,7 +6188,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1145" TIME_SLOT_REF1="ts2288" TIME_SLOT_REF2="ts2289">
-				<ANNOTATION_VALUE>e::h per prima cosa diciamo c' è da dire che comunque eh i tacchini sono animali che non prensentano:=m:h diciamo presetano una testa eh priva di e:h=mh nuda,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h per prima cosa diciamo c'è da dire che comunque eh i tacchini sono animali che non prensentano:=m:h diciamo presetano una testa eh priva di e:h=mh nuda,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6228,7 +6228,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1154" TIME_SLOT_REF1="ts2306" TIME_SLOT_REF2="ts2307">
-				<ANNOTATION_VALUE>e:h=nel tacchino viene effettuata praticamente l' inseminazione strumentale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h=nel tacchino viene effettuata praticamente l'inseminazione strumentale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6283,12 +6283,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1168" TIME_SLOT_REF1="ts2334" TIME_SLOT_REF2="ts2335">
-				<ANNOTATION_VALUE>di effettuare l' inseminazione strumentale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di effettuare l'inseminazione strumentale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1169" TIME_SLOT_REF1="ts2336" TIME_SLOT_REF2="ts2337">
-				<ANNOTATION_VALUE>e e l' inseminazione strumentale viene effettuata a partire dalla trentaduesima settimana di di vita più o meno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e e l'inseminazione strumentale viene effettuata a partire dalla trentaduesima settimana di di vita più o meno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6308,7 +6308,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1173" TIME_SLOT_REF1="ts2344" TIME_SLOT_REF2="ts2345">
-				<ANNOTATION_VALUE>e::h all' interno di questi nidi praticamente diciamo è presente una sorta di e:h pavimentazione in (grgliato),</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h all'interno di questi nidi praticamente diciamo è presente una sorta di e:h pavimentazione in (grgliato),</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6493,7 +6493,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1250" TIME_SLOT_REF1="ts2498" TIME_SLOT_REF2="ts2499">
-				<ANNOTATION_VALUE>e:h=mh inoltre e:h un' altra diciamo caratteristica per esempio delle eh=delle femmine</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h=mh inoltre e:h un'altra diciamo caratteristica per esempio delle eh=delle femmine</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6518,7 +6518,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1255" TIME_SLOT_REF1="ts2508" TIME_SLOT_REF2="ts2509">
-				<ANNOTATION_VALUE>e e:=mh diciamo le uova prodotte durante la settimana sono di all' incirca tre.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e e:=mh diciamo le uova prodotte durante la settimana sono di all'incirca tre.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6548,12 +6548,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1261" TIME_SLOT_REF1="ts2520" TIME_SLOT_REF2="ts2521">
-				<ANNOTATION_VALUE>abbiamo u::h=mh &gt;per quanto riguarda l' alimentazione&lt;,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>abbiamo u::h=mh &gt;per quanto riguarda l'alimentazione&lt;,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1262" TIME_SLOT_REF1="ts2522" TIME_SLOT_REF2="ts2523">
-				<ANNOTATION_VALUE>e:h=l' alimentazione dei tacchini e:h vengono diciamo alimentati con e:h=mh=diciamo mangimi prestarter starter eh uno starter due,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h=l'alimentazione dei tacchini e:h vengono diciamo alimentati con e:h=mh=diciamo mangimi prestarter starter eh uno starter due,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6593,12 +6593,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1270" TIME_SLOT_REF1="ts2538" TIME_SLOT_REF2="ts2539">
-				<ANNOTATION_VALUE>un altro importante fatto diciamo dei tacchini per esempio nell' allevamento dei tacchini è,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un altro importante fatto diciamo dei tacchini per esempio nell'allevamento dei tacchini è,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1271" TIME_SLOT_REF1="ts2540" TIME_SLOT_REF2="ts2541">
-				<ANNOTATION_VALUE>e:h=mh=è l' attenzione diciamo eh durante il carico scarico degli animali.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h=mh=è l'attenzione diciamo eh durante il carico scarico degli animali.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6633,7 +6633,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1278" TIME_SLOT_REF1="ts2554" TIME_SLOT_REF2="ts2555">
-				<ANNOTATION_VALUE>e:h=la resa diciamo oh=m:h per quanto riguarda il tacchino la resa di macellazione è intorno all' ottanta percento.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h=la resa diciamo oh=m:h per quanto riguarda il tacchino la resa di macellazione è intorno all'ottanta percento.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6718,7 +6718,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1324" TIME_SLOT_REF1="ts2646" TIME_SLOT_REF2="ts2647">
-				<ANNOTATION_VALUE>cosa le ho detto del suinetto all' inizio?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cosa le ho detto del suinetto all'inizio?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6858,7 +6858,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1407" TIME_SLOT_REF1="ts2812" TIME_SLOT_REF2="ts2813">
-				<ANNOTATION_VALUE>e:h [per esem]pio e:h l' incrocio tra femmine di colore bianco e l' incrocio tra maschi di colore rosso,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h [per esem]pio e:h l'incrocio tra femmine di colore bianco e l'incrocio tra maschi di colore rosso,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6953,12 +6953,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1442" TIME_SLOT_REF1="ts2882" TIME_SLOT_REF2="ts2883">
-				<ANNOTATION_VALUE>[un' altro:::]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[un'altro:::]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1444" TIME_SLOT_REF1="ts2886" TIME_SLOT_REF2="ts2887">
-				<ANNOTATION_VALUE>[un' altro:::]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[un'altro:::]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6978,7 +6978,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1448" TIME_SLOT_REF1="ts2894" TIME_SLOT_REF2="ts2895">
-				<ANNOTATION_VALUE>e quindi diciamo eh in base alla lunghezza praticamente de:l de::l diciamo dell' impiumamento de:l dell' impennamento del[le pinne remiganti],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi diciamo eh in base alla lunghezza praticamente de:l de::l diciamo dell'impiumamento de:l dell'impennamento del[le pinne remiganti],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7028,12 +7028,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1469" TIME_SLOT_REF1="ts2936" TIME_SLOT_REF2="ts2937">
-				<ANNOTATION_VALUE>dell' eventuale (.) clor(o) comunque:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dell'eventuale (.) clor(o) comunque:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1470" TIME_SLOT_REF1="ts2938" TIME_SLOT_REF2="ts2939">
-				<ANNOTATION_VALUE>de:l dell' eventuale diciamo apparato riproduttivo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>de:l dell'eventuale diciamo apparato riproduttivo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7070,12 +7070,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
-				<ANNOTATION_VALUE>allora dopo ci rimettiamo d' accordo:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora dopo ci rimettiamo d'accordo:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
-				<ANNOTATION_VALUE>perché le devo spiegare come funziona l' esame.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché le devo spiegare come funziona l'esame.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7085,7 +7085,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts25">
-				<ANNOTATION_VALUE>già questa è una cosa strana per l' ateneo di torino.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>già questa è una cosa strana per l'ateneo di torino.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7165,7 +7165,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a124" TIME_SLOT_REF1="ts246" TIME_SLOT_REF2="ts247">
-				<ANNOTATION_VALUE>°[mh] d' accor[do].°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>°[mh] d'accor[do].°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7180,7 +7180,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a132" TIME_SLOT_REF1="ts262" TIME_SLOT_REF2="ts263">
-				<ANNOTATION_VALUE>[ma c' è una ragione],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[ma c'è una ragione],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7230,12 +7230,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a159" TIME_SLOT_REF1="ts316" TIME_SLOT_REF2="ts317">
-				<ANNOTATION_VALUE>[e soprattutto] si cerca di stimolare l' appetito quindi affamando [tra] virgolette un po' l' animale nel giorno prima o:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e soprattutto] si cerca di stimolare l'appetito quindi affamando [tra] virgolette un po' l'animale nel giorno prima o:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a161" TIME_SLOT_REF1="ts320" TIME_SLOT_REF2="ts321">
-				<ANNOTATION_VALUE>tenga anche presente che c' è un problema di ingombro evidentemente [per]ché in questa fase fin tanto che i: prodotti del concepimento premono sul diaframma.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tenga anche presente che c'è un problema di ingombro evidentemente [per]ché in questa fase fin tanto che i: prodotti del concepimento premono sul diaframma.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7245,7 +7245,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a164" TIME_SLOT_REF1="ts326" TIME_SLOT_REF2="ts327">
-				<ANNOTATION_VALUE>rendono più difficile la la in qualche modo la respirazione e anche lo spazio disponibile per l' ingestione alimentare,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>rendono più difficile la la in qualche modo la respirazione e anche lo spazio disponibile per l'ingestione alimentare,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7255,7 +7255,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a167" TIME_SLOT_REF1="ts332" TIME_SLOT_REF2="ts333">
-				<ANNOTATION_VALUE>eh l' ingestione nella fase (.) successiva all[a na]scita dei:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh l'ingestione nella fase (.) successiva all[a na]scita dei:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7265,17 +7265,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a171" TIME_SLOT_REF1="ts340" TIME_SLOT_REF2="ts341">
-				<ANNOTATION_VALUE>l' altra domanda di approfondimento lei ha messo di default l' impiego di antibiotici.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'altra domanda di approfondimento lei ha messo di default l'impiego di antibiotici.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a173" TIME_SLOT_REF1="ts344" TIME_SLOT_REF2="ts345">
-				<ANNOTATION_VALUE>ora l' impiego degli antibiotici è proprio uno di quegli aspetti sui quali in questo momento c' è: ampia discussione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ora l'impiego degli antibiotici è proprio uno di quegli aspetti sui quali in questo momento c'è: ampia discussione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a174" TIME_SLOT_REF1="ts346" TIME_SLOT_REF2="ts347">
-				<ANNOTATION_VALUE>e ha senso per altro indipendentemente dalla discussione che l' opinione pubblica sta portando avanti in questi in questi ultimi mesi sull' utilizzo di antibiotici,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e ha senso per altro indipendentemente dalla discussione che l'opinione pubblica sta portando avanti in questi in questi ultimi mesi sull'utilizzo di antibiotici,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7295,12 +7295,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a179" TIME_SLOT_REF1="ts356" TIME_SLOT_REF2="ts357">
-				<ANNOTATION_VALUE>cioè qual è l' effetto: sì diciamo così copro l' animale perché: da tutt~ mh da u[na serie di di] di,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè qual è l'effetto: sì diciamo così copro l'animale perché: da tutt~ mh da u[na serie di di] di,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a186" TIME_SLOT_REF1="ts370" TIME_SLOT_REF2="ts371">
-				<ANNOTATION_VALUE>[°adesso°] l~ l' ipogalassia è una &lt;conseguenza&gt; e[ven]tuale di una si[tuazione]: (.) fisiopatologica che si può sviluppare nell' animale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[°adesso°] l~ l'ipogalassia è una &lt;conseguenza&gt; e[ven]tuale di una si[tuazione]: (.) fisiopatologica che si può sviluppare nell'animale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7310,7 +7310,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a191" TIME_SLOT_REF1="ts380" TIME_SLOT_REF2="ts381">
-				<ANNOTATION_VALUE>con l' uso:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>con l'uso:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7320,12 +7320,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a193" TIME_SLOT_REF1="ts384" TIME_SLOT_REF2="ts385">
-				<ANNOTATION_VALUE>che cos' è che è importante dal punto di vista della prevenzione dell' ipogalassia sostanzialmente nella,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che cos'è che è importante dal punto di vista della prevenzione dell'ipogalassia sostanzialmente nella,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a194" TIME_SLOT_REF1="ts386" TIME_SLOT_REF2="ts387">
-				<ANNOTATION_VALUE>nell' insieme del d~ di questa fase,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell'insieme del d~ di questa fase,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7345,7 +7345,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a206" TIME_SLOT_REF1="ts410" TIME_SLOT_REF2="ts411">
-				<ANNOTATION_VALUE>[°d' accordo.°]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[°d'accordo.°]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7400,7 +7400,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a229" TIME_SLOT_REF1="ts456" TIME_SLOT_REF2="ts457">
-				<ANNOTATION_VALUE>e di [consegue]nza l' animale smette di prod[urre].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e di [consegue]nza l'animale smette di prod[urre].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7420,7 +7420,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a242" TIME_SLOT_REF1="ts482" TIME_SLOT_REF2="ts483">
-				<ANNOTATION_VALUE>[nell' animale nella nella scrofa].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[nell'animale nella nella scrofa].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7455,7 +7455,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a283" TIME_SLOT_REF1="ts564" TIME_SLOT_REF2="ts565">
-				<ANNOTATION_VALUE>[che cos' è] che cambia?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[che cos'è] che cambia?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7520,7 +7520,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a298" TIME_SLOT_REF1="ts594" TIME_SLOT_REF2="ts595">
-				<ANNOTATION_VALUE>dei suinetti dei pi[ccoli che cos' è] che cambia al~ all' interno nei suinet[ti]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dei suinetti dei pi[ccoli che cos'è] che cambia al~ all'interno nei suinet[ti]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7560,7 +7560,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a323" TIME_SLOT_REF1="ts644" TIME_SLOT_REF2="ts645">
-				<ANNOTATION_VALUE>[nor]malmente il rapporto maschi femminine quant' è?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[nor]malmente il rapporto maschi femminine quant'è?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7590,7 +7590,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a334" TIME_SLOT_REF1="ts666" TIME_SLOT_REF2="ts667">
-				<ANNOTATION_VALUE>però nell' allevamento del suino,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però nell'allevamento del suino,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7615,12 +7615,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a342" TIME_SLOT_REF1="ts682" TIME_SLOT_REF2="ts683">
-				<ANNOTATION_VALUE>questo dipende dagli obiettivi del [m~ dell' allevame~ in un alle]vamento: tra virgolette convenzionale che non faccia della: della genetica,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo dipende dagli obiettivi del [m~ dell'allevame~ in un alle]vamento: tra virgolette convenzionale che non faccia della: della genetica,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a345" TIME_SLOT_REF1="ts688" TIME_SLOT_REF2="ts689">
-				<ANNOTATION_VALUE>lei ha degli animali che sono tutti quanti destinati all' ingrasso f[onda]mentalmente.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lei ha degli animali che sono tutti quanti destinati all'ingrasso f[onda]mentalmente.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7700,7 +7700,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a378" TIME_SLOT_REF1="ts754" TIME_SLOT_REF2="ts755">
-				<ANNOTATION_VALUE>al l' ulteriore domanda che le faccio l' ulteriore approfondimento quand' è che noi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>al l'ulteriore domanda che le faccio l'ulteriore approfondimento quand'è che noi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7720,7 +7720,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a382" TIME_SLOT_REF1="ts762" TIME_SLOT_REF2="ts763">
-				<ANNOTATION_VALUE>e eventualmente il tatuaggio (poi sul) tatuaggio insomma c' è un obbligo di legge:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e eventualmente il tatuaggio (poi sul) tatuaggio insomma c'è un obbligo di legge:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7835,7 +7835,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a415" TIME_SLOT_REF1="ts828" TIME_SLOT_REF2="ts829">
-				<ANNOTATION_VALUE>eh come si regolano le norme: attuali su~ per il rispetto e il benessere dell' animale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh come si regolano le norme: attuali su~ per il rispetto e il benessere dell'animale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7855,7 +7855,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a422" TIME_SLOT_REF1="ts842" TIME_SLOT_REF2="ts843">
-				<ANNOTATION_VALUE>però oltre ad avere l' apparecchietto di contenimento che cosa serve anche,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però oltre ad avere l'apparecchietto di contenimento che cosa serve anche,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7875,7 +7875,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a441" TIME_SLOT_REF1="ts880" TIME_SLOT_REF2="ts881">
-				<ANNOTATION_VALUE>è obbligatorio adottare tutti quei sistemi che servono a diminuire la sofferenza e il dolore nel[l' animale].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è obbligatorio adottare tutti quei sistemi che servono a diminuire la sofferenza e il dolore nel[l'animale].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7905,7 +7905,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a460" TIME_SLOT_REF1="ts918" TIME_SLOT_REF2="ts919">
-				<ANNOTATION_VALUE>u:h sul numero di parti sappiamo quand' è che raggiungiamo la massima capacità produttiva?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>u:h sul numero di parti sappiamo quand'è che raggiungiamo la massima capacità produttiva?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7930,12 +7930,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a475" TIME_SLOT_REF1="ts948" TIME_SLOT_REF2="ts949">
-				<ANNOTATION_VALUE>nell' ordine di parto (.) perché poi non sono tantissime le scrofe che rimango in allevamento per più di cinque parti.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell'ordine di parto (.) perché poi non sono tantissime le scrofe che rimango in allevamento per più di cinque parti.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a478" TIME_SLOT_REF1="ts954" TIME_SLOT_REF2="ts955">
-				<ANNOTATION_VALUE>[non sono tantissime poi dipende mo]lto da da: dall' azienda dipende da~ dagli standard dipende da tutta una serie di cose.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[non sono tantissime poi dipende mo]lto da da: dall'azienda dipende da~ dagli standard dipende da tutta una serie di cose.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7955,7 +7955,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a484" TIME_SLOT_REF1="ts966" TIME_SLOT_REF2="ts967">
-				<ANNOTATION_VALUE>esponenziale oppure c' è un=e:h un tetto °perché se fosse così,°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>esponenziale oppure c'è un=e:h un tetto °perché se fosse così,°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7990,7 +7990,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a507" TIME_SLOT_REF1="ts1012" TIME_SLOT_REF2="ts1013">
-				<ANNOTATION_VALUE>d' accordissimo però,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>d'accordissimo però,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8000,7 +8000,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a510" TIME_SLOT_REF1="ts1018" TIME_SLOT_REF2="ts1019">
-				<ANNOTATION_VALUE>[c' è un fattore cioè nel se~]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[c'è un fattore cioè nel se~]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8015,12 +8015,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a513" TIME_SLOT_REF1="ts1024" TIME_SLOT_REF2="ts1025">
-				<ANNOTATION_VALUE>che [cos' è che],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che [cos'è che],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a517" TIME_SLOT_REF1="ts1032" TIME_SLOT_REF2="ts1033">
-				<ANNOTATION_VALUE>[la~] la~ lasci stare l' ordine di parto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[la~] la~ lasci stare l'ordine di parto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8045,7 +8045,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a526" TIME_SLOT_REF1="ts1050" TIME_SLOT_REF2="ts1051">
-				<ANNOTATION_VALUE>di fatti ma questo è uno dei problemi che incontriamo nell' allevamento:: attuale eh.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di fatti ma questo è uno dei problemi che incontriamo nell'allevamento:: attuale eh.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8115,7 +8115,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a555" TIME_SLOT_REF1="ts1108" TIME_SLOT_REF2="ts1109">
-				<ANNOTATION_VALUE>[e::h (.) non è non è s]olo una questione &gt;non riesce più a produrre latte&lt; d' accordo non produce più latte. ma,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e::h (.) non è non è s]olo una questione &gt;non riesce più a produrre latte&lt; d'accordo non produce più latte. ma,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8190,7 +8190,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a580" TIME_SLOT_REF1="ts1158" TIME_SLOT_REF2="ts1159">
-				<ANNOTATION_VALUE>posti nella parte mh come dire più caudale dell' an[imale].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>posti nella parte mh come dire più caudale dell'an[imale].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8205,12 +8205,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a584" TIME_SLOT_REF1="ts1166" TIME_SLOT_REF2="ts1167">
-				<ANNOTATION_VALUE>per quella disc~ questione di prima in qua~ eh in cui abbiam visto che il suinetto: stimola l' animale (l)a produzione del latte non c' è una produzione continua a quelli che sono in sovannumero rispetto a quattordici,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per quella disc~ questione di prima in qua~ eh in cui abbiam visto che il suinetto: stimola l'animale (l)a produzione del latte non c'è una produzione continua a quelli che sono in sovannumero rispetto a quattordici,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a585" TIME_SLOT_REF1="ts1168" TIME_SLOT_REF2="ts1169">
-				<ANNOTATION_VALUE>in questo caso l' esempio dei quattordici non avranno modo di: e quindi bisogna avere delle scrofe e metterle a balia [o adottar]e dei sistemi di alimentazione artificiale o: eccetera.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in questo caso l'esempio dei quattordici non avranno modo di: e quindi bisogna avere delle scrofe e metterle a balia [o adottar]e dei sistemi di alimentazione artificiale o: eccetera.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8260,7 +8260,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a613" TIME_SLOT_REF1="ts1224" TIME_SLOT_REF2="ts1225">
-				<ANNOTATION_VALUE>no no ma difatti le ho chiesto dove l' ha presa perché: (non è) c' è questa,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no no ma difatti le ho chiesto dove l'ha presa perché: (non è) c'è questa,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8275,7 +8275,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a617" TIME_SLOT_REF1="ts1232" TIME_SLOT_REF2="ts1233">
-				<ANNOTATION_VALUE>in realtà n~ nella scrofa per tutto un discorso che abbiamo fatto prima questa cosa non c' è però il comportamento è quello e quindi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in realtà n~ nella scrofa per tutto un discorso che abbiamo fatto prima questa cosa non c'è però il comportamento è quello e quindi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8305,7 +8305,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a634" TIME_SLOT_REF1="ts1266" TIME_SLOT_REF2="ts1267">
-				<ANNOTATION_VALUE>[dall' allevamento cioè so]no dati c~ allora i~ sicuramente i::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[dall'allevamento cioè so]no dati c~ allora i~ sicuramente i::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8325,7 +8325,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a639" TIME_SLOT_REF1="ts1276" TIME_SLOT_REF2="ts1277">
-				<ANNOTATION_VALUE>dipende dalle condizioni igenico [sanitarie] dalla tecnicità che ha l' a[lleva~]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dipende dalle condizioni igenico [sanitarie] dalla tecnicità che ha l'a[lleva~]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8395,7 +8395,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a664" TIME_SLOT_REF1="ts1326" TIME_SLOT_REF2="ts1327">
-				<ANNOTATION_VALUE>[in questo caso l' ipog]alassia è di nuovo (è) il risultato finale di un percorso: u:h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[in questo caso l'ipog]alassia è di nuovo (è) il risultato finale di un percorso: u:h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8430,7 +8430,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a674" TIME_SLOT_REF1="ts1346" TIME_SLOT_REF2="ts1347">
-				<ANNOTATION_VALUE>eh l' emme emme a che è una:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh l'emme emme a che è una:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8440,7 +8440,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a680" TIME_SLOT_REF1="ts1358" TIME_SLOT_REF2="ts1359">
-				<ANNOTATION_VALUE>[e l' altra via di penetra]zione invece (.) dei germi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e l'altra via di penetra]zione invece (.) dei germi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8455,7 +8455,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a686" TIME_SLOT_REF1="ts1370" TIME_SLOT_REF2="ts1371">
-				<ANNOTATION_VALUE>no: non è tanto un anche perché cioè attraverso l' alimentazione prevalentemente noi possiamo portare sicuramente dei pro~ dei dei germi dei b~ (.) questo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no: non è tanto un anche perché cioè attraverso l'alimentazione prevalentemente noi possiamo portare sicuramente dei pro~ dei dei germi dei b~ (.) questo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8555,12 +8555,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a718" TIME_SLOT_REF1="ts1434" TIME_SLOT_REF2="ts1435">
-				<ANNOTATION_VALUE>l' espulsione dei feti,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'espulsione dei feti,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a719" TIME_SLOT_REF1="ts1436" TIME_SLOT_REF2="ts1437">
-				<ANNOTATION_VALUE>comples[siva]mente [va da un min]imo di un' ora a (.) [cinque o]re.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>comples[siva]mente [va da un min]imo di un'ora a (.) [cinque o]re.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8590,7 +8590,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a732" TIME_SLOT_REF1="ts1462" TIME_SLOT_REF2="ts1463">
-				<ANNOTATION_VALUE>mh che cos' è che che che,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mh che cos'è che che che,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8635,7 +8635,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a744" TIME_SLOT_REF1="ts1486" TIME_SLOT_REF2="ts1487">
-				<ANNOTATION_VALUE>d' accordo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>d'accordo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8675,12 +8675,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a761" TIME_SLOT_REF1="ts1520" TIME_SLOT_REF2="ts1521">
-				<ANNOTATION_VALUE>quindi da questo punto di vista se io ho quattro suinetti l' ora,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi da questo punto di vista se io ho quattro suinetti l'ora,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a762" TIME_SLOT_REF1="ts1522" TIME_SLOT_REF2="ts1523">
-				<ANNOTATION_VALUE>quattro suinetti l' ora lei vede che un parto di:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quattro suinetti l'ora lei vede che un parto di:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8690,7 +8690,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a765" TIME_SLOT_REF1="ts1528" TIME_SLOT_REF2="ts1529">
-				<ANNOTATION_VALUE>no in tre ore e mezza l' animale parto[risce].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no in tre ore e mezza l'animale parto[risce].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8705,7 +8705,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a769" TIME_SLOT_REF1="ts1536" TIME_SLOT_REF2="ts1537">
-				<ANNOTATION_VALUE>che sono languidi perché non c' è una espulsione regolare o un suinet[to (in) ogni dod]ici minuti dieci minuti [(i) primi qua]ttro poi dopo la scrofa per questioni::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che sono languidi perché non c'è una espulsione regolare o un suinet[to (in) ogni dod]ici minuti dieci minuti [(i) primi qua]ttro poi dopo la scrofa per questioni::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8790,12 +8790,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a840" TIME_SLOT_REF1="ts1678" TIME_SLOT_REF2="ts1679">
-				<ANNOTATION_VALUE>[ch]e cos' è il butadine,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[ch]e cos'è il butadine,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a844" TIME_SLOT_REF1="ts1686" TIME_SLOT_REF2="ts1687">
-				<ANNOTATION_VALUE>((ride)) [xx dice somministrazione di butadiene però mi deve dire c]he cos' è a questo punto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>((ride)) [xx dice somministrazione di butadiene però mi deve dire c]he cos'è a questo punto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8810,7 +8810,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a854" TIME_SLOT_REF1="ts1706" TIME_SLOT_REF2="ts1707">
-				<ANNOTATION_VALUE>e sai che l' appetito vien mangiando quindi se uno stimola u[na curiosità],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e sai che l'appetito vien mangiando quindi se uno stimola u[na curiosità],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8850,7 +8850,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a865" TIME_SLOT_REF1="ts1728" TIME_SLOT_REF2="ts1729">
-				<ANNOTATION_VALUE>tenga presente che tutto quello che ne: negli stati uniti c' è una sperimentazione perché poi sono d[ati sperimentali].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tenga presente che tutto quello che ne: negli stati uniti c'è una sperimentazione perché poi sono d[ati sperimentali].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8880,7 +8880,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a875" TIME_SLOT_REF1="ts1748" TIME_SLOT_REF2="ts1749">
-				<ANNOTATION_VALUE>m::h l' uso del farmaco è::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>m::h l'uso del farmaco è::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8895,7 +8895,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a879" TIME_SLOT_REF1="ts1756" TIME_SLOT_REF2="ts1757">
-				<ANNOTATION_VALUE>controllato e non è una: c' è solo un momento in cui a livello di legislazione nazionale noi possiamo fare un utilizzo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>controllato e non è una: c'è solo un momento in cui a livello di legislazione nazionale noi possiamo fare un utilizzo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8920,7 +8920,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a884" TIME_SLOT_REF1="ts1766" TIME_SLOT_REF2="ts1767">
-				<ANNOTATION_VALUE>in una qualch~ in qualche misura &lt;l' aggressività&gt;,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in una qualch~ in qualche misura &lt;l'aggressività&gt;,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8970,7 +8970,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a898" TIME_SLOT_REF1="ts1794" TIME_SLOT_REF2="ts1795">
-				<ANNOTATION_VALUE>l' utilizzo per quanto possibile di sostanze::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'utilizzo per quanto possibile di sostanze::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8990,7 +8990,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a910" TIME_SLOT_REF1="ts1818" TIME_SLOT_REF2="ts1819">
-				<ANNOTATION_VALUE>e::h dell' ambiente (.) &lt;riduco la mortalità&gt; da schiacciamento.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h dell'ambiente (.) &lt;riduco la mortalità&gt; da schiacciamento.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9055,7 +9055,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a945" TIME_SLOT_REF1="ts1888" TIME_SLOT_REF2="ts1889">
-				<ANNOTATION_VALUE>quindi su quattro scrofe ce n' erano due che si por[tavano] dietro questo: questo problema.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi su quattro scrofe ce n'erano due che si por[tavano] dietro questo: questo problema.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9070,7 +9070,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a953" TIME_SLOT_REF1="ts1904" TIME_SLOT_REF2="ts1905">
-				<ANNOTATION_VALUE>[u::h] invece delle mal~ perché in allevamento non è molto frequente ma proprio perché c' è una profilassi::: di tipo:: radicale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[u::h] invece delle mal~ perché in allevamento non è molto frequente ma proprio perché c'è una profilassi::: di tipo:: radicale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9115,7 +9115,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a974" TIME_SLOT_REF1="ts1946" TIME_SLOT_REF2="ts1947">
-				<ANNOTATION_VALUE>sì poi c' è c' è la no no ma ha fatto bene cioè da questo punto di vista.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì poi c'è c'è la no no ma ha fatto bene cioè da questo punto di vista.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9135,7 +9135,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a987" TIME_SLOT_REF1="ts1972" TIME_SLOT_REF2="ts1973">
-				<ANNOTATION_VALUE>i:l=m::h allora lei ha affrontato questi argomenti che sono legati: direi a: cioè sono una condizione intermedia tra la fisiologia e la fisiopatolo[gia n]o: dell' allevamento.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>i:l=m::h allora lei ha affrontato questi argomenti che sono legati: direi a: cioè sono una condizione intermedia tra la fisiologia e la fisiopatolo[gia n]o: dell'allevamento.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9185,12 +9185,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a999" TIME_SLOT_REF1="ts1996" TIME_SLOT_REF2="ts1997">
-				<ANNOTATION_VALUE>l' attuale (ci~=lei ha) x ha osservato dei cicli riproduttivi evidentemente dei parti ma,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'attuale (ci~=lei ha) x ha osservato dei cicli riproduttivi evidentemente dei parti ma,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1000" TIME_SLOT_REF1="ts1998" TIME_SLOT_REF2="ts1999">
-				<ANNOTATION_VALUE>tra questi momenti che lei ha osservato e il ciclo successivo [che tipo] di interazione di rapporto c' è?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tra questi momenti che lei ha osservato e il ciclo successivo [che tipo] di interazione di rapporto c'è?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9290,7 +9290,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1033" TIME_SLOT_REF1="ts2064" TIME_SLOT_REF2="ts2065">
-				<ANNOTATION_VALUE>cioè qui in effetti vede che c' è,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè qui in effetti vede che c'è,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9300,7 +9300,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1036" TIME_SLOT_REF1="ts2070" TIME_SLOT_REF2="ts2071">
-				<ANNOTATION_VALUE>allora l' intervallo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora l'intervallo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9355,7 +9355,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1055" TIME_SLOT_REF1="ts2108" TIME_SLOT_REF2="ts2109">
-				<ANNOTATION_VALUE>e mediamente a che cosa tende l' allevatore?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e mediamente a che cosa tende l'allevatore?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9375,12 +9375,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1062" TIME_SLOT_REF1="ts2122" TIME_SLOT_REF2="ts2123">
-				<ANNOTATION_VALUE>l' indice di parto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'indice di parto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1064" TIME_SLOT_REF1="ts2126" TIME_SLOT_REF2="ts2127">
-				<ANNOTATION_VALUE>e quindi:: noi eh sappiamo che l' indice di parto è costituito da quali:: da quali fattori?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi:: noi eh sappiamo che l'indice di parto è costituito da quali:: da quali fattori?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9390,7 +9390,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1069" TIME_SLOT_REF1="ts2136" TIME_SLOT_REF2="ts2137">
-				<ANNOTATION_VALUE>l' indice di parto (costitu~ cioè) sei lei mi deve descrivere l' indice di parto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'indice di parto (costitu~ cioè) sei lei mi deve descrivere l'indice di parto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9435,7 +9435,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1080" TIME_SLOT_REF1="ts2158" TIME_SLOT_REF2="ts2159">
-				<ANNOTATION_VALUE>in cui sotto c' è scritto trecentosessantacinque,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in cui sotto c'è scritto trecentosessantacinque,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9455,7 +9455,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1086" TIME_SLOT_REF1="ts2170" TIME_SLOT_REF2="ts2171">
-				<ANNOTATION_VALUE>no [quello mi dà l]' indicazione di quan~ (.) del numero di parti però,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no [quello mi dà l]'indicazione di quan~ (.) del numero di parti però,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9505,7 +9505,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1100" TIME_SLOT_REF1="ts2198" TIME_SLOT_REF2="ts2199">
-				<ANNOTATION_VALUE>non è l' interpa~=eh il ritorno al calore.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non è l'interpa~=eh il ritorno al calore.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9525,7 +9525,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1105" TIME_SLOT_REF1="ts2208" TIME_SLOT_REF2="ts2209">
-				<ANNOTATION_VALUE>però io ho centoquattordici centoquindici giorni ch[e sono] costant[i d' accodo],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però io ho centoquattordici centoquindici giorni ch[e sono] costant[i d'accodo],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9540,12 +9540,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1113" TIME_SLOT_REF1="ts2224" TIME_SLOT_REF2="ts2225">
-				<ANNOTATION_VALUE>[questo è l' u]nic[o],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[questo è l'u]nic[o],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1115" TIME_SLOT_REF1="ts2228" TIME_SLOT_REF2="ts2229">
-				<ANNOTATION_VALUE>[questo è l' unico fattore ch]e noi possiamo: sul quale possiamo esercitare un ruolo diretto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[questo è l'unico fattore ch]e noi possiamo: sul quale possiamo esercitare un ruolo diretto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9570,7 +9570,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1124" TIME_SLOT_REF1="ts2246" TIME_SLOT_REF2="ts2247">
-				<ANNOTATION_VALUE>qual è l' indice di parto mediam~ medio che noi abbiamo?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>qual è l'indice di parto mediam~ medio che noi abbiamo?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9620,22 +9620,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1135" TIME_SLOT_REF1="ts2268" TIME_SLOT_REF2="ts2269">
-				<ANNOTATION_VALUE>lei è venuta n~ (.) nell' uscita a vedere i tacchini?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lei è venuta n~ (.) nell'uscita a vedere i tacchini?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1137" TIME_SLOT_REF1="ts2272" TIME_SLOT_REF2="ts2273">
-				<ANNOTATION_VALUE>allora ci dica qualche cosa sull' allevamento dei tacchini.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora ci dica qualche cosa sull'allevamento dei tacchini.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1141" TIME_SLOT_REF1="ts2280" TIME_SLOT_REF2="ts2281">
-				<ANNOTATION_VALUE>[senza descrivere] l' all~=l' allevamento dove siamo andati no.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[senza descrivere] l'all~=l'allevamento dove siamo andati no.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1142" TIME_SLOT_REF1="ts2282" TIME_SLOT_REF2="ts2283">
-				<ANNOTATION_VALUE>ci descr[iva] in grandi linee come funziona l' allevamento,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ci descr[iva] in grandi linee come funziona l'allevamento,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9655,17 +9655,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1162" TIME_SLOT_REF1="ts2322" TIME_SLOT_REF2="ts2323">
-				<ANNOTATION_VALUE>per il supe[mercato per fare la frittata no non ce n' è s]i possono mangiare ma non ce ne son[o].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per il supe[mercato per fare la frittata no non ce n'è s]i possono mangiare ma non ce ne son[o].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1175" TIME_SLOT_REF1="ts2348" TIME_SLOT_REF2="ts2349">
-				<ANNOTATION_VALUE>come si fa l' allevamento del tacchino?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come si fa l'allevamento del tacchino?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1176" TIME_SLOT_REF1="ts2350" TIME_SLOT_REF2="ts2351">
-				<ANNOTATION_VALUE>al di là dell' arrivar[e ai ni]di.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>al di là dell'arrivar[e ai ni]di.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9685,7 +9685,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1185" TIME_SLOT_REF1="ts2368" TIME_SLOT_REF2="ts2369">
-				<ANNOTATION_VALUE>cioè non posso dirle in assoluto che l' allevamento del tacchino non si può fare all' aperto ci mancherebbe ancora,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè non posso dirle in assoluto che l'allevamento del tacchino non si può fare all'aperto ci mancherebbe ancora,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9705,7 +9705,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1189" TIME_SLOT_REF1="ts2376" TIME_SLOT_REF2="ts2377">
-				<ANNOTATION_VALUE>però la scelta dell' allevamento:::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però la scelta dell'allevamento:::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9715,7 +9715,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1191" TIME_SLOT_REF1="ts2380" TIME_SLOT_REF2="ts2381">
-				<ANNOTATION_VALUE>non è quella dell' allevamento all' aperto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non è quella dell'allevamento all'aperto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9730,7 +9730,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1196" TIME_SLOT_REF1="ts2390" TIME_SLOT_REF2="ts2391">
-				<ANNOTATION_VALUE>sono un problema p[er gli alle]vamenti di ordine di tipo biologico dove si fa un allevamento all' aperto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sono un problema p[er gli alle]vamenti di ordine di tipo biologico dove si fa un allevamento all'aperto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9750,7 +9750,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1201" TIME_SLOT_REF1="ts2400" TIME_SLOT_REF2="ts2401">
-				<ANNOTATION_VALUE>quindi l' allevamento è un allevamento in clausura è un allevamento però a terra o in gabbia?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi l'allevamento è un allevamento in clausura è un allevamento però a terra o in gabbia?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9765,7 +9765,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1208" TIME_SLOT_REF1="ts2414" TIME_SLOT_REF2="ts2415">
-				<ANNOTATION_VALUE>[e e allora non c' è ta]nto un pavimento grigliato:: [o:: fes]surato,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e e allora non c'è ta]nto un pavimento grigliato:: [o:: fes]surato,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9790,7 +9790,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1221" TIME_SLOT_REF1="ts2440" TIME_SLOT_REF2="ts2441">
-				<ANNOTATION_VALUE>[ca]tturare la femmi[na per il tempo neces]sario alla deposizione dell' uovo:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[ca]tturare la femmi[na per il tempo neces]sario alla deposizione dell'uovo:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9810,22 +9810,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1227" TIME_SLOT_REF1="ts2452" TIME_SLOT_REF2="ts2453">
-				<ANNOTATION_VALUE>e::h non sono delle postazioni sopraelevate piuttosto che sono dei nidi dove l' ani[male può] andare,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h non sono delle postazioni sopraelevate piuttosto che sono dei nidi dove l'ani[male può] andare,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1229" TIME_SLOT_REF1="ts2456" TIME_SLOT_REF2="ts2457">
-				<ANNOTATION_VALUE>e:::h [depone l' uovo] e poi con un sistema insomma o con sistem[i: a volte]sì automatici l' animale viene allontanato.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h [depone l'uovo] e poi con un sistema insomma o con sistem[i: a volte]sì automatici l'animale viene allontanato.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1232" TIME_SLOT_REF1="ts2462" TIME_SLOT_REF2="ts2463">
-				<ANNOTATION_VALUE>quindi questa è l' unica fase nella quale noi abbiamo una,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi questa è l'unica fase nella quale noi abbiamo una,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1233" TIME_SLOT_REF1="ts2464" TIME_SLOT_REF2="ts2465">
-				<ANNOTATION_VALUE>per il resto l' allevamento è tutto a terra. quindi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per il resto l'allevamento è tutto a terra. quindi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9835,7 +9835,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1236" TIME_SLOT_REF1="ts2470" TIME_SLOT_REF2="ts2471">
-				<ANNOTATION_VALUE>e questo vale anche per l' animale all' ingrasso,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e questo vale anche per l'animale all'ingrasso,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9855,7 +9855,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1241" TIME_SLOT_REF1="ts2480" TIME_SLOT_REF2="ts2481">
-				<ANNOTATION_VALUE>quindi il pavimento è un pavimento che è caratterizzato dall' impiego di lettiera:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi il pavimento è un pavimento che è caratterizzato dall'impiego di lettiera:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9910,7 +9910,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1296" TIME_SLOT_REF1="ts2590" TIME_SLOT_REF2="ts2591">
-				<ANNOTATION_VALUE>che comunque c' è.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che comunque c'è.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9930,7 +9930,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1302" TIME_SLOT_REF1="ts2602" TIME_SLOT_REF2="ts2603">
-				<ANNOTATION_VALUE>[e quindi va xx qual è] l=l=l' aspetto importante per il quale=e::h si deve porre l' attenzione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e quindi va xx qual è] l=l=l'aspetto importante per il quale=e::h si deve porre l'attenzione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9940,12 +9940,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1304" TIME_SLOT_REF1="ts2606" TIME_SLOT_REF2="ts2607">
-				<ANNOTATION_VALUE>è un indicatore complessivo del sistema dell' allevamento e quindi se io ho molti animali con delle ferite,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è un indicatore complessivo del sistema dell'allevamento e quindi se io ho molti animali con delle ferite,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1305" TIME_SLOT_REF1="ts2608" TIME_SLOT_REF2="ts2609">
-				<ANNOTATION_VALUE>a che cos' è che non ho prestato attenzione fondamentalmente,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a che cos'è che non ho prestato attenzione fondamentalmente,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9975,7 +9975,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1315" TIME_SLOT_REF1="ts2628" TIME_SLOT_REF2="ts2629">
-				<ANNOTATION_VALUE>non ci ha detto in questo rapidissimo excursus sull' allevamento del tacchino ad esempio però quanto dura l' allevamento del tacchino o per lo meno non l' ho colto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non ci ha detto in questo rapidissimo excursus sull'allevamento del tacchino ad esempio però quanto dura l'allevamento del tacchino o per lo meno non l'ho colto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9990,7 +9990,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1323" TIME_SLOT_REF1="ts2644" TIME_SLOT_REF2="ts2645">
-				<ANNOTATION_VALUE>si ricordi quello che mi aveva detto del suinetto all' inizio,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si ricordi quello che mi aveva detto del suinetto all'inizio,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10000,7 +10000,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1326" TIME_SLOT_REF1="ts2650" TIME_SLOT_REF2="ts2651">
-				<ANNOTATION_VALUE>lei all' inizio ha detto che nelle nidiate di suinetti si faceva un certo tipo di attività che è il sessaggio e io le ho detto ma nei suinetti tutto som[mato non] (.) invece,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lei all'inizio ha detto che nelle nidiate di suinetti si faceva un certo tipo di attività che è il sessaggio e io le ho detto ma nei suinetti tutto som[mato non] (.) invece,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10030,7 +10030,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1336" TIME_SLOT_REF1="ts2670" TIME_SLOT_REF2="ts2671">
-				<ANNOTATION_VALUE>possiamo vedere qual è la ragione importante per la quale in questo ne nel caso dell' allevamento avicolo in generale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>possiamo vedere qual è la ragione importante per la quale in questo ne nel caso dell'allevamento avicolo in generale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10100,7 +10100,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1362" TIME_SLOT_REF1="ts2722" TIME_SLOT_REF2="ts2723">
-				<ANNOTATION_VALUE>[quindi l' alle]vamento del maschio si protrae per (.) grosso modo: quanto tempo?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[quindi l'alle]vamento del maschio si protrae per (.) grosso modo: quanto tempo?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10130,7 +10130,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1373" TIME_SLOT_REF1="ts2744" TIME_SLOT_REF2="ts2745">
-				<ANNOTATION_VALUE>pelino in meno da questo punto di vista quindi su un peso comunque intorno ai venti chili però mediamente noi cioè mediamente in generale noi che cosa diciamo che nell' allevamento del tacchino facciamo del maschio due cicli per anno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>pelino in meno da questo punto di vista quindi su un peso comunque intorno ai venti chili però mediamente noi cioè mediamente in generale noi che cosa diciamo che nell'allevamento del tacchino facciamo del maschio due cicli per anno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10150,7 +10150,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1377" TIME_SLOT_REF1="ts2752" TIME_SLOT_REF2="ts2753">
-				<ANNOTATION_VALUE>quindi in sei mesi noi abbiamo l' animale pronto alla macellazione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi in sei mesi noi abbiamo l'animale pronto alla macellazione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10250,12 +10250,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1415" TIME_SLOT_REF1="ts2828" TIME_SLOT_REF2="ts2829">
-				<ANNOTATION_VALUE>sì d' accordo ma in questo [caso] parliamo di autosessaggio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì d'accordo ma in questo [caso] parliamo di autosessaggio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1418" TIME_SLOT_REF1="ts2834" TIME_SLOT_REF2="ts2835">
-				<ANNOTATION_VALUE>[perché l' animale s]i sessa da s[é a se]conda del colore.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[perché l'animale s]i sessa da s[é a se]conda del colore.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10265,12 +10265,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1422" TIME_SLOT_REF1="ts2842" TIME_SLOT_REF2="ts2843">
-				<ANNOTATION_VALUE>quand' è che è estremamente utile da questo punto di vista l' autosessaggio cioè su quale tipo di animali fondamentalemente.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quand'è che è estremamente utile da questo punto di vista l'autosessaggio cioè su quale tipo di animali fondamentalemente.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1424" TIME_SLOT_REF1="ts2846" TIME_SLOT_REF2="ts2847">
-				<ANNOTATION_VALUE>cioè qual è la destinazione d' uso di questi animali che ci::,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè qual è la destinazione d'uso di questi animali che ci::,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10280,12 +10280,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1428" TIME_SLOT_REF1="ts2854" TIME_SLOT_REF2="ts2855">
-				<ANNOTATION_VALUE>rapidissimamente dall' allevamento,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>rapidissimamente dall'allevamento,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1430" TIME_SLOT_REF1="ts2858" TIME_SLOT_REF2="ts2859">
-				<ANNOTATION_VALUE>qual è l' altra categoria di produ[zioni avi]cole?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>qual è l'altra categoria di produ[zioni avi]cole?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10310,7 +10310,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1439" TIME_SLOT_REF1="ts2876" TIME_SLOT_REF2="ts2877">
-				<ANNOTATION_VALUE>poco n[e faccio poco d' accordo].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poco n[e faccio poco d'accordo].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10320,12 +10320,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1443" TIME_SLOT_REF1="ts2884" TIME_SLOT_REF2="ts2885">
-				<ANNOTATION_VALUE>[l' altro tipo di: sessa]ggio invec[e che non è]: non è quello sull' autosessaggio a colore ma è un sessaggio: più: tra virgolette morfologico chiamiamolo così.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[l'altro tipo di: sessa]ggio invec[e che non è]: non è quello sull'autosessaggio a colore ma è un sessaggio: più: tra virgolette morfologico chiamiamolo così.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1449" TIME_SLOT_REF1="ts2896" TIME_SLOT_REF2="ts2897">
-				<ANNOTATION_VALUE>[alla velocità di sv]iluppo delle [piume remi]ganti cioè delle [piume dell' ala piumagg]io all' ala.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[alla velocità di sv]iluppo delle [piume remi]ganti cioè delle [piume dell'ala piumagg]io all'ala.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

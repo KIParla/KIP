@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:18:36+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:17+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
@@ -393,7 +393,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
-				<ANNOTATION_VALUE>eh::: okay, com' è fatta la casa dove vivi?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh::: okay, com'è fatta la casa dove vivi?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -423,7 +423,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
-				<ANNOTATION_VALUE>c' è molta sceta secondo te?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è molta sceta secondo te?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -433,12 +433,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
-				<ANNOTATION_VALUE>mhmh, quindi vi capita spesso non so di prendere la ma:cchina, maga:ri andare in altri posti per un conce:rto un evento che c' è fuor[i]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mhmh, quindi vi capita spesso non so di prendere la ma:cchina, maga:ri andare in altri posti per un conce:rto un evento che c'è fuor[i]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
-				<ANNOTATION_VALUE>capito (.) e:: tu hai detto hai sempre vissuto nella casa::: di cui mi hai parlato a @nomepaese, [non pe]riodi all' estero o altre [cose]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>capito (.) e:: tu hai detto hai sempre vissuto nella casa::: di cui mi hai parlato a @nomepaese, [non pe]riodi all'estero o altre [cose]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -448,12 +448,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts107">
-				<ANNOTATION_VALUE>okay, e com' era: in: cominciamo dall' austria, [com' era la s]ituazione lì:: dove vivevi, con chi, da sola,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>okay, e com'era: in: cominciamo dall'austria, [com'era la s]ituazione lì:: dove vivevi, con chi, da sola,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts117">
-				<ANNOTATION_VALUE>e come:=m:h co~ come ti sei trovata ecco nel contesto diciamo dello studenta:to del colle:gio: cioè c' è chi si trova molto bene c' è e chi si trova molto male.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e come:=m:h co~ come ti sei trovata ecco nel contesto diciamo dello studenta:to del colle:gio: cioè c'è chi si trova molto bene c'è e chi si trova molto male.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -478,7 +478,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts146" TIME_SLOT_REF2="ts147">
-				<ANNOTATION_VALUE>e invece l' altra volta che hai vissuto all' estero mi raccontavi?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e invece l'altra volta che hai vissuto all'estero mi raccontavi?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -513,7 +513,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts200" TIME_SLOT_REF2="ts201">
-				<ANNOTATION_VALUE>se dovessi::: per un qualche motivo, non so:: un lavoro:: più che altre cose:, (.) e::h trasferirti qui, hai un' idea di una zona che ti piacerebbe:? come vorresti la tua casa:?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se dovessi::: per un qualche motivo, non so:: un lavoro:: più che altre cose:, (.) e::h trasferirti qui, hai un'idea di una zona che ti piacerebbe:? come vorresti la tua casa:?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -538,7 +538,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a120" TIME_SLOT_REF1="ts238" TIME_SLOT_REF2="ts239">
-				<ANNOTATION_VALUE>di ah quindi [proprio stai::] (.) stai finendo (.) e::=[un episodio] divertente che ti è capitato legato:: all' università, durante:: il tuo corso di studi?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di ah quindi [proprio stai::] (.) stai finendo (.) e::=[un episodio] divertente che ti è capitato legato:: all'università, durante:: il tuo corso di studi?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -568,12 +568,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a142" TIME_SLOT_REF1="ts282" TIME_SLOT_REF2="ts283">
-				<ANNOTATION_VALUE>okay (.) ma invece (.) ecco, visto che hai fatto l' erasmus, se dovessi dare diciamo una valutazione complessiva dell' erasmus, che cosa::: ti è piaciuto, che cosa non ti è piaciuto, che cosa milgioreresti?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>okay (.) ma invece (.) ecco, visto che hai fatto l'erasmus, se dovessi dare diciamo una valutazione complessiva dell'erasmus, che cosa::: ti è piaciuto, che cosa non ti è piaciuto, che cosa milgioreresti?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a147" TIME_SLOT_REF1="ts292" TIME_SLOT_REF2="ts293">
-				<ANNOTATION_VALUE>certo (.) ma secondo te ecco diciamo (.) a livello istituzionale sia l' università italiana che l' università ospitante potrebbero aiutare::::: questa cosa qua che mi dici, cioè il fatto che poi alla fine si va all' estero, ma non si conosce la gente [che veramen]te vive in quel posto, (.) cioè potrebbe[ro intervenire in qualche modo]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>certo (.) ma secondo te ecco diciamo (.) a livello istituzionale sia l'università italiana che l'università ospitante potrebbero aiutare::::: questa cosa qua che mi dici, cioè il fatto che poi alla fine si va all'estero, ma non si conosce la gente [che veramen]te vive in quel posto, (.) cioè potrebbe[ro intervenire in qualche modo]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -583,7 +583,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a156" TIME_SLOT_REF1="ts310" TIME_SLOT_REF2="ts311">
-				<ANNOTATION_VALUE>mhmh (.) sì sì perché come al solito cioè se io abito in un posto non è che ho poi tanto interesse a conoscere chi:: (.) chi viene da fuori, per[ché] cioè immagino che l' austriaco di turno avrà: il suo giro, avr[à:] ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mhmh (.) sì sì perché come al solito cioè se io abito in un posto non è che ho poi tanto interesse a conoscere chi:: (.) chi viene da fuori, per[ché] cioè immagino che l'austriaco di turno avrà: il suo giro, avr[à:] ((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -603,7 +603,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a171" TIME_SLOT_REF1="ts340" TIME_SLOT_REF2="ts341">
-				<ANNOTATION_VALUE>mhmh ma pensando anche all' attualità avresti:: avresti paura a viaggiare?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mhmh ma pensando anche all'attualità avresti:: avresti paura a viaggiare?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -675,7 +675,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
-				<ANNOTATION_VALUE>no, proprio perché diciamo che @nomepaese bologna sono mezz' oretta di treno, quindi:: ho preferito risparmiare.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no, proprio perché diciamo che @nomepaese bologna sono mezz'oretta di treno, quindi:: ho preferito risparmiare.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -730,7 +730,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
-				<ANNOTATION_VALUE>vado, non sono un' amante della non so, di discoteche: e cose così,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vado, non sono un'amante della non so, di discoteche: e cose così,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -775,7 +775,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
-				<ANNOTATION_VALUE>però devo dire che alla fine anche quel poco che c' è:=m::h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però devo dire che alla fine anche quel poco che c'è:=m::h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -795,7 +795,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts97">
-				<ANNOTATION_VALUE>[m::h], sì è capitato qualche volta in anni passati soprattutto con i ragazzi che ho conosciuto qua a bologna ci m::h magari se eravamo molti da modena o: parma o altre zone e::h diciamo dell' emilia abbiamo fatto una macchina e siamo venute a bologna sì, per qualche cosa sì.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[m::h], sì è capitato qualche volta in anni passati soprattutto con i ragazzi che ho conosciuto qua a bologna ci m::h magari se eravamo molti da modena o: parma o altre zone e::h diciamo dell'emilia abbiamo fatto una macchina e siamo venute a bologna sì, per qualche cosa sì.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -805,7 +805,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts103">
-				<ANNOTATION_VALUE>[e:::]h sì ho vissuto un anno a salisburgo, (.) [] in austria pe:r un progetto erasmus, (.) e poi e::h un' estate, quindi sì tre o quattro mesi a:: in irlanda come ragazza alla pari</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e:::]h sì ho vissuto un anno a salisburgo, (.) [] in austria pe:r un progetto erasmus, (.) e poi e::h un'estate, quindi sì tre o quattro mesi a:: in irlanda come ragazza alla pari</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -845,7 +845,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
-				<ANNOTATION_VALUE>e::hm::: i personaggi forse non era~ erano un po' discutibili nel senso che ero all' ultimo piano con solo dei ragazzi un po' festaioli quindi::: sì magari io che sono una persona un po' più tranquilla, però:=m:h no alla fine per carità, mi son trovata bene.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::hm::: i personaggi forse non era~ erano un po' discutibili nel senso che ero all'ultimo piano con solo dei ragazzi un po' festaioli quindi::: sì magari io che sono una persona un po' più tranquilla, però:=m:h no alla fine per carità, mi son trovata bene.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -865,7 +865,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts135">
-				<ANNOTATION_VALUE>e::=m::h e c' erano questi due ragazzi con la birra che mi salutano e mi fanno hi e quindi ho capito che erano loro ad avermi lasciato questo complimento diciamo ((ride)) m::h vabbè ((ride)) primo impatto un po' traumatico poi diciamo:: sì si rompe il ghiaccio dai ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::=m::h e c'erano questi due ragazzi con la birra che mi salutano e mi fanno hi e quindi ho capito che erano loro ad avermi lasciato questo complimento diciamo ((ride)) m::h vabbè ((ride)) primo impatto un po' traumatico poi diciamo:: sì si rompe il ghiaccio dai ((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -875,7 +875,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts145">
-				<ANNOTATION_VALUE>sì sì lo rifarei perché comunque tutto sommato l' erasmus è stata una bella esperienza.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì sì lo rifarei perché comunque tutto sommato l'erasmus è stata una bella esperienza.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -885,17 +885,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts151">
-				<ANNOTATION_VALUE>con due: bim~ bimbi (poi già) grandi uno aveva undici anni l' altro otto,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>con due: bim~ bimbi (poi già) grandi uno aveva undici anni l'altro otto,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts152" TIME_SLOT_REF2="ts153">
-				<ANNOTATION_VALUE>e:: niente lei era una mamma studentessa nel senso che aveva ricominciato: a studiare: all' università chimica e dato che faceva il tirocinio usciva presto la mattina e aveva bisogno insomma di una persona che tenesse dietro i bimbi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: niente lei era una mamma studentessa nel senso che aveva ricominciato: a studiare: all'università chimica e dato che faceva il tirocinio usciva presto la mattina e aveva bisogno insomma di una persona che tenesse dietro i bimbi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts154" TIME_SLOT_REF2="ts155">
-				<ANNOTATION_VALUE>e::: niente lì è stato una sicuramente meno mh: non è stato un' esperienza così internazionale come l' erasmus perché son stata prevalentemente a casa con loro con la loro famiglia,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::: niente lì è stato una sicuramente meno mh: non è stato un'esperienza così internazionale come l'erasmus perché son stata prevalentemente a casa con loro con la loro famiglia,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -910,7 +910,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts161">
-				<ANNOTATION_VALUE>e::: quindi sì è stato più che altro una: esperienza per per la lingua per studiare la lingua e conoscere e poi viaggiare in irlandao sono andata un po' in giro per l' irlanda [xxx].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::: quindi sì è stato più che altro una: esperienza per per la lingua per studiare la lingua e conoscere e poi viaggiare in irlandao sono andata un po' in giro per l'irlanda [xxx].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -950,7 +950,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts184" TIME_SLOT_REF2="ts185">
-				<ANNOTATION_VALUE>come architettura mh e poi vabbè in generale dell' irlanda mi è piaciuta tantissimo la:: l' ospitalità del la calorosità della gente, il fatto che siano sempre molto solari e::,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come architettura mh e poi vabbè in generale dell'irlanda mi è piaciuta tantissimo la:: l'ospitalità del la calorosità della gente, il fatto che siano sempre molto solari e::,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -990,12 +990,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts206" TIME_SLOT_REF2="ts207">
-				<ANNOTATION_VALUE>e::: però sì m::h diciamo che in base a:::=m::h al luogo di lavoro: oppure non so all' università ecco cercherei qualcosa di: e::h vicino però che sia un po' un compromesso insomma tra prezzo e::h vicinanza ecco.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::: però sì m::h diciamo che in base a:::=m::h al luogo di lavoro: oppure non so all'università ecco cercherei qualcosa di: e::h vicino però che sia un po' un compromesso insomma tra prezzo e::h vicinanza ecco.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a106" TIME_SLOT_REF1="ts210" TIME_SLOT_REF2="ts211">
-				<ANNOTATION_VALUE>eh sicuramente:: mh sì dal punto di vista di=mh vita sociale culturale m::h c' è una maggiore varietà, e una maggior offerta, però:::=mh (.) sì m::h non lo so insomma ci sono pro e contro di bologna appunto magari:: è una città un po' più caotica un po' più sporca m:::h (.) e::h sì mi piace però forse non ci vivrei ecco:::.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh sicuramente:: mh sì dal punto di vista di=mh vita sociale culturale m::h c'è una maggiore varietà, e una maggior offerta, però:::=mh (.) sì m::h non lo so insomma ci sono pro e contro di bologna appunto magari:: è una città un po' più caotica un po' più sporca m:::h (.) e::h sì mi piace però forse non ci vivrei ecco:::.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1030,7 +1030,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a114" TIME_SLOT_REF1="ts226" TIME_SLOT_REF2="ts227">
-				<ANNOTATION_VALUE>sì se devo cercare dei coinquilini ecco magari più le persone anche se la stanza magari è piccola o:: è così in realtà si prepferirei magari un buo~ avere un buon rapporto con le persone con cui vivo all' interno ecco.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì se devo cercare dei coinquilini ecco magari più le persone anche se la stanza magari è piccola o:: è così in realtà si prepferirei magari un buo~ avere un buon rapporto con le persone con cui vivo all'interno ecco.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1045,7 +1045,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a119" TIME_SLOT_REF1="ts236" TIME_SLOT_REF2="ts237">
-				<ANNOTATION_VALUE>all' ultimo anno di magistrale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'ultimo anno di magistrale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1095,7 +1095,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a133" TIME_SLOT_REF1="ts264" TIME_SLOT_REF2="ts265">
-				<ANNOTATION_VALUE>gita:: a ravenna con i:=mh professori di filologia germanica, e: dovevamo andare ovviamente in treno, quindi bologna:: ravenna, e lei chiese se il treno passava da filippo re, che alla fine è insomma è la via dove c' è lingue ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>gita:: a ravenna con i:=mh professori di filologia germanica, e: dovevamo andare ovviamente in treno, quindi bologna:: ravenna, e lei chiese se il treno passava da filippo re, che alla fine è insomma è la via dove c'è lingue ((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1130,7 +1130,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a143" TIME_SLOT_REF1="ts284" TIME_SLOT_REF2="ts285">
-				<ANNOTATION_VALUE>okay (.) allora::=m::h mi è piaciuto molto conoscere: persone da tutto il mondo, però mi sono resa conto che non ho conosciuto austriaci, o comunque gente del luogo, come succede sempre, poi confrontandomi con altra gente che ha fatto l' erasmus</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>okay (.) allora::=m::h mi è piaciuto molto conoscere: persone da tutto il mondo, però mi sono resa conto che non ho conosciuto austriaci, o comunque gente del luogo, come succede sempre, poi confrontandomi con altra gente che ha fatto l'erasmus</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1170,12 +1170,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a152" TIME_SLOT_REF1="ts302" TIME_SLOT_REF2="ts303">
-				<ANNOTATION_VALUE>e::h diciamo che::=m::h l' università proprio diceva noi non ci::=mh interessiamo di queste cose, non siamo responsabili per niente, quindi qui c' è una lista di studentati, arrangiatevi voi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h diciamo che::=m::h l'università proprio diceva noi non ci::=mh interessiamo di queste cose, non siamo responsabili per niente, quindi qui c'è una lista di studentati, arrangiatevi voi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a153" TIME_SLOT_REF1="ts304" TIME_SLOT_REF2="ts305">
-				<ANNOTATION_VALUE>quindi forse sì, se magari: cioè mi rendo conto che magari è una responsabiltà grossa per loro, però magari se:: organizzassero qualcosa di: (.) eh=mh: anche da parte degli studenti, non lo so sarebbe: cosa gradita (.) qui a bologna non so come funzioni effettivamente l' erasmus, quindi non so neanche se bologna effettivamente si muova in questo senso.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi forse sì, se magari: cioè mi rendo conto che magari è una responsabiltà grossa per loro, però magari se:: organizzassero qualcosa di: (.) eh=mh: anche da parte degli studenti, non lo so sarebbe: cosa gradita (.) qui a bologna non so come funzioni effettivamente l'erasmus, quindi non so neanche se bologna effettivamente si muova in questo senso.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1205,7 +1205,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a163" TIME_SLOT_REF1="ts324" TIME_SLOT_REF2="ts325">
-				<ANNOTATION_VALUE>boh un po' ovunque &gt;in realtà mi piacerebbe andare&lt; (.) forse l' australia?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>boh un po' ovunque &gt;in realtà mi piacerebbe andare&lt; (.) forse l'australia?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1215,7 +1215,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a166" TIME_SLOT_REF1="ts330" TIME_SLOT_REF2="ts331">
-				<ANNOTATION_VALUE>se è questione solo magari di quanlche anno, di un anno o qualche mese, appunto an~ paesi anche molto lontani tipo l' australia,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se è questione solo magari di quanlche anno, di un anno o qualche mese, appunto an~ paesi anche molto lontani tipo l'australia,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1240,17 +1240,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a172" TIME_SLOT_REF1="ts342" TIME_SLOT_REF2="ts343">
-				<ANNOTATION_VALUE>eh sì, purtroppo sì, un po' sì (.) e::h soprattutto non andrei in capitali ecco (.) so che non ha non cioè non ha senso dirlo perché:: effettivamente potrebbe succedere in una capitale come in una città minore, però: e::h sì (.) i tempi che corrono sono quelli, quindi un po' paura c' è.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh sì, purtroppo sì, un po' sì (.) e::h soprattutto non andrei in capitali ecco (.) so che non ha non cioè non ha senso dirlo perché:: effettivamente potrebbe succedere in una capitale come in una città minore, però: e::h sì (.) i tempi che corrono sono quelli, quindi un po' paura c'è.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a174" TIME_SLOT_REF1="ts346" TIME_SLOT_REF2="ts347">
-				<ANNOTATION_VALUE>eh sì, credo di sì, e credo che molti quest anno o a partire anche dall' anno scorso abbiano un po' diminuito con le domande erasmus, (.) io mi son ritenuta fortunata ad aver fatto l' erasmus comunque in un anno: molto mh tranquillo ancora.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh sì, credo di sì, e credo che molti quest anno o a partire anche dall'anno scorso abbiano un po' diminuito con le domande erasmus, (.) io mi son ritenuta fortunata ad aver fatto l'erasmus comunque in un anno: molto mh tranquillo ancora.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a176" TIME_SLOT_REF1="ts350" TIME_SLOT_REF2="ts351">
-				<ANNOTATION_VALUE>forse l' anno scorso non so se avrei rifatto domanda, ecco.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>forse l'anno scorso non so se avrei rifatto domanda, ecco.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

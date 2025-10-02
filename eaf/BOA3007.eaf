@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:18:35+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:16+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
@@ -583,10 +583,27 @@
 		<TIME_SLOT TIME_SLOT_ID="ts578" TIME_VALUE="626392" />
 		<TIME_SLOT TIME_SLOT_ID="ts579" TIME_VALUE="627953" />
 		</TIME_ORDER>
+	<TIER TIER_ID="BO048" LINGUISTIC_TYPE_REF="default-lt">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a155" TIME_SLOT_REF1="ts308" TIME_SLOT_REF2="ts309">
+				<ANNOTATION_VALUE>xxx si lì nel veneto</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a283" TIME_SLOT_REF1="ts564" TIME_SLOT_REF2="ts565">
+				<ANNOTATION_VALUE>[britney novemila]</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a285" TIME_SLOT_REF1="ts568" TIME_SLOT_REF2="ts569">
+				<ANNOTATION_VALUE>ma chi cazzo sei</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
 	<TIER TIER_ID="BO021" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
-				<ANNOTATION_VALUE>d' istruzioni va</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>d'istruzioni va</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -601,7 +618,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
-				<ANNOTATION_VALUE>tu in teoria me l' hai già firmata tu me la devi firmare,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tu in teoria me l'hai già firmata tu me la devi firmare,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -631,7 +648,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts81">
-				<ANNOTATION_VALUE>oh un mio compagno di (.) [] un mio compagno di classe se n' è uscito con i reppisti,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>oh un mio compagno di (.) [] un mio compagno di classe se n'è uscito con i reppisti,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -821,7 +838,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a186" TIME_SLOT_REF1="ts370" TIME_SLOT_REF2="ts371">
-				<ANNOTATION_VALUE>[ah eh s~] è perché noi ce l' abbiamo molto coi morti</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[ah eh s~] è perché noi ce l'abbiamo molto coi morti</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -866,7 +883,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a230" TIME_SLOT_REF1="ts458" TIME_SLOT_REF2="ts459">
-				<ANNOTATION_VALUE>no io l' ho visto solo dai cinesi in mezzzo alla strada però a napoli forse [xxx]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no io l'ho visto solo dai cinesi in mezzzo alla strada però a napoli forse [xxx]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -906,7 +923,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a258" TIME_SLOT_REF1="ts514" TIME_SLOT_REF2="ts515">
-				<ANNOTATION_VALUE>cioè se tu ce l' hai evidentemente c' è stato (.) cioè l' hai comprato sul black market?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè se tu ce l'hai evidentemente c'è stato (.) cioè l'hai comprato sul black market?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -951,7 +968,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a288" TIME_SLOT_REF1="ts574" TIME_SLOT_REF2="ts575">
-				<ANNOTATION_VALUE>ma secondo te se chiedo una sedia dentro ce l' hanno?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma secondo te se chiedo una sedia dentro ce l'hanno?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>
@@ -1008,7 +1025,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
-				<ANNOTATION_VALUE>legale no molto probabilmente no sono sempre nell' ambito della legalità</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>legale no molto probabilmente no sono sempre nell'ambito della legalità</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1108,7 +1125,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts137">
-				<ANNOTATION_VALUE>e (.) ci sentiamo mentre parliamo tra un pezzo e l' altro,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e (.) ci sentiamo mentre parliamo tra un pezzo e l'altro,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1123,7 +1140,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts145">
-				<ANNOTATION_VALUE>se vuoi delle belle bestemmie dette con un bell' accento bresciano io le ho registrate,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se vuoi delle belle bestemmie dette con un bell'accento bresciano io le ho registrate,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1158,7 +1175,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts170" TIME_SLOT_REF2="ts171">
-				<ANNOTATION_VALUE>[è] l' aggettivo [machista]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[è] l'aggettivo [machista]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1198,7 +1215,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" TIME_SLOT_REF1="ts204" TIME_SLOT_REF2="ts205">
-				<ANNOTATION_VALUE>non c' ha senso</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non c'ha senso</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1343,7 +1360,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a197" TIME_SLOT_REF1="ts392" TIME_SLOT_REF2="ts393">
-				<ANNOTATION_VALUE>sono tutt' ora nascosti nelle tue mani</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sono tutt'ora nascosti nelle tue mani</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1388,7 +1405,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a218" TIME_SLOT_REF1="ts434" TIME_SLOT_REF2="ts435">
-				<ANNOTATION_VALUE>che poi ho anche ho l' anche quello che da noi si chiama laser napoletano,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che poi ho anche ho l'anche quello che da noi si chiama laser napoletano,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1508,7 +1525,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a259" TIME_SLOT_REF1="ts516" TIME_SLOT_REF2="ts517">
-				<ANNOTATION_VALUE>[l' ho comprato da: da un]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[l'ho comprato da: da un]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1543,7 +1560,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a271" TIME_SLOT_REF1="ts540" TIME_SLOT_REF2="ts541">
-				<ANNOTATION_VALUE>e che xxx infatti in inglese xxx c' è proprio what do you think about vucumprà</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e che xxx infatti in inglese xxx c'è proprio what do you think about vucumprà</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1578,7 +1595,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a281" TIME_SLOT_REF1="ts560" TIME_SLOT_REF2="ts561">
-				<ANNOTATION_VALUE>ecco l' amigo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ecco l'amigo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1594,23 +1611,6 @@
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a287" TIME_SLOT_REF1="ts572" TIME_SLOT_REF2="ts573">
 				<ANNOTATION_VALUE>è un nome bellissimo,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		</TIER>
-	<TIER TIER_ID="BO048" LINGUISTIC_TYPE_REF="default-lt">
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a155" TIME_SLOT_REF1="ts308" TIME_SLOT_REF2="ts309">
-				<ANNOTATION_VALUE>xxx si lì nel veneto</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a283" TIME_SLOT_REF1="ts564" TIME_SLOT_REF2="ts565">
-				<ANNOTATION_VALUE>[britney novemila]</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a285" TIME_SLOT_REF1="ts568" TIME_SLOT_REF2="ts569">
-				<ANNOTATION_VALUE>ma chi cazzo sei</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>
@@ -1657,7 +1657,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
-				<ANNOTATION_VALUE>eh c' è solo quella accusa di vandalismo pendente:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh c'è solo quella accusa di vandalismo pendente:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1722,7 +1722,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts141">
-				<ANNOTATION_VALUE>merda io sono calabro all' ennesimo livello,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>merda io sono calabro all'ennesimo livello,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1737,7 +1737,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts165">
-				<ANNOTATION_VALUE>[maciste] è un' altra cosa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[maciste] è un'altra cosa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1857,7 +1857,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a142" TIME_SLOT_REF1="ts282" TIME_SLOT_REF2="ts283">
-				<ANNOTATION_VALUE>com' è successo?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>com'è successo?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2012,7 +2012,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a248" TIME_SLOT_REF1="ts494" TIME_SLOT_REF2="ts495">
-				<ANNOTATION_VALUE>perché l' hai chiamato napoletano?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché l'hai chiamato napoletano?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:18:35+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:15+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
@@ -239,7 +239,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
-				<ANNOTATION_VALUE>e l' orale a l[uglio].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e l'orale a l[uglio].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -289,7 +289,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
-				<ANNOTATION_VALUE>c' è solo quello aperto giu[sto]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è solo quello aperto giu[sto]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -299,7 +299,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts77">
-				<ANNOTATION_VALUE>quindi (.) per l' orale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi (.) per l'orale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -344,12 +344,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts117">
-				<ANNOTATION_VALUE>io (.) ho l' esame con il professore rossi di didattica dell' italiano,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>io (.) ho l'esame con il professore rossi di didattica dell'italiano,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts119">
-				<ANNOTATION_VALUE>lo scritto l' undici,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lo scritto l'undici,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -379,7 +379,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts135">
-				<ANNOTATION_VALUE>e:: c~ tra le prime dieci per[sone] sono il primo giorno sono il dodici all' ora[le].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: c~ tra le prime dieci per[sone] sono il primo giorno sono il dodici all'ora[le].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -399,7 +399,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts151">
-				<ANNOTATION_VALUE>[io spero di cioè penso di] farcela in un modo o nell' altro.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[io spero di cioè penso di] farcela in un modo o nell'altro.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -449,7 +449,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts186" TIME_SLOT_REF2="ts187">
-				<ANNOTATION_VALUE>[xxx] non penso ci siano problemi: (.) (allora) le scrivo per ricordar[le del]l' orale poc[o:]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[xxx] non penso ci siano problemi: (.) (allora) le scrivo per ricordar[le del]l'orale poc[o:]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -501,7 +501,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
-				<ANNOTATION_VALUE>quindi (.) lei si iscrive a:l[l' appello di giugno],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi (.) lei si iscrive a:l[l'appello di giugno],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -531,12 +531,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
-				<ANNOTATION_VALUE>[e potrebbe an]che non iscriversi a quello di luglio perché io posso inserire l' esame (averla) spostata a:ll' appello successivo °non risulta da nessuna parte° però se lei vuole si può iscrivere ad entrambi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e potrebbe an]che non iscriversi a quello di luglio perché io posso inserire l'esame (averla) spostata a:ll'appello successivo °non risulta da nessuna parte° però se lei vuole si può iscrivere ad entrambi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
-				<ANNOTATION_VALUE>[sempre all' or~ sempre a]ll: sempre allo scritto perché i:l</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sempre all'or~ sempre a]ll: sempre allo scritto perché i:l</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -596,7 +596,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts110" TIME_SLOT_REF2="ts111">
-				<ANNOTATION_VALUE>e poi l' orale: e la=mh che non sarà il dieci (.) lu[glio],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e poi l'orale: e la=mh che non sarà il dieci (.) lu[glio],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -656,7 +656,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts166" TIME_SLOT_REF2="ts167">
-				<ANNOTATION_VALUE>[che sarann]o online è d' accordo?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[che sarann]o online è d'accordo?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

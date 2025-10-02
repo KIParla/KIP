@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:18:35+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:17+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
@@ -2079,7 +2079,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
-				<ANNOTATION_VALUE>queste due lezioni saranno recuperate in coda al corso, nell' ultima (.) settimana di dicembre (.) prima (.) della pausa natalizia.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>queste due lezioni saranno recuperate in coda al corso, nell'ultima (.) settimana di dicembre (.) prima (.) della pausa natalizia.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2119,7 +2119,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
-				<ANNOTATION_VALUE>tra l' altro, se tutto va bene, tra e::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tra l'altro, se tutto va bene, tra e::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2139,7 +2139,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
-				<ANNOTATION_VALUE>e:: affronteremo la questione della digitalizzazione dei media. e quindi l' impatto che il digitale ha avuto su vari (.) media (.) tradizionali.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: affronteremo la questione della digitalizzazione dei media. e quindi l'impatto che il digitale ha avuto su vari (.) media (.) tradizionali.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2149,17 +2149,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts41">
-				<ANNOTATION_VALUE>e: di data media ab. ci parlerá dell' editoria quatidiana: (.) quotidiana e periodica.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: di data media ab. ci parlerá dell'editoria quatidiana: (.) quotidiana e periodica.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
-				<ANNOTATION_VALUE>e: tra i vari: (.) tra i vari avvisi, vi ricordo l' hashtag su twitterti, e ti emme enne,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: tra i vari: (.) tra i vari avvisi, vi ricordo l'hashtag su twitterti, e ti emme enne,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
-				<ANNOTATION_VALUE>e:: un numero sempre più consistente di voi sta partecipando, sta prendendo coraggio. adesso c' è tutta una discussione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: un numero sempre più consistente di voi sta partecipando, sta prendendo coraggio. adesso c'è tutta una discussione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2179,7 +2179,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
-				<ANNOTATION_VALUE>non è:: non è un argomento (.) eh (.) che toccheremo direttamente all' interno: all' interno di queste lezioni:, anche per questioni di tempi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non è:: non è un argomento (.) eh (.) che toccheremo direttamente all'interno: all'interno di queste lezioni:, anche per questioni di tempi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2244,7 +2244,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts79">
-				<ANNOTATION_VALUE>e:h abbiamo inforcato (.) le lenti appunto, dell' estetica, del linguaggio, della cultura,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h abbiamo inforcato (.) le lenti appunto, dell'estetica, del linguaggio, della cultura,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2264,12 +2264,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
-				<ANNOTATION_VALUE>e: vi dicevo che a mio parere, poi siete liberi di pensarla diversamente, e: non esiste tutt' oggi, una forma (.) &lt;propriamente&gt; di linguaggio digitale in senso in chiave originale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: vi dicevo che a mio parere, poi siete liberi di pensarla diversamente, e: non esiste tutt'oggi, una forma (.) &lt;propriamente&gt; di linguaggio digitale in senso in chiave originale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts89">
-				<ANNOTATION_VALUE>e: abbiamo provato a fare una mappaturaestre,mamente superficiale (.) frammentaria</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: abbiamo provato a fare una mappatura estremamente superficiale (.) frammentaria</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2284,7 +2284,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
-				<ANNOTATION_VALUE>e quindi di come le pagine online, ma anche poi (.) e:h tutti i vari modi che abbiamo di accedere all' informazione siano (.) disegnati, siano progettati.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi di come le pagine online, ma anche poi (.) e:h tutti i vari modi che abbiamo di accedere all'informazione siano (.) disegnati, siano progettati.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2294,12 +2294,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
-				<ANNOTATION_VALUE>abbiamo parlato di interazione e di interattività, e del fatto che questa interazione dev' essere il più possibile naturale. noi non dobbiamo (.) accorgerci</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>abbiamo parlato di interazione e di interattività, e del fatto che questa interazione dev'essere il più possibile naturale. noi non dobbiamo (.) accorgerci</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
-				<ANNOTATION_VALUE>dell' interfaccia, dobbiamo (.) perlomeno (.) trovarla (.) e::h &lt;immediatamente&gt; utilizzabile. se non capiamo dove dobbiamo cliccare (.) c' è un problema di progettazione, non c' è un problema nostro.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dell'interfaccia, dobbiamo (.) perlomeno (.) trovarla (.) e::h &lt;immediatamente&gt; utilizzabile. se non capiamo dove dobbiamo cliccare (.) c'è un problema di progettazione, non c'è un problema nostro.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2329,12 +2329,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts113">
-				<ANNOTATION_VALUE>abbiamo parlato di una gestione, sia dell' informazione da punto di vista: grafico,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>abbiamo parlato di una gestione, sia dell'informazione da punto di vista: grafico,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts115">
-				<ANNOTATION_VALUE>e:: sia da un punto di vista (.) anche (.) progettuale e: di (.) cosidetta architettura dell' informazione. informational architecture.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: sia da un punto di vista (.) anche (.) progettuale e: di (.) cosidetta architettura dell'informazione. informational architecture.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2369,17 +2369,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
-				<ANNOTATION_VALUE>nell' utlizzo di frasi nominali,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell'utlizzo di frasi nominali,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
-				<ANNOTATION_VALUE>nell' elenco puntato,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell'elenco puntato,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts133">
-				<ANNOTATION_VALUE>nell' organizzazione (.) dell' informazione in blocchi di testo e: che si possono (.) in qualche modo acciuffare afferrare con uno sguardo solo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell'organizzazione (.) dell'informazione in blocchi di testo e: che si possono (.) in qualche modo acciuffare afferrare con uno sguardo solo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2409,12 +2409,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts145">
-				<ANNOTATION_VALUE>non sono propriamente (.) il modo migliore di e:: rendervi partecipi dell' informazione (.) lì trasmessa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non sono propriamente (.) il modo migliore di e:: rendervi partecipi dell'informazione (.) lì trasmessa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts146" TIME_SLOT_REF2="ts147">
-				<ANNOTATION_VALUE>e:: abbiamo ragionato anche sul: su quanto poi l' elemento estetico influisca (.) anche rispetto a una circolazione. di questi contenuti.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: abbiamo ragionato anche sul: su quanto poi l'elemento estetico influisca (.) anche rispetto a una circolazione. di questi contenuti.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2424,7 +2424,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts151">
-				<ANNOTATION_VALUE>poi. altro pezzo (.) della scorsa lezione:, e:: ci siamo soffermati a lungo, su una (.) delle possibili (.) chiavi interpretative rispetto all' estetica dei media digitali. oggi ne vedremo un altro paio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi. altro pezzo (.) della scorsa lezione:, e:: ci siamo soffermati a lungo, su una (.) delle possibili (.) chiavi interpretative rispetto all'estetica dei media digitali. oggi ne vedremo un altro paio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2439,7 +2439,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts157">
-				<ANNOTATION_VALUE>che e: scrivono questo libro dal titolo renagation, che in realtà prendendo un singolo corollario, un' affermazione che mc luan faceva quasi en passant,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che e: scrivono questo libro dal titolo renagation, che in realtà prendendo un singolo corollario, un'affermazione che mc luan faceva quasi en passant,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2484,12 +2484,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts174" TIME_SLOT_REF2="ts175">
-				<ANNOTATION_VALUE>eh l' estetica dei media digitali, secondo bolter e brusin, è su una liinea di diretta &lt;continuità&gt;.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh l'estetica dei media digitali, secondo bolter e brusin, è su una liinea di diretta &lt;continuità&gt;.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts176" TIME_SLOT_REF2="ts177">
-				<ANNOTATION_VALUE>con tutto una &lt;storia (.) dell' immagine&gt;, anche una storia dell' arte, a cui poi, bolter e brusin fanno riferimento (.) e: occidentale (.) che segue alcune drettrici molto specifiche.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>con tutto una &lt;storia (.) dell'immagine&gt;, anche una storia dell'arte, a cui poi, bolter e brusin fanno riferimento (.) e: occidentale (.) che segue alcune drettrici molto specifiche.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2499,17 +2499,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a91" TIME_SLOT_REF1="ts180" TIME_SLOT_REF2="ts181">
-				<ANNOTATION_VALUE>da un lato un' idea di immediatezza, dall' altro un' idea di ipermediazione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>da un lato un'idea di immediatezza, dall'altro un'idea di ipermediazione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a92" TIME_SLOT_REF1="ts182" TIME_SLOT_REF2="ts183">
-				<ANNOTATION_VALUE>sono due logiche che sono apparentemente opposte, contraddittorie ma che in realtá (.) presentano più (.) di un contatto (.) più di un elemento. molto spesso si intrecciano e dipendono l' una dall' altra.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sono due logiche che sono apparentemente opposte, contraddittorie ma che in realtá (.) presentano più (.) di un contatto (.) più di un elemento. molto spesso si intrecciano e dipendono l'una dall'altra.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts184" TIME_SLOT_REF2="ts185">
-				<ANNOTATION_VALUE>l' immediatezza fa scomparire il medium.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'immediatezza fa scomparire il medium.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2529,7 +2529,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts192" TIME_SLOT_REF2="ts193">
-				<ANNOTATION_VALUE>così come avviene nell' arte iperrealista. così come avviene (.) e:: &gt;nella storia dell' arte&lt; che si concentra sui dettagli,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>così come avviene nell'arte iperrealista. così come avviene (.) e:: &gt;nella storia dell'arte&lt; che si concentra sui dettagli,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2539,12 +2539,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a99" TIME_SLOT_REF1="ts196" TIME_SLOT_REF2="ts197">
-				<ANNOTATION_VALUE>allo stesso modo nei media digitali c' è una corrente molto forte,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allo stesso modo nei media digitali c'è una corrente molto forte,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts198" TIME_SLOT_REF2="ts199">
-				<ANNOTATION_VALUE>che porta a (.) un' estetica</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che porta a (.) un'estetica</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2554,12 +2554,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a102" TIME_SLOT_REF1="ts202" TIME_SLOT_REF2="ts203">
-				<ANNOTATION_VALUE>l' immagine live di una webcam, o di facebook live,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'immagine live di una webcam, o di facebook live,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" TIME_SLOT_REF1="ts204" TIME_SLOT_REF2="ts205">
-				<ANNOTATION_VALUE>e: (.) o la ripresa del telefonino, e:: la e:: l' immersione all' interno di mondi virtuali che sappiamo essere finti ma che si danno a noi come (.) spazi che noi concretamente navighiamo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: (.) o la ripresa del telefonino, e:: la e:: l'immersione all'interno di mondi virtuali che sappiamo essere finti ma che si danno a noi come (.) spazi che noi concretamente navighiamo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2579,12 +2579,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts212" TIME_SLOT_REF2="ts213">
-				<ANNOTATION_VALUE>e: oppure la computer graphic, e quindi:: la (.) il tentativo di creare un' immagine come se fosse vera, però sapendo fin dall' inizio che è interamente (.) artificiale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: oppure la computer graphic, e quindi:: la (.) il tentativo di creare un'immagine come se fosse vera, però sapendo fin dall'inizio che è interamente (.) artificiale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a108" TIME_SLOT_REF1="ts214" TIME_SLOT_REF2="ts215">
-				<ANNOTATION_VALUE>e:: c' è un' idea di presenza. l' interfaccia scompare. l' interfaccia diventa trasparente. l' interfaccia sembra (.) realizzata in automatico.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: c'è un'idea di presenza. l'interfaccia scompare. l'interfaccia diventa trasparente. l'interfaccia sembra (.) realizzata in automatico.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2609,7 +2609,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a113" TIME_SLOT_REF1="ts224" TIME_SLOT_REF2="ts225">
-				<ANNOTATION_VALUE>l' altra logica (.) quella dell' iper mediazione, ha una logica completamente opposta.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'altra logica (.) quella dell'iper mediazione, ha una logica completamente opposta.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2619,7 +2619,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a115" TIME_SLOT_REF1="ts228" TIME_SLOT_REF2="ts229">
-				<ANNOTATION_VALUE>c' è una molteplicità contemporanea di forme mediali.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è una molteplicità contemporanea di forme mediali.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2649,7 +2649,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a121" TIME_SLOT_REF1="ts240" TIME_SLOT_REF2="ts241">
-				<ANNOTATION_VALUE>e: artistici. le installazioni (.) e: multimediali che magari toccano contemporaneamente diversi piani sensoriali. pensate a molta parte dell' arte contemporanea,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: artistici. le installazioni (.) e: multimediali che magari toccano contemporaneamente diversi piani sensoriali. pensate a molta parte dell'arte contemporanea,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2659,7 +2659,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a123" TIME_SLOT_REF1="ts244" TIME_SLOT_REF2="ts245">
-				<ANNOTATION_VALUE>l' estetica (.) dei media digitali, passa anche attraverso uno schermo che si frammenta che è molteplice. uno schermo che ha tante finestre.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'estetica (.) dei media digitali, passa anche attraverso uno schermo che si frammenta che è molteplice. uno schermo che ha tante finestre.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2669,7 +2669,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a125" TIME_SLOT_REF1="ts248" TIME_SLOT_REF2="ts249">
-				<ANNOTATION_VALUE>effetto classico (.) di quando vi parte sia la promozione di sky, sia il video dell' ultim' ora di repubblica, e voi magari volete leggere (.) un altro articolo o sfogliare una gallery sull' ultima fidanzata del principe harry.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>effetto classico (.) di quando vi parte sia la promozione di sky, sia il video dell'ultim'ora di repubblica, e voi magari volete leggere (.) un altro articolo o sfogliare una gallery sull'ultima fidanzata del principe harry.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2684,7 +2684,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a128" TIME_SLOT_REF1="ts254" TIME_SLOT_REF2="ts255">
-				<ANNOTATION_VALUE>in questo caso (.) e: come dire l' inter~ l' interattività viene sbattuta in faccia (.) al all' utente, all' utilizzatore viene costantemente ribadita e sottolineata.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in questo caso (.) e: come dire l'inter~ l'interattività viene sbattuta in faccia (.) al all'utente, all'utilizzatore viene costantemente ribadita e sottolineata.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2699,7 +2699,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a131" TIME_SLOT_REF1="ts260" TIME_SLOT_REF2="ts261">
-				<ANNOTATION_VALUE>e:: magari nel frattempo avete di fianco:: il video del gattino: e: del gattino buffo:, o=e:h seguite l' instagram di chiara ferragni.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: magari nel frattempo avete di fianco:: il video del gattino: e: del gattino buffo:, o=e:h seguite l'instagram di chiara ferragni.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2714,22 +2714,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a134" TIME_SLOT_REF1="ts266" TIME_SLOT_REF2="ts267">
-				<ANNOTATION_VALUE>sicuramente un altro elemento, come vediamo da questi esempi dell' estetica.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sicuramente un altro elemento, come vediamo da questi esempi dell'estetica.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a135" TIME_SLOT_REF1="ts268" TIME_SLOT_REF2="ts269">
-				<ANNOTATION_VALUE>e: dell' estetica digitale dell' estetica della rete.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: dell'estetica digitale dell'estetica della rete.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a136" TIME_SLOT_REF1="ts270" TIME_SLOT_REF2="ts271">
-				<ANNOTATION_VALUE>e: vi dicevo (.) due logiche, dell' immediatezza e dell' ipermediazione, che però si sovrappongono, che dipendono l' una dall' altra,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: vi dicevo (.) due logiche, dell'immediatezza e dell'ipermediazione, che però si sovrappongono, che dipendono l'una dall'altra,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a137" TIME_SLOT_REF1="ts272" TIME_SLOT_REF2="ts273">
-				<ANNOTATION_VALUE>e: che e:: a volte sono presenti contemporaneamente. lo schermo dello news che mi presenta l' immagine sgranata fatta dal telefonino. e:: del:: criminale che da una testata in faccia al giornalista,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: che e:: a volte sono presenti contemporaneamente. lo schermo dello news che mi presenta l'immagine sgranata fatta dal telefonino. e:: del:: criminale che da una testata in faccia al giornalista,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2739,12 +2739,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a139" TIME_SLOT_REF1="ts276" TIME_SLOT_REF2="ts277">
-				<ANNOTATION_VALUE>e: e varie altre (.) altre informazioni, quindi sia l' immediatezza sia l' ipermediazione (.) contemporanee e: oppure,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: e varie altre (.) altre informazioni, quindi sia l'immediatezza sia l'ipermediazione (.) contemporanee e: oppure,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a140" TIME_SLOT_REF1="ts278" TIME_SLOT_REF2="ts279">
-				<ANNOTATION_VALUE>una (.) manipolazione (.) dell' ipermediazione, per dare un esempio (.) estremo di immediatezza.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>una (.) manipolazione (.) dell'ipermediazione, per dare un esempio (.) estremo di immediatezza.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2754,7 +2754,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a142" TIME_SLOT_REF1="ts282" TIME_SLOT_REF2="ts283">
-				<ANNOTATION_VALUE>elaborazione, di restituire però l' idea (.) che (.) siamo li.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>elaborazione, di restituire però l'idea (.) che (.) siamo li.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2764,7 +2764,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a144" TIME_SLOT_REF1="ts286" TIME_SLOT_REF2="ts287">
-				<ANNOTATION_VALUE>magari ci accorgiamo benissimo che si tratta di un qualcosa di completamente ipermediato, ma nel frattempo ci dà quell' effetto di immediatezza che cerchiamo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>magari ci accorgiamo benissimo che si tratta di un qualcosa di completamente ipermediato, ma nel frattempo ci dà quell'effetto di immediatezza che cerchiamo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2784,7 +2784,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a148" TIME_SLOT_REF1="ts294" TIME_SLOT_REF2="ts295">
-				<ANNOTATION_VALUE>e:: a~ all' interno del quale si andavano ad aprire varie finestre, vari applicativi e così via,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: a~ all'interno del quale si andavano ad aprire varie finestre, vari applicativi e così via,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2794,7 +2794,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a150" TIME_SLOT_REF1="ts298" TIME_SLOT_REF2="ts299">
-				<ANNOTATION_VALUE>e:: ma e:: e la narrazione dell' intero episodio passava sempre ed esclusivamente da questa ipermediazione costante.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: ma e:: e la narrazione dell'intero episodio passava sempre ed esclusivamente da questa ipermediazione costante.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2809,7 +2809,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a153" TIME_SLOT_REF1="ts304" TIME_SLOT_REF2="ts305">
-				<ANNOTATION_VALUE>anche questo (.) e: inserendosi all' interno di una riflessione: filosofica, estetica, e: molto (.) molto ampia,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>anche questo (.) e: inserendosi all'interno di una riflessione: filosofica, estetica, e: molto (.) molto ampia,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2819,12 +2819,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a155" TIME_SLOT_REF1="ts308" TIME_SLOT_REF2="ts309">
-				<ANNOTATION_VALUE>ve lo spiegano all' interno (.) del: del saggio che tutti quanti: del capitolo, che tutti quanti dovrete (.) dovrete leggere, spero (.) in parte abbiate già letto, per l' e~ per l' esame.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ve lo spiegano all'interno (.) del: del saggio che tutti quanti: del capitolo, che tutti quanti dovrete (.) dovrete leggere, spero (.) in parte abbiate già letto, per l'e~ per l'esame.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a156" TIME_SLOT_REF1="ts310" TIME_SLOT_REF2="ts311">
-				<ANNOTATION_VALUE>e:: c' è una scala</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: c'è una scala</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2834,17 +2834,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a158" TIME_SLOT_REF1="ts314" TIME_SLOT_REF2="ts315">
-				<ANNOTATION_VALUE>all' interno del (.) dello scenario digitale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'interno del (.) dello scenario digitale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a159" TIME_SLOT_REF1="ts316" TIME_SLOT_REF2="ts317">
-				<ANNOTATION_VALUE>e: ci sono (.) le modalità più (.) e: apparentemente neutre e trasparenti, l' idea di una rappresentazione identica (.) a quello che succedeva, col medium precedente, solo spostata negli spazi su internet,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: ci sono (.) le modalità più (.) e: apparentemente neutre e trasparenti, l'idea di una rappresentazione identica (.) a quello che succedeva, col medium precedente, solo spostata negli spazi su internet,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a160" TIME_SLOT_REF1="ts318" TIME_SLOT_REF2="ts319">
-				<ANNOTATION_VALUE>ci sono delle forme arricchite, e migliorate, che magari aggiungono magari delle funzioni e delle modalità di interazione che prima non c' erano</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ci sono delle forme arricchite, e migliorate, che magari aggiungono magari delle funzioni e delle modalità di interazione che prima non c'erano</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2859,7 +2859,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a163" TIME_SLOT_REF1="ts324" TIME_SLOT_REF2="ts325">
-				<ANNOTATION_VALUE>nell' assorbimento completo e quindi di nuovo in una trasparenza all' interno degli spazi digitali, per cui ho perso ogni connessione col medium precedente.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell'assorbimento completo e quindi di nuovo in una trasparenza all'interno degli spazi digitali, per cui ho perso ogni connessione col medium precedente.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2884,7 +2884,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a168" TIME_SLOT_REF1="ts334" TIME_SLOT_REF2="ts335">
-				<ANNOTATION_VALUE>e:: la settimana scorsa vi ho portato la prima pagina della (.) del nuovo progetto grafico di repubblica, che è una forma (.) e: così come l' interno, in realtà, è una forma di rimediazione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: la settimana scorsa vi ho portato la prima pagina della (.) del nuovo progetto grafico di repubblica, che è una forma (.) e: così come l'interno, in realtà, è una forma di rimediazione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2909,7 +2909,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a173" TIME_SLOT_REF1="ts344" TIME_SLOT_REF2="ts345">
-				<ANNOTATION_VALUE>e:: (.) l' estetica digitale è soprattutto un estetica di continuità.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: (.) l'estetica digitale è soprattutto un estetica di continuità.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2924,7 +2924,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a176" TIME_SLOT_REF1="ts350" TIME_SLOT_REF2="ts351">
-				<ANNOTATION_VALUE>all' interno degli spazi digitali.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'interno degli spazi digitali.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2934,7 +2934,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a178" TIME_SLOT_REF1="ts354" TIME_SLOT_REF2="ts355">
-				<ANNOTATION_VALUE>quando invece andiamo (.) e andate (.) e andrete (.) a leggere, se non l' avete già fatto, e::: le poche pagine che ho incluso nella:: nell' antologia,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quando invece andiamo (.) e andate (.) e andrete (.) a leggere, se non l'avete già fatto, e::: le poche pagine che ho incluso nella:: nell'antologia,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2999,17 +2999,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a191" TIME_SLOT_REF1="ts380" TIME_SLOT_REF2="ts381">
-				<ANNOTATION_VALUE>si colloca già, all' interno di una riflessione mediale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si colloca già, all'interno di una riflessione mediale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a192" TIME_SLOT_REF1="ts382" TIME_SLOT_REF2="ts383">
-				<ANNOTATION_VALUE>è &gt;considerato abitualmente uno dei fondatori delle così dette&lt; digital humanities&gt;. e quindi dell' applicazione (.) eh dei media digitali (.) allo studio, delle:: delle humanities,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è &gt;considerato abitualmente uno dei fondatori delle così dette&lt; digital humanities&gt;. e quindi dell'applicazione (.) eh dei media digitali (.) allo studio, delle:: delle humanities,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a193" TIME_SLOT_REF1="ts384" TIME_SLOT_REF2="ts385">
-				<ANNOTATION_VALUE>e, e:: propone, un:: una chiave, un::: una chiave di lettura dell' estetica digitale, invece, in termini di (.) innovazione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e, e:: propone, un:: una chiave, un::: una chiave di lettura dell'estetica digitale, invece, in termini di (.) innovazione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3034,12 +3034,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a198" TIME_SLOT_REF1="ts394" TIME_SLOT_REF2="ts395">
-				<ANNOTATION_VALUE>e:: è se~ senz' altro utile a darci un altro (.) punto di vista, un' altra chiave di lettura,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: è se~ senz'altro utile a darci un altro (.) punto di vista, un'altra chiave di lettura,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a199" TIME_SLOT_REF1="ts396" TIME_SLOT_REF2="ts397">
-				<ANNOTATION_VALUE>ris~ rispetto a questo spazio dell' estetica digitale dove, ve l' ho detto giál' altra volta, io non ho risposte da darvi, ho solo (.) stimoli da offrirvi a partire dai quali (.) portare avanti una vostra (.) e: elaborazione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ris~ rispetto a questo spazio dell'estetica digitale dove, ve l'ho detto giál'altra volta, io non ho risposte da darvi, ho solo (.) stimoli da offrirvi a partire dai quali (.) portare avanti una vostra (.) e: elaborazione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3049,7 +3049,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a201" TIME_SLOT_REF1="ts400" TIME_SLOT_REF2="ts401">
-				<ANNOTATION_VALUE>che si dimentichi per strada una serie di elementi di continuità che invece ci sono e che vediamo costantemente (.) sott' occhio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che si dimentichi per strada una serie di elementi di continuità che invece ci sono e che vediamo costantemente (.) sott'occhio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3064,12 +3064,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a204" TIME_SLOT_REF1="ts406" TIME_SLOT_REF2="ts407">
-				<ANNOTATION_VALUE>e:: sono quasi due:: due poli. di un ennesimo continuum dove troviamo da un lato (.) un' idea di continuità mediale molto forte, e dall' altro lo vedremo lo vediamo (.) adesso, e:: un' idea di rivoluzione digitale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: sono quasi due:: due poli. di un ennesimo continuum dove troviamo da un lato (.) un'idea di continuità mediale molto forte, e dall'altro lo vedremo lo vediamo (.) adesso, e:: un'idea di rivoluzione digitale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a205" TIME_SLOT_REF1="ts408" TIME_SLOT_REF2="ts409">
-				<ANNOTATION_VALUE>io diffido sempre abbastanza da chi parla l' avrete già capito (.) dalle: dalle mie varie lezioni, di rivoluzione, perché, tutti parlano di rivoluzione e poi ci si accorge che non era così tanto (.) rivoluzionaria quella rivoluzione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>io diffido sempre abbastanza da chi parla l'avrete già capito (.) dalle: dalle mie varie lezioni, di rivoluzione, perché, tutti parlano di rivoluzione e poi ci si accorge che non era così tanto (.) rivoluzionaria quella rivoluzione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3089,7 +3089,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a209" TIME_SLOT_REF1="ts416" TIME_SLOT_REF2="ts417">
-				<ANNOTATION_VALUE>ciò non toglie che sia (.) un tassello importante nel pensiero (.) sull' estetica digitale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ciò non toglie che sia (.) un tassello importante nel pensiero (.) sull'estetica digitale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3149,7 +3149,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a221" TIME_SLOT_REF1="ts440" TIME_SLOT_REF2="ts441">
-				<ANNOTATION_VALUE>c' è un cambio di paradigma strutturale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è un cambio di paradigma strutturale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3169,12 +3169,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a225" TIME_SLOT_REF1="ts448" TIME_SLOT_REF2="ts449">
-				<ANNOTATION_VALUE>con i media digitali, (.) cambia in maniera radicale, l' organizzazione (.) delle (.) informazioni.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>con i media digitali, (.) cambia in maniera radicale, l'organizzazione (.) delle (.) informazioni.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a226" TIME_SLOT_REF1="ts450" TIME_SLOT_REF2="ts451">
-				<ANNOTATION_VALUE>la struttura l' avremmo l' abbiamo chiamata, pochi minuti fa o la setimana scorsa, l' architettura dell' informazione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la struttura l'avremmo l'abbiamo chiamata, pochi minuti fa o la setimana scorsa, l'architettura dell'informazione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3194,7 +3194,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a230" TIME_SLOT_REF1="ts458" TIME_SLOT_REF2="ts459">
-				<ANNOTATION_VALUE>il cambio (.) &lt;dell' organizzazione alla base&gt;, inevitabilmente influenza anche la rappresentazione di questa informazione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il cambio (.) &lt;dell'organizzazione alla base&gt;, inevitabilmente influenza anche la rappresentazione di questa informazione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3204,7 +3204,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a232" TIME_SLOT_REF1="ts462" TIME_SLOT_REF2="ts463">
-				<ANNOTATION_VALUE>manovic (.) propone come modello (.) dell' estetica digitale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>manovic (.) propone come modello (.) dell'estetica digitale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3214,7 +3214,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a234" TIME_SLOT_REF1="ts466" TIME_SLOT_REF2="ts467">
-				<ANNOTATION_VALUE>l' oganizzazione dell' informazione negli spazi digitali, non avviene (.) nel modo classico e lineare,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'oganizzazione dell'informazione negli spazi digitali, non avviene (.) nel modo classico e lineare,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3234,12 +3234,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a238" TIME_SLOT_REF1="ts474" TIME_SLOT_REF2="ts475">
-				<ANNOTATION_VALUE>da un lato c' è (.) la narrazione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>da un lato c'è (.) la narrazione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a239" TIME_SLOT_REF1="ts476" TIME_SLOT_REF2="ts477">
-				<ANNOTATION_VALUE>dall' altro c' è (.) il database.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dall'altro c'è (.) il database.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3259,7 +3259,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a243" TIME_SLOT_REF1="ts484" TIME_SLOT_REF2="ts485">
-				<ANNOTATION_VALUE>succede prima una cosa, poi un' altra poi un' altra ancora.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>succede prima una cosa, poi un'altra poi un'altra ancora.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3294,7 +3294,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a250" TIME_SLOT_REF1="ts498" TIME_SLOT_REF2="ts499">
-				<ANNOTATION_VALUE>in tutti questi casi, non c' è, una chiara progressione delle sequenze.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in tutti questi casi, non c'è, una chiara progressione delle sequenze.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3309,17 +3309,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a253" TIME_SLOT_REF1="ts504" TIME_SLOT_REF2="ts505">
-				<ANNOTATION_VALUE>che chiaramente, una volta che faccio qualcosa, mi portano da qualche parte mentre potrebbero portarmi anche da qualche altra parte se avessi fatto qualcos' altro.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che chiaramente, una volta che faccio qualcosa, mi portano da qualche parte mentre potrebbero portarmi anche da qualche altra parte se avessi fatto qualcos'altro.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a254" TIME_SLOT_REF1="ts506" TIME_SLOT_REF2="ts507">
-				<ANNOTATION_VALUE>l' organizzazione dei dati all' interno di una base di dati, all' interno di un database,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'organizzazione dei dati all'interno di una base di dati, all'interno di un database,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a255" TIME_SLOT_REF1="ts508" TIME_SLOT_REF2="ts509">
-				<ANNOTATION_VALUE>è un' organizzazione, che:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è un'organizzazione, che:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3344,12 +3344,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a260" TIME_SLOT_REF1="ts518" TIME_SLOT_REF2="ts519">
-				<ANNOTATION_VALUE>l' abbiamo visto parlando di storia. dei media digitali.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'abbiamo visto parlando di storia. dei media digitali.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a261" TIME_SLOT_REF1="ts520" TIME_SLOT_REF2="ts521">
-				<ANNOTATION_VALUE>come (.) in un primo momento (.) il tentativo (.) è stato proprio quello. di andare a organizzare l' informazione presente su internet, in forme di classificazione puntuale di ciascun sito.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come (.) in un primo momento (.) il tentativo (.) è stato proprio quello. di andare a organizzare l'informazione presente su internet, in forme di classificazione puntuale di ciascun sito.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3364,12 +3364,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a264" TIME_SLOT_REF1="ts526" TIME_SLOT_REF2="ts527">
-				<ANNOTATION_VALUE>a una progressione per cui c' è prima una casella e poi c' è un' altra. perché io posso tranquillamente accedere prima a una casella poi all' altra poi all' altra ancora, in ordini (.) che hanno x combinazioni.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a una progressione per cui c'è prima una casella e poi c'è un'altra. perché io posso tranquillamente accedere prima a una casella poi all'altra poi all'altra ancora, in ordini (.) che hanno x combinazioni.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a265" TIME_SLOT_REF1="ts528" TIME_SLOT_REF2="ts529">
-				<ANNOTATION_VALUE>nel database non c' è (.) un inizio preciso, non c' è (.) una fine precisa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nel database non c'è (.) un inizio preciso, non c'è (.) una fine precisa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3379,12 +3379,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a267" TIME_SLOT_REF1="ts532" TIME_SLOT_REF2="ts533">
-				<ANNOTATION_VALUE>comincio la mia avventura. però poi, dove quest' avventura arriva, è diversa, è diverso per ciascuno di noi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>comincio la mia avventura. però poi, dove quest'avventura arriva, è diversa, è diverso per ciascuno di noi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a268" TIME_SLOT_REF1="ts534" TIME_SLOT_REF2="ts535">
-				<ANNOTATION_VALUE>c' è magari una strada è giusta. o ci son delle strade (.) errate.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è magari una strada è giusta. o ci son delle strade (.) errate.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3394,7 +3394,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a270" TIME_SLOT_REF1="ts538" TIME_SLOT_REF2="ts539">
-				<ANNOTATION_VALUE>nel caso di un database, di un' organizzazione di dati fatta di celle di tante celle con tanti dati dentro,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nel caso di un database, di un'organizzazione di dati fatta di celle di tante celle con tanti dati dentro,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3419,12 +3419,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a275" TIME_SLOT_REF1="ts548" TIME_SLOT_REF2="ts549">
-				<ANNOTATION_VALUE>lo stesso manovic ammette che molto spesso (.) c' è una narrativizzazione del database.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lo stesso manovic ammette che molto spesso (.) c'è una narrativizzazione del database.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a276" TIME_SLOT_REF1="ts550" TIME_SLOT_REF2="ts551">
-				<ANNOTATION_VALUE>come nell' esempio del videogioco che vi ho fatto. si parte da un' organizzazione che non ha un inizio e una fine, però poi questa (.) informazione presenta alcuni persorsi prevalenti.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come nell'esempio del videogioco che vi ho fatto. si parte da un'organizzazione che non ha un inizio e una fine, però poi questa (.) informazione presenta alcuni persorsi prevalenti.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3434,7 +3434,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a278" TIME_SLOT_REF1="ts554" TIME_SLOT_REF2="ts555">
-				<ANNOTATION_VALUE>ma secondo manovic quest' aspetto è meno importante,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma secondo manovic quest'aspetto è meno importante,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3444,7 +3444,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a280" TIME_SLOT_REF1="ts558" TIME_SLOT_REF2="ts559">
-				<ANNOTATION_VALUE>c' è (.) sostanzialmente (.) alla base dei media digitali, come loro forma estetica prevalente o auspicabile,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è (.) sostanzialmente (.) alla base dei media digitali, come loro forma estetica prevalente o auspicabile,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3484,12 +3484,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a288" TIME_SLOT_REF1="ts574" TIME_SLOT_REF2="ts575">
-				<ANNOTATION_VALUE>l' impiego del database all' interno dei media digitali,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'impiego del database all'interno dei media digitali,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a289" TIME_SLOT_REF1="ts576" TIME_SLOT_REF2="ts577">
-				<ANNOTATION_VALUE>attraverso l' adozione di una logica del database, qualcuno (.) e lo stesso manovic più avanti parlerà di logica del software.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>attraverso l'adozione di una logica del database, qualcuno (.) e lo stesso manovic più avanti parlerà di logica del software.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3499,7 +3499,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a291" TIME_SLOT_REF1="ts580" TIME_SLOT_REF2="ts581">
-				<ANNOTATION_VALUE>cambia il modo (.) e l' esperienza, che facciamo dei media.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cambia il modo (.) e l'esperienza, che facciamo dei media.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3514,17 +3514,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a294" TIME_SLOT_REF1="ts586" TIME_SLOT_REF2="ts587">
-				<ANNOTATION_VALUE>servono una poetica (.) un' estetica. persino un' etica. apposita.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>servono una poetica (.) un'estetica. persino un'etica. apposita.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a295" TIME_SLOT_REF1="ts588" TIME_SLOT_REF2="ts589">
-				<ANNOTATION_VALUE>una poetica del database, un' estetica del database, un' etica del database.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>una poetica del database, un'estetica del database, un'etica del database.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a296" TIME_SLOT_REF1="ts590" TIME_SLOT_REF2="ts591">
-				<ANNOTATION_VALUE>pensiamo (.) all' ipertesto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>pensiamo (.) all'ipertesto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3539,7 +3539,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a299" TIME_SLOT_REF1="ts596" TIME_SLOT_REF2="ts597">
-				<ANNOTATION_VALUE>non c' è un inizio. non c' è una fine. noi la nostra navigazione la possiamo conminciare da qualunque punto, e terminarla in qualunque punto. magari due ore dopo dicendo oh (.) son stato due ore a seguire i link.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non c'è un inizio. non c'è una fine. noi la nostra navigazione la possiamo conminciare da qualunque punto, e terminarla in qualunque punto. magari due ore dopo dicendo oh (.) son stato due ore a seguire i link.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3554,7 +3554,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a302" TIME_SLOT_REF1="ts602" TIME_SLOT_REF2="ts603">
-				<ANNOTATION_VALUE>l' influsso (.) dell' opera aperta di eco, su manovic c' è:.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'influsso (.) dell'opera aperta di eco, su manovic c'è:.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3574,12 +3574,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a306" TIME_SLOT_REF1="ts610" TIME_SLOT_REF2="ts611">
-				<ANNOTATION_VALUE>che aggiunge un tassello alla volta uno strato alla volta all' interno di un percorso.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che aggiunge un tassello alla volta uno strato alla volta all'interno di un percorso.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a307" TIME_SLOT_REF1="ts612" TIME_SLOT_REF2="ts613">
-				<ANNOTATION_VALUE>il database, in quanto struttura (.) e organizzazione dell' informazione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il database, in quanto struttura (.) e organizzazione dell'informazione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3629,7 +3629,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a317" TIME_SLOT_REF1="ts632" TIME_SLOT_REF2="ts633">
-				<ANNOTATION_VALUE>il data base è una struttura dell' informazione, una struttura di dati, che diventa anche appunto un' estetica. che diventa anche la forma calssica,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il data base è una struttura dell'informazione, una struttura di dati, che diventa anche appunto un'estetica. che diventa anche la forma calssica,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3644,7 +3644,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a320" TIME_SLOT_REF1="ts638" TIME_SLOT_REF2="ts639">
-				<ANNOTATION_VALUE>l' opinione (.) la:: il punto di vista. di manovic,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'opinione (.) la:: il punto di vista. di manovic,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3654,7 +3654,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a322" TIME_SLOT_REF1="ts642" TIME_SLOT_REF2="ts643">
-				<ANNOTATION_VALUE>il software, il database, (.) sta all' opposto. della narrazione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il software, il database, (.) sta all'opposto. della narrazione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3664,7 +3664,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a324" TIME_SLOT_REF1="ts646" TIME_SLOT_REF2="ts647">
-				<ANNOTATION_VALUE>non ce ne siamo ancora del tutto accorti. ma in realtà c' è un cambiamento antropologico decisamente ampio,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non ce ne siamo ancora del tutto accorti. ma in realtà c'è un cambiamento antropologico decisamente ampio,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3694,7 +3694,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a330" TIME_SLOT_REF1="ts658" TIME_SLOT_REF2="ts659">
-				<ANNOTATION_VALUE>c' è un rapporto,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è un rapporto,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3719,7 +3719,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a335" TIME_SLOT_REF1="ts668" TIME_SLOT_REF2="ts669">
-				<ANNOTATION_VALUE>vi facevo già prima l' esempio del video gioco.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vi facevo già prima l'esempio del video gioco.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3759,7 +3759,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a343" TIME_SLOT_REF1="ts684" TIME_SLOT_REF2="ts685">
-				<ANNOTATION_VALUE>non (.) derivano, (.) dalla creatività o dall' invenzione di qualcosa o di qualcuno,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non (.) derivano, (.) dalla creatività o dall'invenzione di qualcosa o di qualcuno,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3779,7 +3779,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a347" TIME_SLOT_REF1="ts692" TIME_SLOT_REF2="ts693">
-				<ANNOTATION_VALUE>l' algoritmo, è quello che sta alla base dei processi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'algoritmo, è quello che sta alla base dei processi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3794,7 +3794,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a350" TIME_SLOT_REF1="ts698" TIME_SLOT_REF2="ts699">
-				<ANNOTATION_VALUE>vado lì. se io faccio quest' altro vado là, se io raccolgo tot dati (.) finisco là,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vado lì. se io faccio quest'altro vado là, se io raccolgo tot dati (.) finisco là,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3819,7 +3819,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a355" TIME_SLOT_REF1="ts708" TIME_SLOT_REF2="ts709">
-				<ANNOTATION_VALUE>per cui poi, ogni singolo elemento, che trovo sul mio percorso, all' interno di uno spazio esploirabile,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per cui poi, ogni singolo elemento, che trovo sul mio percorso, all'interno di uno spazio esploirabile,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3829,7 +3829,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a357" TIME_SLOT_REF1="ts712" TIME_SLOT_REF2="ts713">
-				<ANNOTATION_VALUE>ha un suo posto all' interno della sua struttura dati, ha un suo posto all' interno del database.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ha un suo posto all'interno della sua struttura dati, ha un suo posto all'interno del database.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3839,7 +3839,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a359" TIME_SLOT_REF1="ts716" TIME_SLOT_REF2="ts717">
-				<ANNOTATION_VALUE>e (.) l' algoritmo ci aiuta a narrativizzare il database. all' interno del videogioco così come in altre occasioni.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e (.) l'algoritmo ci aiuta a narrativizzare il database. all'interno del videogioco così come in altre occasioni.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3874,7 +3874,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a366" TIME_SLOT_REF1="ts730" TIME_SLOT_REF2="ts731">
-				<ANNOTATION_VALUE>alla base (.) poi di un' estetica, alla base di una logica eccetera,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>alla base (.) poi di un'estetica, alla base di una logica eccetera,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3884,7 +3884,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a368" TIME_SLOT_REF1="ts734" TIME_SLOT_REF2="ts735">
-				<ANNOTATION_VALUE>che vanno collocati nel database, che vanno fatti trovare, e quindi indicizzati, all' interno del database, che vanno organizzati,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che vanno collocati nel database, che vanno fatti trovare, e quindi indicizzati, all'interno del database, che vanno organizzati,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3904,12 +3904,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a372" TIME_SLOT_REF1="ts742" TIME_SLOT_REF2="ts743">
-				<ANNOTATION_VALUE>attraverso cui l' estetica tradizionale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>attraverso cui l'estetica tradizionale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a373" TIME_SLOT_REF1="ts744" TIME_SLOT_REF2="ts745">
-				<ANNOTATION_VALUE>come dire si prende (.) la sua rivincita. anche in una logica del database, in una logica del software dove sembra che la tecnica (.) sia l' elemento più importante.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come dire si prende (.) la sua rivincita. anche in una logica del database, in una logica del software dove sembra che la tecnica (.) sia l'elemento più importante.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3939,7 +3939,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a379" TIME_SLOT_REF1="ts756" TIME_SLOT_REF2="ts757">
-				<ANNOTATION_VALUE>dall' altro, la narrazione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dall'altro, la narrazione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3959,17 +3959,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a383" TIME_SLOT_REF1="ts764" TIME_SLOT_REF2="ts765">
-				<ANNOTATION_VALUE>non abbiamo le capacità di calcolo dell' algoritmo del software.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non abbiamo le capacità di calcolo dell'algoritmo del software.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a384" TIME_SLOT_REF1="ts766" TIME_SLOT_REF2="ts767">
-				<ANNOTATION_VALUE>capite quindi come poi la visione di (.) basi di dati database da un lato, e all' opposto la narrazione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>capite quindi come poi la visione di (.) basi di dati database da un lato, e all'opposto la narrazione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a385" TIME_SLOT_REF1="ts768" TIME_SLOT_REF2="ts769">
-				<ANNOTATION_VALUE>di rivoluzione digitale rispetto a una modalità tradizionale che e::h è alla base dell' esistenza umana fin dagli antichi greci probabilmente prima,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di rivoluzione digitale rispetto a una modalità tradizionale che e::h è alla base dell'esistenza umana fin dagli antichi greci probabilmente prima,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3979,7 +3979,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a387" TIME_SLOT_REF1="ts772" TIME_SLOT_REF2="ts773">
-				<ANNOTATION_VALUE>l' estetica digitale non può fare a meno, della narrazione. anche se magari la disarticola. o la costruisce a partire da delle basi diverse che sono le basi dell' algoritmo, le basi del software e così via,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'estetica digitale non può fare a meno, della narrazione. anche se magari la disarticola. o la costruisce a partire da delle basi diverse che sono le basi dell'algoritmo, le basi del software e così via,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3989,7 +3989,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a389" TIME_SLOT_REF1="ts776" TIME_SLOT_REF2="ts777">
-				<ANNOTATION_VALUE>ed è l' ultima cosa che ci portiamo a casa dalla lettura di manovic,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ed è l'ultima cosa che ci portiamo a casa dalla lettura di manovic,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3999,7 +3999,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a391" TIME_SLOT_REF1="ts780" TIME_SLOT_REF2="ts781">
-				<ANNOTATION_VALUE>spesso e volentieri si riduce, (.) la dimensione estetica, si riduce a costruire un' interfaccia attorno al database.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>spesso e volentieri si riduce, (.) la dimensione estetica, si riduce a costruire un'interfaccia attorno al database.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4009,12 +4009,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a393" TIME_SLOT_REF1="ts784" TIME_SLOT_REF2="ts785">
-				<ANNOTATION_VALUE>ma c' è una base tecnica. strutturale, che ha delle regole proprie, che non ha un ordine, che non ha una gerarchia,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma c'è una base tecnica. strutturale, che ha delle regole proprie, che non ha un ordine, che non ha una gerarchia,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a394" TIME_SLOT_REF1="ts786" TIME_SLOT_REF2="ts787">
-				<ANNOTATION_VALUE>e rispetto alla quale io poi l' ordine lo devo dare. la gerarchia la devo stabilire.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e rispetto alla quale io poi l'ordine lo devo dare. la gerarchia la devo stabilire.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4024,7 +4024,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a396" TIME_SLOT_REF1="ts790" TIME_SLOT_REF2="ts791">
-				<ANNOTATION_VALUE>alla superfice estetica, che poi è quella che incontro, dell' interfaccia che (.) si attua secondo manovic, la</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>alla superfice estetica, che poi è quella che incontro, dell'interfaccia che (.) si attua secondo manovic, la</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4034,7 +4034,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a398" TIME_SLOT_REF1="ts794" TIME_SLOT_REF2="ts795">
-				<ANNOTATION_VALUE>l' estetica digitale sta anche e soprattutto lì.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'estetica digitale sta anche e soprattutto lì.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4074,17 +4074,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a406" TIME_SLOT_REF1="ts810" TIME_SLOT_REF2="ts811">
-				<ANNOTATION_VALUE>che ne so: la mia protagonista è bionda o mora. scelgo uno dei due elementi elementi sull' asse che i semiologi definiscono paradigmatico.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che ne so: la mia protagonista è bionda o mora. scelgo uno dei due elementi elementi sull'asse che i semiologi definiscono paradigmatico.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a407" TIME_SLOT_REF1="ts812" TIME_SLOT_REF2="ts813">
-				<ANNOTATION_VALUE>scelgo uno di questi, e (.) colloco (.) questo personaggio, con (.) in combinazione con un altro elemento sull' asse sintagmatico.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>scelgo uno di questi, e (.) colloco (.) questo personaggio, con (.) in combinazione con un altro elemento sull'asse sintagmatico.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a408" TIME_SLOT_REF1="ts814" TIME_SLOT_REF2="ts815">
-				<ANNOTATION_VALUE>per esempio il suo oggetto d' amore, che che so, e: è una pianta e: di: (.) di dimensioni::: medie.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per esempio il suo oggetto d'amore, che che so, e: è una pianta e: di: (.) di dimensioni::: medie.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4134,7 +4134,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a418" TIME_SLOT_REF1="ts834" TIME_SLOT_REF2="ts835">
-				<ANNOTATION_VALUE>è molto più importante, l' insieme paradigmatico delle scelte possibili,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è molto più importante, l'insieme paradigmatico delle scelte possibili,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4144,7 +4144,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a420" TIME_SLOT_REF1="ts838" TIME_SLOT_REF2="ts839">
-				<ANNOTATION_VALUE>l' aspetto sintagmatico, delle connessioni. dei legami.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'aspetto sintagmatico, delle connessioni. dei legami.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4174,7 +4174,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a426" TIME_SLOT_REF1="ts850" TIME_SLOT_REF2="ts851">
-				<ANNOTATION_VALUE>di nuovo il videogioco ci da abbastanza l' idea. di tutto questo. fin dalla possibilità di scegliere il nostro personaggio dall' inizio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di nuovo il videogioco ci da abbastanza l'idea. di tutto questo. fin dalla possibilità di scegliere il nostro personaggio dall'inizio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4204,7 +4204,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a432" TIME_SLOT_REF1="ts862" TIME_SLOT_REF2="ts863">
-				<ANNOTATION_VALUE>bolter e grusin ci dicono c' è una diretta continuità tra i media precedenti e i media digitali,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>bolter e grusin ci dicono c'è una diretta continuità tra i media precedenti e i media digitali,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4219,7 +4219,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a435" TIME_SLOT_REF1="ts868" TIME_SLOT_REF2="ts869">
-				<ANNOTATION_VALUE>non ve ne accorgete più di tanto, ma i meccanismi stessi su cui si fonda l' estetica sono stati cambiati, dall' adozione del database, dalla struttura dati dell' algoritmo (.) del software.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non ve ne accorgete più di tanto, ma i meccanismi stessi su cui si fonda l'estetica sono stati cambiati, dall'adozione del database, dalla struttura dati dell'algoritmo (.) del software.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4229,17 +4229,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a437" TIME_SLOT_REF1="ts872" TIME_SLOT_REF2="ts873">
-				<ANNOTATION_VALUE>un' immagine di uno dei lavori recenti, di manovic. che poi appunto partendo da:: visual artist, anche, non soltanto da studioso,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un'immagine di uno dei lavori recenti, di manovic. che poi appunto partendo da:: visual artist, anche, non soltanto da studioso,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a438" TIME_SLOT_REF1="ts874" TIME_SLOT_REF2="ts875">
-				<ANNOTATION_VALUE>poi si è messo a (.) a elaborarle queste logiche di database, per esempio cercando una serie di ricorrenze una serie di connesioni all' interno di basi di dati grafiche.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi si è messo a (.) a elaborarle queste logiche di database, per esempio cercando una serie di ricorrenze una serie di connesioni all'interno di basi di dati grafiche.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a439" TIME_SLOT_REF1="ts876" TIME_SLOT_REF2="ts877">
-				<ANNOTATION_VALUE>eh questo è (.) l' esempio di tutte le copertine di time magazine</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh questo è (.) l'esempio di tutte le copertine di time magazine</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4269,7 +4269,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a445" TIME_SLOT_REF1="ts888" TIME_SLOT_REF2="ts889">
-				<ANNOTATION_VALUE>comunque, mi raccomando leggete le: le pagine e: le pagine di manovic,. se non l' avete già fatto,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>comunque, mi raccomando leggete le: le pagine e: le pagine di manovic se non l'avete già fatto,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4284,7 +4284,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a448" TIME_SLOT_REF1="ts894" TIME_SLOT_REF2="ts895">
-				<ANNOTATION_VALUE>teorico e concettuale, rispetto all' estetica dei media digitali. che: che affrontiamo, e (.) tanto per cambiare una parola che non avete mai sentito in queste lezioni,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>teorico e concettuale, rispetto all'estetica dei media digitali. che: che affrontiamo, e (.) tanto per cambiare una parola che non avete mai sentito in queste lezioni,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4299,7 +4299,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a451" TIME_SLOT_REF1="ts900" TIME_SLOT_REF2="ts901">
-				<ANNOTATION_VALUE>nell' affrontare questi livelli, questi tipi di convergenza, e nel portarli anche verso uno sbocco (.) politico, di critica del sistema.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell'affrontare questi livelli, questi tipi di convergenza, e nel portarli anche verso uno sbocco (.) politico, di critica del sistema.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4334,7 +4334,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a458" TIME_SLOT_REF1="ts914" TIME_SLOT_REF2="ts915">
-				<ANNOTATION_VALUE>che magari l' avrete già inconcia:~ incrociato in altri corsi. chi ha gia sentito nominare henry jenkins?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che magari l'avrete già inconcia:~ incrociato in altri corsi. chi ha gia sentito nominare henry jenkins?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4344,7 +4344,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a460" TIME_SLOT_REF1="ts918" TIME_SLOT_REF2="ts919">
-				<ANNOTATION_VALUE>okay. vabbè, se non l' avete sentito fin' ora, nei prossimi anni (.) lo troverete da tutte le parti, e in tutte le salse, come in questa lezione de resto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>okay. vabbè, se non l'avete sentito fin' ora, nei prossimi anni (.) lo troverete da tutte le parti, e in tutte le salse, come in questa lezione de resto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4359,7 +4359,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a463" TIME_SLOT_REF1="ts924" TIME_SLOT_REF2="ts925">
-				<ANNOTATION_VALUE>e:h prima (.) di (.) avere come dire una:: una sua collocazione più precisa all' interno di un dibattito più ampio, cosa che è stata fatta negli anni successivi per cui adesso (.) nessuno considererebbe più jenkins come un guru assoluto, come è stato fino a qualche anno fa,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h prima (.) di (.) avere come dire una:: una sua collocazione più precisa all'interno di un dibattito più ampio, cosa che è stata fatta negli anni successivi per cui adesso (.) nessuno considererebbe più jenkins come un guru assoluto, come è stato fino a qualche anno fa,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4384,7 +4384,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a468" TIME_SLOT_REF1="ts934" TIME_SLOT_REF2="ts935">
-				<ANNOTATION_VALUE>il libro è del duemilaesei, viene tradotto in italia l' anno dopo, nel duemilaesette, da apogeo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il libro è del duemilaesei, viene tradotto in italia l'anno dopo, nel duemilaesette, da apogeo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4394,7 +4394,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a470" TIME_SLOT_REF1="ts938" TIME_SLOT_REF2="ts939">
-				<ANNOTATION_VALUE>e:h una:: una rilevanza molto ampia, meritata, perché sicuramente si tratta di un' intuizione molto: (.) molto grande,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h una:: una rilevanza molto ampia, meritata, perché sicuramente si tratta di un'intuizione molto: (.) molto grande,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4409,7 +4409,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a473" TIME_SLOT_REF1="ts944" TIME_SLOT_REF2="ts945">
-				<ANNOTATION_VALUE>abbiam parlato di piattaforme che si fondono tra di loro. di aziende. che si aquisiscuno l' un l' altra,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>abbiam parlato di piattaforme che si fondono tra di loro. di aziende. che si aquisiscuno l'un l'altra,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4444,7 +4444,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a480" TIME_SLOT_REF1="ts958" TIME_SLOT_REF2="ts959">
-				<ANNOTATION_VALUE>ovviamente digitale. che va a modificare un' altra volta:: su delle basi, estremamente grandi e rilevanti,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ovviamente digitale. che va a modificare un'altra volta:: su delle basi, estremamente grandi e rilevanti,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4454,12 +4454,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a482" TIME_SLOT_REF1="ts962" TIME_SLOT_REF2="ts963">
-				<ANNOTATION_VALUE>eh::: che si atteggi da guru lo si capisce dalle prime righe. dell' introduzione del libro, che voi dovrete leggere e studiare,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh::: che si atteggi da guru lo si capisce dalle prime righe. dell'introduzione del libro, che voi dovrete leggere e studiare,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a483" TIME_SLOT_REF1="ts964" TIME_SLOT_REF2="ts965">
-				<ANNOTATION_VALUE>benvenuti nella cultura convergente. è un proclama è un manifesto. è un: c' è c' è dell' enfasi, c' è c' è dell' intenzione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>benvenuti nella cultura convergente. è un proclama è un manifesto. è un: c'è c'è dell'enfasi, c'è c'è dell'intenzione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4474,12 +4474,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a486" TIME_SLOT_REF1="ts970" TIME_SLOT_REF2="ts971">
-				<ANNOTATION_VALUE>in modi imprevedibili. c' era anche un punto esclamaticvo che mi sono rifiutato (.) di aggiungere.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in modi imprevedibili. c'era anche un punto esclamaticvo che mi sono rifiutato (.) di aggiungere.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a487" TIME_SLOT_REF1="ts972" TIME_SLOT_REF2="ts973">
-				<ANNOTATION_VALUE>ma (.) cosa ci dice fin dall' inizio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma (.) cosa ci dice fin dall'inizio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4499,17 +4499,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a491" TIME_SLOT_REF1="ts980" TIME_SLOT_REF2="ts981">
-				<ANNOTATION_VALUE>la convergenza, l' ibridazione, la contaminazione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la convergenza, l'ibridazione, la contaminazione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a492" TIME_SLOT_REF1="ts982" TIME_SLOT_REF2="ts983">
-				<ANNOTATION_VALUE>avviene anche tra i media vecchi e quelli nuovi. ma questo ce l' avevano già detto bolter e grusin.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>avviene anche tra i media vecchi e quelli nuovi. ma questo ce l'avevano già detto bolter e grusin.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a493" TIME_SLOT_REF1="ts984" TIME_SLOT_REF2="ts985">
-				<ANNOTATION_VALUE>l' aveva detto mc luan figuriamoci.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'aveva detto mc luan figuriamoci.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4529,7 +4529,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a497" TIME_SLOT_REF1="ts992" TIME_SLOT_REF2="ts993">
-				<ANNOTATION_VALUE>nell' azione degli spettatori.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell'azione degli spettatori.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4579,7 +4579,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a507" TIME_SLOT_REF1="ts1012" TIME_SLOT_REF2="ts1013">
-				<ANNOTATION_VALUE>la convergenza dei media. l' abbiamo già vista. lo stesso jenkins cita (.) ithiel de sola pool, gli rende merito.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la convergenza dei media. l'abbiamo già vista. lo stesso jenkins cita (.) ithiel de sola pool, gli rende merito.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4614,7 +4614,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a514" TIME_SLOT_REF1="ts1026" TIME_SLOT_REF2="ts1027">
-				<ANNOTATION_VALUE>innerva l' intera natura dei media. in tutto quello che è il loro essere. compresi i testi, compresi i contesti, compresi i pubblici.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>innerva l'intera natura dei media. in tutto quello che è il loro essere. compresi i testi, compresi i contesti, compresi i pubblici.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4659,7 +4659,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a523" TIME_SLOT_REF1="ts1044" TIME_SLOT_REF2="ts1045">
-				<ANNOTATION_VALUE>c' è una cultura partecipativa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è una cultura partecipativa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4699,12 +4699,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a531" TIME_SLOT_REF1="ts1060" TIME_SLOT_REF2="ts1061">
-				<ANNOTATION_VALUE>jenkins tra l' altro è molto orientato in questo perché i suoi studi precedenti (.) i suoi lavori,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>jenkins tra l'altro è molto orientato in questo perché i suoi studi precedenti (.) i suoi lavori,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a532" TIME_SLOT_REF1="ts1062" TIME_SLOT_REF2="ts1063">
-				<ANNOTATION_VALUE>prece~ che:: che ha fatto nei vent' anni prima di:: di convergence culture, sono (.) sul fandom. sono sulle culture di fan. per esempio i fan di star trek.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>prece~ che:: che ha fatto nei vent'anni prima di:: di convergence culture, sono (.) sul fandom. sono sulle culture di fan. per esempio i fan di star trek.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4714,12 +4714,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a534" TIME_SLOT_REF1="ts1066" TIME_SLOT_REF2="ts1067">
-				<ANNOTATION_VALUE>ma lui dice con (.) il digitale, con la convergenza all' interno di questi spazi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma lui dice con (.) il digitale, con la convergenza all'interno di questi spazi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a535" TIME_SLOT_REF1="ts1068" TIME_SLOT_REF2="ts1069">
-				<ANNOTATION_VALUE>è l' intera cultura che si fa partecipativa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è l'intera cultura che si fa partecipativa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4729,7 +4729,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a537" TIME_SLOT_REF1="ts1072" TIME_SLOT_REF2="ts1073">
-				<ANNOTATION_VALUE>ma anche il resto della cultura, almeno in parte assume (.) quelle caratteristiche che regolano l' interazione con i fan.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma anche il resto della cultura, almeno in parte assume (.) quelle caratteristiche che regolano l'interazione con i fan.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4794,7 +4794,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a550" TIME_SLOT_REF1="ts1098" TIME_SLOT_REF2="ts1099">
-				<ANNOTATION_VALUE>si mettono in comune i giudizi. si mettono in comune le competenze. si mettono in comune (.) i risultati di un' osservazione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si mettono in comune i giudizi. si mettono in comune le competenze. si mettono in comune (.) i risultati di un'osservazione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4804,7 +4804,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a552" TIME_SLOT_REF1="ts1102" TIME_SLOT_REF2="ts1103">
-				<ANNOTATION_VALUE>c' è un surplus di valore dettato da questa intelligenza collettiva.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è un surplus di valore dettato da questa intelligenza collettiva.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4829,7 +4829,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a557" TIME_SLOT_REF1="ts1112" TIME_SLOT_REF2="ts1113">
-				<ANNOTATION_VALUE>eh eh poi: alla lunga in italia diventa l' isola dei famosi ma (.) in maniera un pochino diversa,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh eh poi: alla lunga in italia diventa l'isola dei famosi ma (.) in maniera un pochino diversa,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4844,12 +4844,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a560" TIME_SLOT_REF1="ts1118" TIME_SLOT_REF2="ts1119">
-				<ANNOTATION_VALUE>e:: non c' è una diretta come invece c' è in italia nell' isola dei famosi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: non c'è una diretta come invece c'è in italia nell'isola dei famosi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a561" TIME_SLOT_REF1="ts1120" TIME_SLOT_REF2="ts1121">
-				<ANNOTATION_VALUE>e::h (.) questo ha fatto sì, e jenkins l' ha osservato ne ha fatto uno dei suoi casi di studio,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h (.) questo ha fatto sì, e jenkins l'ha osservato ne ha fatto uno dei suoi casi di studio,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4884,7 +4884,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a568" TIME_SLOT_REF1="ts1134" TIME_SLOT_REF2="ts1135">
-				<ANNOTATION_VALUE>pazzi furiosi che si mettono a incrociare le immagini del satellite perché c' è una macchiolina nella tal ora del tal giorno, che potrebbe dirmi che quel concorrente è stato eliminato.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>pazzi furiosi che si mettono a incrociare le immagini del satellite perché c'è una macchiolina nella tal ora del tal giorno, che potrebbe dirmi che quel concorrente è stato eliminato.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4904,17 +4904,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a572" TIME_SLOT_REF1="ts1142" TIME_SLOT_REF2="ts1143">
-				<ANNOTATION_VALUE>lui le chiama comunità di spoiler ma noi gli spoiler l~ (.) consideriamo qualcos' altro. quindi non è: (.) non è un termine:.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lui le chiama comunità di spoiler ma noi gli spoiler l~ (.) consideriamo qualcos'altro. quindi non è: (.) non è un termine:.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a573" TIME_SLOT_REF1="ts1144" TIME_SLOT_REF2="ts1145">
-				<ANNOTATION_VALUE>un una comunità, dove però l' intelligenza collettiva viene messa al servizio di qualcosa che non cambierà propriamente le sorti del mondo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un una comunità, dove però l'intelligenza collettiva viene messa al servizio di qualcosa che non cambierà propriamente le sorti del mondo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a574" TIME_SLOT_REF1="ts1146" TIME_SLOT_REF2="ts1147">
-				<ANNOTATION_VALUE>ma è comunque un qualcosa di più rispetto all' esperienza dello spettatore singolo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma è comunque un qualcosa di più rispetto all'esperienza dello spettatore singolo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4939,7 +4939,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a579" TIME_SLOT_REF1="ts1156" TIME_SLOT_REF2="ts1157">
-				<ANNOTATION_VALUE>e un pubblico sempre più attivo. intelligenza collettiva. la capacità di mettere in relazione le informazioni per ottenere (.) qualcosa d' altro e qualcosa di più.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e un pubblico sempre più attivo. intelligenza collettiva. la capacità di mettere in relazione le informazioni per ottenere (.) qualcosa d'altro e qualcosa di più.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4949,7 +4949,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a581" TIME_SLOT_REF1="ts1160" TIME_SLOT_REF2="ts1161">
-				<ANNOTATION_VALUE>non si tratta (.) di una rivoluzione. l' abbiamo visto. ma di un' interazione tra i media vecchi e nuovi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non si tratta (.) di una rivoluzione. l'abbiamo visto. ma di un'interazione tra i media vecchi e nuovi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4969,7 +4969,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a585" TIME_SLOT_REF1="ts1168" TIME_SLOT_REF2="ts1169">
-				<ANNOTATION_VALUE>down. dall' alto al basso.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>down. dall'alto al basso.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4984,7 +4984,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a588" TIME_SLOT_REF1="ts1174" TIME_SLOT_REF2="ts1175">
-				<ANNOTATION_VALUE>dal basso verso l' alto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dal basso verso l'alto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5009,12 +5009,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a593" TIME_SLOT_REF1="ts1184" TIME_SLOT_REF2="ts1185">
-				<ANNOTATION_VALUE>l' editoria tradizionale il broadcasting, la radio, il cinema. funzionano tutti secondo questa logica.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'editoria tradizionale il broadcasting, la radio, il cinema. funzionano tutti secondo questa logica.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a594" TIME_SLOT_REF1="ts1186" TIME_SLOT_REF2="ts1187">
-				<ANNOTATION_VALUE>c' è un' impresa, c' è un' industria, che cerca di sviluppare qualcosa che piaccia al pubblico,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è un'impresa, c'è un'industria, che cerca di sviluppare qualcosa che piaccia al pubblico,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5094,7 +5094,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a610" TIME_SLOT_REF1="ts1218" TIME_SLOT_REF2="ts1219">
-				<ANNOTATION_VALUE>ma (.) dal basso e con una loro rilevanza nell' ecosistema.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma (.) dal basso e con una loro rilevanza nell'ecosistema.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5129,7 +5129,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a617" TIME_SLOT_REF1="ts1232" TIME_SLOT_REF2="ts1233">
-				<ANNOTATION_VALUE>dimostrando che un interesse per quella serie c' era.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dimostrando che un interesse per quella serie c'era.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5159,7 +5159,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a623" TIME_SLOT_REF1="ts1244" TIME_SLOT_REF2="ts1245">
-				<ANNOTATION_VALUE>c' è una dimensione di partecipazione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è una dimensione di partecipazione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5184,7 +5184,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a628" TIME_SLOT_REF1="ts1254" TIME_SLOT_REF2="ts1255">
-				<ANNOTATION_VALUE>oppure, in una chiave legata di più all' informazione agli aspetti anche politici e di cittadinanza,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>oppure, in una chiave legata di più all'informazione agli aspetti anche politici e di cittadinanza,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5214,7 +5214,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a634" TIME_SLOT_REF1="ts1266" TIME_SLOT_REF2="ts1267">
-				<ANNOTATION_VALUE>di quanto non s=saranno utili le immagini (.) ore dopo, dell' apparato mediale tradizionale quando porterà il suo camioncino delle news.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di quanto non s=saranno utili le immagini (.) ore dopo, dell'apparato mediale tradizionale quando porterà il suo camioncino delle news.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5284,12 +5284,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a648" TIME_SLOT_REF1="ts1294" TIME_SLOT_REF2="ts1295">
-				<ANNOTATION_VALUE>quelli che lisa getleman chiama i protocolli d' uso.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quelli che lisa getleman chiama i protocolli d'uso.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a649" TIME_SLOT_REF1="ts1296" TIME_SLOT_REF2="ts1297">
-				<ANNOTATION_VALUE>i modi (.) in cui noi ci rapportiamo alla cultura e all' immaginario.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>i modi (.) in cui noi ci rapportiamo alla cultura e all'immaginario.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5324,7 +5324,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a656" TIME_SLOT_REF1="ts1310" TIME_SLOT_REF2="ts1311">
-				<ANNOTATION_VALUE>e fargli assumere magari un' attenzione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e fargli assumere magari un'attenzione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5339,7 +5339,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a659" TIME_SLOT_REF1="ts1316" TIME_SLOT_REF2="ts1317">
-				<ANNOTATION_VALUE>vi avevo già fatto se non sbagli l' esempio della fan fiction di twilight.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vi avevo già fatto se non sbagli l'esempio della fan fiction di twilight.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5369,7 +5369,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a665" TIME_SLOT_REF1="ts1328" TIME_SLOT_REF2="ts1329">
-				<ANNOTATION_VALUE>vari elementi di disagio. uno sovrapposso all' altro, che comunque adesso è milionaria. ci deride tutti,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vari elementi di disagio. uno sovrapposso all'altro, che comunque adesso è milionaria. ci deride tutti,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5389,7 +5389,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a669" TIME_SLOT_REF1="ts1336" TIME_SLOT_REF2="ts1337">
-				<ANNOTATION_VALUE>è (.) un processo. non è un punto d' arrivo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è (.) un processo. non è un punto d'arrivo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5429,7 +5429,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a677" TIME_SLOT_REF1="ts1352" TIME_SLOT_REF2="ts1353">
-				<ANNOTATION_VALUE>che tradizionalmente l' industria mediale considerava poco. o non considerava affatto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che tradizionalmente l'industria mediale considerava poco. o non considerava affatto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5449,7 +5449,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a681" TIME_SLOT_REF1="ts1360" TIME_SLOT_REF2="ts1361">
-				<ANNOTATION_VALUE>non c' è soltanto il fan. ci sono anche (.) le possibilità di (.) rielaborazione critica di qualcosa che non piace.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non c'è soltanto il fan. ci sono anche (.) le possibilità di (.) rielaborazione critica di qualcosa che non piace.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5469,7 +5469,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a685" TIME_SLOT_REF1="ts1368" TIME_SLOT_REF2="ts1369">
-				<ANNOTATION_VALUE>lo spettatore che (.) interpreta, in modo imprevisto rispetto a quello che voleva l' autore,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lo spettatore che (.) interpreta, in modo imprevisto rispetto a quello che voleva l'autore,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5484,12 +5484,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a688" TIME_SLOT_REF1="ts1374" TIME_SLOT_REF2="ts1375">
-				<ANNOTATION_VALUE>e quindi (.) al (.) all' ipotizzare delle relazioni generalmente omosessuali tra personaggi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi (.) al (.) all'ipotizzare delle relazioni generalmente omosessuali tra personaggi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a689" TIME_SLOT_REF1="ts1376" TIME_SLOT_REF2="ts1377">
-				<ANNOTATION_VALUE>che all' interno di determinate serie televisive, queste relazioni non ce l' hanno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che all'interno di determinate serie televisive, queste relazioni non ce l'hanno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5524,7 +5524,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a696" TIME_SLOT_REF1="ts1390" TIME_SLOT_REF2="ts1391">
-				<ANNOTATION_VALUE>nelle prime stagioni. poi dopo l' hanno capito e d' hanno giocato e marciato ampiamente, come (.) qualcuno di voi vedo che sa,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nelle prime stagioni. poi dopo l'hanno capito e d'hanno giocato e marciato ampiamente, come (.) qualcuno di voi vedo che sa,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5534,7 +5534,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a698" TIME_SLOT_REF1="ts1394" TIME_SLOT_REF2="ts1395">
-				<ANNOTATION_VALUE>eh all' inizio non ci pensavano (.) &lt;che il rapporto di fratellanza (.) eh tra i due protagonisti potesse (.) eh solleticare una serie di (.) immaginazioni&gt; a un pubblico prevalentemente femminile peraltro.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh all'inizio non ci pensavano (.) &lt;che il rapporto di fratellanza (.) eh tra i due protagonisti potesse (.) eh solleticare una serie di (.) immaginazioni&gt; a un pubblico prevalentemente femminile peraltro.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5599,7 +5599,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a711" TIME_SLOT_REF1="ts1420" TIME_SLOT_REF2="ts1421">
-				<ANNOTATION_VALUE>o per mostrare al mondo quanto quella rappresentazione mediale sia lesiva e offensiva, nei confronti dell' immagine della donna.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>o per mostrare al mondo quanto quella rappresentazione mediale sia lesiva e offensiva, nei confronti dell'immagine della donna.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5624,7 +5624,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a716" TIME_SLOT_REF1="ts1430" TIME_SLOT_REF2="ts1431">
-				<ANNOTATION_VALUE>c' è una relazione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è una relazione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5634,7 +5634,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a718" TIME_SLOT_REF1="ts1434" TIME_SLOT_REF2="ts1435">
-				<ANNOTATION_VALUE>c' è un rapporto che è economico,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è un rapporto che è economico,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5654,7 +5654,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a722" TIME_SLOT_REF1="ts1442" TIME_SLOT_REF2="ts1443">
-				<ANNOTATION_VALUE>c' è una dinamica di azione reazione e controreazione, da parte dell' industria culturale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è una dinamica di azione reazione e controreazione, da parte dell'industria culturale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5664,7 +5664,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a724" TIME_SLOT_REF1="ts1446" TIME_SLOT_REF2="ts1447">
-				<ANNOTATION_VALUE>ma poi magari l' industria,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma poi magari l'industria,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5694,7 +5694,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a730" TIME_SLOT_REF1="ts1458" TIME_SLOT_REF2="ts1459">
-				<ANNOTATION_VALUE>per cui (,) ci sono alcuni tipi di properties, che vedono una reazione da parte dell' industria di (.) resistenza.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per cui ci sono alcuni tipi di properties, che vedono una reazione da parte dell'industria di (.) resistenza.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5734,7 +5734,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a738" TIME_SLOT_REF1="ts1474" TIME_SLOT_REF2="ts1475">
-				<ANNOTATION_VALUE>come cambia il tempo. son passati alcuni anni e l' approccio (.) di star Wars diventato property di disney,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come cambia il tempo. son passati alcuni anni e l'approccio (.) di star Wars diventato property di disney,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5749,7 +5749,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a741" TIME_SLOT_REF1="ts1480" TIME_SLOT_REF2="ts1481">
-				<ANNOTATION_VALUE>altri in altri casi d'e un incoraggiamento, si capisce che (.) quest' azione del pubblico è promozionale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>altri in altri casi d'e un incoraggiamento, si capisce che (.) quest'azione del pubblico è promozionale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5779,12 +5779,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a747" TIME_SLOT_REF1="ts1492" TIME_SLOT_REF2="ts1493">
-				<ANNOTATION_VALUE>jenkins (.) si ferma un po' prima di quest' ultimo aspetto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>jenkins (.) si ferma un po' prima di quest'ultimo aspetto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a748" TIME_SLOT_REF1="ts1494" TIME_SLOT_REF2="ts1495">
-				<ANNOTATION_VALUE>m della (.) dell' industria mediale che riprende in mano le redini e che orienta secondo i suoi, obiettivi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>m della (.) dell'industria mediale che riprende in mano le redini e che orienta secondo i suoi, obiettivi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5854,7 +5854,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a762" TIME_SLOT_REF1="ts1522" TIME_SLOT_REF2="ts1523">
-				<ANNOTATION_VALUE>e:h e quindi la chiave di lettura dell' ironia e della satira. qualcuno e:h non mi ricordo (.) chi fra voi, ha:: ha postato, alcune cose sulla sull' ironia come uno dei linguaggi comuni di una: di uno scenario di un estetica digitale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h e quindi la chiave di lettura dell'ironia e della satira. qualcuno e:h non mi ricordo (.) chi fra voi, ha:: ha postato, alcune cose sulla sull'ironia come uno dei linguaggi comuni di una: di uno scenario di un estetica digitale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5899,7 +5899,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a771" TIME_SLOT_REF1="ts1540" TIME_SLOT_REF2="ts1541">
-				<ANNOTATION_VALUE>e::h la scrittura non sarà all' altezza degli sceneggiatori, ma chissene frega. io voglio ancora sapere come va a finire,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h la scrittura non sarà all'altezza degli sceneggiatori, ma chissene frega. io voglio ancora sapere come va a finire,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5949,12 +5949,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a781" TIME_SLOT_REF1="ts1560" TIME_SLOT_REF2="ts1561">
-				<ANNOTATION_VALUE>nel panorama mediale ibrido e sempre in evoluzione, l' industria se ne accorge.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nel panorama mediale ibrido e sempre in evoluzione, l'industria se ne accorge.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a782" TIME_SLOT_REF1="ts1562" TIME_SLOT_REF2="ts1563">
-				<ANNOTATION_VALUE>e l' industria reagisce.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e l'industria reagisce.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6044,7 +6044,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a800" TIME_SLOT_REF1="ts1598" TIME_SLOT_REF2="ts1599">
-				<ANNOTATION_VALUE>e poi probabilmente le (.) la sfrutti la convogli alle logiche industriali, cercando (.) eh di far aquistare almeno a qualcuno di voi, e qualcuno lo avrà anche fatto, gli inediti dei concorrenti di quest' anno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e poi probabilmente le (.) la sfrutti la convogli alle logiche industriali, cercando (.) eh di far aquistare almeno a qualcuno di voi, e qualcuno lo avrà anche fatto, gli inediti dei concorrenti di quest'anno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6064,7 +6064,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a804" TIME_SLOT_REF1="ts1606" TIME_SLOT_REF2="ts1607">
-				<ANNOTATION_VALUE>quindi (.) le informazioni condivise da un' intelligenza collettiva per caercare di capire che cosa succede.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi (.) le informazioni condivise da un'intelligenza collettiva per caercare di capire che cosa succede.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6074,7 +6074,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a806" TIME_SLOT_REF1="ts1610" TIME_SLOT_REF2="ts1611">
-				<ANNOTATION_VALUE>l' interazione del pubblico attraverso il voto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'interazione del pubblico attraverso il voto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6109,12 +6109,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a813" TIME_SLOT_REF1="ts1624" TIME_SLOT_REF2="ts1625">
-				<ANNOTATION_VALUE>della (.) eh dell' impresa mediale, questa partecipazione. questo desiderio di connessione di partecipazione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>della (.) eh dell'impresa mediale, questa partecipazione. questo desiderio di connessione di partecipazione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a814" TIME_SLOT_REF1="ts1626" TIME_SLOT_REF2="ts1627">
-				<ANNOTATION_VALUE>eh molto di voi sicuramente anch' io, chi mi ha iniziato a seguire su twitter lo sa,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh molto di voi sicuramente anch'io, chi mi ha iniziato a seguire su twitter lo sa,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6149,7 +6149,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a821" TIME_SLOT_REF1="ts1640" TIME_SLOT_REF2="ts1641">
-				<ANNOTATION_VALUE>la rilettura, il mix. il mix tra le varie possibili properties,ç</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la rilettura, il mix. il mix tra le varie possibili properties,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6184,7 +6184,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a828" TIME_SLOT_REF1="ts1654" TIME_SLOT_REF2="ts1655">
-				<ANNOTATION_VALUE>e::hm (.) o sotto le carte da gioco, le vedrete poco perché le vedo poco anch' io, le carte da gioco in cui al posto del re delle regine (.) e dei fanti, eh ci sono i personaggi di games of thrones, un altra idea regalo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::hm (.) o sotto le carte da gioco, le vedrete poco perché le vedo poco anch'io, le carte da gioco in cui al posto del re delle regine (.) e dei fanti, eh ci sono i personaggi di games of thrones, un altra idea regalo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6224,7 +6224,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a836" TIME_SLOT_REF1="ts1670" TIME_SLOT_REF2="ts1671">
-				<ANNOTATION_VALUE>eh e e:hm (.) e quindi (.) abbiamo anche una rilettura convergente di aspetti serissimi. quali l' informazione. la politica. la popular culture nei: nei modi più ampi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh e e:hm (.) e quindi (.) abbiamo anche una rilettura convergente di aspetti serissimi. quali l'informazione. la politica. la popular culture nei: nei modi più ampi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6309,7 +6309,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a853" TIME_SLOT_REF1="ts1704" TIME_SLOT_REF2="ts1705">
-				<ANNOTATION_VALUE>e::hm (.) sulla, sulla vostra destra trovate invece un' altra pagina facebook molto più politica,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::hm (.) sulla, sulla vostra destra trovate invece un'altra pagina facebook molto più politica,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6329,12 +6329,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a857" TIME_SLOT_REF1="ts1712" TIME_SLOT_REF2="ts1713">
-				<ANNOTATION_VALUE>in questo momento ma mi ci metto anch' io, ve lo sto mostrando quindi più di così,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in questo momento ma mi ci metto anch'io, ve lo sto mostrando quindi più di così,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a858" TIME_SLOT_REF1="ts1714" TIME_SLOT_REF2="ts1715">
-				<ANNOTATION_VALUE>e:h però le dinamiche del fandom. c' è tutta una ship bellissima, legata alla storia d' amore impossibile e travagliata tra maria elena boschi e alessandro di battista.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h però le dinamiche del fandom. c'è tutta una ship bellissima, legata alla storia d'amore impossibile e travagliata tra maria elena boschi e alessandro di battista.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6424,7 +6424,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a876" TIME_SLOT_REF1="ts1750" TIME_SLOT_REF2="ts1751">
-				<ANNOTATION_VALUE>di potenziale partecipazione all' interno della cultura divergente.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di potenziale partecipazione all'interno della cultura divergente.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6459,7 +6459,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a883" TIME_SLOT_REF1="ts1764" TIME_SLOT_REF2="ts1765">
-				<ANNOTATION_VALUE>c' è un contenuto gratis, rispetto al quale dibattere, che è stato prelevato dalla rete. a scapito di chi ha (.) sviluppato una sua creatività, ci ha dedicato del tempo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è un contenuto gratis, rispetto al quale dibattere, che è stato prelevato dalla rete. a scapito di chi ha (.) sviluppato una sua creatività, ci ha dedicato del tempo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6474,7 +6474,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a886" TIME_SLOT_REF1="ts1770" TIME_SLOT_REF2="ts1771">
-				<ANNOTATION_VALUE>ciò non toglie che c' è anche una dimensione di sfruttamento non ce la dobbiamo dimenticare.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ciò non toglie che c'è anche una dimensione di sfruttamento non ce la dobbiamo dimenticare.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6484,7 +6484,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a888" TIME_SLOT_REF1="ts1774" TIME_SLOT_REF2="ts1775">
-				<ANNOTATION_VALUE>a volte sono sobbillate dall' industria,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a volte sono sobbillate dall'industria,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6509,7 +6509,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a893" TIME_SLOT_REF1="ts1784" TIME_SLOT_REF2="ts1785">
-				<ANNOTATION_VALUE>jenkins è molto capace nell' indicare il fenomeno, ma è anche forse un po' troppo ottimista.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>jenkins è molto capace nell'indicare il fenomeno, ma è anche forse un po' troppo ottimista.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6519,7 +6519,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a895" TIME_SLOT_REF1="ts1788" TIME_SLOT_REF2="ts1789">
-				<ANNOTATION_VALUE>e quindi un' altra cosa che le industrie mediali si troveranno, a eh sfruttare.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi un'altra cosa che le industrie mediali si troveranno, a eh sfruttare.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6534,7 +6534,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a898" TIME_SLOT_REF1="ts1794" TIME_SLOT_REF2="ts1795">
-				<ANNOTATION_VALUE>ma è anche vero che c' è un investimento economicoche, c' è un investimento (.) emotivo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma è anche vero che c'è un investimento economicoche, c'è un investimento (.) emotivo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6544,7 +6544,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a900" TIME_SLOT_REF1="ts1798" TIME_SLOT_REF2="ts1799">
-				<ANNOTATION_VALUE>spinte contrapposte che (.) fanno (.) fra l' industria del consumo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>spinte contrapposte che (.) fanno (.) fra l'industria del consumo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6554,7 +6554,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a902" TIME_SLOT_REF1="ts1802" TIME_SLOT_REF2="ts1803">
-				<ANNOTATION_VALUE>ed è l' ultima cosa che vediamo oggi, un altro discorso jenkinsiano che è quello del transmedia (.) storytelling.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ed è l'ultima cosa che vediamo oggi, un altro discorso jenkinsiano che è quello del transmedia (.) storytelling.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6564,7 +6564,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a904" TIME_SLOT_REF1="ts1806" TIME_SLOT_REF2="ts1807">
-				<ANNOTATION_VALUE>un' inevitabile corollario. di un discorso legato alla convergenza culturale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un'inevitabile corollario. di un discorso legato alla convergenza culturale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6594,22 +6594,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a910" TIME_SLOT_REF1="ts1818" TIME_SLOT_REF2="ts1819">
-				<ANNOTATION_VALUE>&lt;tanti elementi su vari media differenti e su varie piattafome differenti, assieme, compongono un' esperienza unica e coordinata&gt;.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&lt;tanti elementi su vari media differenti e su varie piattafome differenti, assieme, compongono un'esperienza unica e coordinata&gt;.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a911" TIME_SLOT_REF1="ts1820" TIME_SLOT_REF2="ts1821">
-				<ANNOTATION_VALUE>lo spettare è invitato a passare daun medium all' altroda, una piattaforma all' altra per, articolare la sua narrazione nel modo più completo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lo spettare è invitato a passare daun medium all'altroda, una piattaforma all'altra per, articolare la sua narrazione nel modo più completo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a912" TIME_SLOT_REF1="ts1822" TIME_SLOT_REF2="ts1823">
-				<ANNOTATION_VALUE>questa è una delle logiche dell' intrattenimento contemporaneo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questa è una delle logiche dell'intrattenimento contemporaneo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a913" TIME_SLOT_REF1="ts1824" TIME_SLOT_REF2="ts1825">
-				<ANNOTATION_VALUE>da un lato c' è un idea di branding tipo quella che abbiamo visto con x-factor,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>da un lato c'è un idea di branding tipo quella che abbiamo visto con x-factor,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6634,27 +6634,27 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a918" TIME_SLOT_REF1="ts1834" TIME_SLOT_REF2="ts1835">
-				<ANNOTATION_VALUE>che succedeva anche prima della cultura digitale, è l' adattamento.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che succedeva anche prima della cultura digitale, è l'adattamento.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a919" TIME_SLOT_REF1="ts1836" TIME_SLOT_REF2="ts1837">
-				<ANNOTATION_VALUE>l' adattamento da un classico della letteratura, a un film.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'adattamento da un classico della letteratura, a un film.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a920" TIME_SLOT_REF1="ts1838" TIME_SLOT_REF2="ts1839">
-				<ANNOTATION_VALUE>l' adattamento da un film a una serie televisiva.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'adattamento da un film a una serie televisiva.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a921" TIME_SLOT_REF1="ts1840" TIME_SLOT_REF2="ts1841">
-				<ANNOTATION_VALUE>l' adattamento da un romanzo o di una piece teatrale:, a una narrazione:: che so un radiodramma.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'adattamento da un romanzo o di una piece teatrale:, a una narrazione:: che so un radiodramma.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a922" TIME_SLOT_REF1="ts1842" TIME_SLOT_REF2="ts1843">
-				<ANNOTATION_VALUE>oppure c' è l' estensione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>oppure c'è l'estensione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6679,7 +6679,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a927" TIME_SLOT_REF1="ts1852" TIME_SLOT_REF2="ts1853">
-				<ANNOTATION_VALUE>oppure c' è una progettazione vera e propria.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>oppure c'è una progettazione vera e propria.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6714,7 +6714,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a934" TIME_SLOT_REF1="ts1866" TIME_SLOT_REF2="ts1867">
-				<ANNOTATION_VALUE>oppure (.) bisognava giocare al videogioco nell' intervallo tra il secondo e il terzo film.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>oppure (.) bisognava giocare al videogioco nell'intervallo tra il secondo e il terzo film.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6724,12 +6724,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a936" TIME_SLOT_REF1="ts1870" TIME_SLOT_REF2="ts1871">
-				<ANNOTATION_VALUE>di nuovo da un lato c' è la spinta da parte del pubblico, che ogni volta che ama qualcosa, lo vuole in tante forme e vuole estendere la s~ l' esperienza della sua narrazione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di nuovo da un lato c'è la spinta da parte del pubblico, che ogni volta che ama qualcosa, lo vuole in tante forme e vuole estendere la s~ l'esperienza della sua narrazione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a937" TIME_SLOT_REF1="ts1872" TIME_SLOT_REF2="ts1873">
-				<ANNOTATION_VALUE>dall' altro c' è un ruolo dell' industria mediale che cerca (.) di creare delle narrazioni transmediali e il più possibile a partire dalle sue (.) dalle sue properties. dalle narrazioni che (.) e::h che sviluppa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dall'altro c'è un ruolo dell'industria mediale che cerca (.) di creare delle narrazioni transmediali e il più possibile a partire dalle sue (.) dalle sue properties. dalle narrazioni che (.) e::h che sviluppa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6749,12 +6749,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a941" TIME_SLOT_REF1="ts1880" TIME_SLOT_REF2="ts1881">
-				<ANNOTATION_VALUE>e dall' altro (.) trillability.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e dall'altro (.) trillability.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a942" TIME_SLOT_REF1="ts1882" TIME_SLOT_REF2="ts1883">
-				<ANNOTATION_VALUE>traduzioni italiane, che sono tra l' altro colpa mia perché come vedrete è stato da me tradotto, nella versione (.) nella versione che avete nell' antologia da studiare,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>traduzioni italiane, che sono tra l'altro colpa mia perché come vedrete è stato da me tradotto, nella versione (.) nella versione che avete nell'antologia da studiare,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6789,7 +6789,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a949" TIME_SLOT_REF1="ts1896" TIME_SLOT_REF2="ts1897">
-				<ANNOTATION_VALUE>trillability, penetrabilità, è invece l' approccio del fan.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>trillability, penetrabilità, è invece l'approccio del fan.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6804,12 +6804,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a952" TIME_SLOT_REF1="ts1902" TIME_SLOT_REF2="ts1903">
-				<ANNOTATION_VALUE>sono due direzioni differenti. una in orizzontale, l' altra in verticale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sono due direzioni differenti. una in orizzontale, l'altra in verticale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a953" TIME_SLOT_REF1="ts1904" TIME_SLOT_REF2="ts1905">
-				<ANNOTATION_VALUE>due dimensioni che l' industria mediale può decidere di (.) scegliere,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>due dimensioni che l'industria mediale può decidere di (.) scegliere,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6839,7 +6839,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a959" TIME_SLOT_REF1="ts1916" TIME_SLOT_REF2="ts1917">
-				<ANNOTATION_VALUE>da un lato c' è l' idea del canone.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>da un lato c'è l'idea del canone.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6849,12 +6849,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a961" TIME_SLOT_REF1="ts1920" TIME_SLOT_REF2="ts1921">
-				<ANNOTATION_VALUE>stia all' interno, di quello che vuole l' autore.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>stia all'interno, di quello che vuole l'autore.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a962" TIME_SLOT_REF1="ts1922" TIME_SLOT_REF2="ts1923">
-				<ANNOTATION_VALUE>dall' altro c' è la molteplicità delle strade alternative.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dall'altro c'è la molteplicità delle strade alternative.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6889,12 +6889,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a969" TIME_SLOT_REF1="ts1936" TIME_SLOT_REF2="ts1937">
-				<ANNOTATION_VALUE>da un lato l' immersione. io entro in un racconto in modalità sempre più immersiva,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>da un lato l'immersione. io entro in un racconto in modalità sempre più immersiva,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a970" TIME_SLOT_REF1="ts1938" TIME_SLOT_REF2="ts1939">
-				<ANNOTATION_VALUE>dall' altra, io spargo questi pezzi di racconto, nel mondo reale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dall'altra, io spargo questi pezzi di racconto, nel mondo reale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6934,7 +6934,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a978" TIME_SLOT_REF1="ts1954" TIME_SLOT_REF2="ts1955">
-				<ANNOTATION_VALUE>a partire dai quali io poi posso creare l' enciclopedia su internet che mi spiega anche quel dettaglio nell' inquadradura, che d' era in un episodio dei simpson e che io non ho visto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a partire dai quali io poi posso creare l'enciclopedia su internet che mi spiega anche quel dettaglio nell'inquadradura, che d'era in un episodio dei simpson e che io non ho visto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6954,7 +6954,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a982" TIME_SLOT_REF1="ts1962" TIME_SLOT_REF2="ts1963">
-				<ANNOTATION_VALUE>dove (.) diavolo stanno in westeros o in essos ((??)) , i miei dannati personaggi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dove (.) diavolo stanno in westeros o in essos ((incomprensibile)) i miei dannati personaggi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6979,7 +6979,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a987" TIME_SLOT_REF1="ts1972" TIME_SLOT_REF2="ts1973">
-				<ANNOTATION_VALUE>dalle connesioni (.) più (.) estranee. per cui per esempio nell' attesa tra una puntata e l' altra che va in onda in televisione, io mi devb spostare su internet, dove vedo (.) delle altre clip.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dalle connesioni (.) più (.) estranee. per cui per esempio nell'attesa tra una puntata e l'altra che va in onda in televisione, io mi devb spostare su internet, dove vedo (.) delle altre clip.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6994,17 +6994,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a990" TIME_SLOT_REF1="ts1978" TIME_SLOT_REF2="ts1979">
-				<ANNOTATION_VALUE>c' è qualcuno, sì. meno male che c' è qualcuno,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è qualcuno, sì. meno male che c'è qualcuno,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a991" TIME_SLOT_REF1="ts1980" TIME_SLOT_REF2="ts1981">
-				<ANNOTATION_VALUE>e:::h no giusto perché così capite l' esempio,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h no giusto perché così capite l'esempio,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a992" TIME_SLOT_REF1="ts1982" TIME_SLOT_REF2="ts1983">
-				<ANNOTATION_VALUE>e::h all' interno del mondo narrativo di sirene c' è una soap, che i personaggi guardano,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h all'interno del mondo narrativo di sirene c'è una soap, che i personaggi guardano,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7024,7 +7024,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a996" TIME_SLOT_REF1="ts1990" TIME_SLOT_REF2="ts1991">
-				<ANNOTATION_VALUE>possibilità all' interno del mondo narrativo, di adottare varie prospettive. di prendere i panni di vari personaggi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>possibilità all'interno del mondo narrativo, di adottare varie prospettive. di prendere i panni di vari personaggi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7049,7 +7049,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1001" TIME_SLOT_REF1="ts2000" TIME_SLOT_REF2="ts2001">
-				<ANNOTATION_VALUE>l' elemento che porta lo spettatore ad agire.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'elemento che porta lo spettatore ad agire.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7079,7 +7079,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1007" TIME_SLOT_REF1="ts2012" TIME_SLOT_REF2="ts2013">
-				<ANNOTATION_VALUE>il transmedia ha una storia lunghissima, l' intera cultura di massa è almeno fino a un certo punto transmediale, mal il digitale, lo pe~ lo potenzia.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il transmedia ha una storia lunghissima, l'intera cultura di massa è almeno fino a un certo punto transmediale, mal il digitale, lo pe~ lo potenzia.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7094,7 +7094,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1010" TIME_SLOT_REF1="ts2018" TIME_SLOT_REF2="ts2019">
-				<ANNOTATION_VALUE>matrix, ve l' ho già detto, uno dei primi casi (.) studiati (.) dallo stesso jenkins,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>matrix, ve l'ho già detto, uno dei primi casi (.) studiati (.) dallo stesso jenkins,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7129,7 +7129,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1017" TIME_SLOT_REF1="ts2032" TIME_SLOT_REF2="ts2033">
-				<ANNOTATION_VALUE>e:h anche perché c' è il nuovo film quindi per forza.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h anche perché c'è il nuovo film quindi per forza.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7139,7 +7139,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1019" TIME_SLOT_REF1="ts2036" TIME_SLOT_REF2="ts2037">
-				<ANNOTATION_VALUE>l' universo cinematico e televisivo, di marve. anche qua.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'universo cinematico e televisivo, di marve. anche qua.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
