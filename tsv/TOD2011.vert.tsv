@@ -1563,7 +1563,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 83-51	TO047	83	e	e	linguistic	_	_	_	_	_	_
 83-52	TO047	83	tre	tre	linguistic	_	_	_	_	_	_
 83-53	TO047	83	di	di	linguistic	_	_	_	_	_	_
-83-54	TO047	83	@nomepaese,	@nomepaese	linguistic	Intonation=WeaklyRising	_	_	_	_	_
+83-54	TO047	83	@nomepaese,	@nomepaese	linguistic	Intonation=WeaklyRising	End=639.988	_	_	_	_
 84-0	TO047	84	e::h	eh	linguistic	ProsodicLink=Yes	Begin=640.547	0x2	_	_	_
 84-1	TO047	84	m:::h	mh	linguistic	_	_	0x3	_	_	_
 84-2	TO047	84	questa	questa	linguistic	_	_	_	_	_	_

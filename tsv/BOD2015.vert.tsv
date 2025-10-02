@@ -2447,7 +2447,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 312-10	BO114	312	ancora	ancora	linguistic	_	_	_	_	_	_
 312-11	BO114	312	[giovane].	giovane	linguistic	Intonation=Falling	End=1022.59	_	_	_	0-7(28)
 313-0	BO115	313	[a]	a	linguistic	_	Begin=1022.26	_	_	_	0-1(28)
-313-1	BO115	313	@nomepaese?	@nomepaese	linguistic	Intonation=Rising	_	_	_	_	_
+313-1	BO115	313	@nomepaese?	@nomepaese	linguistic	Intonation=Rising	End=1022.870	_	_	_	_
 314-0	BO114	314	prima	prima	linguistic	_	Begin=1023.618	_	_	_	_
 314-1	BO114	314	sono	sono	linguistic	_	_	_	_	_	_
 314-2	BO114	314	arrivati	arrivati	linguistic	_	_	_	_	_	_

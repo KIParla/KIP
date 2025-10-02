@@ -1259,7 +1259,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 215-5	TO052	215	ti	ti	linguistic	_	_	_	_	_	_
 215-6	TO052	215	[sta],	sta	linguistic	Intonation=weakly_rising	End=1298.275	_	_	_	0-3(20)
 216-0	TO048	216	[x]x	x	unknown	_	Begin=1298.06	_	_	_	0-1(20)
-216-1	TO048	216	x[x]	x	unknown	_	_	_	_	_	1-2(21)
+216-1	TO048	216	x[x]	x	unknown	_	End=1300.632	_	_	_	1-2(21)
 217-0	TO052	217	[non	non	linguistic	_	Begin=1299.966	_	_	_	0-3(21)
 217-1	TO052	217	capisci]	capisci	linguistic	_	_	_	_	_	0-7(21)
 217-2	TO052	217	se	se	linguistic	_	_	_	_	_	_
