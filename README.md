@@ -54,8 +54,7 @@ Metadata is to be interpreted as follows:
     - `gender`: either `M` for masculine or `F` for feminine
     - `age-range`: 5 years range including the participant’s age.
     - `school-region`: Italian region[^1] where the participant has completed their schooling. If outside Italy, the label `estero` is used.
-    - `occupation`: `student` or `intellectual`. In this module, participants whose occupation
-     is `intellectual` are University professors.
+    - `occupation`: occupation of the participant, according to [ISTAT categories](https://professioni.istat.it/). For more information see [occupation label](./occupation-levels.md). In this module, participants whose occupation is `2-Professionals` are all University level professors (Istat category 2.6.1).
     - Additionally, the [`metadata/participants.tsv`](metadata/participants.tsv) also contains a `conversations` colum that summarizes the conversations in which the participant appears.
 
 2. Conversations metadata:
