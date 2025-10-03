@@ -79,7 +79,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 12-15	BO097	12	ispira	ispira	linguistic	_	_	_	_	_	_
 12-16	BO097	12	quel	quel	linguistic	_	_	_	_	_	_
 12-17	BO097	12	libro	libro	linguistic	_	_	_	_	_	_
-12-18	BO097	12	lì	lì	linguistic	_	End=30.91	_	_	_	_
+12-18	BO097	12	là	là	linguistic	_	End=30.91	_	_	_	_
 13-0	BO095	13	[qual	qual	linguistic	_	Begin=32.744	_	_	_	0-4(2)
 13-1	BO095	13	è	è	linguistic	_	_	_	_	_	0-1(2)
 13-2	BO095	13	che	che	linguistic	_	_	_	_	_	0-3(2)
@@ -470,7 +470,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 68-1	BO095	68	ti	ti	linguistic	_	_	_	_	_	_
 68-2	BO095	68	piace	piace	linguistic	_	End=220.537	_	_	_	_
 69-0	BO097	69	xxx	x	unknown	_	Begin=220.583	_	_	_	_
-69-1	BO097	69	lettteratura	lettteratura	linguistic	_	_	_	_	_	_
+69-1	BO097	69	letteratura	letteratura	linguistic	_	_	_	_	_	_
 69-2	BO097	69	mi	mi	linguistic	_	_	_	_	_	_
 69-3	BO097	69	piace	piace	linguistic	_	End=222.543	_	_	_	_
 70-0	BO095	70	e	e	linguistic	_	Begin=222.583	_	_	_	_
