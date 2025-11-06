@@ -1063,7 +1063,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 234-10	BO147	234	diventerà	diventerà	linguistic	_	_	_	_	_	_
 234-11	BO147	234	papà	papà	linguistic	_	End=380.88	_	_	_	_
 235-0	BO147	235	lei	lei	linguistic	_	Begin=381.076	_	_	_	_
-235-1	BO147	235	((esclamazione_sorpresa))	((esclamazione_sorpresa))	nonverbalbehavior	_	End=382.206	_	_	_	_
+235-1	BO147	235	AHH	ahh	linguistic	_	End=382.206	_	_	_	_
 236-0	BO146	236	((ride))	((ride))	nonverbalbehavior	_	Begin=381.926|End=382.186	_	_	_	_
 237-0	BO139	237	((ride))	((ride))	nonverbalbehavior	_	Begin=382.191|End=382.731	_	_	_	_
 238-0	BO145	238	io	io	linguistic	_	Begin=383.146	_	_	_	_
