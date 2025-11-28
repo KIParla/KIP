@@ -8,6 +8,7 @@
   - [Verticalized content](#verticalized-content)
   - [Data access](#data-access)
   - [How to cite](#how-to-cite)
+  - [Changelog](#changelog)
 
 The KIP corpus is part of the larger [KIParla collection](https://www.kiparla.it),
 which can be freely queried through the [NoSketch Engine interface](https://kiparla.it/search/).
@@ -134,6 +135,14 @@ in your references
 ```
 
 If you use the KIP module in your research, please also reference this repository (commit/tag) in your data statement or appendix.
+
+## Changelog
+
+* 2025-10-07 v1.0.0
+  * First release
+
+* 2025-11-28 v1.1.0
+  * Major fix: wrong speaker attribution in linear-jefferson and linear-orthographic
 
 -----
 
