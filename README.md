@@ -143,6 +143,7 @@ If you use the KIP module in your research, please also reference this repositor
 
 * 2025-11-28 v1.1.0
   * Major fix: wrong speaker attribution in linear-jefferson and linear-orthographic
+  * Minor fix: empty turns in linear-orthographic were removed
 
 -----
 
