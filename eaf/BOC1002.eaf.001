@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline"
-    DATE="2025-12-12T17:36:04+01:00" FORMAT="3.0" VERSION="3.0"
+    DATE="2025-12-12T17:35:44+01:00" FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Users/ludovica/Library/CloudStorage/OneDrive-AlmaMaterStudiorumUniversitàdiBologna/Caterina Mauri's files - KIParla_server/KIP_audio/BOC1002.mp3"
-            MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../../../../Library/CloudStorage/OneDrive-AlmaMaterStudiorumUniversitàdiBologna/Caterina Mauri's files - KIParla_server/KIP_audio/BOC1002.mp3"/>
+            MEDIA_URL="file:///Users/ludovica/Library/CloudStorage/OneDrive-AlmaMaterStudiorumUniversitàdiBologna/Caterina Mauri's files - KIParla_server/KIP_audio/BOC1002.mp3" MIME_TYPE="audio/*"/>
         <PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:402e8bf4-2d35-4fbd-b6cd-f70713fbfd79</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">734</PROPERTY>
