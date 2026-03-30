@@ -288,7 +288,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 60-0	BO035	60	va	va	linguistic	_	Begin=218.713	_	_	_	_
 60-1	BO035	60	ben°(e	bene	linguistic	Volume=Low	_	_	_	3-4(0)	_
 60-2	BO035	60	perché	perché	linguistic	Volume=Low	_	_	_	0-6(0)	_
-60-3	BO035	60	xx).°	xx	linguistic	Intonation=Falling|Volume=Low	End=219.943	_	_	0-2(0)	_
+60-3	BO035	60	xx).°	xx	linguistic	Intonation=Falling|Volume=Low|Syllables=2	End=219.943	_	_	0-2(0)	_
 61-0	BO026	61	e::h	eh	linguistic	ProsodicLink=Yes	Begin=220.283	0x2	_	_	_
 61-1	BO026	61	m:h	mh	linguistic	_	End=221.205	0x1	_	_	_
 62-0	BO026	62	vabbè	vabbè	linguistic	_	Begin=236.718	_	_	_	_
