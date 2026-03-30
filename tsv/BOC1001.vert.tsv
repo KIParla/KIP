@@ -707,8 +707,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 90-1	BO088	90	bri~	bri~	linguistic	Interrupted=Yes	_	_	_	_	_
 90-2	BO088	90	no.	no	linguistic	Intonation=Falling	End=318.752	_	_	_	_
 91-0	BO087	91	<evangeliario>	evangeliario	linguistic	_	Begin=320.961	_	Slow=0-12	_	_
-91-1	BO087	91	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-91-2	BO087	91	[]	x	unknown	_	_	_	_	_	_
+91-1	BO087	91	[(.)]	[PAUSE]	shortpause	_	_	_	_	_	0-1(17)
 91-3	BO087	91	evangeliario.	evangeliario	linguistic	Intonation=Falling	End=324.053	_	_	_	_
 92-0	BO088	92	[ah].	ah	linguistic	Intonation=Falling	Begin=322.568|End=322.944	_	_	_	0-2(17)
 93-0	BO087	93	che	che	linguistic	_	Begin=325.702	_	_	_	_
@@ -1164,8 +1163,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 148-7	BO087	148	dei	dei	linguistic	_	_	_	_	_	_
 148-8	BO087	148	titoli	titoli	linguistic	_	_	_	_	_	_
 148-9	BO087	148	rispetto	rispetto	linguistic	_	_	_	_	_	_
-148-10	BO087	148	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-148-11	BO087	148	[]	x	unknown	_	_	_	_	_	_
+148-10	BO087	148	[(.)]	[PAUSE]	shortpause	_	_	_	_	_	0-1(29)
 148-12	BO087	148	all'	all'	linguistic	SpaceAfter=No	_	_	_	_	_
 148-13	BO087	148	età	età	linguistic	_	_	_	_	_	_
 148-14	BO087	148	nonantolana	nonantolana	linguistic	_	_	_	_	_	_
@@ -1178,8 +1176,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 150-4	BO087	150	molto	molto	linguistic	_	_	_	_	_	_
 150-5	BO087	150	presto	presto	linguistic	_	_	_	_	_	_
 150-6	BO087	150	a,	a	linguistic	Intonation=WeaklyRising	_	_	_	_	_
-150-7	BO087	150	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-150-8	BO087	150	[]	x	unknown	_	_	_	_	_	_
+150-7	BO087	150	[(.)]	[PAUSE]	shortpause	_	_	_	_	_	0-1(30)
 150-9	BO087	150	a	a	linguistic	_	_	_	_	_	_
 150-10	BO087	150	raggiungere	raggiungere	linguistic	_	_	_	_	_	_
 150-11	BO087	150	dimensioni	dimensioni	linguistic	_	_	_	_	_	_
@@ -1346,8 +1343,7 @@ token_id	speaker	tu_id	span	form	type	jefferson_feats	align	prolongations	pace	g
 176-9	BO087	176	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
 176-10	BO087	176	la	la	linguistic	_	_	_	_	_	_
 176-11	BO087	176	la	la	linguistic	_	_	_	_	_	_
-176-12	BO087	176	(.)	[PAUSE]	shortpause	_	_	_	_	_	_
-176-13	BO087	176	[]	x	unknown	_	_	_	_	_	_
+176-12	BO087	176	[(.)]	[PAUSE]	shortpause	_	_	_	_	_	0-2(34)
 176-14	BO087	176	compilazione	compilazione	linguistic	_	End=668.581	_	_	_	_
 177-0	BO088	177	[la	la	linguistic	_	Begin=666.859	_	_	_	0-2(34)
 177-1	BO088	177	stesura	stesura	linguistic	_	_	_	_	_	0-7(34)
