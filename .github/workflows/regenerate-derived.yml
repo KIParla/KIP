@@ -12,6 +12,7 @@ on:
       - dev
     paths:
       - 'tsv/**'
+  workflow_dispatch: {}
 
 permissions:
   contents: write
