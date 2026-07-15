@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:15+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-07-15T21:57:29+00:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="BOA1010.wav" RELATIVE_MEDIA_URL="BOA1010.wav" MIME_TYPE="audio/x-wav" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -1091,9 +1092,9 @@
 		<TIME_SLOT TIME_SLOT_ID="ts1086" TIME_VALUE="1187028" />
 		<TIME_SLOT TIME_SLOT_ID="ts1087" TIME_VALUE="1187366" />
 		<TIME_SLOT TIME_SLOT_ID="ts1088" TIME_VALUE="1188920" />
-		<TIME_SLOT TIME_SLOT_ID="ts1089" TIME_VALUE="1192046" />
+		<TIME_SLOT TIME_SLOT_ID="ts1089" TIME_VALUE="1189362" />
 		<TIME_SLOT TIME_SLOT_ID="ts1090" TIME_VALUE="1188920" />
-		<TIME_SLOT TIME_SLOT_ID="ts1091" TIME_VALUE="1189362" />
+		<TIME_SLOT TIME_SLOT_ID="ts1091" TIME_VALUE="1192046" />
 		<TIME_SLOT TIME_SLOT_ID="ts1092" TIME_VALUE="1192781" />
 		<TIME_SLOT TIME_SLOT_ID="ts1093" TIME_VALUE="1199614" />
 		<TIME_SLOT TIME_SLOT_ID="ts1094" TIME_VALUE="1200168" />
@@ -1203,6 +1204,7 @@
 		<TIME_SLOT TIME_SLOT_ID="ts1198" TIME_VALUE="1283735" />
 		<TIME_SLOT TIME_SLOT_ID="ts1199" TIME_VALUE="1284628" />
 		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="BO039" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -1346,7 +1348,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a228" TIME_SLOT_REF1="ts454" TIME_SLOT_REF2="ts455">
-				<ANNOTATION_VALUE>[°sì.° (.) il problema cre]do che sia:: presso l'università di copenaghen che una volta fatta domanda e s~ e essere: una volta che siamo state ammesse a questi co[rsi],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[°sì.° {P} il problema cre]do che sia:: presso l'università di copenaghen che una volta fatta domanda e s~ e essere: una volta che siamo state ammesse a questi co[rsi],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1416,7 +1418,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a305" TIME_SLOT_REF1="ts608" TIME_SLOT_REF2="ts609">
-				<ANNOTATION_VALUE>o: potrei scegliere english for specific purpose (.) qui,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>o: potrei scegliere english for specific purpose {P} qui,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1426,7 +1428,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a307" TIME_SLOT_REF1="ts612" TIME_SLOT_REF2="ts613">
-				<ANNOTATION_VALUE>che sempre nel piano di stu~ nel programma (.) mh dice che si occupa anche molto della::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che sempre nel piano di stu~ nel programma {P} mh dice che si occupa anche molto della::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1526,7 +1528,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a335" TIME_SLOT_REF1="ts668" TIME_SLOT_REF2="ts669">
-				<ANNOTATION_VALUE>imma[gino sì (.) sì sì].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>imma[gino sì {P} sì sì].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1551,7 +1553,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a344" TIME_SLOT_REF1="ts686" TIME_SLOT_REF2="ts687">
-				<ANNOTATION_VALUE>e::h avevo scelto qui (.) humanitarian communication,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h avevo scelto qui {P} humanitarian communication,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1591,12 +1593,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a355" TIME_SLOT_REF1="ts708" TIME_SLOT_REF2="ts709">
-				<ANNOTATION_VALUE>e:: poi (.) avrei l'ultimo esame, in teoria che sarebbe,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: poi {P} avrei l'ultimo esame, in teoria che sarebbe,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a356" TIME_SLOT_REF1="ts710" TIME_SLOT_REF2="ts711">
-				<ANNOTATION_VALUE>qui, (.) i:l=mh l'esame che dovrei: che (.) libero. [potrei scegliere quello c~]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>qui, {P} i:l=mh l'esame che dovrei: che {P} libero. [potrei scegliere quello c~]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1646,7 +1648,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a371" TIME_SLOT_REF1="ts740" TIME_SLOT_REF2="ts741">
-				<ANNOTATION_VALUE>[lo devo poi sì lo devo verificare ne]::l (.) [al posto].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[lo devo poi sì lo devo verificare ne]::l {P} [al posto].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1676,12 +1678,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a381" TIME_SLOT_REF1="ts760" TIME_SLOT_REF2="ts761">
-				<ANNOTATION_VALUE>[sì]. (.) sì.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì]. {P} sì.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a388" TIME_SLOT_REF1="ts774" TIME_SLOT_REF2="ts775">
-				<ANNOTATION_VALUE>[°no:] (.) sì.°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[°no:] {P} sì.°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1821,12 +1823,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a466" TIME_SLOT_REF1="ts930" TIME_SLOT_REF2="ts931">
-				<ANNOTATION_VALUE>[se] facciamo adesso oggi il learning e in qualche giorno (.) sappiamo che va bene noi fa[cciamo doma]nda ai corsi: di copenaghen però loro potrebbero anche scriverci che nel frattempo si è riempito il corso.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[se] facciamo adesso oggi il learning e in qualche giorno {P} sappiamo che va bene noi fa[cciamo doma]nda ai corsi: di copenaghen però loro potrebbero anche scriverci che nel frattempo si è riempito il corso.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a468" TIME_SLOT_REF1="ts934" TIME_SLOT_REF2="ts935">
-				<ANNOTATION_VALUE>quindi dovremmo (.) cambiare il learning e trovarne u[n altro].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi dovremmo {P} cambiare il learning e trovarne u[n altro].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1846,7 +1848,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a476" TIME_SLOT_REF1="ts950" TIME_SLOT_REF2="ts951">
-				<ANNOTATION_VALUE>[però dicia]mo che comunque dobbiamo prima (.) es[sere sicure che ce li convalidino].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[però dicia]mo che comunque dobbiamo prima {P} es[sere sicure che ce li convalidino].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1866,7 +1868,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a490" TIME_SLOT_REF1="ts978" TIME_SLOT_REF2="ts979">
-				<ANNOTATION_VALUE>diciamo io: per esempio nel mio caso non si dovrebbe porre più di tanto il problema pe[rché] (.) gli esami del primo semestre dovrebbero essere quei due di spagnolo e inglese che il programma è quasi uguale a [quello]: di [qua].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>diciamo io: per esempio nel mio caso non si dovrebbe porre più di tanto il problema pe[rché] {P} gli esami del primo semestre dovrebbero essere quei due di spagnolo e inglese che il programma è quasi uguale a [quello]: di [qua].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1926,7 +1928,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a534" TIME_SLOT_REF1="ts1066" TIME_SLOT_REF2="ts1067">
-				<ANNOTATION_VALUE>però io (.) anche se mettessi solo questi esami comunque con i crediti mi troverei sul learning.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però io {P} anche se mettessi solo questi esami comunque con i crediti mi troverei sul learning.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1960,7 +1962,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a546" TIME_SLOT_REF1="ts1090" TIME_SLOT_REF2="ts1091">
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a545" TIME_SLOT_REF1="ts1088" TIME_SLOT_REF2="ts1089">
 				<ANNOTATION_VALUE>[io se~]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
@@ -2033,7 +2035,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
-				<ANNOTATION_VALUE>voi avete fatto:: la:: (.) domanda?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>voi avete fatto:: la:: {P} domanda?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2238,7 +2240,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a105" TIME_SLOT_REF1="ts208" TIME_SLOT_REF2="ts209">
-				<ANNOTATION_VALUE>[mh]. (.) m[h].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[mh]. {P} m[h].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2323,7 +2325,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a139" TIME_SLOT_REF1="ts276" TIME_SLOT_REF2="ts277">
-				<ANNOTATION_VALUE>qu~ quanti crediti ha l[a disciplina] (.) in italia,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>qu~ quanti crediti ha l[a disciplina] {P} in italia,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2368,7 +2370,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a157" TIME_SLOT_REF1="ts312" TIME_SLOT_REF2="ts313">
-				<ANNOTATION_VALUE>e lei con che cosa lo (.) lo: sostituirebbe con la disciplina,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e lei con che cosa lo {P} lo: sostituirebbe con la disciplina,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2398,12 +2400,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a167" TIME_SLOT_REF1="ts332" TIME_SLOT_REF2="ts333">
-				<ANNOTATION_VALUE>e antropologia qui: a: bologna è da nove cre[diti] e lì è da sei, (.) non può fare uno da sei,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e antropologia qui: a: bologna è da nove cre[diti] e lì è da sei, {P} non può fare uno da sei,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a170" TIME_SLOT_REF1="ts338" TIME_SLOT_REF2="ts339">
-				<ANNOTATION_VALUE>[integrato poi (.) sì].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[integrato poi {P} sì].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2418,7 +2420,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a179" TIME_SLOT_REF1="ts356" TIME_SLOT_REF2="ts357">
-				<ANNOTATION_VALUE>[voi p]er quanto tempo le avete fatte °le [doman~ (.) due semestri,°]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[voi p]er quanto tempo le avete fatte °le [doman~ {P} due semestri,°]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2448,7 +2450,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a195" TIME_SLOT_REF1="ts388" TIME_SLOT_REF2="ts389">
-				<ANNOTATION_VALUE>[°resta (.) cinque cre]diti.°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[°resta {P} cinque cre]diti.°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2473,7 +2475,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a210" TIME_SLOT_REF1="ts418" TIME_SLOT_REF2="ts419">
-				<ANNOTATION_VALUE>[sì. no no non c'è sovrapposizio]ne perché questo è:: american literature (.) no,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì. no no non c'è sovrapposizio]ne perché questo è:: american literature {P} no,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2503,7 +2505,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a221" TIME_SLOT_REF1="ts440" TIME_SLOT_REF2="ts441">
-				<ANNOTATION_VALUE>poi tenete conto che voi potete adesso inviate preparate un (.) un lear[ning] un learning agreement che può essere parzialmente modificato quando siete [lì e avete vi]sto,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi tenete conto che voi potete adesso inviate preparate un {P} un lear[ning] un learning agreement che può essere parzialmente modificato quando siete [lì e avete vi]sto,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2563,7 +2565,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a249" TIME_SLOT_REF1="ts496" TIME_SLOT_REF2="ts497">
-				<ANNOTATION_VALUE>se ci fosse la possiblità di di di: inserire anche questo perché (.) è nel piano di studi (.) è solo che non è il diparti[mento].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se ci fosse la possiblità di di di: inserire anche questo perché {P} è nel piano di studi {P} è solo che non è il diparti[mento].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2603,7 +2605,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a266" TIME_SLOT_REF1="ts530" TIME_SLOT_REF2="ts531">
-				<ANNOTATION_VALUE>a lei ne servirebbero (.) cinque.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a lei ne servirebbero {P} cinque.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2618,12 +2620,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a271" TIME_SLOT_REF1="ts540" TIME_SLOT_REF2="ts541">
-				<ANNOTATION_VALUE>[è questo che] deve verificare anche qui parlando anche co::n (.) perché poi c'è una commissione che (.) [valuta] le vostr[e equivalenze].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[è questo che] deve verificare anche qui parlando anche co::n {P} perché poi c'è una commissione che {P} [valuta] le vostr[e equivalenze].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a274" TIME_SLOT_REF1="ts546" TIME_SLOT_REF2="ts547">
-				<ANNOTATION_VALUE>[parlando an]che le la docente della disciplina &lt;la o il docente&gt; della disciplina con cui (.) che lei sceglierebbe,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[parlando an]che le la docente della disciplina &lt;la o il docente&gt; della disciplina con cui {P} che lei sceglierebbe,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2663,7 +2665,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a287" TIME_SLOT_REF1="ts572" TIME_SLOT_REF2="ts573">
-				<ANNOTATION_VALUE>[°però] se sta li sei (.) (pe[r) un sem]estre:°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[°però] se sta li sei {P} (pe[r) un sem]estre:°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2753,7 +2755,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a346" TIME_SLOT_REF1="ts690" TIME_SLOT_REF2="ts691">
-				<ANNOTATION_VALUE>e lì (.) [a copenaghen],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e lì {P} [a copenaghen],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2788,7 +2790,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a370" TIME_SLOT_REF1="ts738" TIME_SLOT_REF2="ts739">
-				<ANNOTATION_VALUE>[questo lo può ver]ificare quan[do è lì (.) quando è lì].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[questo lo può ver]ificare quan[do è lì {P} quando è lì].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2873,7 +2875,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a409" TIME_SLOT_REF1="ts816" TIME_SLOT_REF2="ts817">
-				<ANNOTATION_VALUE>e::h sì. (.) lo concorda con la: gia[lli],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h sì. {P} lo concorda con la: gia[lli],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2993,7 +2995,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a471" TIME_SLOT_REF1="ts940" TIME_SLOT_REF2="ts941">
-				<ANNOTATION_VALUE>ma non (.) io penso (.) s(e) voi dite che così può può essere:: può esser[ci questo rischio]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma non {P} io penso {P} s(e) voi dite che così può può essere:: può esser[ci questo rischio]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3013,7 +3015,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a479" TIME_SLOT_REF1="ts956" TIME_SLOT_REF2="ts957">
-				<ANNOTATION_VALUE>[eh infatti. (.) (infatti.)]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[eh infatti. {P} (infatti.)]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3038,7 +3040,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a488" TIME_SLOT_REF1="ts974" TIME_SLOT_REF2="ts975">
-				<ANNOTATION_VALUE>voglio sperare ca~ calcolino anche una (.) percentuale (per le) di presenze degli studenti erasmus.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>voglio sperare ca~ calcolino anche una {P} percentuale (per le) di presenze degli studenti erasmus.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3083,7 +3085,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a508" TIME_SLOT_REF1="ts1014" TIME_SLOT_REF2="ts1015">
-				<ANNOTATION_VALUE>[°sì.° (.) no no]:n (.) l'importante è che non sia,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[°sì.° {P} no no]:n {P} l'importante è che non sia,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3177,7 +3179,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a545" TIME_SLOT_REF1="ts1088" TIME_SLOT_REF2="ts1089">
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a546" TIME_SLOT_REF1="ts1090" TIME_SLOT_REF2="ts1091">
 				<ANNOTATION_VALUE>[°ma° q]uesto lo deve verificare in ufficio °non glielo so dire.°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
@@ -3360,7 +3362,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts75">
-				<ANNOTATION_VALUE>sì. (.) sì per~ cioè io sono venuta anche: [a ricevimento con lei]. sì sì pe::r=[mh]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì. {P} sì per~ cioè io sono venuta anche: [a ricevimento con lei]. sì sì pe::r=[mh]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3385,7 +3387,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts105">
-				<ANNOTATION_VALUE>quindi a parte il m::h diciamo la bozza di esami da dare che abbiamo (.) inoltrato con la:: lettera,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi a parte il m::h diciamo la bozza di esami da dare che abbiamo {P} inoltrato con la:: lettera,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3460,7 +3462,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts162" TIME_SLOT_REF2="ts163">
-				<ANNOTATION_VALUE>eh [c'è anche no non è non è (.) ssì].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh [c'è anche no non è non è {P} ssì].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3520,7 +3522,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts216" TIME_SLOT_REF2="ts217">
-				<ANNOTATION_VALUE>quindi (.) devo chiedere a loro se posso inserire,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi {P} devo chiedere a loro se posso inserire,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3545,7 +3547,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a117" TIME_SLOT_REF1="ts232" TIME_SLOT_REF2="ts233">
-				<ANNOTATION_VALUE>afroamericana [e:: però] comunque (.) [è u:n è angloamericana].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>afroamericana [e:: però] comunque {P} [è u:n è angloamericana].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3555,7 +3557,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a122" TIME_SLOT_REF1="ts242" TIME_SLOT_REF2="ts243">
-				<ANNOTATION_VALUE>ho (.) il blocco quello degli esami:: (.) e::h=mh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ho {P} il blocco quello degli esami:: {P} e::h=mh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3575,12 +3577,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a128" TIME_SLOT_REF1="ts254" TIME_SLOT_REF2="ts255">
-				<ANNOTATION_VALUE>e: se no:n non=mh (.) non dove[ss~]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: se no:n non=mh {P} non dove[ss~]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a130" TIME_SLOT_REF1="ts258" TIME_SLOT_REF2="ts259">
-				<ANNOTATION_VALUE>[fare questo. avevo pensato] d~ di inserire (.) questo che è sempre sotto a english studies,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[fare questo. avevo pensato] d~ di inserire {P} questo che è sempre sotto a english studies,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3605,7 +3607,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a141" TIME_SLOT_REF1="ts280" TIME_SLOT_REF2="ts281">
-				<ANNOTATION_VALUE>e:[h=m:]h io no~ cioè nel senso (.) lì sono da raggiungere dodici [cre]diti,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:[h=m:]h io no~ cioè nel senso {P} lì sono da raggiungere dodici [cre]diti,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3685,7 +3687,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a174" TIME_SLOT_REF1="ts346" TIME_SLOT_REF2="ts347">
-				<ANNOTATION_VALUE>anche perché sull'a::=mh sull'a sull'ammissione c'è scritto (.) poi p~ per questa cosa dobbiamo anche chiedere perché no:n c'è chiara.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>anche perché sull'a::=mh sull'a sull'ammissione c'è scritto {P} poi p~ per questa cosa dobbiamo anche chiedere perché no:n c'è chiara.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3780,7 +3782,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a207" TIME_SLOT_REF1="ts412" TIME_SLOT_REF2="ts413">
-				<ANNOTATION_VALUE>farei: quindici crediti lì a copenaghen che (.) varrebbero solo sei qui da [noi].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>farei: quindici crediti lì a copenaghen che {P} varrebbero solo sei qui da [noi].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3805,7 +3807,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a216" TIME_SLOT_REF1="ts430" TIME_SLOT_REF2="ts431">
-				<ANNOTATION_VALUE>ci sono (.) c'è sicuramente c'è tipo storia dell'educazione una cosa d[el ge]nere al=[e:h]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ci sono {P} c'è sicuramente c'è tipo storia dell'educazione una cosa d[el ge]nere al=[e:h]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3815,7 +3817,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a234" TIME_SLOT_REF1="ts466" TIME_SLOT_REF2="ts467">
-				<ANNOTATION_VALUE>[eh perché lì c'è scritto in realtà che (.) dobbiamo iscriverci],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[eh perché lì c'è scritto in realtà che {P} dobbiamo iscriverci],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3855,7 +3857,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a250" TIME_SLOT_REF1="ts498" TIME_SLOT_REF2="ts499">
-				<ANNOTATION_VALUE>[non è non è] lo [stes]so [dipa]ritmento cioè eh=m:h &lt;è tra esami che&gt; (.) possono essere dati per gli erasmus.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[non è non è] lo [stes]so [dipa]ritmento cioè eh=m:h &lt;è tra esami che&gt; {P} possono essere dati per gli erasmus.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3865,7 +3867,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a257" TIME_SLOT_REF1="ts512" TIME_SLOT_REF2="ts513">
-				<ANNOTATION_VALUE>quindi devo [comunque] (.) scusami.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi devo [comunque] {P} scusami.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3885,12 +3887,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a267" TIME_SLOT_REF1="ts532" TIME_SLOT_REF2="ts533">
-				<ANNOTATION_VALUE>a me ne servirebbero sei, (.) [però s]e io con [que]sto esame riesco a &lt;farne fuori&gt; tra virgolette due qui: cioè fare tutto il blocco degli esami a scelta che ho qui.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a me ne servirebbero sei, {P} [però s]e io con [que]sto esame riesco a &lt;farne fuori&gt; tra virgolette due qui: cioè fare tutto il blocco degli esami a scelta che ho qui.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a270" TIME_SLOT_REF1="ts538" TIME_SLOT_REF2="ts539">
-				<ANNOTATION_VALUE>quindi f~ (.) dod[ici crediti].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi f~ {P} dod[ici crediti].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3915,17 +3917,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a281" TIME_SLOT_REF1="ts560" TIME_SLOT_REF2="ts561">
-				<ANNOTATION_VALUE>[il mio problema era] semplicemente &lt;per il fat~&gt; il fatto dei: mh (.) trenta c~ cosidetti trenta crediti obbliga[tori lì].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[il mio problema era] semplicemente &lt;per il fat~&gt; il fatto dei: mh {P} trenta c~ cosidetti trenta crediti obbliga[tori lì].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a284" TIME_SLOT_REF1="ts566" TIME_SLOT_REF2="ts567">
-				<ANNOTATION_VALUE>perché (.) avendo solamente (.) potrei farlo perché per cioè per ritenere la borsa erasmus e lo status di studente erasmus mi basterebbero tre crediti.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché {P} avendo solamente {P} potrei farlo perché per cioè per ritenere la borsa erasmus e lo status di studente erasmus mi basterebbero tre crediti.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a285" TIME_SLOT_REF1="ts568" TIME_SLOT_REF2="ts569">
-				<ANNOTATION_VALUE>quind[i alla f]ine potrei mettere sul learning agreement anche due esami non non è (.) cioè non sarebbe quello il problema [anche perché],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quind[i alla f]ine potrei mettere sul learning agreement anche due esami non non è {P} cioè non sarebbe quello il problema [anche perché],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3990,7 +3992,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a429" TIME_SLOT_REF1="ts856" TIME_SLOT_REF2="ts857">
-				<ANNOTATION_VALUE>cioè [x gli es]ami (.) massimo arri[vano] al trentuno gennaio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè [x gli es]ami {P} massimo arri[vano] al trentuno gennaio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4005,7 +4007,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a435" TIME_SLOT_REF1="ts868" TIME_SLOT_REF2="ts869">
-				<ANNOTATION_VALUE>[sì intenso]. ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì intenso]. {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4035,7 +4037,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a446" TIME_SLOT_REF1="ts890" TIME_SLOT_REF2="ts891">
-				<ANNOTATION_VALUE>perché probabilmente noi dobbiamo fare prima (.) dobbiamo compilare il learning agreement s~ sulla pa[gina (.) di almaesami].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché probabilmente noi dobbiamo fare prima {P} dobbiamo compilare il learning agreement s~ sulla pa[gina {P} di almaesami].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4110,7 +4112,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a505" TIME_SLOT_REF1="ts1008" TIME_SLOT_REF2="ts1009">
-				<ANNOTATION_VALUE>comunque lì si tratta di analisi del discorso quin[di è]: al liv[ello di] discorso ma di testi &gt;cose così&lt; quindi (.) [fondamentalmente],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>comunque lì si tratta di analisi del discorso quin[di è]: al liv[ello di] discorso ma di testi &gt;cose così&lt; quindi {P} [fondamentalmente],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4135,7 +4137,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a561" TIME_SLOT_REF1="ts1120" TIME_SLOT_REF2="ts1121">
-				<ANNOTATION_VALUE>e: io magari mi (.) a me magari conviene prima scrivere a loro e chiedere se posso: inserire antropologia.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: io magari mi {P} a me magari conviene prima scrivere a loro e chiedere se posso: inserire antropologia.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4165,12 +4167,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a579" TIME_SLOT_REF1="ts1156" TIME_SLOT_REF2="ts1157">
-				<ANNOTATION_VALUE>quindi geografia non avrei potuto [metterl]a (.) tra gli esami a scelta di quel blo:c[co blab]labla.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi geografia non avrei potuto [metterl]a {P} tra gli esami a scelta di quel blo:c[co blab]labla.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a583" TIME_SLOT_REF1="ts1164" TIME_SLOT_REF2="ts1165">
-				<ANNOTATION_VALUE>solo che eventualmente (.) ecco antropologia voglio dire alla fine,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>solo che eventualmente {P} ecco antropologia voglio dire alla fine,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

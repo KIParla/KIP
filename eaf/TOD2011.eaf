@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:20+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-07-15T21:57:29+00:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="TOD2011.wav" RELATIVE_MEDIA_URL="TOD2011.wav" MIME_TYPE="audio/x-wav" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -473,6 +474,7 @@
 		<TIME_SLOT TIME_SLOT_ID="ts468" TIME_VALUE="1894036" />
 		<TIME_SLOT TIME_SLOT_ID="ts469" TIME_VALUE="1897790" />
 		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="TO055" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -486,7 +488,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -496,7 +498,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
-				<ANNOTATION_VALUE>(cosa?) ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>(cosa?) {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -516,7 +518,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -536,7 +538,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts93">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -561,7 +563,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -601,12 +603,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts200" TIME_SLOT_REF2="ts201">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a105" TIME_SLOT_REF1="ts208" TIME_SLOT_REF2="ts209">
-				<ANNOTATION_VALUE>[eh] ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[eh] {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -616,7 +618,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts216" TIME_SLOT_REF2="ts217">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -646,7 +648,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a127" TIME_SLOT_REF1="ts252" TIME_SLOT_REF2="ts253">
-				<ANNOTATION_VALUE>((ride)) hai fatto dei saggi::,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride} hai fatto dei saggi::,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -656,7 +658,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a135" TIME_SLOT_REF1="ts268" TIME_SLOT_REF2="ts269">
-				<ANNOTATION_VALUE>e invece prima mi hai detto che:: ti piacerebbe andare a vivere all'estero. [hai mai] fatto viaggi::: (.) non lo so in posti particolari:::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e invece prima mi hai detto che:: ti piacerebbe andare a vivere all'estero. [hai mai] fatto viaggi::: {P} non lo so in posti particolari:::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -671,22 +673,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a155" TIME_SLOT_REF1="ts308" TIME_SLOT_REF2="ts309">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a156" TIME_SLOT_REF1="ts310" TIME_SLOT_REF2="ts311">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a158" TIME_SLOT_REF1="ts314" TIME_SLOT_REF2="ts315">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a159" TIME_SLOT_REF1="ts316" TIME_SLOT_REF2="ts317">
-				<ANNOTATION_VALUE>((ride)) [buo]no eh, però, ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride} [buo]no eh, però, {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -706,12 +708,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a182" TIME_SLOT_REF1="ts362" TIME_SLOT_REF2="ts363">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a188" TIME_SLOT_REF1="ts374" TIME_SLOT_REF2="ts375">
-				<ANNOTATION_VALUE>la e::: m:h la cosa che hai=impara:to: cioè: l'esperienza più bella che ti porti dietro::: (.) non lo so.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la e::: m:h la cosa che hai=impara:to: cioè: l'esperienza più bella che ti porti dietro::: {P} non lo so.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -731,7 +733,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a196" TIME_SLOT_REF1="ts390" TIME_SLOT_REF2="ts391">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -756,7 +758,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a206" TIME_SLOT_REF1="ts410" TIME_SLOT_REF2="ts411">
-				<ANNOTATION_VALUE>[impari a ges]tirti un [po'::: (.) un po' me]glio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[impari a ges]tirti un [po'::: {P} un po' me]glio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -788,7 +790,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
-				<ANNOTATION_VALUE>perché architettura=ha:: tre indirizzi, (.) uno è: architettura normale, l'altro è di urbanistica, e poi c'è questo che è di design,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché architettura=ha:: tre indirizzi, {P} uno è: architettura normale, l'altro è di urbanistica, e poi c'è questo che è di design,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -798,7 +800,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
-				<ANNOTATION_VALUE>e~ e:::h ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e~ e:::h {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -838,7 +840,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
-				<ANNOTATION_VALUE>ehm:: progettare una seduta, hai bisogno::=m:h (.) di capire quali sono le:: dimensio:ni:, la struttura, quali: materiali vanno meglio per fare in modo che la seduta rimanga in piedi, e cose del genere,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ehm:: progettare una seduta, hai bisogno::=m:h {P} di capire quali sono le:: dimensio:ni:, la struttura, quali: materiali vanno meglio per fare in modo che la seduta rimanga in piedi, e cose del genere,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -868,12 +870,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
-				<ANNOTATION_VALUE>no. e::h dei::=m::::h dei programmi al com[pu:ter=eh], che:: m:h (.) sono molto più:: belli da utilizzare,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no. e::h dei::=m::::h dei programmi al com[pu:ter=eh], che:: m:h {P} sono molto più:: belli da utilizzare,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -893,7 +895,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
-				<ANNOTATION_VALUE>beh questa è una domanda:=m:h (.) un po' tosta:: perché::=m::h in realtà comunque bisogna vedere (.) dopo la triennale, quale: speciali[stica:]:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>beh questa è una domanda:=m:h {P} un po' tosta:: perché::=m::h in realtà comunque bisogna vedere {P} dopo la triennale, quale: speciali[stica:]:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -953,7 +955,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts107">
-				<ANNOTATION_VALUE>[esa~] cosa fare cosa non fare. poi vabbè dipende anche magari, (.) da quali sono:: m::h (.) insomma m:::h i posti di lavoro disponibili se:: si trova magari::: (.) non lo so un:: un'esperienza:=all'estero che poi ti porta a poter lavorare fuori:: e rimanere fuori:: a lavorare:::, dipende da una serie di cose.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[esa~] cosa fare cosa non fare. poi vabbè dipende anche magari, {P} da quali sono:: m::h {P} insomma m:::h i posti di lavoro disponibili se:: si trova magari::: {P} non lo so un:: un'esperienza:=all'estero che poi ti porta a poter lavorare fuori:: e rimanere fuori:: a lavorare:::, dipende da una serie di cose.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -963,7 +965,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts113">
-				<ANNOTATION_VALUE>comunque lavorare all'estero, significa:: (.) dover magari lasciare delle persone che::: che hai conosciuto:: qua in italia, nel posto dove sei sempre rimasto,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>comunque lavorare all'estero, significa:: {P} dover magari lasciare delle persone che::: che hai conosciuto:: qua in italia, nel posto dove sei sempre rimasto,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -978,7 +980,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts119">
-				<ANNOTATION_VALUE>e:::: però sicuramente sarebbe, (.) sarebbe::: molto utile,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::: però sicuramente sarebbe, {P} sarebbe::: molto utile,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -988,12 +990,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts123">
-				<ANNOTATION_VALUE>potrei imparare:: una lingua, vabbè. adesso:: cioè io penso soprattutto all'inglese perché::: cioè io vorrei trasferirmi (.) vabbè adesso [parlando in gran]de tipo in america o co[munque:::] in posti dove:: (.) m::h la grafica e::: e un settore che si vede:::molto ed è molto utilizzato, perché qua in italia io penso che::=m:h (.) la grafica non sia vista, cioè non gli non gli sia:: dato m:h il giusto:: valore che:: deve avere,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>potrei imparare:: una lingua, vabbè. adesso:: cioè io penso soprattutto all'inglese perché::: cioè io vorrei trasferirmi {P} vabbè adesso [parlando in gran]de tipo in america o co[munque:::] in posti dove:: {P} m::h la grafica e::: e un settore che si vede:::molto ed è molto utilizzato, perché qua in italia io penso che::=m:h {P} la grafica non sia vista, cioè non gli non gli sia:: dato m:h il giusto:: valore che:: deve avere,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
-				<ANNOTATION_VALUE>e::: infatti questo si nota dal fatto che (.) e::h=m::h ad esempio il nostro professore ci fa sempre questi esempi:: in cui:::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::: infatti questo si nota dal fatto che {P} e::h=m::h ad esempio il nostro professore ci fa sempre questi esempi:: in cui:::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1008,12 +1010,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts137">
-				<ANNOTATION_VALUE>mentre invece ad esempio in america:: e:: comunque::=m:h (.) e:::h in=e::h in questi:: in queste città molto grandi:: la grafica è molto diffusa ed è::: un:: lavoro:: (.) che vabbè oltre ad essere molto ben retribuito:::, m:::h insomma appunto gli si dà il giusto valore.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mentre invece ad esempio in america:: e:: comunque::=m:h {P} e:::h in=e::h in questi:: in queste città molto grandi:: la grafica è molto diffusa ed è::: un:: lavoro:: {P} che vabbè oltre ad essere molto ben retribuito:::, m:::h insomma appunto gli si dà il giusto valore.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts139">
-				<ANNOTATION_VALUE>e::: m:::h (.) quindi sì. mi pia[cerebbe:::] sì.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::: m:::h {P} quindi sì. mi pia[cerebbe:::] sì.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1028,42 +1030,42 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts149">
-				<ANNOTATION_VALUE>molti::: dei miei::=m::h (.) e:::h de~ dei ragazzi che abitano a @nomepaese con me, e:::h mh viaggiano, quelli che studiano a torino tanti viaggiano,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>molti::: dei miei::=m::h {P} e:::h de~ dei ragazzi che abitano a @nomepaese con me, e:::h mh viaggiano, quelli che studiano a torino tanti viaggiano,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts151">
-				<ANNOTATION_VALUE>però:: anche:: altrettanti:: si sono presi:: la casa a torino, perché è vero che comunque (.) dista soltanto un'ora e quindi comunque: volendo, e::h=m::h fare i pendolari, è fattibile come cosa però:, e::h=m::h dipende sempre da::=mh quante ore di lezione hai al giorno, e quanti giorni hai lezione, alla settimana.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però:: anche:: altrettanti:: si sono presi:: la casa a torino, perché è vero che comunque {P} dista soltanto un'ora e quindi comunque: volendo, e::h=m::h fare i pendolari, è fattibile come cosa però:, e::h=m::h dipende sempre da::=mh quante ore di lezione hai al giorno, e quanti giorni hai lezione, alla settimana.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts152" TIME_SLOT_REF2="ts153">
-				<ANNOTATION_VALUE>e::h io ad esempio:::=(ho:) già dal primo anno, ho sempre avuto:: lezioni che mi portavano::: m:h mi occupavano la maggior parte del tempo::, e spesso da (.) dalla mattina presto fino alla sera tardi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h io ad esempio:::=(ho:) già dal primo anno, ho sempre avuto:: lezioni che mi portavano::: m:h mi occupavano la maggior parte del tempo::, e spesso da {P} dalla mattina presto fino alla sera tardi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts154" TIME_SLOT_REF2="ts155">
-				<ANNOTATION_VALUE>e:: poi soprattutto::=m::h (.) ad architettura:: e::h tanto s~ tante volte, e::h=m::h magari le lezioni ad una certa ora finiscono, però poi ti devi fermare, eh=per=e:::h fare:: mh con i tuoi compagni di gruppo::=m:h e::h il progetto::: mh e gli atelier che sono::: mh (.) i progetti che si fanno per ogni:: esame (.) di architettura,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: poi soprattutto::=m::h {P} ad architettura:: e::h tanto s~ tante volte, e::h=m::h magari le lezioni ad una certa ora finiscono, però poi ti devi fermare, eh=per=e:::h fare:: mh con i tuoi compagni di gruppo::=m:h e::h il progetto::: mh e gli atelier che sono::: mh {P} i progetti che si fanno per ogni:: esame {P} di architettura,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts157">
-				<ANNOTATION_VALUE>e::: e quindi::=m::h fin dall'inizio l'ho sempre::: scartata come opzione, perché::=m:::h (.) viaggiare::: la mattina presto è una cosa che si può fare però poi la sera tardi è un problema, perché comunque, (.) prendere il treno per una studentessa:: e:::h ad un'ora:::=m::h troppo tardi, ehm cioè ancora il treno delle sette e mezza va bene, però: quello d~ dalle otto e mezza in poi:::: è: sconsigliato,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::: e quindi::=m::h fin dall'inizio l'ho sempre::: scartata come opzione, perché::=m:::h {P} viaggiare::: la mattina presto è una cosa che si può fare però poi la sera tardi è un problema, perché comunque, {P} prendere il treno per una studentessa:: e:::h ad un'ora:::=m::h troppo tardi, ehm cioè ancora il treno delle sette e mezza va bene, però: quello d~ dalle otto e mezza in poi:::: è: sconsigliato,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts158" TIME_SLOT_REF2="ts159">
-				<ANNOTATION_VALUE>e:: e quindi fin dal primo anno ho sempre deciso:: di:: di prendere la casa e di vivere::: in un appartamento condiviso con altre studentesse:: ehm (.) e:::h che tra l'altro sono tutte studentesse di @nomepaese,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: e quindi fin dal primo anno ho sempre deciso:: di:: di prendere la casa e di vivere::: in un appartamento condiviso con altre studentesse:: ehm {P} e:::h che tra l'altro sono tutte studentesse di @nomepaese,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts161">
-				<ANNOTATION_VALUE>e:::=m::::h mi sono sempre trovata bene::, e::: m:h diciamo che vivere: a torino e non fare i pendolari:: e:::h=m::h è molto meno stressante rispetto a viaggiare tutti i giorni, (.) ehm:::,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::=m::::h mi sono sempre trovata bene::, e::: m:h diciamo che vivere: a torino e non fare i pendolari:: e:::h=m::h è molto meno stressante rispetto a viaggiare tutti i giorni, {P} ehm:::,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts165">
-				<ANNOTATION_VALUE>((sospira))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{sospira}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1073,7 +1075,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts168" TIME_SLOT_REF2="ts169">
-				<ANNOTATION_VALUE>e:: poi:: due ragazze si sono laureate, ad an~ e: hanno lasciato la casa e di conseguenza io e: la::=m:h e l'altra ragazza (.) e::h abbiamo deciso di:: trasferirci e::: adesso è il primo anno che viviamo in una::: casa nuova con=e::h un'altra ragazza e siamo tutte e tre di @nomepaese,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: poi:: due ragazze si sono laureate, ad an~ e: hanno lasciato la casa e di conseguenza io e: la::=m:h e l'altra ragazza {P} e::h abbiamo deciso di:: trasferirci e::: adesso è il primo anno che viviamo in una::: casa nuova con=e::h un'altra ragazza e siamo tutte e tre di @nomepaese,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1128,7 +1130,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts194" TIME_SLOT_REF2="ts195">
-				<ANNOTATION_VALUE>m::h due tram=eh, oppure:: la metro e il tram=eh, e:: di solito:: quando:: comunque prendo l'ultimo::: dei due tram=eh, (.) e::h devo fare sempre una ventina di fermate prima di::: poter arrivare,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>m::h due tram=eh, oppure:: la metro e il tram=eh, e:: di solito:: quando:: comunque prendo l'ultimo::: dei due tram=eh, {P} e::h devo fare sempre una ventina di fermate prima di::: poter arrivare,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1143,7 +1145,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a102" TIME_SLOT_REF1="ts202" TIME_SLOT_REF2="ts203">
-				<ANNOTATION_VALUE>e:::=m::h (.) e quindi sì. di solito mi devo svegliare sempre: almeno un'ora e mezza prima:::=m::h m::h di avere lezione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::=m::h {P} e quindi sì. di solito mi devo svegliare sempre: almeno un'ora e mezza prima:::=m::h m::h di avere lezione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1153,7 +1155,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts206" TIME_SLOT_REF2="ts207">
-				<ANNOTATION_VALUE>quindi è una zona molto periferica, in cui:: (.) e:::h=m::h c'è il minimo indispensabile::=e:: ma:: non è:: (.) una zona adatta=a studenti perché comunque come tutte le zone periferiche:: è una zona dove:: (.) non gira:::: m~ m~ molta:: (.) bella gen[te] ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi è una zona molto periferica, in cui:: {P} e:::h=m::h c'è il minimo indispensabile::=e:: ma:: non è:: {P} una zona adatta=a studenti perché comunque come tutte le zone periferiche:: è una zona dove:: {P} non gira:::: m~ m~ molta:: {P} bella gen[te] {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1163,7 +1165,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts212" TIME_SLOT_REF2="ts213">
-				<ANNOTATION_VALUE>e:::h non è molto comodo perché appunto per raggiungere il centro:: ci metti sempre tre quarti d'o:ra e:: quindi::: (.) poi so[prattut]to se nel caso torni tardi:: la sera::: chissà chi ti becchi sul tram, quindi::,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h non è molto comodo perché appunto per raggiungere il centro:: ci metti sempre tre quarti d'o:ra e:: quindi::: {P} poi so[prattut]to se nel caso torni tardi:: la sera::: chissà chi ti becchi sul tram, quindi::,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1193,7 +1195,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a117" TIME_SLOT_REF1="ts232" TIME_SLOT_REF2="ts233">
-				<ANNOTATION_VALUE>però:: e:::h=m::h (.) e:h quest'anno ho::: ehm e::h ho scoperto: del=eh cus, [che pratica]mente è una:: m:::h un'associazione sporti:va che comprende diversi tipi di sport=eh, tra cui anche:: la danza,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però:: e:::h=m::h {P} e:h quest'anno ho::: ehm e::h ho scoperto: del=eh cus, [che pratica]mente è una:: m:::h un'associazione sporti:va che comprende diversi tipi di sport=eh, tra cui anche:: la danza,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1203,7 +1205,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a121" TIME_SLOT_REF1="ts240" TIME_SLOT_REF2="ts241">
-				<ANNOTATION_VALUE>e::::=m::h tra l'altro:: il cus=eh=è un=e::h un'associazione che ehm::: (.) è proprio:: per=eh studenti universitari soprattutto: e quindi c'è uno sconto::: e:::h=m:::h abbastanza:: m:::h ab~=m::h mh mh mh=un grande sconto soprattutto per gli studenti universitari,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::::=m::h tra l'altro:: il cus=eh=è un=e::h un'associazione che ehm::: {P} è proprio:: per=eh studenti universitari soprattutto: e quindi c'è uno sconto::: e:::h=m:::h abbastanza:: m:::h ab~=m::h mh mh mh=un grande sconto soprattutto per gli studenti universitari,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1213,7 +1215,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a123" TIME_SLOT_REF1="ts244" TIME_SLOT_REF2="ts245">
-				<ANNOTATION_VALUE>((sospira))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{sospira}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1223,7 +1225,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a126" TIME_SLOT_REF1="ts250" TIME_SLOT_REF2="ts251">
-				<ANNOTATION_VALUE>e::: e quindi ehm::: ci sono diversi passi: che::: fanno::=m::h con cui: tu muovi le scarpette, e::: (.) fai rumore con le scarpette ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::: e quindi ehm::: ci sono diversi passi: che::: fanno::=m::h con cui: tu muovi le scarpette, e::: {P} fai rumore con le scarpette {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1288,7 +1290,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a142" TIME_SLOT_REF1="ts282" TIME_SLOT_REF2="ts283">
-				<ANNOTATION_VALUE>e:::h=m:::h ogni:: ogni giorno:: noi andavamo:: in questa scuola dove ci insegnavano: l'inglese, dove: ci hanno diviso:: m:h (.) in=eh diversi corsi a seconda della tua preparazione di inglese,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h=m:::h ogni:: ogni giorno:: noi andavamo:: in questa scuola dove ci insegnavano: l'inglese, dove: ci hanno diviso:: m:h {P} in=eh diversi corsi a seconda della tua preparazione di inglese,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1308,7 +1310,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a146" TIME_SLOT_REF1="ts290" TIME_SLOT_REF2="ts291">
-				<ANNOTATION_VALUE>quindi non soltanto la mattina quando, e::h studiavi:: e facevi le lezioni, ma anche poi quando tornavi a casa, cosa che magari (.) diciamo non succede se tu ad esempio::=m:h se ad esempio fossimo: stati ospitati tutti nella stessa struttura tipo un hotel e cose del genere, in cui comunque con i tuoi compagni:: poi:: di scuola, e:h avresti sicuramente parlato italiano.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi non soltanto la mattina quando, e::h studiavi:: e facevi le lezioni, ma anche poi quando tornavi a casa, cosa che magari {P} diciamo non succede se tu ad esempio::=m:h se ad esempio fossimo: stati ospitati tutti nella stessa struttura tipo un hotel e cose del genere, in cui comunque con i tuoi compagni:: poi:: di scuola, e:h avresti sicuramente parlato italiano.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1328,7 +1330,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts300" TIME_SLOT_REF2="ts301">
-				<ANNOTATION_VALUE>e::h=m::h però mi ricordo che: comunque:: la nostra host mother, e::h=m::h ci:: ci aveva comprato lo stesso biscotti e la:tte: e queste cose qua, perché comunque sapeva [che:::] (.) sì. che noi eravamo:: comunque abituati ad un=e:h mh ad un modo diverso di:: di vivere.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h=m::h però mi ricordo che: comunque:: la nostra host mother, e::h=m::h ci:: ci aveva comprato lo stesso biscotti e la:tte: e queste cose qua, perché comunque sapeva [che:::] {P} sì. che noi eravamo:: comunque abituati ad un=e:h mh ad un modo diverso di:: di vivere.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1338,17 +1340,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a154" TIME_SLOT_REF1="ts306" TIME_SLOT_REF2="ts307">
-				<ANNOTATION_VALUE>o:: qualcosa del genere. non mi ricordo so solo che era un formaggio veramente schifoso. ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>o:: qualcosa del genere. non mi ricordo so solo che era un formaggio veramente schifoso. {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a157" TIME_SLOT_REF1="ts312" TIME_SLOT_REF2="ts313">
-				<ANNOTATION_VALUE>ed era tipo:: m::h giallognolo una roba del genere, (.) e infatti mi ricordo che noi toglievamo sempre sto formaggio dai toast perché era veramente immangia[bile],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ed era tipo:: m::h giallognolo una roba del genere, {P} e infatti mi ricordo che noi toglievamo sempre sto formaggio dai toast perché era veramente immangia[bile],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a160" TIME_SLOT_REF1="ts318" TIME_SLOT_REF2="ts319">
-				<ANNOTATION_VALUE>((ride)) eh.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride} eh.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1388,12 +1390,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a168" TIME_SLOT_REF1="ts334" TIME_SLOT_REF2="ts335">
-				<ANNOTATION_VALUE>e::: m:::h (.) e::: mi ricordo che::: m::h appunto n~ ogni tanto facevamo delle gite: fuori porta: ci hanno portato a berlino a vedere la città: e ho un ricordo stupendo:: perché è una cit[tà:: bel]lissima, caotica anche se: non sembrerebbe,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::: m:::h {P} e::: mi ricordo che::: m::h appunto n~ ogni tanto facevamo delle gite: fuori porta: ci hanno portato a berlino a vedere la città: e ho un ricordo stupendo:: perché è una cit[tà:: bel]lissima, caotica anche se: non sembrerebbe,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a170" TIME_SLOT_REF1="ts338" TIME_SLOT_REF2="ts339">
-				<ANNOTATION_VALUE>e::: m::h (.) una città anche molto pulita devo dire,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::: m::h {P} una città anche molto pulita devo dire,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1423,12 +1425,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a177" TIME_SLOT_REF1="ts352" TIME_SLOT_REF2="ts353">
-				<ANNOTATION_VALUE>e::: in irlanda ad ottobre fa già freddo, e quindi::=m:h (.) e:h c'era questo vento: che tirava fortissimo: e::: e questo cielo nuvoloso, e::: però:::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::: in irlanda ad ottobre fa già freddo, e quindi::=m:h {P} e:h c'era questo vento: che tirava fortissimo: e::: e questo cielo nuvoloso, e::: però:::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a178" TIME_SLOT_REF1="ts354" TIME_SLOT_REF2="ts355">
-				<ANNOTATION_VALUE>mh=pieno di di nuvole che::: (.) non lo so era tutto molto suggestivo:::. mh questo il cielo d'irlanda [come: canta:::] (.) fiorella mannoia nella canzone::: è pproprio::: veramente un cielo che non si scorda perché::: proprio::: davvero suggestivo, molto particolare, che non si vede:: da nessuna parte.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mh=pieno di di nuvole che::: {P} non lo so era tutto molto suggestivo:::. mh questo il cielo d'irlanda [come: canta:::] {P} fiorella mannoia nella canzone::: è pproprio::: veramente un cielo che non si scorda perché::: proprio::: davvero suggestivo, molto particolare, che non si vede:: da nessuna parte.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1438,7 +1440,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a181" TIME_SLOT_REF1="ts360" TIME_SLOT_REF2="ts361">
-				<ANNOTATION_VALUE>e::h (.) eravamo talmente entrati a contatto con=e::h una lingua straniera che::: m::h quando io ero tornata ero migliorata moltissimo in inglese, e::: tanto che me l'aveva detto anche la mia professoressa,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h {P} eravamo talmente entrati a contatto con=e::h una lingua straniera che::: m::h quando io ero tornata ero migliorata moltissimo in inglese, e::: tanto che me l'aveva detto anche la mia professoressa,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1483,7 +1485,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a193" TIME_SLOT_REF1="ts384" TIME_SLOT_REF2="ts385">
-				<ANNOTATION_VALUE>è una cosa che: mi è servita tantissimo: e che era proprio una cosa:: anche (.) m::h in un certo senso strana [da::] da fare perché:: comunque:: m::h cioè essendo sempre stata abituata: comunque a a parlare con=e::h nella mia lingua:, dover=e::h m:::h chiedere anche: per le minime co[se ad esem]pio::: e:::h=mh a che ora si mangia a cena perché poi dobbiamo uscire, o:: non lo so:: (.) e::::::h la carta igienica in bagno ad esempio proprio piccole [co]se,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è una cosa che: mi è servita tantissimo: e che era proprio una cosa:: anche {P} m::h in un certo senso strana [da::] da fare perché:: comunque:: m::h cioè essendo sempre stata abituata: comunque a a parlare con=e::h nella mia lingua:, dover=e::h m:::h chiedere anche: per le minime co[se ad esem]pio::: e:::h=mh a che ora si mangia a cena perché poi dobbiamo uscire, o:: non lo so:: {P} e::::::h la carta igienica in bagno ad esempio proprio piccole [co]se,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1498,17 +1500,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a200" TIME_SLOT_REF1="ts398" TIME_SLOT_REF2="ts399">
-				<ANNOTATION_VALUE>e non invece come:: si impara ad esempio:: sui banchi di scuola, dove:: (.) si parla prima:: cioè ti insegnano prima:: (.) non so a declinare i verbi, quali sono i ver[bi, x ad esempio:] le: minime:: le cose:: più fondamentali, e::h della vita di tutti i gionni ad esempio le impari proprio soltanto quando sei lì perché: appunto:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e non invece come:: si impara ad esempio:: sui banchi di scuola, dove:: {P} si parla prima:: cioè ti insegnano prima:: {P} non so a declinare i verbi, quali sono i ver[bi, x ad esempio:] le: minime:: le cose:: più fondamentali, e::h della vita di tutti i gionni ad esempio le impari proprio soltanto quando sei lì perché: appunto:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a202" TIME_SLOT_REF1="ts402" TIME_SLOT_REF2="ts403">
-				<ANNOTATION_VALUE>ehm::: anche soltanto un un bisogno:: mh mh fisiologico ad esempio [delle don]ne, ad esempio gli assorbenti: andare a comprarli:: eh=chiedere:: e::h di qua e di là così, cioè sono cose che (.) a scuola non non ti inse[gnano] diciamo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ehm::: anche soltanto un un bisogno:: mh mh fisiologico ad esempio [delle don]ne, ad esempio gli assorbenti: andare a comprarli:: eh=chiedere:: e::h di qua e di là così, cioè sono cose che {P} a scuola non non ti inse[gnano] diciamo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a205" TIME_SLOT_REF1="ts408" TIME_SLOT_REF2="ts409">
-				<ANNOTATION_VALUE>e quindi: sono::=mh cose: molto:: molto interessanti e molto:: profonde da:: (.) [da capire].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi: sono::=mh cose: molto:: molto interessanti e molto:: profonde da:: {P} [da capire].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1518,7 +1520,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a209" TIME_SLOT_REF1="ts416" TIME_SLOT_REF2="ts417">
-				<ANNOTATION_VALUE>ma allora, e::h durante:: eh=le medie: e le elementari e:::h m:::h io ho imparato il francese, per[ché::] m::h (.) e::h era:::: era inserito nel piano di studi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma allora, e::h durante:: eh=le medie: e le elementari e:::h m:::h io ho imparato il francese, per[ché::] m::h {P} e::h era:::: era inserito nel piano di studi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1538,7 +1540,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a214" TIME_SLOT_REF1="ts426" TIME_SLOT_REF2="ts427">
-				<ANNOTATION_VALUE>e::: m::h purtroppo:, (.) il francese poi l'ho perso quasi completamente non avendolo più studiato alle superiori,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::: m::h purtroppo:, {P} il francese poi l'ho perso quasi completamente non avendolo più studiato alle superiori,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1548,7 +1550,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a216" TIME_SLOT_REF1="ts430" TIME_SLOT_REF2="ts431">
-				<ANNOTATION_VALUE>e::: m:::h ricordo: veramente:: poche cose, (e) infatti questo=è: proprio anche l'esempio del fatto che se tu: non coltivi un=e::h m:h (.) una tua passione ma anche comunque:: come questo uno studio, e:::h piano piano poi:: va:: a scemare e:::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::: m:::h ricordo: veramente:: poche cose, (e) infatti questo=è: proprio anche l'esempio del fatto che se tu: non coltivi un=e::h m:h {P} una tua passione ma anche comunque:: come questo uno studio, e:::h piano piano poi:: va:: a scemare e:::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1563,7 +1565,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a219" TIME_SLOT_REF1="ts436" TIME_SLOT_REF2="ts437">
-				<ANNOTATION_VALUE>che:: mi è sempre piaciuto, (.) e:: mi ha sempre intrigato:, e:::: la trovo una lingua:=m:h molto interessante, anche perché:: e:::h poi vabbè. e::h penso che sia comunque soggettivo ma:: in tanti mi hanno detto che è una lingua:: per certi aspetti molto simile all'italiano,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che:: mi è sempre piaciuto, {P} e:: mi ha sempre intrigato:, e:::: la trovo una lingua:=m:h molto interessante, anche perché:: e:::h poi vabbè. e::h penso che sia comunque soggettivo ma:: in tanti mi hanno detto che è una lingua:: per certi aspetti molto simile all'italiano,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1573,27 +1575,27 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a221" TIME_SLOT_REF1="ts440" TIME_SLOT_REF2="ts441">
-				<ANNOTATION_VALUE>ehm::: e poi soprattutto perché comunque la spagna è un paese che: ho visitato: poche volte, e quando ero piccola ma:: è un paese che:: ho sempre=m::h (.) ritenuto (.) m::h un paese bellissimo, caldo, dove:: poter e::h volendo vivere,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ehm::: e poi soprattutto perché comunque la spagna è un paese che: ho visitato: poche volte, e quando ero piccola ma:: è un paese che:: ho sempre=m::h {P} ritenuto {P} m::h un paese bellissimo, caldo, dove:: poter e::h volendo vivere,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a222" TIME_SLOT_REF1="ts442" TIME_SLOT_REF2="ts443">
-				<ANNOTATION_VALUE>ehm::: con=eh usi e costumi molto particolari tutti da scoprire, e::: sicuramente un prossimo viaggio::: e:::h (.) in programma sarà quello di andare a barcellona perché: io a barcellona purtroppo ancora non ci sono mai stata,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ehm::: con=eh usi e costumi molto particolari tutti da scoprire, e::: sicuramente un prossimo viaggio::: e:::h {P} in programma sarà quello di andare a barcellona perché: io a barcellona purtroppo ancora non ci sono mai stata,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a223" TIME_SLOT_REF1="ts444" TIME_SLOT_REF2="ts445">
-				<ANNOTATION_VALUE>e::=mh. ed è un paese, un una città che voglio andare a visitare perché ehm::: (.) oltre appunto al=eh discorso che ho appena fatto,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::=mh. ed è un paese, un una città che voglio andare a visitare perché ehm::: {P} oltre appunto al=eh discorso che ho appena fatto,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a224" TIME_SLOT_REF1="ts446" TIME_SLOT_REF2="ts447">
-				<ANNOTATION_VALUE>e::h barcellona è un paese molto importante per l'architettura. e::h catalana, ((si_schiarisce_la_voce)) soprattutto per=e:h tutta l'architettura di: gaudì, che io ho studiato: m:h nel corso di questi tre anni per=eh storia dell'architettura,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h barcellona è un paese molto importante per l'architettura. e::h catalana, {si_schiarisce_la_voce} soprattutto per=e:h tutta l'architettura di: gaudì, che io ho studiato: m:h nel corso di questi tre anni per=eh storia dell'architettura,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a225" TIME_SLOT_REF1="ts448" TIME_SLOT_REF2="ts449">
-				<ANNOTATION_VALUE>e::h quindi:: parc güell=eh, casa (bailò::), (.) casa aguimar=eh, sono tutte:: ehm:: archit~ opere di architettura::: m::h ehm:: che io devo assolutamente andare a:: visitare anche perché gaudì è uno dei miei architetti:: preferiti,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h quindi:: parc güell=eh, casa (bailò::), {P} casa aguimar=eh, sono tutte:: ehm:: archit~ opere di architettura::: m::h ehm:: che io devo assolutamente andare a:: visitare anche perché gaudì è uno dei miei architetti:: preferiti,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1608,7 +1610,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a228" TIME_SLOT_REF1="ts454" TIME_SLOT_REF2="ts455">
-				<ANNOTATION_VALUE>ehm::: (.) il fatto che lui fosse:: un=e::h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ehm::: {P} il fatto che lui fosse:: un=e::h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

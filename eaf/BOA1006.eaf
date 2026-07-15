@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:15+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-07-15T21:57:30+00:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="BOA1006.wav" RELATIVE_MEDIA_URL="BOA1006.wav" MIME_TYPE="audio/x-wav" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -129,9 +130,9 @@
 		<TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="149208" />
 		<TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="150082" />
 		<TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="151458" />
-		<TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="159871" />
+		<TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="152616" />
 		<TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="151458" />
-		<TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="152616" />
+		<TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="159871" />
 		<TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="160000" />
 		<TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="162516" />
 		<TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="162688" />
@@ -161,9 +162,9 @@
 		<TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="211073" />
 		<TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="219322" />
 		<TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="219785" />
-		<TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="220210" />
+		<TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="220671" />
 		<TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="219785" />
-		<TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="220671" />
+		<TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="220210" />
 		<TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="221150" />
 		<TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="222330" />
 		<TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="222330" />
@@ -197,9 +198,9 @@
 		<TIME_SLOT TIME_SLOT_ID="ts192" TIME_VALUE="274246" />
 		<TIME_SLOT TIME_SLOT_ID="ts193" TIME_VALUE="274531" />
 		<TIME_SLOT TIME_SLOT_ID="ts194" TIME_VALUE="274810" />
-		<TIME_SLOT TIME_SLOT_ID="ts195" TIME_VALUE="277550" />
+		<TIME_SLOT TIME_SLOT_ID="ts195" TIME_VALUE="275068" />
 		<TIME_SLOT TIME_SLOT_ID="ts196" TIME_VALUE="274810" />
-		<TIME_SLOT TIME_SLOT_ID="ts197" TIME_VALUE="275068" />
+		<TIME_SLOT TIME_SLOT_ID="ts197" TIME_VALUE="277550" />
 		<TIME_SLOT TIME_SLOT_ID="ts198" TIME_VALUE="275893" />
 		<TIME_SLOT TIME_SLOT_ID="ts199" TIME_VALUE="277005" />
 		<TIME_SLOT TIME_SLOT_ID="ts200" TIME_VALUE="277806" />
@@ -409,6 +410,7 @@
 		<TIME_SLOT TIME_SLOT_ID="ts404" TIME_VALUE="492346" />
 		<TIME_SLOT TIME_SLOT_ID="ts405" TIME_VALUE="493276" />
 		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="BO034" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -457,12 +459,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts33">
-				<ANNOTATION_VALUE>a:=le ha scritto dicendole che no:n=m:h che praticamente (.) h[a trovat]o un'altra re~ (.) un'altra [relatric(e)],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a:=le ha scritto dicendole che no:n=m:h che praticamente {P} h[a trovat]o un'altra re~ {P} un'altra [relatric(e)],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
-				<ANNOTATION_VALUE>no e quindi no perché avevo ((ride)) sono venuta a conoscenza e ho detto se era &lt;possibi[le:&gt;]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no e quindi no perché avevo {ride} sono venuta a conoscenza e ho detto se era &lt;possibi[le:&gt;]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -492,7 +494,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
-				<ANNOTATION_VALUE>è possib[ile] (.) s~ se [possibile],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è possib[ile] {P} s~ se [possibile],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -562,11 +564,11 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts123">
-				<ANNOTATION_VALUE>e quindi mi era venuta questa idea di: (.) magari anal~=mh approfondire questo: questo argomento.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi mi era venuta questa idea di: {P} magari anal~=mh approfondire questo: questo argomento.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
 				<ANNOTATION_VALUE>[xxx]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
@@ -592,11 +594,11 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts157">
-				<ANNOTATION_VALUE>sì io (.) al~ allora questo era l~=l'idea che mi era venuta (.) più una una una: mh una tesi di: di ricerca più che:: sì.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì io {P} al~ allora questo era l~=l'idea che mi era venuta {P} più una una una: mh una tesi di: di ricerca più che:: sì.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts161">
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts158" TIME_SLOT_REF2="ts159">
 				<ANNOTATION_VALUE>[e:h=m]:h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
@@ -627,7 +629,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts176" TIME_SLOT_REF2="ts177">
-				<ANNOTATION_VALUE>non ho studenti di italiano:: (.) (ho) studenti stranieri che apprendono l'italiano.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non ho studenti di italiano:: {P} (ho) studenti stranieri che apprendono l'italiano.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -646,7 +648,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a99" TIME_SLOT_REF1="ts196" TIME_SLOT_REF2="ts197">
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts194" TIME_SLOT_REF2="ts195">
 				<ANNOTATION_VALUE>[(ma~)]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
@@ -984,7 +986,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
-				<ANNOTATION_VALUE>quindi in sostituzione di (.) licia.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi in sostituzione di {P} licia.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1004,7 +1006,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts85">
-				<ANNOTATION_VALUE>un laureando in meno ((ride)) nella lista °&gt;ci fosse stata un laureando in meno nella lista. allora&lt;,°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un laureando in meno {ride} nella lista °&gt;ci fosse stata un laureando in meno nella lista. allora&lt;,°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1058,18 +1060,18 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
 				<ANNOTATION_VALUE>[pensando alla]:: alla disciplina &gt;didattica dell'italiano elle due&lt; può essere i~ diciamo interessante andare a vedere che cosa succede nelle scuole venete,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
-				<ANNOTATION_VALUE>cioè nella:: (.) e:h=m:h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè nella:: {P} e:h=m:h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts133">
-				<ANNOTATION_VALUE>nel c~=mh un contesto dove::: il dialetto non è marcato perché:: non è un codice marcato perché (.) è parlato quotidianamente e quindi non so a scuola come possa:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nel c~=mh un contesto dove::: il dialetto non è marcato perché:: non è un codice marcato perché {P} è parlato quotidianamente e quindi non so a scuola come possa:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1099,7 +1101,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts152" TIME_SLOT_REF2="ts153">
-				<ANNOTATION_VALUE>[cioè lei comu]nque vorrebbe lavorare sul=i:: (.) non nativi di italiano.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[cioè lei comu]nque vorrebbe lavorare sul=i:: {P} non nativi di italiano.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1108,7 +1110,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts158" TIME_SLOT_REF2="ts159">
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts161">
 				<ANNOTATION_VALUE>[mh mh].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
@@ -1124,7 +1126,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a91" TIME_SLOT_REF1="ts180" TIME_SLOT_REF2="ts181">
-				<ANNOTATION_VALUE>però se è interessata al suo contesto (.) a: una provenienza quindi alle scuole se lei,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però se è interessata al suo contesto {P} a: una provenienza quindi alle scuole se lei,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1148,7 +1150,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts194" TIME_SLOT_REF2="ts195">
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a99" TIME_SLOT_REF1="ts196" TIME_SLOT_REF2="ts197">
 				<ANNOTATION_VALUE>[non] a scuola perché s[i insegna l'italiano] però,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
@@ -1159,7 +1161,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" TIME_SLOT_REF1="ts204" TIME_SLOT_REF2="ts205">
-				<ANNOTATION_VALUE>o extrascolastico oppure (.) nelle scuole dove il dialetto è:::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>o extrascolastico oppure {P} nelle scuole dove il dialetto è:::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1199,7 +1201,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a117" TIME_SLOT_REF1="ts232" TIME_SLOT_REF2="ts233">
-				<ANNOTATION_VALUE>perché (.) n~ un un altro tema interessante sarebbe la percezione sociolinguistica che hanno gli alunni (.) stranieri.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché {P} n~ un un altro tema interessante sarebbe la percezione sociolinguistica che hanno gli alunni {P} stranieri.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1264,7 +1266,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a139" TIME_SLOT_REF1="ts276" TIME_SLOT_REF2="ts277">
-				<ANNOTATION_VALUE>e poi:: definiamo (.) quale argomento.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e poi:: definiamo {P} quale argomento.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

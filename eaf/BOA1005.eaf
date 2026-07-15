@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:15+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-07-15T21:57:28+00:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="BOA1005.wav" RELATIVE_MEDIA_URL="BOA1005.wav" MIME_TYPE="audio/x-wav" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -431,6 +432,7 @@
 		<TIME_SLOT TIME_SLOT_ID="ts426" TIME_VALUE="565481" />
 		<TIME_SLOT TIME_SLOT_ID="ts427" TIME_VALUE="566710" />
 		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="BO026" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -459,7 +461,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
-				<ANNOTATION_VALUE>°aspetti (eh) che devo ricostruir~ (.) marzo duemiladiciotto.°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>°aspetti (eh) che devo ricostruir~ {P} marzo duemiladiciotto.°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -474,7 +476,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
-				<ANNOTATION_VALUE>[&lt;ah sì. sì]. (.) sì&gt;.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[&lt;ah sì. sì]. {P} sì&gt;.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -624,7 +626,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts168" TIME_SLOT_REF2="ts169">
-				<ANNOTATION_VALUE>lo trova &lt;sia&gt; trova sia diversi contributi, ecco second language of writing lo trova ken (.) [] hyland.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lo trova &lt;sia&gt; trova sia diversi contributi, ecco second language of writing lo trova ken {P} hyland.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -694,7 +696,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts206" TIME_SLOT_REF2="ts207">
-				<ANNOTATION_VALUE>su academic writing c'è (.) e=mh un test~ un volume recente che::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>su academic writing c'è {P} e=mh un test~ un volume recente che::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -724,7 +726,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a113" TIME_SLOT_REF1="ts224" TIME_SLOT_REF2="ts225">
-				<ANNOTATION_VALUE>e:: et al (.) e questo lo trova lo può e::=mh questo qui,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: et al {P} e questo lo trova lo può e::=mh questo qui,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -764,7 +766,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a124" TIME_SLOT_REF1="ts246" TIME_SLOT_REF2="ts247">
-				<ANNOTATION_VALUE>i lavori:: un po' più (.) °di stretta,° vediamo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>i lavori:: un po' più {P} °di stretta,° vediamo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -889,17 +891,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a165" TIME_SLOT_REF1="ts328" TIME_SLOT_REF2="ts329">
-				<ANNOTATION_VALUE>non so se tutta questa parte entra (.) nella: prima,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non so se tutta questa parte entra {P} nella: prima,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a167" TIME_SLOT_REF1="ts332" TIME_SLOT_REF2="ts333">
-				<ANNOTATION_VALUE>di natura teorica dipende da (.) come la vuole sviluppare.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di natura teorica dipende da {P} come la vuole sviluppare.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a168" TIME_SLOT_REF1="ts334" TIME_SLOT_REF2="ts335">
-				<ANNOTATION_VALUE>se (.) approfondire oppure, (.) presentare una,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se {P} approfondire oppure, {P} presentare una,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -964,7 +966,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a188" TIME_SLOT_REF1="ts374" TIME_SLOT_REF2="ts375">
-				<ANNOTATION_VALUE>international journal of applied linguistics (.) poi english language teaching,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>international journal of applied linguistics {P} poi english language teaching,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -974,7 +976,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a191" TIME_SLOT_REF1="ts380" TIME_SLOT_REF2="ts381">
-				<ANNOTATION_VALUE>discourse (.) processes,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>discourse {P} processes,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1121,7 +1123,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts47">
-				<ANNOTATION_VALUE>e lei mi aveva chiesto di parlare con questa professoressa pe:r=mh [vedere] se: (.) era possibile raccogliere un co:rpus di essay,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e lei mi aveva chiesto di parlare con questa professoressa pe:r=mh [vedere] se: {P} era possibile raccogliere un co:rpus di essay,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1156,7 +1158,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
-				<ANNOTATION_VALUE>vorrei andare e fare sia il tirocinio, (.) e:: la professoressa si è resa disponibile anche comunque ad aiutarmi nella: si[a ricer]ca tesi un pochino, che nella raccolta di questi dati.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vorrei andare e fare sia il tirocinio, {P} e:: la professoressa si è resa disponibile anche comunque ad aiutarmi nella: si[a ricer]ca tesi un pochino, che nella raccolta di questi dati.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1176,7 +1178,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts91">
-				<ANNOTATION_VALUE>[e::] (.) pensavo di farlo appunto quindi avendo un corpus di: di testi sotto[mano di farlo s]ulle strategie operative per la didattica della scrittura,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e::] {P} pensavo di farlo appunto quindi avendo un corpus di: di testi sotto[mano di farlo s]ulle strategie operative per la didattica della scrittura,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1196,7 +1198,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts105">
-				<ANNOTATION_VALUE>[sì sì]. (.) loro lavorano m[olto] su: sui testi, scrivono essay,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì sì]. {P} loro lavorano m[olto] su: sui testi, scrivono essay,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1226,7 +1228,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
-				<ANNOTATION_VALUE>[sì. più] o meno questo doveva essere (.) [] una bozza degli argomenti principali ovviamente è proprio,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì. più] o meno questo doveva essere {P} una bozza degli argomenti principali ovviamente è proprio,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1241,7 +1243,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts137">
-				<ANNOTATION_VALUE>poi io l'anno scorso avevo lavorato con questa professoressa che mi aveva fatto correggere (.) de:gli essay di di questi ragazzi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi io l'anno scorso avevo lavorato con questa professoressa che mi aveva fatto correggere {P} de:gli essay di di questi ragazzi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1266,7 +1268,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts152" TIME_SLOT_REF2="ts153">
-				<ANNOTATION_VALUE>[sì sì sì. io poi (.) lì c'è] &lt;un'enorme biblioteca&gt; quindi io lì punto a rac[cog]liere: [ta]ntissimo materiale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì sì sì. io poi {P} lì c'è] &lt;un'enorme biblioteca&gt; quindi io lì punto a rac[cog]liere: [ta]ntissimo materiale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1301,7 +1303,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" TIME_SLOT_REF1="ts204" TIME_SLOT_REF2="ts205">
-				<ANNOTATION_VALUE>sì. (.) (xx inizio).</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì. {P} (xx inizio).</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1311,7 +1313,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts216" TIME_SLOT_REF2="ts217">
-				<ANNOTATION_VALUE>e: perché (.) e insomma che cos è nello specifico,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: perché {P} e insomma che cos è nello specifico,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1476,7 +1478,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a203" TIME_SLOT_REF1="ts404" TIME_SLOT_REF2="ts405">
-				<ANNOTATION_VALUE>liberà disponibilità per fornirmi (.) tutto. [sia] composition (.) su [temi]: che fanno loro poi loro sp[azian]o molto da (.) argomenti personali,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>liberà disponibilità per fornirmi {P} tutto. [sia] composition {P} su [temi]: che fanno loro poi loro sp[azian]o molto da {P} argomenti personali,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

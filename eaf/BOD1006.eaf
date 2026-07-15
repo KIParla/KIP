@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:17+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-07-15T21:57:27+00:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="BOD1006.wav" RELATIVE_MEDIA_URL="BOD1006.wav" MIME_TYPE="audio/x-wav" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -2587,6 +2588,7 @@
 		<TIME_SLOT TIME_SLOT_ID="ts2582" TIME_VALUE="5462663" />
 		<TIME_SLOT TIME_SLOT_ID="ts2583" TIME_VALUE="5463988" />
 		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="BO099" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -2665,7 +2667,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
-				<ANNOTATION_VALUE>e: ((ride)) detti non è una persona ma sono i persona~</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: {ride} detti non è una persona ma sono i persona~</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2725,7 +2727,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2795,7 +2797,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts91">
-				<ANNOTATION_VALUE>sacralizzata dalle continue allusioni (.) al vangelo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sacralizzata dalle continue allusioni {P} al vangelo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2865,7 +2867,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts119">
-				<ANNOTATION_VALUE>e:h dalla:: (.) d~ d~ dalla nuova moglie che si trova di fronte.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h dalla:: {P} d~ d~ dalla nuova moglie che si trova di fronte.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2875,12 +2877,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts123">
-				<ANNOTATION_VALUE>nel momento in cui giustifica se stesso (.) e la sua amante, la signora perella</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nel momento in cui giustifica se stesso {P} e la sua amante, la signora perella</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
-				<ANNOTATION_VALUE>come (.) vittime, come martiri.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come {P} vittime, come martiri.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2895,7 +2897,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
-				<ANNOTATION_VALUE>vedete i gesti violenti, i gesti (.) di profanazione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vedete i gesti violenti, i gesti {P} di profanazione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2945,22 +2947,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts154" TIME_SLOT_REF2="ts155">
-				<ANNOTATION_VALUE>è enorme sì anima mia lo intendo, ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è enorme sì anima mia lo intendo, {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts157">
-				<ANNOTATION_VALUE>enorme il sacrifizio che devi compiere tu casta, tu pura ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>enorme il sacrifizio che devi compiere tu casta, tu pura {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts158" TIME_SLOT_REF2="ts159">
-				<ANNOTATION_VALUE>per renderti appetibile a una bestia come quella, ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per renderti appetibile a una bestia come quella, {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts161">
-				<ANNOTATION_VALUE>ma bisogna che tu lo compia intero. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma bisogna che tu lo compia intero. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2970,17 +2972,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts165">
-				<ANNOTATION_VALUE>tu hai grazia e tesori di grazia nel tuo corpo ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tu hai grazia e tesori di grazia nel tuo corpo {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts166" TIME_SLOT_REF2="ts167">
-				<ANNOTATION_VALUE>che tieni gelosamente, santamente (.) custoditi. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che tieni gelosamente, santamente {P} custoditi. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts168" TIME_SLOT_REF2="ts169">
-				<ANNOTATION_VALUE>bisogna che tu ti faccia un po' di violenza. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>bisogna che tu ti faccia un po' di violenza. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3080,7 +3082,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a105" TIME_SLOT_REF1="ts208" TIME_SLOT_REF2="ts209">
-				<ANNOTATION_VALUE>che (.) il professor paolino odia,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che {P} il professor paolino odia,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3145,7 +3147,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a118" TIME_SLOT_REF1="ts234" TIME_SLOT_REF2="ts235">
-				<ANNOTATION_VALUE>alla fine un'altra condizione, ma nel mezzo mentra le sta (.) truccando,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>alla fine un'altra condizione, ma nel mezzo mentra le sta {P} truccando,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3250,7 +3252,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a139" TIME_SLOT_REF1="ts276" TIME_SLOT_REF2="ts277">
-				<ANNOTATION_VALUE>testi (.) che affrontano materie contrastanti</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>testi {P} che affrontano materie contrastanti</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3265,37 +3267,37 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a142" TIME_SLOT_REF1="ts282" TIME_SLOT_REF2="ts283">
-				<ANNOTATION_VALUE>una varietà grandissima di materie ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>una varietà grandissima di materie {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a143" TIME_SLOT_REF1="ts284" TIME_SLOT_REF2="ts285">
-				<ANNOTATION_VALUE>e siccome i libri furono presi di qua e di là nel magazzino e accozzati così come venivano sottomano ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e siccome i libri furono presi di qua e di là nel magazzino e accozzati così come venivano sottomano {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a144" TIME_SLOT_REF1="ts286" TIME_SLOT_REF2="ts287">
-				<ANNOTATION_VALUE>la confusione è indescrivibile. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la confusione è indescrivibile. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a145" TIME_SLOT_REF1="ts288" TIME_SLOT_REF2="ts289">
-				<ANNOTATION_VALUE>si sono strette per la vicinanza fra questi libri ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si sono strette per la vicinanza fra questi libri {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a146" TIME_SLOT_REF1="ts290" TIME_SLOT_REF2="ts291">
-				<ANNOTATION_VALUE>amicizie oltre ogni dire speciose. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>amicizie oltre ogni dire speciose. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a147" TIME_SLOT_REF1="ts292" TIME_SLOT_REF2="ts293">
-				<ANNOTATION_VALUE>don eligio pellegrinotto mi ha detto per esempio che ha aspettato non poco ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>don eligio pellegrinotto mi ha detto per esempio che ha aspettato non poco {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a148" TIME_SLOT_REF1="ts294" TIME_SLOT_REF2="ts295">
-				<ANNOTATION_VALUE>a staccare da un trattato molto licenzioso ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a staccare da un trattato molto licenzioso {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3315,7 +3317,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a152" TIME_SLOT_REF1="ts302" TIME_SLOT_REF2="ts303">
-				<ANNOTATION_VALUE>chi ha detto sì e:h spieghi a chi a detto no ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>chi ha detto sì e:h spieghi a chi a detto no {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3340,42 +3342,42 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a158" TIME_SLOT_REF1="ts314" TIME_SLOT_REF2="ts315">
-				<ANNOTATION_VALUE>ha s~ ha stentato non poco a staccare da un trattato molto licenzioso dell'arte di amare le donne ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ha s~ ha stentato non poco a staccare da un trattato molto licenzioso dell'arte di amare le donne {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a159" TIME_SLOT_REF1="ts316" TIME_SLOT_REF2="ts317">
-				<ANNOTATION_VALUE>libri tre di anton muzio porro dell'anno millecinquecentosettantuno ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>libri tre di anton muzio porro dell'anno millecinquecentosettantuno {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a160" TIME_SLOT_REF1="ts318" TIME_SLOT_REF2="ts319">
-				<ANNOTATION_VALUE>una vita e morte di faustino materucci ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>una vita e morte di faustino materucci {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a161" TIME_SLOT_REF1="ts320" TIME_SLOT_REF2="ts321">
-				<ANNOTATION_VALUE>benedettino di polirone che taluni chiamano beato ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>benedettino di polirone che taluni chiamano beato {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a162" TIME_SLOT_REF1="ts322" TIME_SLOT_REF2="ts323">
-				<ANNOTATION_VALUE>biografia edita a mantova nel milleseicentoventicinque. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>biografia edita a mantova nel milleseicentoventicinque. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a163" TIME_SLOT_REF1="ts324" TIME_SLOT_REF2="ts325">
-				<ANNOTATION_VALUE>per l'umidità: le legature dei due volumi si erano fraternamente (.) appiccica~ ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per l'umidità: le legature dei due volumi si erano fraternamente {P} appiccica~ {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a164" TIME_SLOT_REF1="ts326" TIME_SLOT_REF2="ts327">
-				<ANNOTATION_VALUE>notare che nel secondo libro di quel trattato licenzioso, ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>notare che nel secondo libro di quel trattato licenzioso, {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a165" TIME_SLOT_REF1="ts328" TIME_SLOT_REF2="ts329">
-				<ANNOTATION_VALUE>si discute a lungo della vita e delle avventure monacali. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si discute a lungo della vita e delle avventure monacali. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3415,7 +3417,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a173" TIME_SLOT_REF1="ts344" TIME_SLOT_REF2="ts345">
-				<ANNOTATION_VALUE>non si escludono mai a vicenda (.) anzi si equivalgono.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non si escludono mai a vicenda {P} anzi si equivalgono.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3510,12 +3512,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a195" TIME_SLOT_REF1="ts388" TIME_SLOT_REF2="ts389">
-				<ANNOTATION_VALUE>e (.) in quel libro si legge che il giglio annuncia un messaggio</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} in quel libro si legge che il giglio annuncia un messaggio</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a196" TIME_SLOT_REF1="ts390" TIME_SLOT_REF2="ts391">
-				<ANNOTATION_VALUE>mai feci ((ride)) tanto mai mai fu così azzeccato in questo caso</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mai feci {ride} tanto mai mai fu così azzeccato in questo caso</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3540,7 +3542,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a201" TIME_SLOT_REF1="ts400" TIME_SLOT_REF2="ts401">
-				<ANNOTATION_VALUE>ma è anche il fiore della purezza, della vergine marina e l'emblema della francia (.) mh?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma è anche il fiore della purezza, della vergine marina e l'emblema della francia {P} mh?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3560,7 +3562,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a205" TIME_SLOT_REF1="ts408" TIME_SLOT_REF2="ts409">
-				<ANNOTATION_VALUE>e proprio per la sua: (.) qualità di e::h fiore fecondo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e proprio per la sua: {P} qualità di e::h fiore fecondo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3590,7 +3592,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a211" TIME_SLOT_REF1="ts420" TIME_SLOT_REF2="ts421">
-				<ANNOTATION_VALUE>questo simbolo del: del giglio confluì (.) nel simbolismo medievale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo simbolo del: del giglio confluì {P} nel simbolismo medievale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3600,7 +3602,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a213" TIME_SLOT_REF1="ts424" TIME_SLOT_REF2="ts425">
-				<ANNOTATION_VALUE>si dice (.) nel gerg~ nel nel nel nel linguaggio popolare</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si dice {P} nel gerg~ nel nel nel nel linguaggio popolare</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3630,7 +3632,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a219" TIME_SLOT_REF1="ts436" TIME_SLOT_REF2="ts437">
-				<ANNOTATION_VALUE>e la madonna ha impersonato (.) tutte queste:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e la madonna ha impersonato {P} tutte queste:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3645,7 +3647,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a222" TIME_SLOT_REF1="ts442" TIME_SLOT_REF2="ts443">
-				<ANNOTATION_VALUE>eh l'annunciazione (.) dell'arcangelo gabriele alla madonna</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh l'annunciazione {P} dell'arcangelo gabriele alla madonna</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3685,7 +3687,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a230" TIME_SLOT_REF1="ts458" TIME_SLOT_REF2="ts459">
-				<ANNOTATION_VALUE>la fecondità (.) l'abbandono alla volontà divina.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la fecondità {P} l'abbandono alla volontà divina.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3710,7 +3712,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a235" TIME_SLOT_REF1="ts468" TIME_SLOT_REF2="ts469">
-				<ANNOTATION_VALUE>che sarebbe la virtù la: (.) signora perella</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che sarebbe la virtù la: {P} signora perella</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3745,7 +3747,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a242" TIME_SLOT_REF1="ts482" TIME_SLOT_REF2="ts483">
-				<ANNOTATION_VALUE>questo aspetto viene messo in evidenza subitissimo (.) all'inizio del testo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo aspetto viene messo in evidenza subitissimo {P} all'inizio del testo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3765,7 +3767,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a246" TIME_SLOT_REF1="ts490" TIME_SLOT_REF2="ts491">
-				<ANNOTATION_VALUE>che (.) devono essere devono avere le gambe coperte</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che {P} devono essere devono avere le gambe coperte</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3780,27 +3782,27 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a249" TIME_SLOT_REF1="ts496" TIME_SLOT_REF2="ts497">
-				<ANNOTATION_VALUE>e qua le seggiole vede? a gambe all'aria ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e qua le seggiole vede? a gambe all'aria {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a250" TIME_SLOT_REF1="ts498" TIME_SLOT_REF2="ts499">
-				<ANNOTATION_VALUE>la casa quando è onesta ha anch'essa i suoi pudori ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la casa quando è onesta ha anch'essa i suoi pudori {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a251" TIME_SLOT_REF1="ts500" TIME_SLOT_REF2="ts501">
-				<ANNOTATION_VALUE>come la donna quando è onesta ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come la donna quando è onesta {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a252" TIME_SLOT_REF1="ts502" TIME_SLOT_REF2="ts503">
-				<ANNOTATION_VALUE>a:h lo credo bene risponde totò e mi piace tanto sentirmi dire così ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a:h lo credo bene risponde totò e mi piace tanto sentirmi dire così {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a253" TIME_SLOT_REF1="ts504" TIME_SLOT_REF2="ts505">
-				<ANNOTATION_VALUE>già lo crede, le piace e intanto: ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>già lo crede, le piace e intanto: {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3810,12 +3812,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a255" TIME_SLOT_REF1="ts508" TIME_SLOT_REF2="ts509">
-				<ANNOTATION_VALUE>lo violenta ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lo violenta {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a256" TIME_SLOT_REF1="ts510" TIME_SLOT_REF2="ts511">
-				<ANNOTATION_VALUE>io? sì signore il pudore della casa ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>io? sì signore il pudore della casa {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3825,17 +3827,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a258" TIME_SLOT_REF1="ts514" TIME_SLOT_REF2="ts515">
-				<ANNOTATION_VALUE>rimette sui quattro piedi le seggiole capovolte ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>rimette sui quattro piedi le seggiole capovolte {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a259" TIME_SLOT_REF1="ts516" TIME_SLOT_REF2="ts517">
-				<ANNOTATION_VALUE>e abbassa con grottesca pudicizia ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e abbassa con grottesca pudicizia {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a260" TIME_SLOT_REF1="ts518" TIME_SLOT_REF2="ts519">
-				<ANNOTATION_VALUE>la fodera di tela che le ricopre come se nascondesse le gambe a una sua figliola. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la fodera di tela che le ricopre come se nascondesse le gambe a una sua figliola. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3850,12 +3852,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a263" TIME_SLOT_REF1="ts524" TIME_SLOT_REF2="ts525">
-				<ANNOTATION_VALUE>e::hm (.) in questo ca:so:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::hm {P} in questo ca:so:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a264" TIME_SLOT_REF1="ts526" TIME_SLOT_REF2="ts527">
-				<ANNOTATION_VALUE>come il corpo del (.) come il corpo del personaggio è</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come il corpo del {P} come il corpo del personaggio è</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3880,7 +3882,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a269" TIME_SLOT_REF1="ts536" TIME_SLOT_REF2="ts537">
-				<ANNOTATION_VALUE>perché i personaggi di pirandello avete notato sono sempre brutti? soprattutto (.) nella narrativa, nei romanzi, nelle novelle.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché i personaggi di pirandello avete notato sono sempre brutti? soprattutto {P} nella narrativa, nei romanzi, nelle novelle.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3890,7 +3892,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a271" TIME_SLOT_REF1="ts540" TIME_SLOT_REF2="ts541">
-				<ANNOTATION_VALUE>un disagio profondo (.) della vita</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un disagio profondo {P} della vita</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3900,7 +3902,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a273" TIME_SLOT_REF1="ts544" TIME_SLOT_REF2="ts545">
-				<ANNOTATION_VALUE>il corpo esprime (.) l'inconscio infelice</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il corpo esprime {P} l'inconscio infelice</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3925,7 +3927,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a278" TIME_SLOT_REF1="ts554" TIME_SLOT_REF2="ts555">
-				<ANNOTATION_VALUE>e::h (.) che vengono impegnate emblematicamente,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h {P} che vengono impegnate emblematicamente,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3935,7 +3937,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a280" TIME_SLOT_REF1="ts558" TIME_SLOT_REF2="ts559">
-				<ANNOTATION_VALUE>e so:no (.) oggetti, immagini</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e so:no {P} oggetti, immagini</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3960,7 +3962,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a285" TIME_SLOT_REF1="ts568" TIME_SLOT_REF2="ts569">
-				<ANNOTATION_VALUE>gli ombrelli, le scarpe, (.) i lampioni</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>gli ombrelli, le scarpe, {P} i lampioni</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3970,7 +3972,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a287" TIME_SLOT_REF1="ts572" TIME_SLOT_REF2="ts573">
-				<ANNOTATION_VALUE>vita (.) e la mosca la mo~</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vita {P} e la mosca la mo~</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4000,7 +4002,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a294" TIME_SLOT_REF1="ts586" TIME_SLOT_REF2="ts587">
-				<ANNOTATION_VALUE>difficile parlare ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>difficile parlare {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4060,12 +4062,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a306" TIME_SLOT_REF1="ts610" TIME_SLOT_REF2="ts611">
-				<ANNOTATION_VALUE>alla fine di questo atto unico (.) i due si salutano</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>alla fine di questo atto unico {P} i due si salutano</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a307" TIME_SLOT_REF1="ts612" TIME_SLOT_REF2="ts613">
-				<ANNOTATION_VALUE>siamo all:a (.) in un bar bar di una stazione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>siamo all:a {P} in un bar bar di una stazione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4100,22 +4102,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a314" TIME_SLOT_REF1="ts626" TIME_SLOT_REF2="ts627">
-				<ANNOTATION_VALUE>e ne strappi (.) una: una manciata (.) poi conti i fili d'erba quanti so:no</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e ne strappi {P} una: una manciata {P} poi conti i fili d'erba quanti so:no</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a315" TIME_SLOT_REF1="ts628" TIME_SLOT_REF2="ts629">
-				<ANNOTATION_VALUE>quelli saranno i giorni che ancora io avrò (.) da da vivere mh?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quelli saranno i giorni che ancora io avrò {P} da da vivere mh?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a316" TIME_SLOT_REF1="ts630" TIME_SLOT_REF2="ts631">
-				<ANNOTATION_VALUE>&gt;quindi nell'uomo dal fiore in bocca sono racchiusi questi due simboli&lt; che sono per altro (.) frequentissimi in tutto pirandello</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;quindi nell'uomo dal fiore in bocca sono racchiusi questi due simboli&lt; che sono per altro {P} frequentissimi in tutto pirandello</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a317" TIME_SLOT_REF1="ts632" TIME_SLOT_REF2="ts633">
-				<ANNOTATION_VALUE>la mosca (.) c'è anche una novella che si chiama la mosca</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la mosca {P} c'è anche una novella che si chiama la mosca</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4125,12 +4127,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a319" TIME_SLOT_REF1="ts636" TIME_SLOT_REF2="ts637">
-				<ANNOTATION_VALUE>e (.) e la la l'erba la vita.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} e la la l'erba la vita.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a320" TIME_SLOT_REF1="ts638" TIME_SLOT_REF2="ts639">
-				<ANNOTATION_VALUE>anzi, secondo me il (.) percorso per esempio di dell'uno nessuno e centromila vitangelo moscarda</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>anzi, secondo me il {P} percorso per esempio di dell'uno nessuno e centromila vitangelo moscarda</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4145,7 +4147,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a323" TIME_SLOT_REF1="ts644" TIME_SLOT_REF2="ts645">
-				<ANNOTATION_VALUE>cioè (.) moscarda mosca mh?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè {P} moscarda mosca mh?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4230,12 +4232,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a340" TIME_SLOT_REF1="ts678" TIME_SLOT_REF2="ts679">
-				<ANNOTATION_VALUE>il suo percorso che è poi uno dei più straordinari della (.) del romanzo del novecento</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il suo percorso che è poi uno dei più straordinari della {P} del romanzo del novecento</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a341" TIME_SLOT_REF1="ts680" TIME_SLOT_REF2="ts681">
-				<ANNOTATION_VALUE>è quello che va da una vita morta (.) a una vita vera.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è quello che va da una vita morta {P} a una vita vera.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4260,7 +4262,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a346" TIME_SLOT_REF1="ts690" TIME_SLOT_REF2="ts691">
-				<ANNOTATION_VALUE>ma (.) pirandello qui opera un rovesciamento parodistico</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma {P} pirandello qui opera un rovesciamento parodistico</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4350,7 +4352,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a365" TIME_SLOT_REF1="ts728" TIME_SLOT_REF2="ts729">
-				<ANNOTATION_VALUE>quindi è (.) l'uso ironico di una espressione o di una parola</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi è {P} l'uso ironico di una espressione o di una parola</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4365,12 +4367,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a368" TIME_SLOT_REF1="ts734" TIME_SLOT_REF2="ts735">
-				<ANNOTATION_VALUE>allora (.) viene usato in senso antifrastico perché non è il simbolo di purezza</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora {P} viene usato in senso antifrastico perché non è il simbolo di purezza</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a369" TIME_SLOT_REF1="ts736" TIME_SLOT_REF2="ts737">
-				<ANNOTATION_VALUE>ma è il simbolo è il segnale del rap~ che il rapporto sessuale (.) fra la signora::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma è il simbolo è il segnale del rap~ che il rapporto sessuale {P} fra la signora::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4380,7 +4382,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a371" TIME_SLOT_REF1="ts740" TIME_SLOT_REF2="ts741">
-				<ANNOTATION_VALUE>e quindi quando ieri dicevamo il simbolo di il:: il il giglio gigantesco che è (.) un simbolo fallico</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi quando ieri dicevamo il simbolo di il:: il il giglio gigantesco che è {P} un simbolo fallico</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4515,7 +4517,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a407" TIME_SLOT_REF1="ts812" TIME_SLOT_REF2="ts813">
-				<ANNOTATION_VALUE>ven~ questa è un è un'immagine che serve a confermare che (.) il rapporto sessuale è avvenuto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ven~ questa è un è un'immagine che serve a confermare che {P} il rapporto sessuale è avvenuto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4570,7 +4572,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a418" TIME_SLOT_REF1="ts834" TIME_SLOT_REF2="ts835">
-				<ANNOTATION_VALUE>perché animale (.) dalla natura (.) ardente, focosa,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché animale {P} dalla natura {P} ardente, focosa,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4635,7 +4637,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a431" TIME_SLOT_REF1="ts860" TIME_SLOT_REF2="ts861">
-				<ANNOTATION_VALUE>e:: i:l il: capro (.) come il manico di scopa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: i:l il: capro {P} come il manico di scopa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4650,7 +4652,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a434" TIME_SLOT_REF1="ts866" TIME_SLOT_REF2="ts867">
-				<ANNOTATION_VALUE>ma:: allo stesso modo del (.) del manico di scopa (.) delle streghe che si recano al sabba.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma:: allo stesso modo del {P} del manico di scopa {P} delle streghe che si recano al sabba.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4670,7 +4672,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a438" TIME_SLOT_REF1="ts874" TIME_SLOT_REF2="ts875">
-				<ANNOTATION_VALUE>simbolo di lussuria (.) ed è ovviamente nero come satana.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>simbolo di lussuria {P} ed è ovviamente nero come satana.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4690,12 +4692,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a442" TIME_SLOT_REF1="ts882" TIME_SLOT_REF2="ts883">
-				<ANNOTATION_VALUE>ha concentrato (.) tutto quello che rappresenta questo testo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ha concentrato {P} tutto quello che rappresenta questo testo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a445" TIME_SLOT_REF1="ts888" TIME_SLOT_REF2="ts889">
-				<ANNOTATION_VALUE>non so cosa xx e::h ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non so cosa xx e::h {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4720,7 +4722,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a452" TIME_SLOT_REF1="ts902" TIME_SLOT_REF2="ts903">
-				<ANNOTATION_VALUE>della lussuria (.) ed è nero</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>della lussuria {P} ed è nero</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4730,7 +4732,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a454" TIME_SLOT_REF1="ts906" TIME_SLOT_REF2="ts907">
-				<ANNOTATION_VALUE>e dice:vo che pirandello ha concentrato in una sola immagine (.) il succo dell'intero testo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e dice:vo che pirandello ha concentrato in una sola immagine {P} il succo dell'intero testo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4750,7 +4752,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a458" TIME_SLOT_REF1="ts914" TIME_SLOT_REF2="ts915">
-				<ANNOTATION_VALUE>nell'aspetto antifrastico dei dei simboli che pirandello mette: (.) mette in atto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell'aspetto antifrastico dei dei simboli che pirandello mette: {P} mette in atto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4785,7 +4787,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a475" TIME_SLOT_REF1="ts948" TIME_SLOT_REF2="ts949">
-				<ANNOTATION_VALUE>che poi vedremo (.) cresce via via eh non solo su questi personaggi ma l'umanità intera.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che poi vedremo {P} cresce via via eh non solo su questi personaggi ma l'umanità intera.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4825,12 +4827,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a483" TIME_SLOT_REF1="ts964" TIME_SLOT_REF2="ts965">
-				<ANNOTATION_VALUE>e::~ era:: (.) al culmine della sua carriera</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::~ era:: {P} al culmine della sua carriera</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a484" TIME_SLOT_REF1="ts966" TIME_SLOT_REF2="ts967">
-				<ANNOTATION_VALUE>perché era stato l'interprete di una serie di commedie (.) che furono etichettate</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché era stato l'interprete di una serie di commedie {P} che furono etichettate</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4900,7 +4902,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a498" TIME_SLOT_REF1="ts994" TIME_SLOT_REF2="ts995">
-				<ANNOTATION_VALUE>alla: alle (.) sperimentazioni, ((tossisce)) alle suggestioni del futurismo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>alla: alle {P} sperimentazioni, {tossisce} alle suggestioni del futurismo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4935,17 +4937,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a505" TIME_SLOT_REF1="ts1008" TIME_SLOT_REF2="ts1009">
-				<ANNOTATION_VALUE>c'era l'aspirazione a una rivoluzione ma ((tossisce)) di fatto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'era l'aspirazione a una rivoluzione ma {tossisce} di fatto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a506" TIME_SLOT_REF1="ts1010" TIME_SLOT_REF2="ts1011">
-				<ANNOTATION_VALUE>la vera rivoluzione era: fu rappresentata dai futuristi (.) e da pirandello.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la vera rivoluzione era: fu rappresentata dai futuristi {P} e da pirandello.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a507" TIME_SLOT_REF1="ts1012" TIME_SLOT_REF2="ts1013">
-				<ANNOTATION_VALUE>per i futuristi poi si dovrà aspettare fino agli anni sessanta (.) del novecento per capire che questa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per i futuristi poi si dovrà aspettare fino agli anni sessanta {P} del novecento per capire che questa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5020,7 +5022,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a522" TIME_SLOT_REF1="ts1042" TIME_SLOT_REF2="ts1043">
-				<ANNOTATION_VALUE>abbiamo profondo schifo del teatro contemporaneo (.) mh?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>abbiamo profondo schifo del teatro contemporaneo {P} mh?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5030,12 +5032,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a524" TIME_SLOT_REF1="ts1046" TIME_SLOT_REF2="ts1047">
-				<ANNOTATION_VALUE>e::h ma silvio d'amico: (.) che rappresentava la critica:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h ma silvio d'amico: {P} che rappresentava la critica:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a525" TIME_SLOT_REF1="ts1048" TIME_SLOT_REF2="ts1049">
-				<ANNOTATION_VALUE>era (.) diciamo così il più autorevole fra i critici teatrali italiani</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>era {P} diciamo così il più autorevole fra i critici teatrali italiani</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5055,7 +5057,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a529" TIME_SLOT_REF1="ts1056" TIME_SLOT_REF2="ts1057">
-				<ANNOTATION_VALUE>il pubblico si eh (.) scatenava lanciando pomodori</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il pubblico si eh {P} scatenava lanciando pomodori</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5065,7 +5067,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a531" TIME_SLOT_REF1="ts1060" TIME_SLOT_REF2="ts1061">
-				<ANNOTATION_VALUE>per dire che n:on in realtà la vera novità (.) teatrale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per dire che n:on in realtà la vera novità {P} teatrale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5080,7 +5082,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a534" TIME_SLOT_REF1="ts1066" TIME_SLOT_REF2="ts1067">
-				<ANNOTATION_VALUE>e::h vabbè questa è tutta un'altra storia che:: ((tossisce)) metterebbe in ballo un discorso molto lungo::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h vabbè questa è tutta un'altra storia che:: {tossisce} metterebbe in ballo un discorso molto lungo::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5095,7 +5097,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a537" TIME_SLOT_REF1="ts1072" TIME_SLOT_REF2="ts1073">
-				<ANNOTATION_VALUE>e::h (.) c'è: nel diciassette così è se vi pa:re</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h {P} c'è: nel diciassette così è se vi pa:re</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5135,17 +5137,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a545" TIME_SLOT_REF1="ts1088" TIME_SLOT_REF2="ts1089">
-				<ANNOTATION_VALUE>rispetto: (.) come come dicevo ieri rispetto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>rispetto: {P} come come dicevo ieri rispetto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a546" TIME_SLOT_REF1="ts1090" TIME_SLOT_REF2="ts1091">
-				<ANNOTATION_VALUE>alla novella il testo è (.) molto modificato</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>alla novella il testo è {P} molto modificato</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a547" TIME_SLOT_REF1="ts1092" TIME_SLOT_REF2="ts1093">
-				<ANNOTATION_VALUE>con prevalenza come è evidente di (.) come: è naturale voglio dire di aspetti teatrali</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>con prevalenza come è evidente di {P} come: è naturale voglio dire di aspetti teatrali</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5165,7 +5167,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a551" TIME_SLOT_REF1="ts1100" TIME_SLOT_REF2="ts1101">
-				<ANNOTATION_VALUE>molto più: (.) attento ai gesti che non al dialogato.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>molto più: {P} attento ai gesti che non al dialogato.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5210,7 +5212,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a562" TIME_SLOT_REF1="ts1122" TIME_SLOT_REF2="ts1123">
-				<ANNOTATION_VALUE>la stupirò è un racconto allegorico cos'è [l'allegori~] ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la stupirò è un racconto allegorico cos'è [l'allegori~] {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5220,7 +5222,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a565" TIME_SLOT_REF1="ts1128" TIME_SLOT_REF2="ts1129">
-				<ANNOTATION_VALUE>è un simbolo è un emblema è un è:: un significato che ne adombra un altro che ne:: (.) nasconde un altro.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è un simbolo è un emblema è un è:: un significato che ne adombra un altro che ne:: {P} nasconde un altro.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5300,7 +5302,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a581" TIME_SLOT_REF1="ts1160" TIME_SLOT_REF2="ts1161">
-				<ANNOTATION_VALUE>hanno:: (.) tratti animaleschi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>hanno:: {P} tratti animaleschi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5315,7 +5317,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a584" TIME_SLOT_REF1="ts1166" TIME_SLOT_REF2="ts1167">
-				<ANNOTATION_VALUE>e:h totò (.) viene definito animale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h totò {P} viene definito animale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5370,7 +5372,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a595" TIME_SLOT_REF1="ts1188" TIME_SLOT_REF2="ts1189">
-				<ANNOTATION_VALUE>quando fa così: (.) poi li fa muovere</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quando fa così: {P} poi li fa muovere</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5385,7 +5387,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a598" TIME_SLOT_REF1="ts1194" TIME_SLOT_REF2="ts1195">
-				<ANNOTATION_VALUE>e infatti questa vecchia gallina (.) e::h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e infatti questa vecchia gallina {P} e::h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5425,7 +5427,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a606" TIME_SLOT_REF1="ts1210" TIME_SLOT_REF2="ts1211">
-				<ANNOTATION_VALUE>ed è chiamata animale (.) da perella.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ed è chiamata animale {P} da perella.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5505,12 +5507,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a622" TIME_SLOT_REF1="ts1242" TIME_SLOT_REF2="ts1243">
-				<ANNOTATION_VALUE>quindi non si salva (.) praticamente nessuno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi non si salva {P} praticamente nessuno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a623" TIME_SLOT_REF1="ts1244" TIME_SLOT_REF2="ts1245">
-				<ANNOTATION_VALUE>ma da chiedersi:: (.) perché proprio maschere di animali?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma da chiedersi:: {P} perché proprio maschere di animali?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5525,7 +5527,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a626" TIME_SLOT_REF1="ts1250" TIME_SLOT_REF2="ts1251">
-				<ANNOTATION_VALUE>un'immagine, gesti (.) congelati, gesti immodificabili</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un'immagine, gesti {P} congelati, gesti immodificabili</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5535,7 +5537,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a628" TIME_SLOT_REF1="ts1254" TIME_SLOT_REF2="ts1255">
-				<ANNOTATION_VALUE>nella (.) prefazione ai sei personaggi in cerca di autore.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nella {P} prefazione ai sei personaggi in cerca di autore.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5555,7 +5557,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a632" TIME_SLOT_REF1="ts1262" TIME_SLOT_REF2="ts1263">
-				<ANNOTATION_VALUE>e:h (.) una volta una volta un mio studente eh ha scritto in un te:ma</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h {P} una volta una volta un mio studente eh ha scritto in un te:ma</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5580,7 +5582,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a638" TIME_SLOT_REF1="ts1274" TIME_SLOT_REF2="ts1275">
-				<ANNOTATION_VALUE>in un secolo e mezzo di analisi critiche ((ride)) è arrivato a tanto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in un secolo e mezzo di analisi critiche {ride} è arrivato a tanto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5590,7 +5592,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a640" TIME_SLOT_REF1="ts1278" TIME_SLOT_REF2="ts1279">
-				<ANNOTATION_VALUE>allora ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5630,7 +5632,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a648" TIME_SLOT_REF1="ts1294" TIME_SLOT_REF2="ts1295">
-				<ANNOTATION_VALUE>e:h (.) scrive didascalie scrupolosissime</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h {P} scrive didascalie scrupolosissime</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5670,7 +5672,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a656" TIME_SLOT_REF1="ts1310" TIME_SLOT_REF2="ts1311">
-				<ANNOTATION_VALUE>le maschere aiuteranno a dare l'impressione della figura (.) costruita per arte</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>le maschere aiuteranno a dare l'impressione della figura {P} costruita per arte</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5680,7 +5682,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a659" TIME_SLOT_REF1="ts1316" TIME_SLOT_REF2="ts1317">
-				<ANNOTATION_VALUE>immutabilmente (.) nell'espressione del proprio sentimento.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>immutabilmente {P} nell'espressione del proprio sentimento.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5735,17 +5737,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a670" TIME_SLOT_REF1="ts1338" TIME_SLOT_REF2="ts1339">
-				<ANNOTATION_VALUE>i personaggi devono apparire come costruzioni della fantasia immutabili ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>i personaggi devono apparire come costruzioni della fantasia immutabili {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a671" TIME_SLOT_REF1="ts1340" TIME_SLOT_REF2="ts1341">
-				<ANNOTATION_VALUE>e dunque più reali e constistenti ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e dunque più reali e constistenti {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a672" TIME_SLOT_REF1="ts1342" TIME_SLOT_REF2="ts1343">
-				<ANNOTATION_VALUE>della volubile realtà degli atto:ri. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>della volubile realtà degli atto:ri. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5755,7 +5757,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a674" TIME_SLOT_REF1="ts1346" TIME_SLOT_REF2="ts1347">
-				<ANNOTATION_VALUE>che si=intitola (.) magari lo potete cercare eh sono due paginette proprio non di più</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che si=intitola {P} magari lo potete cercare eh sono due paginette proprio non di più</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5770,12 +5772,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a677" TIME_SLOT_REF1="ts1352" TIME_SLOT_REF2="ts1353">
-				<ANNOTATION_VALUE>tre categorie di persone (.) e di mestieri e di professionalità</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tre categorie di persone {P} e di mestieri e di professionalità</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a678" TIME_SLOT_REF1="ts1354" TIME_SLOT_REF2="ts1355">
-				<ANNOTATION_VALUE>che si equivalgono (.) secondo pirandello</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che si equivalgono {P} secondo pirandello</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5830,7 +5832,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a689" TIME_SLOT_REF1="ts1376" TIME_SLOT_REF2="ts1377">
-				<ANNOTATION_VALUE>pirandello dice il personaggio è già una: verità compiuta (.) sulla pagina</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>pirandello dice il personaggio è già una: verità compiuta {P} sulla pagina</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5875,7 +5877,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a698" TIME_SLOT_REF1="ts1394" TIME_SLOT_REF2="ts1395">
-				<ANNOTATION_VALUE>l'attore apporta realtà (.) al personaggio</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'attore apporta realtà {P} al personaggio</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5890,7 +5892,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a701" TIME_SLOT_REF1="ts1400" TIME_SLOT_REF2="ts1401">
-				<ANNOTATION_VALUE>del corpo, della vita, del (.) della contingenza diciamo così</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>del corpo, della vita, del {P} della contingenza diciamo così</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5905,7 +5907,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a704" TIME_SLOT_REF1="ts1406" TIME_SLOT_REF2="ts1407">
-				<ANNOTATION_VALUE>la realtà degli attori la verità (.) dei personaggi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la realtà degli attori la verità {P} dei personaggi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5945,12 +5947,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a712" TIME_SLOT_REF1="ts1422" TIME_SLOT_REF2="ts1423">
-				<ANNOTATION_VALUE>si metteva (.) col copio~ anzi lui lo sapeva a memoria</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si metteva {P} col copio~ anzi lui lo sapeva a memoria</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a713" TIME_SLOT_REF1="ts1424" TIME_SLOT_REF2="ts1425">
-				<ANNOTATION_VALUE>e::h davanti all'attore e metteva una mano sulla testa dell'attore per tramettergli (.) il senso</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h davanti all'attore e metteva una mano sulla testa dell'attore per tramettergli {P} il senso</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5960,7 +5962,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a715" TIME_SLOT_REF1="ts1428" TIME_SLOT_REF2="ts1429">
-				<ANNOTATION_VALUE>della ve~ la verità diciamo così (.) del personaggio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>della ve~ la verità diciamo così {P} del personaggio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5975,7 +5977,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a718" TIME_SLOT_REF1="ts1434" TIME_SLOT_REF2="ts1435">
-				<ANNOTATION_VALUE>la maschera indica la verità (.) indica una surrealtà</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la maschera indica la verità {P} indica una surrealtà</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6015,7 +6017,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a726" TIME_SLOT_REF1="ts1450" TIME_SLOT_REF2="ts1451">
-				<ANNOTATION_VALUE>e:h con i quali:: (.) presenta molti dei suoi personaggi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h con i quali:: {P} presenta molti dei suoi personaggi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6040,7 +6042,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a731" TIME_SLOT_REF1="ts1460" TIME_SLOT_REF2="ts1461">
-				<ANNOTATION_VALUE>che dà efficacia espressiva ai gesti (.) dei personaggi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che dà efficacia espressiva ai gesti {P} dei personaggi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6090,12 +6092,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a741" TIME_SLOT_REF1="ts1480" TIME_SLOT_REF2="ts1481">
-				<ANNOTATION_VALUE>e::h dove: (.) il personaggio di baldovino:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h dove: {P} il personaggio di baldovino:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a742" TIME_SLOT_REF1="ts1482" TIME_SLOT_REF2="ts1483">
-				<ANNOTATION_VALUE>dice (.) ed è una battuta: come dire che può servire</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dice {P} ed è una battuta: come dire che può servire</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6105,7 +6107,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a744" TIME_SLOT_REF1="ts1486" TIME_SLOT_REF2="ts1487">
-				<ANNOTATION_VALUE>dice non siamo soli siamo noi e la bestia (.) è la bestia che ci porta.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dice non siamo soli siamo noi e la bestia {P} è la bestia che ci porta.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6185,7 +6187,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a760" TIME_SLOT_REF1="ts1518" TIME_SLOT_REF2="ts1519">
-				<ANNOTATION_VALUE>che sono (.) sempre in confltto fra di loro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che sono {P} sempre in confltto fra di loro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6210,7 +6212,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a765" TIME_SLOT_REF1="ts1528" TIME_SLOT_REF2="ts1529">
-				<ANNOTATION_VALUE>e questo spiega:: i moventi oscuri (.) di certi nostri gesti improvvisi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e questo spiega:: i moventi oscuri {P} di certi nostri gesti improvvisi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6245,7 +6247,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a772" TIME_SLOT_REF1="ts1542" TIME_SLOT_REF2="ts1543">
-				<ANNOTATION_VALUE>di non far emergere (.) perché viviamo in una società cosiddetta civile</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di non far emergere {P} perché viviamo in una società cosiddetta civile</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6255,7 +6257,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a774" TIME_SLOT_REF1="ts1546" TIME_SLOT_REF2="ts1547">
-				<ANNOTATION_VALUE>e quindi è sempre tutto sotto cenere ma ogni tanto (.) esplode</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi è sempre tutto sotto cenere ma ogni tanto {P} esplode</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6270,12 +6272,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a777" TIME_SLOT_REF1="ts1552" TIME_SLOT_REF2="ts1553">
-				<ANNOTATION_VALUE>appena percepita (.) percepita</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>appena percepita {P} percepita</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a778" TIME_SLOT_REF1="ts1554" TIME_SLOT_REF2="ts1555">
-				<ANNOTATION_VALUE>allora attenzione qua (.) è un passaggio importante</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora attenzione qua {P} è un passaggio importante</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6320,7 +6322,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a787" TIME_SLOT_REF1="ts1572" TIME_SLOT_REF2="ts1573">
-				<ANNOTATION_VALUE>rappresentano una specie di maschera sulla maschera (.) ci siamo?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>rappresentano una specie di maschera sulla maschera {P} ci siamo?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6340,7 +6342,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a791" TIME_SLOT_REF1="ts1580" TIME_SLOT_REF2="ts1581">
-				<ANNOTATION_VALUE>che è la nostra autentica anima (.) animale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che è la nostra autentica anima {P} animale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6355,7 +6357,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a794" TIME_SLOT_REF1="ts1586" TIME_SLOT_REF2="ts1587">
-				<ANNOTATION_VALUE>è una maschera sulla nostra maschera (.) quotidiana.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è una maschera sulla nostra maschera {P} quotidiana.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6380,7 +6382,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a801" TIME_SLOT_REF1="ts1600" TIME_SLOT_REF2="ts1601">
-				<ANNOTATION_VALUE>e naturalmente questa maschera di animali (.) stride</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e naturalmente questa maschera di animali {P} stride</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6395,7 +6397,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a804" TIME_SLOT_REF1="ts1606" TIME_SLOT_REF2="ts1607">
-				<ANNOTATION_VALUE>con i comportamenti (.) che per questo sono definiti ipocriti</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>con i comportamenti {P} che per questo sono definiti ipocriti</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6430,7 +6432,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a811" TIME_SLOT_REF1="ts1620" TIME_SLOT_REF2="ts1621">
-				<ANNOTATION_VALUE>eh è proprio questa: simbologia animalesca (.) che trasforma la</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh è proprio questa: simbologia animalesca {P} che trasforma la</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6455,7 +6457,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a816" TIME_SLOT_REF1="ts1630" TIME_SLOT_REF2="ts1631">
-				<ANNOTATION_VALUE>nel senso boccaccesco erano testi (.) molto::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nel senso boccaccesco erano testi {P} molto::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6480,7 +6482,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a821" TIME_SLOT_REF1="ts1640" TIME_SLOT_REF2="ts1641">
-				<ANNOTATION_VALUE>il testo boccaccesco, (.) l'uso dell'afrodisiaco:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il testo boccaccesco, {P} l'uso dell'afrodisiaco:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6490,12 +6492,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a823" TIME_SLOT_REF1="ts1644" TIME_SLOT_REF2="ts1645">
-				<ANNOTATION_VALUE>lo trasforma in moralità, lo lo trasforma in apologo (.) pirandello</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lo trasforma in moralità, lo lo trasforma in apologo {P} pirandello</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a824" TIME_SLOT_REF1="ts1646" TIME_SLOT_REF2="ts1647">
-				<ANNOTATION_VALUE>mentre (.) gandusio questa operazione non la fa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mentre {P} gandusio questa operazione non la fa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6510,7 +6512,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a827" TIME_SLOT_REF1="ts1652" TIME_SLOT_REF2="ts1653">
-				<ANNOTATION_VALUE>e il punto di snodo (.) di questo di questa denuncia</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e il punto di snodo {P} di questo di questa denuncia</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6525,7 +6527,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a830" TIME_SLOT_REF1="ts1658" TIME_SLOT_REF2="ts1659">
-				<ANNOTATION_VALUE>donna virtuosa, virtù (.) a baldracca da trivio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>donna virtuosa, virtù {P} a baldracca da trivio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6560,7 +6562,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a837" TIME_SLOT_REF1="ts1672" TIME_SLOT_REF2="ts1673">
-				<ANNOTATION_VALUE>ma vuol dire anche (.) e::h strada,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma vuol dire anche {P} e::h strada,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6575,7 +6577,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a840" TIME_SLOT_REF1="ts1678" TIME_SLOT_REF2="ts1679">
-				<ANNOTATION_VALUE>donna di stra~ (.) okay?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>donna di stra~ {P} okay?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6605,7 +6607,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a846" TIME_SLOT_REF1="ts1690" TIME_SLOT_REF2="ts1691">
-				<ANNOTATION_VALUE>afrodisiaco, farsa boccaccesca, (.) comicità</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>afrodisiaco, farsa boccaccesca, {P} comicità</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6640,22 +6642,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a853" TIME_SLOT_REF1="ts1704" TIME_SLOT_REF2="ts1705">
-				<ANNOTATION_VALUE>che spiega (.) cos'è questa trasparenza con cui viene caratterizzato paolino</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che spiega {P} cos'è questa trasparenza con cui viene caratterizzato paolino</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a854" TIME_SLOT_REF1="ts1706" TIME_SLOT_REF2="ts1707">
-				<ANNOTATION_VALUE>aveva la disgrazia lu:i di essere trasparente ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>aveva la disgrazia lu:i di essere trasparente {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a855" TIME_SLOT_REF1="ts1708" TIME_SLOT_REF2="ts1709">
-				<ANNOTATION_VALUE>sicuro e questa trasparenza sua riusciva &lt;esilarantissima&gt; a tutti gli ipocriti ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sicuro e questa trasparenza sua riusciva &lt;esilarantissima&gt; a tutti gli ipocriti {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a856" TIME_SLOT_REF1="ts1710" TIME_SLOT_REF2="ts1711">
-				<ANNOTATION_VALUE>foderati di menzogna. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>foderati di menzogna. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6685,27 +6687,27 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a862" TIME_SLOT_REF1="ts1722" TIME_SLOT_REF2="ts1723">
-				<ANNOTATION_VALUE>pareva che la vista chiara, aperta delle passioni ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>pareva che la vista chiara, aperta delle passioni {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a863" TIME_SLOT_REF1="ts1724" TIME_SLOT_REF2="ts1725">
-				<ANNOTATION_VALUE>se fossero anche le più tristi, le più angosciose: ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se fossero anche le più tristi, le più angosciose: {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a864" TIME_SLOT_REF1="ts1726" TIME_SLOT_REF2="ts1727">
-				<ANNOTATION_VALUE>avesse il potere di promuovere le risa in tutti coloro che o non le avevano mai provate, ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>avesse il potere di promuovere le risa in tutti coloro che o non le avevano mai provate, {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a865" TIME_SLOT_REF1="ts1728" TIME_SLOT_REF2="ts1729">
-				<ANNOTATION_VALUE>o usi com'erano a mascherarle non le riconoscevano più in un pover uomo come lui ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>o usi com'erano a mascherarle non le riconoscevano più in un pover uomo come lui {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a866" TIME_SLOT_REF1="ts1730" TIME_SLOT_REF2="ts1731">
-				<ANNOTATION_VALUE>che aveva la sciagura di non saperle nascondere e dominare. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che aveva la sciagura di non saperle nascondere e dominare. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6730,7 +6732,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a871" TIME_SLOT_REF1="ts1740" TIME_SLOT_REF2="ts1741">
-				<ANNOTATION_VALUE>il professor paolino sarà pure trasparente ma è anche (.) adultero</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il professor paolino sarà pure trasparente ma è anche {P} adultero</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6775,7 +6777,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a880" TIME_SLOT_REF1="ts1758" TIME_SLOT_REF2="ts1759">
-				<ANNOTATION_VALUE>quindi sono (.) sia il (.) trasparente signor professor paolino sia</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi sono {P} sia il {P} trasparente signor professor paolino sia</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6790,7 +6792,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a883" TIME_SLOT_REF1="ts1764" TIME_SLOT_REF2="ts1765">
-				<ANNOTATION_VALUE>e tenete conto che il perbenismo (.) è il contrario della virtù</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e tenete conto che il perbenismo {P} è il contrario della virtù</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6805,7 +6807,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a886" TIME_SLOT_REF1="ts1770" TIME_SLOT_REF2="ts1771">
-				<ANNOTATION_VALUE>un po' come il finale della mandragola eh (.) che alla fine tutto sembra normale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un po' come il finale della mandragola eh {P} che alla fine tutto sembra normale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6835,7 +6837,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a899" TIME_SLOT_REF1="ts1796" TIME_SLOT_REF2="ts1797">
-				<ANNOTATION_VALUE>[e lì passan poi due secoli] (.) eh no ecco</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e lì passan poi due secoli] {P} eh no ecco</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6850,12 +6852,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a902" TIME_SLOT_REF1="ts1802" TIME_SLOT_REF2="ts1803">
-				<ANNOTATION_VALUE>allora (.) e:h l'intero testo:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora {P} e:h l'intero testo:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a903" TIME_SLOT_REF1="ts1804" TIME_SLOT_REF2="ts1805">
-				<ANNOTATION_VALUE>l'intero testo (.) è</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'intero testo {P} è</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6900,7 +6902,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a912" TIME_SLOT_REF1="ts1822" TIME_SLOT_REF2="ts1823">
-				<ANNOTATION_VALUE>è un richiamo che:: detto da paolino (.) viene ripetuto sei volte</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è un richiamo che:: detto da paolino {P} viene ripetuto sei volte</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6950,7 +6952,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a922" TIME_SLOT_REF1="ts1842" TIME_SLOT_REF2="ts1843">
-				<ANNOTATION_VALUE>e ancora (.) ridotto all'estremo limite della sua sofferenza anche la libertà</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e ancora {P} ridotto all'estremo limite della sua sofferenza anche la libertà</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6990,7 +6992,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a930" TIME_SLOT_REF1="ts1858" TIME_SLOT_REF2="ts1859">
-				<ANNOTATION_VALUE>le definizioni si rovesciano (.) alla fine</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>le definizioni si rovesciano {P} alla fine</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7000,22 +7002,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a932" TIME_SLOT_REF1="ts1862" TIME_SLOT_REF2="ts1863">
-				<ANNOTATION_VALUE>con una:: (.) inatteso (.) inattesa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>con una:: {P} inatteso {P} inattesa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a933" TIME_SLOT_REF1="ts1864" TIME_SLOT_REF2="ts1865">
-				<ANNOTATION_VALUE>e:h rivoluzione umoristica pirandello (.) fa dire queste cose</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h rivoluzione umoristica pirandello {P} fa dire queste cose</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a934" TIME_SLOT_REF1="ts1866" TIME_SLOT_REF2="ts1867">
-				<ANNOTATION_VALUE>il signor paolino (.) a un certo punto dice</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il signor paolino {P} a un certo punto dice</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a935" TIME_SLOT_REF1="ts1868" TIME_SLOT_REF2="ts1869">
-				<ANNOTATION_VALUE>si scusa (.) col: capitano</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si scusa {P} col: capitano</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7045,62 +7047,62 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a942" TIME_SLOT_REF1="ts1882" TIME_SLOT_REF2="ts1883">
-				<ANNOTATION_VALUE>dice al capitano che poc'anzi mi son scappate di bocca ero così nervo:so ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dice al capitano che poc'anzi mi son scappate di bocca ero così nervo:so {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a943" TIME_SLOT_REF1="ts1884" TIME_SLOT_REF2="ts1885">
-				<ANNOTATION_VALUE>ma è stato uno sfogo che tanto che mi ha tanto giovato ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma è stato uno sfogo che tanto che mi ha tanto giovato {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a944" TIME_SLOT_REF1="ts1886" TIME_SLOT_REF2="ts1887">
-				<ANNOTATION_VALUE>mi è passato tutto sono contento ora tanto contento mi scusi e grazie grazie signor capitano xxx ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mi è passato tutto sono contento ora tanto contento mi scusi e grazie grazie signor capitano xxx {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a945" TIME_SLOT_REF1="ts1888" TIME_SLOT_REF2="ts1889">
-				<ANNOTATION_VALUE>e::h con tutto il cuore guardi là che azzurro che bella giornata s'(è fatta ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h con tutto il cuore guardi là che azzurro che bella giornata s'(è fatta {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a946" TIME_SLOT_REF1="ts1890" TIME_SLOT_REF2="ts1891">
-				<ANNOTATION_VALUE>e qui (.) con stupore che è quasi terrore ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e qui {P} con stupore che è quasi terrore {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a947" TIME_SLOT_REF1="ts1892" TIME_SLOT_REF2="ts1893">
-				<ANNOTATION_VALUE>ho: cinque vasi là ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ho: cinque vasi là {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a948" TIME_SLOT_REF1="ts1894" TIME_SLOT_REF2="ts1895">
-				<ANNOTATION_VALUE>e la signora perella che ha il quinto vaso fra le mani che contiene il giglio ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e la signora perella che ha il quinto vaso fra le mani che contiene il giglio {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a949" TIME_SLOT_REF1="ts1896" TIME_SLOT_REF2="ts1897">
-				<ANNOTATION_VALUE>mostrandolo vergognosa con gli occhi (.) bassi ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mostrandolo vergognosa con gli occhi {P} bassi {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a950" TIME_SLOT_REF1="ts1898" TIME_SLOT_REF2="ts1899">
-				<ANNOTATION_VALUE>ridanno alla vita (.) e paolino subito ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ridanno alla vita {P} e paolino subito {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a951" TIME_SLOT_REF1="ts1900" TIME_SLOT_REF2="ts1901">
-				<ANNOTATION_VALUE>ha una casa sì ((ride)) ridanno la vita a una casa grazie grazie capitano scusi sono veramente una bestia ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ha una casa sì {ride} ridanno la vita a una casa grazie grazie capitano scusi sono veramente una bestia {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a952" TIME_SLOT_REF1="ts1902" TIME_SLOT_REF2="ts1903">
-				<ANNOTATION_VALUE>si cominciano a rovesciare i termini (.) sono veramente una bestia</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si cominciano a rovesciare i termini {P} sono veramente una bestia</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a953" TIME_SLOT_REF1="ts1904" TIME_SLOT_REF2="ts1905">
-				<ANNOTATION_VALUE>e e perella scrollando il capo &lt;sentenzioso&gt; ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e e perella scrollando il capo &lt;sentenzioso&gt; {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7110,7 +7112,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a955" TIME_SLOT_REF1="ts1908" TIME_SLOT_REF2="ts1909">
-				<ANNOTATION_VALUE>scrollando il capo sentenzioso eh caro professore bisogna essere (.) uomini. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>scrollando il capo sentenzioso eh caro professore bisogna essere {P} uomini. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7120,7 +7122,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a957" TIME_SLOT_REF1="ts1912" TIME_SLOT_REF2="ts1913">
-				<ANNOTATION_VALUE>diciamo sessualmente (.) e:h virilmente attivi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>diciamo sessualmente {P} e:h virilmente attivi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7145,7 +7147,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a962" TIME_SLOT_REF1="ts1922" TIME_SLOT_REF2="ts1923">
-				<ANNOTATION_VALUE>e poi c'è questo (.) as~ aspetto sentenzioso, questo atteggiamento sentenzioso del capitano</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e poi c'è questo {P} as~ aspetto sentenzioso, questo atteggiamento sentenzioso del capitano</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7160,7 +7162,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a965" TIME_SLOT_REF1="ts1928" TIME_SLOT_REF2="ts1929">
-				<ANNOTATION_VALUE>è diventato (.) paolino.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è diventato {P} paolino.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7170,7 +7172,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a967" TIME_SLOT_REF1="ts1932" TIME_SLOT_REF2="ts1933">
-				<ANNOTATION_VALUE>per un surplus di comicità:: (.) pirandello fa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per un surplus di comicità:: {P} pirandello fa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7180,7 +7182,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a969" TIME_SLOT_REF1="ts1936" TIME_SLOT_REF2="ts1937">
-				<ANNOTATION_VALUE>&gt;ma anche&lt; nei confronti della (.) della: (.) della serva:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;ma anche&lt; nei confronti della {P} della: {P} della serva:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7200,27 +7202,27 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a973" TIME_SLOT_REF1="ts1944" TIME_SLOT_REF2="ts1945">
-				<ANNOTATION_VALUE>al levarsi della (tela) grazia tutta sgarruffata: (.) tutta: sconvolta, ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>al levarsi della (tela) grazia tutta sgarruffata: {P} tutta: sconvolta, {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a974" TIME_SLOT_REF1="ts1946" TIME_SLOT_REF2="ts1947">
-				<ANNOTATION_VALUE>con l'occorrente per la pulizia e curva a raccogliere i cocci del vasennale rotto ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>con l'occorrente per la pulizia e curva a raccogliere i cocci del vasennale rotto {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a975" TIME_SLOT_REF1="ts1948" TIME_SLOT_REF2="ts1949">
-				<ANNOTATION_VALUE>e i piatti, i bicchieri rimasti sani che poserà mano a mano sulla tavola. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e i piatti, i bicchieri rimasti sani che poserà mano a mano sulla tavola. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a976" TIME_SLOT_REF1="ts1950" TIME_SLOT_REF2="ts1951">
-				<ANNOTATION_VALUE>raddrizzandosi di tratto in tratto si stirerà ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>raddrizzandosi di tratto in tratto si stirerà {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a977" TIME_SLOT_REF1="ts1952" TIME_SLOT_REF2="ts1953">
-				<ANNOTATION_VALUE>contraendo il volto per significare che ha tutta la persona indolenzita ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>contraendo il volto per significare che ha tutta la persona indolenzita {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7230,37 +7232,37 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a979" TIME_SLOT_REF1="ts1956" TIME_SLOT_REF2="ts1957">
-				<ANNOTATION_VALUE>segnatamente le reni ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>segnatamente le reni {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a980" TIME_SLOT_REF1="ts1958" TIME_SLOT_REF2="ts1959">
-				<ANNOTATION_VALUE>pre~ protenderà allora una mano a pugno chiuso in direzione dell'uscio della camera del capitano ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>pre~ protenderà allora una mano a pugno chiuso in direzione dell'uscio della camera del capitano {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a981" TIME_SLOT_REF1="ts1960" TIME_SLOT_REF2="ts1961">
-				<ANNOTATION_VALUE>e borbotterà qualche inintelligibile imprecazione. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e borbotterà qualche inintelligibile imprecazione. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a982" TIME_SLOT_REF1="ts1962" TIME_SLOT_REF2="ts1963">
-				<ANNOTATION_VALUE>e do:po (.) alla fine di questa stessa: prima scena ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e do:po {P} alla fine di questa stessa: prima scena {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a983" TIME_SLOT_REF1="ts1964" TIME_SLOT_REF2="ts1965">
-				<ANNOTATION_VALUE>eh grazia ritorna a cercare tra le pieghe della tovaglia per terra qualche piatto: ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh grazia ritorna a cercare tra le pieghe della tovaglia per terra qualche piatto: {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a984" TIME_SLOT_REF1="ts1966" TIME_SLOT_REF2="ts1967">
-				<ANNOTATION_VALUE>o bicchiere rimasto sano e trovandone qualcuno allevan~ levandosi per posarlo sulla tavola ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>o bicchiere rimasto sano e trovandone qualcuno allevan~ levandosi per posarlo sulla tavola {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a985" TIME_SLOT_REF1="ts1968" TIME_SLOT_REF2="ts1969">
-				<ANNOTATION_VALUE>ri:fà il gesto per esprimere l'indolenzimento (delle reni) ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ri:fà il gesto per esprimere l'indolenzimento (delle reni) {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7270,7 +7272,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a987" TIME_SLOT_REF1="ts1972" TIME_SLOT_REF2="ts1973">
-				<ANNOTATION_VALUE>la:: il fatto che (.) pure lei ma questo è una</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la:: il fatto che {P} pure lei ma questo è una</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7280,7 +7282,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a989" TIME_SLOT_REF1="ts1976" TIME_SLOT_REF2="ts1977">
-				<ANNOTATION_VALUE>in più rispetto al significato vero della (.) del testo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in più rispetto al significato vero della {P} del testo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7315,7 +7317,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a996" TIME_SLOT_REF1="ts1990" TIME_SLOT_REF2="ts1991">
-				<ANNOTATION_VALUE>le didascalie anticipano quello che poi (.) diventeranno le battute.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>le didascalie anticipano quello che poi {P} diventeranno le battute.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7340,12 +7342,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1001" TIME_SLOT_REF1="ts2000" TIME_SLOT_REF2="ts2001">
-				<ANNOTATION_VALUE>e:h il lettore leggendo le didascalie (.) e: lo spettatore</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h il lettore leggendo le didascalie {P} e: lo spettatore</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1002" TIME_SLOT_REF1="ts2002" TIME_SLOT_REF2="ts2003">
-				<ANNOTATION_VALUE>vedendo (.) i gesti che le didascalie esprimono sulla scena</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vedendo {P} i gesti che le didascalie esprimono sulla scena</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7380,12 +7382,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1009" TIME_SLOT_REF1="ts2016" TIME_SLOT_REF2="ts2017">
-				<ANNOTATION_VALUE>e:h pe:r la velocità (.) con cui devono essere dette le battute.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h pe:r la velocità {P} con cui devono essere dette le battute.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1010" TIME_SLOT_REF1="ts2018" TIME_SLOT_REF2="ts2019">
-				<ANNOTATION_VALUE>per esempio (.) vediamo subito</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per esempio {P} vediamo subito</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7425,7 +7427,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1018" TIME_SLOT_REF1="ts2034" TIME_SLOT_REF2="ts2035">
-				<ANNOTATION_VALUE>attorti fra i capelli ritinti da una quasi rossa, orribile manteca. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>attorti fra i capelli ritinti da una quasi rossa, orribile manteca. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7435,17 +7437,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1020" TIME_SLOT_REF1="ts2038" TIME_SLOT_REF2="ts2039">
-				<ANNOTATION_VALUE>di sostanze grasse profumate che servivano per (.) per i capelli</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di sostanze grasse profumate che servivano per {P} per i capelli</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1021" TIME_SLOT_REF1="ts2040" TIME_SLOT_REF2="ts2041">
-				<ANNOTATION_VALUE>e poi (.) tenete conto di questi colori che sono colori (castici), sono colori violenti che stridono</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e poi {P} tenete conto di questi colori che sono colori (castici), sono colori violenti che stridono</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1022" TIME_SLOT_REF1="ts2042" TIME_SLOT_REF2="ts2043">
-				<ANNOTATION_VALUE>i capelli ritinti da una quasi rossa, orribile manteca. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>i capelli ritinti da una quasi rossa, orribile manteca. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7460,7 +7462,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1025" TIME_SLOT_REF1="ts2048" TIME_SLOT_REF2="ts2049">
-				<ANNOTATION_VALUE>comunque quasi rossa (.) è ancora più forte lo stridore del colore</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>comunque quasi rossa {P} è ancora più forte lo stridore del colore</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7570,7 +7572,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1047" TIME_SLOT_REF1="ts2092" TIME_SLOT_REF2="ts2093">
-				<ANNOTATION_VALUE>in questa blasfemi:a anticipa quello che sarà poi la signora (.) la signora perella.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in questa blasfemi:a anticipa quello che sarà poi la signora {P} la signora perella.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7605,7 +7607,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1054" TIME_SLOT_REF1="ts2106" TIME_SLOT_REF2="ts2107">
-				<ANNOTATION_VALUE>metamorfosi che è una metamorfosi coloratissima della signora (.) perella</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>metamorfosi che è una metamorfosi coloratissima della signora {P} perella</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7625,7 +7627,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1058" TIME_SLOT_REF1="ts2114" TIME_SLOT_REF2="ts2115">
-				<ANNOTATION_VALUE>è (.) una persona che tutto sommato:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è {P} una persona che tutto sommato:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7635,7 +7637,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1060" TIME_SLOT_REF1="ts2118" TIME_SLOT_REF2="ts2119">
-				<ANNOTATION_VALUE>la sua (.) fatica, il suo dolore di vivere truccata in quel modo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la sua {P} fatica, il suo dolore di vivere truccata in quel modo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7645,12 +7647,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1062" TIME_SLOT_REF1="ts2122" TIME_SLOT_REF2="ts2123">
-				<ANNOTATION_VALUE>e:h allo stesso modo (.) la signora perella si mostrerà</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h allo stesso modo {P} la signora perella si mostrerà</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1063" TIME_SLOT_REF1="ts2124" TIME_SLOT_REF2="ts2125">
-				<ANNOTATION_VALUE>testuale di pirandello pudicamente afflitta nel goffo (.) impaccio</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>testuale di pirandello pudicamente afflitta nel goffo {P} impaccio</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7665,7 +7667,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1066" TIME_SLOT_REF1="ts2130" TIME_SLOT_REF2="ts2131">
-				<ANNOTATION_VALUE>quindi c'è questa (.) e::h mortificazione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi c'è questa {P} e::h mortificazione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7700,7 +7702,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1073" TIME_SLOT_REF1="ts2144" TIME_SLOT_REF2="ts2145">
-				<ANNOTATION_VALUE>viviamo sempre (.) perplessi fra il sì e il no viviamo nel dubbio</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>viviamo sempre {P} perplessi fra il sì e il no viviamo nel dubbio</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7710,7 +7712,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1075" TIME_SLOT_REF1="ts2148" TIME_SLOT_REF2="ts2149">
-				<ANNOTATION_VALUE>e quindi (.) sia la signora dell'umorismo sia la signora perella</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi {P} sia la signora dell'umorismo sia la signora perella</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7795,17 +7797,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1093" TIME_SLOT_REF1="ts2184" TIME_SLOT_REF2="ts2185">
-				<ANNOTATION_VALUE>e:h la casa ca~ cara rosaria: ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h la casa ca~ cara rosaria: {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1094" TIME_SLOT_REF1="ts2186" TIME_SLOT_REF2="ts2187">
-				<ANNOTATION_VALUE>credete a me non è mai quella che ci facciamo noi e che ci costa tanti pensieri e tante cure ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>credete a me non è mai quella che ci facciamo noi e che ci costa tanti pensieri e tante cure {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1095" TIME_SLOT_REF1="ts2188" TIME_SLOT_REF2="ts2189">
-				<ANNOTATION_VALUE>la vera casa quella di cui sentiamo il s:apore ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la vera casa quella di cui sentiamo il s:apore {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7815,32 +7817,32 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1097" TIME_SLOT_REF1="ts2192" TIME_SLOT_REF2="ts2193">
-				<ANNOTATION_VALUE>quando si dice casa un sapore che nel ricordo è così dolce e così angoscioso ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quando si dice casa un sapore che nel ricordo è così dolce e così angoscioso {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1098" TIME_SLOT_REF1="ts2194" TIME_SLOT_REF2="ts2195">
-				<ANNOTATION_VALUE>la vera casa è quella che altri fece per vo:i ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la vera casa è quella che altri fece per vo:i {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1099" TIME_SLOT_REF1="ts2196" TIME_SLOT_REF2="ts2197">
-				<ANNOTATION_VALUE>voglio dire nostro padre, nostra madre coi loro pensieri e le loro (.) cure ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>voglio dire nostro padre, nostra madre coi loro pensieri e le loro {P} cure {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1100" TIME_SLOT_REF1="ts2198" TIME_SLOT_REF2="ts2199">
-				<ANNOTATION_VALUE>e anche per lo:ro per nostro padre e nostra madre la casa la vera casa per loro qual era? ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e anche per lo:ro per nostro padre e nostra madre la casa la vera casa per loro qual era? {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1101" TIME_SLOT_REF1="ts2200" TIME_SLOT_REF2="ts2201">
-				<ANNOTATION_VALUE>ma quella dei loro genitori non già quella che essi fecero per noi ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma quella dei loro genitori non già quella che essi fecero per noi {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1102" TIME_SLOT_REF1="ts2202" TIME_SLOT_REF2="ts2203">
-				<ANNOTATION_VALUE>e sempre così. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e sempre così. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7850,7 +7852,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1104" TIME_SLOT_REF1="ts2206" TIME_SLOT_REF2="ts2207">
-				<ANNOTATION_VALUE>come (.) eh parlando di fede (.) citavo in una qualche lezione precedente</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come {P} eh parlando di fede {P} citavo in una qualche lezione precedente</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7865,7 +7867,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1107" TIME_SLOT_REF1="ts2212" TIME_SLOT_REF2="ts2213">
-				<ANNOTATION_VALUE>lucio è un giovane prete che ha (.) ha perso ormai la fede spie:ga</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lucio è un giovane prete che ha {P} ha perso ormai la fede spie:ga</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7885,7 +7887,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1111" TIME_SLOT_REF1="ts2220" TIME_SLOT_REF2="ts2221">
-				<ANNOTATION_VALUE>era (.) era il sapore in bocca dell'ostia consacrata,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>era {P} era il sapore in bocca dell'ostia consacrata,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7895,7 +7897,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1113" TIME_SLOT_REF1="ts2224" TIME_SLOT_REF2="ts2225">
-				<ANNOTATION_VALUE>ovviamente (.) non dico più della ragione, ma al posto della ragione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ovviamente {P} non dico più della ragione, ma al posto della ragione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7955,7 +7957,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1125" TIME_SLOT_REF1="ts2248" TIME_SLOT_REF2="ts2249">
-				<ANNOTATION_VALUE>quando il:: (.) con l'anima di sua madre più che il fantasma di sua madre</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quando il:: {P} con l'anima di sua madre più che il fantasma di sua madre</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7985,7 +7987,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1131" TIME_SLOT_REF1="ts2260" TIME_SLOT_REF2="ts2261">
-				<ANNOTATION_VALUE>e non quella che noi creere~ ci siamo ci creiamo noi (.) magari per i nostri figli.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e non quella che noi creere~ ci siamo ci creiamo noi {P} magari per i nostri figli.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8010,7 +8012,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1136" TIME_SLOT_REF1="ts2270" TIME_SLOT_REF2="ts2271">
-				<ANNOTATION_VALUE>l'idea che la casa renda sempre l'impronta di chi (.) la abita.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'idea che la casa renda sempre l'impronta di chi {P} la abita.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8020,7 +8022,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1138" TIME_SLOT_REF1="ts2274" TIME_SLOT_REF2="ts2275">
-				<ANNOTATION_VALUE>la casa (.) subisce nello stesso tempo trasmette degli umori,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la casa {P} subisce nello stesso tempo trasmette degli umori,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8095,12 +8097,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1153" TIME_SLOT_REF1="ts2304" TIME_SLOT_REF2="ts2305">
-				<ANNOTATION_VALUE>riconosciamo che c'è (.) una:: e::h una:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>riconosciamo che c'è {P} una:: e::h una:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1154" TIME_SLOT_REF1="ts2306" TIME_SLOT_REF2="ts2307">
-				<ANNOTATION_VALUE>fragranza, una:: profumo, un tanfo, (.) dipende che non è nostro non appartiene alla nostra vita</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>fragranza, una:: profumo, un tanfo, {P} dipende che non è nostro non appartiene alla nostra vita</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8125,12 +8127,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1159" TIME_SLOT_REF1="ts2316" TIME_SLOT_REF2="ts2317">
-				<ANNOTATION_VALUE>la casa si identifica con (.) la coscienza di chi la abita</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la casa si identifica con {P} la coscienza di chi la abita</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1160" TIME_SLOT_REF1="ts2318" TIME_SLOT_REF2="ts2319">
-				<ANNOTATION_VALUE>esattamente come i mobili (.) che riflettono (.) sentimenti umani</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>esattamente come i mobili {P} che riflettono {P} sentimenti umani</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8150,7 +8152,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1164" TIME_SLOT_REF1="ts2326" TIME_SLOT_REF2="ts2327">
-				<ANNOTATION_VALUE>e poi c'è il testo che: dicevo (.) dicevo prima</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e poi c'è il testo che: dicevo {P} dicevo prima</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8165,12 +8167,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1167" TIME_SLOT_REF1="ts2332" TIME_SLOT_REF2="ts2333">
-				<ANNOTATION_VALUE>questo: questa scena delle: delle: delle:: m:h (.) delle sedie</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo: questa scena delle: delle: delle:: m:h {P} delle sedie</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1168" TIME_SLOT_REF1="ts2334" TIME_SLOT_REF2="ts2335">
-				<ANNOTATION_VALUE>richiama (.) a una a una lontana</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>richiama {P} a una a una lontana</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8200,7 +8202,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1174" TIME_SLOT_REF1="ts2346" TIME_SLOT_REF2="ts2347">
-				<ANNOTATION_VALUE>è un dramma di oggetti (.) che ha come protagonista delle sedie</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è un dramma di oggetti {P} che ha come protagonista delle sedie</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8225,7 +8227,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1179" TIME_SLOT_REF1="ts2356" TIME_SLOT_REF2="ts2357">
-				<ANNOTATION_VALUE>e spostano (.) le sedie a seconda di ordini sempre più</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e spostano {P} le sedie a seconda di ordini sempre più</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8330,12 +8332,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1200" TIME_SLOT_REF1="ts2398" TIME_SLOT_REF2="ts2399">
-				<ANNOTATION_VALUE>la pudicizia, il pudore (.) che è altrettanto riposto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la pudicizia, il pudore {P} che è altrettanto riposto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1201" TIME_SLOT_REF1="ts2400" TIME_SLOT_REF2="ts2401">
-				<ANNOTATION_VALUE>e::hm vi (.) consiglio di leggere</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::hm vi {P} consiglio di leggere</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8350,7 +8352,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1204" TIME_SLOT_REF1="ts2406" TIME_SLOT_REF2="ts2407">
-				<ANNOTATION_VALUE>la e:h lunghissima didascalia della scena (.) quinta del primo atto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la e:h lunghissima didascalia della scena {P} quinta del primo atto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8360,42 +8362,42 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1206" TIME_SLOT_REF1="ts2410" TIME_SLOT_REF2="ts2411">
-				<ANNOTATION_VALUE>entra per l'uscio a sinistra la signora perella con nonò suo figlio ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>entra per l'uscio a sinistra la signora perella con nonò suo figlio {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1207" TIME_SLOT_REF1="ts2412" TIME_SLOT_REF2="ts2413">
-				<ANNOTATION_VALUE>la signora perella sarà la virtù, la modestia, la pudicizia in persona ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la signora perella sarà la virtù, la modestia, la pudicizia in persona {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1208" TIME_SLOT_REF1="ts2414" TIME_SLOT_REF2="ts2415">
-				<ANNOTATION_VALUE>il che disgraziatamente non toglie che ella sia incinta da due mesi ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il che disgraziatamente non toglie che ella sia incinta da due mesi {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1209" TIME_SLOT_REF1="ts2416" TIME_SLOT_REF2="ts2417">
-				<ANNOTATION_VALUE>per quanto ancora non paia del signor paolino (.) professore privato di nonò. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per quanto ancora non paia del signor paolino {P} professore privato di nonò. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1210" TIME_SLOT_REF1="ts2418" TIME_SLOT_REF2="ts2419">
-				<ANNOTATION_VALUE>ora viene a confermare all'amante il dubbio divenuto purtroppo certezza ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ora viene a confermare all'amante il dubbio divenuto purtroppo certezza {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1211" TIME_SLOT_REF1="ts2420" TIME_SLOT_REF2="ts2421">
-				<ANNOTATION_VALUE>la pudicizia e la presenza di nonò (.) le impediscono di confermarlo apertamente ma la lascia intendere con gli occhi ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la pudicizia e la presenza di nonò {P} le impediscono di confermarlo apertamente ma la lascia intendere con gli occhi {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1212" TIME_SLOT_REF1="ts2422" TIME_SLOT_REF2="ts2423">
-				<ANNOTATION_VALUE>e anche senza volerlo ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e anche senza volerlo {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1213" TIME_SLOT_REF1="ts2424" TIME_SLOT_REF2="ts2425">
-				<ANNOTATION_VALUE>con l'aprire di tanto in tanto la bocca per certi vani conati di vomizione ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>con l'aprire di tanto in tanto la bocca per certi vani conati di vomizione {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8410,27 +8412,27 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1216" TIME_SLOT_REF1="ts2430" TIME_SLOT_REF2="ts2431">
-				<ANNOTATION_VALUE>e:h da cui nella~ ag~ nell'esagitazione è assalita ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h da cui nella~ ag~ nell'esagitazione è assalita {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1217" TIME_SLOT_REF1="ts2432" TIME_SLOT_REF2="ts2433">
-				<ANNOTATION_VALUE>si porta allora il fazzoletto alla bocca e con la stessa compunzione con cui vi verserebbe delle lascrime ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si porta allora il fazzoletto alla bocca e con la stessa compunzione con cui vi verserebbe delle lascrime {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1218" TIME_SLOT_REF1="ts2434" TIME_SLOT_REF2="ts2435">
-				<ANNOTATION_VALUE>si vi verserà invece di nascosto un abbondante sintomatica salivazione. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si vi verserà invece di nascosto un abbondante sintomatica salivazione. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1219" TIME_SLOT_REF1="ts2436" TIME_SLOT_REF2="ts2437">
-				<ANNOTATION_VALUE>la signora perella è molto afflitta perché certo per le sue tante virtù ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la signora perella è molto afflitta perché certo per le sue tante virtù {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1220" TIME_SLOT_REF1="ts2438" TIME_SLOT_REF2="ts2439">
-				<ANNOTATION_VALUE>e per la sua esemplare pudicizia con si meriterebbe questo dalla sorte. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e per la sua esemplare pudicizia con si meriterebbe questo dalla sorte. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8450,12 +8452,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1224" TIME_SLOT_REF1="ts2446" TIME_SLOT_REF2="ts2447">
-				<ANNOTATION_VALUE>il personaggio non è il signor tal dei tali vestito così e cosà (.) che parla in questo e quell'altro modo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il personaggio non è il signor tal dei tali vestito così e cosà {P} che parla in questo e quell'altro modo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1225" TIME_SLOT_REF1="ts2448" TIME_SLOT_REF2="ts2449">
-				<ANNOTATION_VALUE>ma è un personaggio che ha (.) una doppia vita, una tripla vita, una quadrupla vita,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma è un personaggio che ha {P} una doppia vita, una tripla vita, una quadrupla vita,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8480,7 +8482,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1230" TIME_SLOT_REF1="ts2458" TIME_SLOT_REF2="ts2459">
-				<ANNOTATION_VALUE>&gt;la signora perella è molto afflitta perché con le sue tante virtù e la sua esemplare pudicizia non si meriterebbe questo dalla sorte&lt; ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;la signora perella è molto afflitta perché con le sue tante virtù e la sua esemplare pudicizia non si meriterebbe questo dalla sorte&lt; {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8500,62 +8502,62 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1234" TIME_SLOT_REF1="ts2466" TIME_SLOT_REF2="ts2467">
-				<ANNOTATION_VALUE>tiene costantemente gli occhi bassi ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tiene costantemente gli occhi bassi {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1235" TIME_SLOT_REF1="ts2468" TIME_SLOT_REF2="ts2469">
-				<ANNOTATION_VALUE>non li alza se non di sfuggita per esprimere al signor paolino di nascosto da nonò la sua angoscia, il suo martirio ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non li alza se non di sfuggita per esprimere al signor paolino di nascosto da nonò la sua angoscia, il suo martirio {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1236" TIME_SLOT_REF1="ts2470" TIME_SLOT_REF2="ts2471">
-				<ANNOTATION_VALUE>veste si intende con goffaggine ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>veste si intende con goffaggine {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1237" TIME_SLOT_REF1="ts2472" TIME_SLOT_REF2="ts2473">
-				<ANNOTATION_VALUE>perché la moda per sua natura l'ufficio di rendere goffa la virtù ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché la moda per sua natura l'ufficio di rendere goffa la virtù {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1238" TIME_SLOT_REF1="ts2474" TIME_SLOT_REF2="ts2475">
-				<ANNOTATION_VALUE>e la signora perella è pur costretta ad andare vestita secondo la moda ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e la signora perella è pur costretta ad andare vestita secondo la moda {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1239" TIME_SLOT_REF1="ts2476" TIME_SLOT_REF2="ts2477">
-				<ANNOTATION_VALUE>e dio sa quanto ne soffre. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e dio sa quanto ne soffre. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1240" TIME_SLOT_REF1="ts2478" TIME_SLOT_REF2="ts2479">
-				<ANNOTATION_VALUE>parla con (quella) voce (.) quasi lontana come se realmente non parlasse lei ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>parla con (quella) voce {P} quasi lontana come se realmente non parlasse lei {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1241" TIME_SLOT_REF1="ts2480" TIME_SLOT_REF2="ts2481">
-				<ANNOTATION_VALUE>ma il burattinaio invisibile che la fa muovere ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma il burattinaio invisibile che la fa muovere {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1242" TIME_SLOT_REF1="ts2482" TIME_SLOT_REF2="ts2483">
-				<ANNOTATION_VALUE>evitanto malamente e goffamente ((legge)) continua a sottolineare la goffaggine</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>evitanto malamente e goffamente {legge} continua a sottolineare la goffaggine</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1243" TIME_SLOT_REF1="ts2484" TIME_SLOT_REF2="ts2485">
-				<ANNOTATION_VALUE>una voce di donna malinconica ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>una voce di donna malinconica {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1244" TIME_SLOT_REF1="ts2486" TIME_SLOT_REF2="ts2487">
-				<ANNOTATION_VALUE>se non che ogni tanto urtata e punta sul vivo se ne dimentica ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se non che ogni tanto urtata e punta sul vivo se ne dimentica {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1245" TIME_SLOT_REF1="ts2488" TIME_SLOT_REF2="ts2489">
-				<ANNOTATION_VALUE>e ha scatti di voce, toni e modi naturalissimi. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e ha scatti di voce, toni e modi naturalissimi. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8575,12 +8577,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1249" TIME_SLOT_REF1="ts2496" TIME_SLOT_REF2="ts2497">
-				<ANNOTATION_VALUE>allora questa scena numero uno ha (.) la funzione di dire:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora questa scena numero uno ha {P} la funzione di dire:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1250" TIME_SLOT_REF1="ts2498" TIME_SLOT_REF2="ts2499">
-				<ANNOTATION_VALUE>di di di=indicare la (.) ipocrisia</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di di di=indicare la {P} ipocrisia</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8590,17 +8592,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1252" TIME_SLOT_REF1="ts2502" TIME_SLOT_REF2="ts2503">
-				<ANNOTATION_VALUE>totò (.) che:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>totò {P} che:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1253" TIME_SLOT_REF1="ts2504" TIME_SLOT_REF2="ts2505">
-				<ANNOTATION_VALUE>divide il colloq~ che che ha il colloquio con rosaria nella prima scena (.) viene descritto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>divide il colloq~ che che ha il colloquio con rosaria nella prima scena {P} viene descritto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1254" TIME_SLOT_REF1="ts2506" TIME_SLOT_REF2="ts2507">
-				<ANNOTATION_VALUE>collo torto da prete, (.) aspetto e aria da volpe contrita</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>collo torto da prete, {P} aspetto e aria da volpe contrita</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8645,7 +8647,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1263" TIME_SLOT_REF1="ts2524" TIME_SLOT_REF2="ts2525">
-				<ANNOTATION_VALUE>un comportamento ipocrita che subito (.) paolino mette in evidenza</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un comportamento ipocrita che subito {P} paolino mette in evidenza</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8655,7 +8657,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1265" TIME_SLOT_REF1="ts2528" TIME_SLOT_REF2="ts2529">
-				<ANNOTATION_VALUE>e soprattutto l'ipocrisia che sarà al centro (.) della:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e soprattutto l'ipocrisia che sarà al centro {P} della:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8670,7 +8672,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1268" TIME_SLOT_REF1="ts2534" TIME_SLOT_REF2="ts2535">
-				<ANNOTATION_VALUE>quando paolino spiega ai (.) ai suoi ignorantissimi studenti che cosa vuol dire ipocrita</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quando paolino spiega ai {P} ai suoi ignorantissimi studenti che cosa vuol dire ipocrita</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8680,102 +8682,102 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1270" TIME_SLOT_REF1="ts2538" TIME_SLOT_REF2="ts2539">
-				<ANNOTATION_VALUE>dice paolino le pare giusto? dice allo studente chiamare ipocrita uno che recita per professione? ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dice paolino le pare giusto? dice allo studente chiamare ipocrita uno che recita per professione? {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1271" TIME_SLOT_REF1="ts2540" TIME_SLOT_REF2="ts2541">
-				<ANNOTATION_VALUE>se recita fa il suo dovere non può chiamarlo ipocrita ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se recita fa il suo dovere non può chiamarlo ipocrita {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1272" TIME_SLOT_REF1="ts2542" TIME_SLOT_REF2="ts2543">
-				<ANNOTATION_VALUE>chi chiama così lei invece cioè con questo nome che i greci davano ai commedianti? ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>chi chiama così lei invece cioè con questo nome che i greci davano ai commedianti? {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1273" TIME_SLOT_REF1="ts2544" TIME_SLOT_REF2="ts2545">
-				<ANNOTATION_VALUE>ah uno che finge signor professore. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ah uno che finge signor professore. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1274" TIME_SLOT_REF1="ts2546" TIME_SLOT_REF2="ts2547">
-				<ANNOTATION_VALUE>ecco uno che finge (.) come un commediante appunto che finge una parte ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ecco uno che finge {P} come un commediante appunto che finge una parte {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1275" TIME_SLOT_REF1="ts2548" TIME_SLOT_REF2="ts2549">
-				<ANNOTATION_VALUE>poniamo di re mentre è un povero straccione ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poniamo di re mentre è un povero straccione {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1276" TIME_SLOT_REF1="ts2550" TIME_SLOT_REF2="ts2551">
-				<ANNOTATION_VALUE>o un'altra parte qualsiasi, che c'è di male in questo? ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>o un'altra parte qualsiasi, che c'è di male in questo? {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1277" TIME_SLOT_REF1="ts2552" TIME_SLOT_REF2="ts2553">
-				<ANNOTATION_VALUE>niente, dovere, professione. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>niente, dovere, professione. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1278" TIME_SLOT_REF1="ts2554" TIME_SLOT_REF2="ts2555">
-				<ANNOTATION_VALUE>quand'è invece il male? quando non si è più così ipocriti per dovere, per professione sulla scena ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quand'è invece il male? quando non si è più così ipocriti per dovere, per professione sulla scena {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1279" TIME_SLOT_REF1="ts2556" TIME_SLOT_REF2="ts2557">
-				<ANNOTATION_VALUE>ma per gusto, per tornaconto, per malvagità, per abitudine nella vita o anche per civiltà sicuro ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma per gusto, per tornaconto, per malvagità, per abitudine nella vita o anche per civiltà sicuro {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1280" TIME_SLOT_REF1="ts2558" TIME_SLOT_REF2="ts2559">
-				<ANNOTATION_VALUE>perché civile, essere civile vuol dire proprio questo ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché civile, essere civile vuol dire proprio questo {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1281" TIME_SLOT_REF1="ts2560" TIME_SLOT_REF2="ts2561">
-				<ANNOTATION_VALUE>questo (.) dentro (si è) neri come corvi fuori bianchi come colombi, ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo {P} dentro (si è) neri come corvi fuori bianchi come colombi, {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1282" TIME_SLOT_REF1="ts2562" TIME_SLOT_REF2="ts2563">
-				<ANNOTATION_VALUE>in corpo fiele in bocca miele, ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in corpo fiele in bocca miele, {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1283" TIME_SLOT_REF1="ts2564" TIME_SLOT_REF2="ts2565">
-				<ANNOTATION_VALUE>o quando si entra qua e si dice buongiorno signor professore invece di vada al diavolo signor professore ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>o quando si entra qua e si dice buongiorno signor professore invece di vada al diavolo signor professore {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1284" TIME_SLOT_REF1="ts2566" TIME_SLOT_REF2="ts2567">
-				<ANNOTATION_VALUE>ma come scusi per questo? (.) dovremmo dirle vada al diavolo? ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma come scusi per questo? {P} dovremmo dirle vada al diavolo? {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1285" TIME_SLOT_REF1="ts2568" TIME_SLOT_REF2="ts2569">
-				<ANNOTATION_VALUE>l'avrei più caro l'avrei più caro vi assicuro ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'avrei più caro l'avrei più caro vi assicuro {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1286" TIME_SLOT_REF1="ts2570" TIME_SLOT_REF2="ts2571">
-				<ANNOTATION_VALUE>o almeno santo dio non dirmi nulla ecco ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>o almeno santo dio non dirmi nulla ecco {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1287" TIME_SLOT_REF1="ts2572" TIME_SLOT_REF2="ts2573">
-				<ANNOTATION_VALUE>già lei allora direbbe che maleducati ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>già lei allora direbbe che maleducati {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1288" TIME_SLOT_REF1="ts2574" TIME_SLOT_REF2="ts2575">
-				<ANNOTATION_VALUE>giustissimo perché la civiltà vuole che si auguri il buongiorno a uno che volentieri si manderebbe al diavolo ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>giustissimo perché la civiltà vuole che si auguri il buongiorno a uno che volentieri si manderebbe al diavolo {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1289" TIME_SLOT_REF1="ts2576" TIME_SLOT_REF2="ts2577">
-				<ANNOTATION_VALUE>ed essere bene educati vuol dire appunto essere commedianti ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ed essere bene educati vuol dire appunto essere commedianti {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8785,7 +8787,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1291" TIME_SLOT_REF1="ts2580" TIME_SLOT_REF2="ts2581">
-				<ANNOTATION_VALUE>adesso non ditemi buongiorno professore ci salutiamo senza parlarci ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>adesso non ditemi buongiorno professore ci salutiamo senza parlarci {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8817,7 +8819,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts145">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8832,7 +8834,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a178" TIME_SLOT_REF1="ts354" TIME_SLOT_REF2="ts355">
-				<ANNOTATION_VALUE>che che si:: che emerge (.) [dalla xxxx] xxxx</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che che si:: che emerge {P} [dalla xxxx] xxxx</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8897,7 +8899,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a443" TIME_SLOT_REF1="ts884" TIME_SLOT_REF2="ts885">
-				<ANNOTATION_VALUE>prof~ (.) può ripetere un attimo (.) quella parte del giglio in cui xx</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>prof~ {P} può ripetere un attimo {P} quella parte del giglio in cui xx</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8982,12 +8984,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a636" TIME_SLOT_REF1="ts1270" TIME_SLOT_REF2="ts1271">
-				<ANNOTATION_VALUE>((ridono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ridono}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a658" TIME_SLOT_REF1="ts1314" TIME_SLOT_REF2="ts1315">
-				<ANNOTATION_VALUE>((squilla_il_telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{squilla_il_telefono}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

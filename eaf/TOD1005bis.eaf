@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:19+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-07-15T21:57:26+00:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="TOD1005bis.wav" RELATIVE_MEDIA_URL="TOD1005bis.wav" MIME_TYPE="audio/x-wav" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -2315,10 +2316,11 @@
 		<TIME_SLOT TIME_SLOT_ID="ts2310" TIME_VALUE="3000806" />
 		<TIME_SLOT TIME_SLOT_ID="ts2311" TIME_VALUE="3003230" />
 		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="TO017" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
-				<ANNOTATION_VALUE>li confrontiamo tutti:, e (.) la domanda è riusciamo a trovare una serie di tratti una serie di strutture,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>li confrontiamo tutti:, e {P} la domanda è riusciamo a trovare una serie di tratti una serie di strutture,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2373,7 +2375,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts25">
-				<ANNOTATION_VALUE>ovviamente questo non richierebbe un lavoro (.) infinito,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ovviamente questo non richierebbe un lavoro {P} infinito,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2438,7 +2440,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
-				<ANNOTATION_VALUE>allora qua vi ho dato (.) vi ho fatto cinque esempi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora qua vi ho dato {P} vi ho fatto cinque esempi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2468,7 +2470,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2528,12 +2530,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts91">
-				<ANNOTATION_VALUE>quindi in dialettologia quando noi scriviamo i dialetti li scriviamo in alfabeto (.) latino, con dei segni (.) per rappresentare i suoni che mancano.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi in dialettologia quando noi scriviamo i dialetti li scriviamo in alfabeto {P} latino, con dei segni {P} per rappresentare i suoni che mancano.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts93">
-				<ANNOTATION_VALUE>perché qual è il problema. che l'alfabeto (.) arabo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché qual è il problema. che l'alfabeto {P} arabo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2598,7 +2600,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts119">
-				<ANNOTATION_VALUE>un insieme di (.) di regole.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un insieme di {P} di regole.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2608,7 +2610,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts123">
-				<ANNOTATION_VALUE>quindi noi continuiamo a scrivere i dialetti nel nostro (.) nella nostra trascrizione scientifica,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi noi continuiamo a scrivere i dialetti nel nostro {P} nella nostra trascrizione scientifica,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2618,7 +2620,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
-				<ANNOTATION_VALUE>rapidamente così per sentire (.) e::h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>rapidamente così per sentire {P} e::h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2628,7 +2630,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
-				<ANNOTATION_VALUE>allora io li posso leggere (.) però,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora io li posso leggere {P} però,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2648,7 +2650,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts139">
-				<ANNOTATION_VALUE>il ca:iro lo legge qualcuno (.) un egiziano,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il ca:iro lo legge qualcuno {P} un egiziano,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2678,7 +2680,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts154" TIME_SLOT_REF2="ts155">
-				<ANNOTATION_VALUE>e qualcuno un (.) dal marocco rabat che mi legga:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e qualcuno un {P} dal marocco rabat che mi legga:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2743,7 +2745,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a92" TIME_SLOT_REF1="ts182" TIME_SLOT_REF2="ts183">
-				<ANNOTATION_VALUE>e (.) a baghdad,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} a baghdad,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2783,7 +2785,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts198" TIME_SLOT_REF2="ts199">
-				<ANNOTATION_VALUE>allora (.) c'è da dire che questo è il lessico di base il lessico di base quello più usato (.) tende a cambiare di più</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora {P} c'è da dire che questo è il lessico di base il lessico di base quello più usato {P} tende a cambiare di più</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2818,12 +2820,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts212" TIME_SLOT_REF2="ts213">
-				<ANNOTATION_VALUE>però (.) comunque vede~ vedete che a livello di lessico di base,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però {P} comunque vede~ vedete che a livello di lessico di base,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a108" TIME_SLOT_REF1="ts214" TIME_SLOT_REF2="ts215">
-				<ANNOTATION_VALUE>la differenza (.) dei dialetti tra loro e dei dialetti dal classico è notevolissima.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la differenza {P} dei dialetti tra loro e dei dialetti dal classico è notevolissima.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2868,7 +2870,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a117" TIME_SLOT_REF1="ts232" TIME_SLOT_REF2="ts233">
-				<ANNOTATION_VALUE>il volere (.) del classico,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il volere {P} del classico,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2898,7 +2900,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a126" TIME_SLOT_REF1="ts250" TIME_SLOT_REF2="ts251">
-				<ANNOTATION_VALUE>co:n (.) la frase nei vari dialetti è molto poca.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>co:n {P} la frase nei vari dialetti è molto poca.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2908,7 +2910,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a128" TIME_SLOT_REF1="ts254" TIME_SLOT_REF2="ts255">
-				<ANNOTATION_VALUE>nel (.) baghdadino.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nel {P} baghdadino.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2928,7 +2930,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a132" TIME_SLOT_REF1="ts262" TIME_SLOT_REF2="ts263">
-				<ANNOTATION_VALUE>differenza, e (.) ricordatevi stiamo parlando di dialetti di cinque capitali e di cinque grosse città. okay, se vado a considerare quello che succ:ede,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>differenza, e {P} ricordatevi stiamo parlando di dialetti di cinque capitali e di cinque grosse città. okay, se vado a considerare quello che succ:ede,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3103,7 +3105,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a167" TIME_SLOT_REF1="ts332" TIME_SLOT_REF2="ts333">
-				<ANNOTATION_VALUE>per il (.) femminile,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per il {P} femminile,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3138,7 +3140,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a174" TIME_SLOT_REF1="ts346" TIME_SLOT_REF2="ts347">
-				<ANNOTATION_VALUE>a palmira (.) per dire (.) xxx</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a palmira {P} per dire {P} xxx</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3178,7 +3180,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a182" TIME_SLOT_REF1="ts362" TIME_SLOT_REF2="ts363">
-				<ANNOTATION_VALUE>loro (.) uomini e loro (.) donne,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>loro {P} uomini e loro {P} donne,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3223,12 +3225,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a191" TIME_SLOT_REF1="ts380" TIME_SLOT_REF2="ts381">
-				<ANNOTATION_VALUE>e queste sono alcu:ne solo (.) delle forme.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e queste sono alcu:ne solo {P} delle forme.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a192" TIME_SLOT_REF1="ts382" TIME_SLOT_REF2="ts383">
-				<ANNOTATION_VALUE>quindi (.) rimandiamo per ora la risposta alla nostra domanda (.) di possiamo trovare qualcosa che tutti i</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi {P} rimandiamo per ora la risposta alla nostra domanda {P} di possiamo trovare qualcosa che tutti i</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3313,7 +3315,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a209" TIME_SLOT_REF1="ts416" TIME_SLOT_REF2="ts417">
-				<ANNOTATION_VALUE>forse una vo:lta (.) no, hanno un discendente comune</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>forse una vo:lta {P} no, hanno un discendente comune</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3333,7 +3335,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a213" TIME_SLOT_REF1="ts424" TIME_SLOT_REF2="ts425">
-				<ANNOTATION_VALUE>proto (.) arabo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>proto {P} arabo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3358,7 +3360,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a218" TIME_SLOT_REF1="ts434" TIME_SLOT_REF2="ts435">
-				<ANNOTATION_VALUE>e:h linguistica sapete che a un certo punto qualcuno si è accorto che (.) m:h ma come mai?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h linguistica sapete che a un certo punto qualcuno si è accorto che {P} m:h ma come mai?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3368,27 +3370,27 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a220" TIME_SLOT_REF1="ts438" TIME_SLOT_REF2="ts439">
-				<ANNOTATION_VALUE>al (.) persiano che somiglia così tanto al sanscrito, m:h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>al {P} persiano che somiglia così tanto al sanscrito, m:h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a221" TIME_SLOT_REF1="ts440" TIME_SLOT_REF2="ts441">
-				<ANNOTATION_VALUE>forse queste lingue hanno un'origine comune (.) hanno passato &lt;duecento&gt; anni a fare alberi genealogici finché,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>forse queste lingue hanno un'origine comune {P} hanno passato &lt;duecento&gt; anni a fare alberi genealogici finché,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a222" TIME_SLOT_REF1="ts442" TIME_SLOT_REF2="ts443">
-				<ANNOTATION_VALUE>non &lt;solo&gt; hanno dimostra:to che queste lingue (.) effettivamente hanno (.) un'origine comune,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non &lt;solo&gt; hanno dimostra:to che queste lingue {P} effettivamente hanno {P} un'origine comune,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a223" TIME_SLOT_REF1="ts444" TIME_SLOT_REF2="ts445">
-				<ANNOTATION_VALUE>ma hanno (.) anche (.) proposto la ricostruzione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma hanno {P} anche {P} proposto la ricostruzione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a224" TIME_SLOT_REF1="ts446" TIME_SLOT_REF2="ts447">
-				<ANNOTATION_VALUE>di questa &lt;lingua&gt; (.) ormai estinta che sarebbe la lingua nonno la lingua &lt;bis:nonno&gt;,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di questa &lt;lingua&gt; {P} ormai estinta che sarebbe la lingua nonno la lingua &lt;bis:nonno&gt;,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3473,7 +3475,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a241" TIME_SLOT_REF1="ts480" TIME_SLOT_REF2="ts481">
-				<ANNOTATION_VALUE>e si prova (.) a ricostruire all'indietro partendo da quello che abbiamo adesso e dai documenti scritti~ (che abb~) vecchi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e si prova {P} a ricostruire all'indietro partendo da quello che abbiamo adesso e dai documenti scritti~ (che abb~) vecchi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3493,7 +3495,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a245" TIME_SLOT_REF1="ts488" TIME_SLOT_REF2="ts489">
-				<ANNOTATION_VALUE>eh esist~ una vo:lta tutte queste varietà di arabo (.) avevano,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh esist~ una vo:lta tutte queste varietà di arabo {P} avevano,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3563,7 +3565,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a259" TIME_SLOT_REF1="ts516" TIME_SLOT_REF2="ts517">
-				<ANNOTATION_VALUE>cominciamo (.) a guardarlo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cominciamo {P} a guardarlo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3593,7 +3595,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a265" TIME_SLOT_REF1="ts528" TIME_SLOT_REF2="ts529">
-				<ANNOTATION_VALUE>la domanda (.) a questo punto è,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la domanda {P} a questo punto è,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3608,7 +3610,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a268" TIME_SLOT_REF1="ts534" TIME_SLOT_REF2="ts535">
-				<ANNOTATION_VALUE>quando nasce (.) quando nasce la lingua araba.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quando nasce {P} quando nasce la lingua araba.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3638,7 +3640,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a277" TIME_SLOT_REF1="ts552" TIME_SLOT_REF2="ts553">
-				<ANNOTATION_VALUE>i nabatei (.) la poesia pre islamica,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>i nabatei {P} la poesia pre islamica,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3653,7 +3655,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a281" TIME_SLOT_REF1="ts560" TIME_SLOT_REF2="ts561">
-				<ANNOTATION_VALUE>questo è rossi (.) che vi [fa il primo anno],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo è rossi {P} che vi [fa il primo anno],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3683,17 +3685,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a288" TIME_SLOT_REF1="ts574" TIME_SLOT_REF2="ts575">
-				<ANNOTATION_VALUE>e::h (.) lui dice regno nabateo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h {P} lui dice regno nabateo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a289" TIME_SLOT_REF1="ts576" TIME_SLOT_REF2="ts577">
-				<ANNOTATION_VALUE>°che in effetti (.) a una parte il regno nabateo era°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>°che in effetti {P} a una parte il regno nabateo era°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a290" TIME_SLOT_REF1="ts578" TIME_SLOT_REF2="ts579">
-				<ANNOTATION_VALUE>che poi lo vediamo (.) (comunque) era attestato in quella che è oggi o</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che poi lo vediamo {P} (comunque) era attestato in quella che è oggi o</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3713,7 +3715,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a296" TIME_SLOT_REF1="ts590" TIME_SLOT_REF2="ts591">
-				<ANNOTATION_VALUE>con l'amo=rr:eo che è un'altra lingua semitica estinta (.) dai tempi che furono,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>con l'amo=rr:eo che è un'altra lingua semitica estinta {P} dai tempi che furono,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3728,7 +3730,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a301" TIME_SLOT_REF1="ts600" TIME_SLOT_REF2="ts601">
-				<ANNOTATION_VALUE>ho fatto poca filologia semitica ma l'amorreo (.) ci dicono i semitisti,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ho fatto poca filologia semitica ma l'amorreo {P} ci dicono i semitisti,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3748,7 +3750,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a308" TIME_SLOT_REF1="ts614" TIME_SLOT_REF2="ts615">
-				<ANNOTATION_VALUE>[al &gt;sudarabico] nordarabico&lt; ci arriviamo. all'amorreo (.) no,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[al &gt;sudarabico] nordarabico&lt; ci arriviamo. all'amorreo {P} no,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3793,7 +3795,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a317" TIME_SLOT_REF1="ts632" TIME_SLOT_REF2="ts633">
-				<ANNOTATION_VALUE>le le cose si complicano (.) e non c'è nessun motivo per cui non dovremmo farlo se non il fatto che abbiamo trenta ore,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>le le cose si complicano {P} e non c'è nessun motivo per cui non dovremmo farlo se non il fatto che abbiamo trenta ore,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3813,7 +3815,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a321" TIME_SLOT_REF1="ts640" TIME_SLOT_REF2="ts641">
-				<ANNOTATION_VALUE>quindi datemi un (.) okay mandatemi u:n (.) periodo i~ in anni</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi datemi un {P} okay mandatemi u:n {P} periodo i~ in anni</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3838,7 +3840,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a326" TIME_SLOT_REF1="ts650" TIME_SLOT_REF2="ts651">
-				<ANNOTATION_VALUE>per comodità dividiamola in tre fasi (.) per comodità che fanno comodo a me</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per comodità dividiamola in tre fasi {P} per comodità che fanno comodo a me</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3853,7 +3855,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a329" TIME_SLOT_REF1="ts656" TIME_SLOT_REF2="ts657">
-				<ANNOTATION_VALUE>quando finisce il periodo (.) pre-islamico?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quando finisce il periodo {P} pre-islamico?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3913,7 +3915,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a346" TIME_SLOT_REF1="ts690" TIME_SLOT_REF2="ts691">
-				<ANNOTATION_VALUE>e:h poi abbiamo il periodo proto (.) islamico,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h poi abbiamo il periodo proto {P} islamico,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3923,7 +3925,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a348" TIME_SLOT_REF1="ts694" TIME_SLOT_REF2="ts695">
-				<ANNOTATION_VALUE>&lt;primo&gt; periodo i primi anni (.) dell'islam okay, che</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&lt;primo&gt; periodo i primi anni {P} dell'islam okay, che</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3933,7 +3935,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a350" TIME_SLOT_REF1="ts698" TIME_SLOT_REF2="ts699">
-				<ANNOTATION_VALUE>questo periodo qua (.) non so se esiste una,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo periodo qua {P} non so se esiste una,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3943,7 +3945,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a352" TIME_SLOT_REF1="ts702" TIME_SLOT_REF2="ts703">
-				<ANNOTATION_VALUE>noi prendiamo (.) diciamo i:l periodo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>noi prendiamo {P} diciamo i:l periodo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4033,7 +4035,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a370" TIME_SLOT_REF1="ts738" TIME_SLOT_REF2="ts739">
-				<ANNOTATION_VALUE>partiamo dal &gt;periodo&lt; pre (.) islamico il primo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>partiamo dal &gt;periodo&lt; pre {P} islamico il primo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4053,7 +4055,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a375" TIME_SLOT_REF1="ts748" TIME_SLOT_REF2="ts749">
-				<ANNOTATION_VALUE>la iscrizione (.) di xxx</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la iscrizione {P} di xxx</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4108,7 +4110,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a386" TIME_SLOT_REF1="ts770" TIME_SLOT_REF2="ts771">
-				<ANNOTATION_VALUE>la (.) prima (.) attestazione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la {P} prima {P} attestazione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4153,7 +4155,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a395" TIME_SLOT_REF1="ts788" TIME_SLOT_REF2="ts789">
-				<ANNOTATION_VALUE>se io voglio descrivere (.) i dialetti:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se io voglio descrivere {P} i dialetti:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4163,7 +4165,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a397" TIME_SLOT_REF1="ts792" TIME_SLOT_REF2="ts793">
-				<ANNOTATION_VALUE>vado (.) da quelli che lo parlano. e cosa faccio?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vado {P} da quelli che lo parlano. e cosa faccio?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4238,7 +4240,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a413" TIME_SLOT_REF1="ts824" TIME_SLOT_REF2="ts825">
-				<ANNOTATION_VALUE>allora. le iscrizioni (.) materiale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora. le iscrizioni {P} materiale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4253,7 +4255,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a416" TIME_SLOT_REF1="ts830" TIME_SLOT_REF2="ts831">
-				<ANNOTATION_VALUE>per qualsiasi ragione (.) poteva essere una tomba, come nel caso delle iscrizioni in xxx,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per qualsiasi ragione {P} poteva essere una tomba, come nel caso delle iscrizioni in xxx,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4278,7 +4280,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a421" TIME_SLOT_REF1="ts840" TIME_SLOT_REF2="ts841">
-				<ANNOTATION_VALUE>qualunque cosa. (.) ci va bene tutto noi siamo di bocca buona i linguisti analizzano &gt;qualsiasi&lt; cosa anche se dai una lettera,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>qualunque cosa. {P} ci va bene tutto noi siamo di bocca buona i linguisti analizzano &gt;qualsiasi&lt; cosa anche se dai una lettera,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4318,12 +4320,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a430" TIME_SLOT_REF1="ts858" TIME_SLOT_REF2="ts859">
-				<ANNOTATION_VALUE>tu, cos'è che hai detto (.) scusa,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tu, cos'è che hai detto {P} scusa,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a432" TIME_SLOT_REF1="ts862" TIME_SLOT_REF2="ts863">
-				<ANNOTATION_VALUE>sì sì okay. sempre stiamo (.) nel materiale epigrafico, okay se abbiamo fortuna possiamo anche trovare qualcosa su carta o su pergamena.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì sì okay. sempre stiamo {P} nel materiale epigrafico, okay se abbiamo fortuna possiamo anche trovare qualcosa su carta o su pergamena.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4378,7 +4380,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a443" TIME_SLOT_REF1="ts884" TIME_SLOT_REF2="ts885">
-				<ANNOTATION_VALUE>e poi abbiamo (.) i testi dei grammatici arabi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e poi abbiamo {P} i testi dei grammatici arabi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4388,7 +4390,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a445" TIME_SLOT_REF1="ts888" TIME_SLOT_REF2="ts889">
-				<ANNOTATION_VALUE>che (.) parlavano di lingua quindi ci interessa,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che {P} parlavano di lingua quindi ci interessa,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4418,7 +4420,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a451" TIME_SLOT_REF1="ts900" TIME_SLOT_REF2="ts901">
-				<ANNOTATION_VALUE>il grande papà (.) il padre della lingua araba classica.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il grande papà {P} il padre della lingua araba classica.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4453,7 +4455,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a458" TIME_SLOT_REF1="ts914" TIME_SLOT_REF2="ts915">
-				<ANNOTATION_VALUE>arabo era (.) eh,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>arabo era {P} eh,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4468,7 +4470,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a461" TIME_SLOT_REF1="ts920" TIME_SLOT_REF2="ts921">
-				<ANNOTATION_VALUE>e:::h era (.) persiano (.) lui (.)</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h era {P} persiano {P} lui</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4503,12 +4505,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a468" TIME_SLOT_REF1="ts934" TIME_SLOT_REF2="ts935">
-				<ANNOTATION_VALUE>possiamo prendere i dialetti (.) moderni,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>possiamo prendere i dialetti {P} moderni,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a469" TIME_SLOT_REF1="ts936" TIME_SLOT_REF2="ts937">
-				<ANNOTATION_VALUE>e fare delle decostruzioni dia (.) croniche okay, studiare,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e fare delle decostruzioni dia {P} croniche okay, studiare,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4553,7 +4555,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a478" TIME_SLOT_REF1="ts954" TIME_SLOT_REF2="ts955">
-				<ANNOTATION_VALUE>e uno di questi documenti è proprio (.) la prima attestazione che noi abbiamo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e uno di questi documenti è proprio {P} la prima attestazione che noi abbiamo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4573,7 +4575,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a482" TIME_SLOT_REF1="ts962" TIME_SLOT_REF2="ts963">
-				<ANNOTATION_VALUE>della parola (.) arabo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>della parola {P} arabo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4608,12 +4610,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a489" TIME_SLOT_REF1="ts976" TIME_SLOT_REF2="ts977">
-				<ANNOTATION_VALUE>e (.) in questo monolito</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} in questo monolito</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a490" TIME_SLOT_REF1="ts978" TIME_SLOT_REF2="ts979">
-				<ANNOTATION_VALUE>lui dice (.) e::h che un certo xxx</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lui dice {P} e::h che un certo xxx</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4623,7 +4625,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a492" TIME_SLOT_REF1="ts982" TIME_SLOT_REF2="ts983">
-				<ANNOTATION_VALUE>anche qua (.) pronuncia. era scritto in cuneiforme okay, questo monolito.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>anche qua {P} pronuncia. era scritto in cuneiforme okay, questo monolito.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4673,7 +4675,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a502" TIME_SLOT_REF1="ts1002" TIME_SLOT_REF2="ts1003">
-				<ANNOTATION_VALUE>xxx non si sa bene. l~ la traduzione (.) è (.) un po' problematica.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>xxx non si sa bene. l~ la traduzione {P} è {P} un po' problematica.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4688,7 +4690,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a505" TIME_SLOT_REF1="ts1008" TIME_SLOT_REF2="ts1009">
-				<ANNOTATION_VALUE>eh (.) e:::h=mh.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh {P} e:::h=mh.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4768,7 +4770,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a521" TIME_SLOT_REF1="ts1040" TIME_SLOT_REF2="ts1041">
-				<ANNOTATION_VALUE>okay, comunque non parla~ quindi noi non sappiamo nu:lla della lingua (.) che parlasse (.) questo xxx</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>okay, comunque non parla~ quindi noi non sappiamo nu:lla della lingua {P} che parlasse {P} questo xxx</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4853,7 +4855,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a538" TIME_SLOT_REF1="ts1074" TIME_SLOT_REF2="ts1075">
-				<ANNOTATION_VALUE>su quel pezzo di pietra oppure non potete sapere quando è stato scritto (.) in questo caso la data c'era</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>su quel pezzo di pietra oppure non potete sapere quando è stato scritto {P} in questo caso la data c'era</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4878,7 +4880,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a543" TIME_SLOT_REF1="ts1084" TIME_SLOT_REF2="ts1085">
-				<ANNOTATION_VALUE>stiamo parlando (.) di</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>stiamo parlando {P} di</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4923,12 +4925,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a552" TIME_SLOT_REF1="ts1102" TIME_SLOT_REF2="ts1103">
-				<ANNOTATION_VALUE>sedici. (.) eh scusate milleseicento</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sedici. {P} eh scusate milleseicento</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a553" TIME_SLOT_REF1="ts1104" TIME_SLOT_REF2="ts1105">
-				<ANNOTATION_VALUE>eh (.) eh anche molto molto mo:lto prima</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh {P} eh anche molto molto mo:lto prima</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4943,7 +4945,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a556" TIME_SLOT_REF1="ts1110" TIME_SLOT_REF2="ts1111">
-				<ANNOTATION_VALUE>u~ un migliaio di anni prima dell'iscrizione di xxx (.) quella che mi avete citato voi come prima attestazione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>u~ un migliaio di anni prima dell'iscrizione di xxx {P} quella che mi avete citato voi come prima attestazione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4998,12 +5000,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a567" TIME_SLOT_REF1="ts1132" TIME_SLOT_REF2="ts1133">
-				<ANNOTATION_VALUE>potrebbe essere che sì potrebbe essere che no ma s:e ha ragione il tipo che ha (.) interpretato questa stele,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>potrebbe essere che sì potrebbe essere che no ma s:e ha ragione il tipo che ha {P} interpretato questa stele,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a568" TIME_SLOT_REF1="ts1134" TIME_SLOT_REF2="ts1135">
-				<ANNOTATION_VALUE>che di nuovo è datata (.) wow</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che di nuovo è datata {P} wow</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5018,7 +5020,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a571" TIME_SLOT_REF1="ts1140" TIME_SLOT_REF2="ts1141">
-				<ANNOTATION_VALUE>non siamo del tutto sicuri (.) ma:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non siamo del tutto sicuri {P} ma:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5108,7 +5110,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a589" TIME_SLOT_REF1="ts1176" TIME_SLOT_REF2="ts1177">
-				<ANNOTATION_VALUE>quindi è di nuovo (.) iscritto in cuneiforme.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi è di nuovo {P} iscritto in cuneiforme.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5118,12 +5120,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a591" TIME_SLOT_REF1="ts1180" TIME_SLOT_REF2="ts1181">
-				<ANNOTATION_VALUE>qui ci sono alcuni proble:mi di grafia ma (.) si &lt;suppone&gt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>qui ci sono alcuni proble:mi di grafia ma {P} si &lt;suppone&gt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a592" TIME_SLOT_REF1="ts1182" TIME_SLOT_REF2="ts1183">
-				<ANNOTATION_VALUE>che queste siano le prime attestazioni nella storia: (.) di una xxx.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che queste siano le prime attestazioni nella storia: {P} di una xxx.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5138,7 +5140,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a595" TIME_SLOT_REF1="ts1188" TIME_SLOT_REF2="ts1189">
-				<ANNOTATION_VALUE>se (.) questa interpretazione è corretta vuol dire che c'era qualcuno che parlava qualc:osa che poteva somigliare all'arabo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se {P} questa interpretazione è corretta vuol dire che c'era qualcuno che parlava qualc:osa che poteva somigliare all'arabo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5148,7 +5150,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a597" TIME_SLOT_REF1="ts1192" TIME_SLOT_REF2="ts1193">
-				<ANNOTATION_VALUE>molto (.) molto (.) molto (.) tempo, prima,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>molto {P} molto {P} molto {P} tempo, prima,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5193,7 +5195,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a606" TIME_SLOT_REF1="ts1210" TIME_SLOT_REF2="ts1211">
-				<ANNOTATION_VALUE>che: sì (.) possiamo interpretare ma comunque ci sono dei::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che: sì {P} possiamo interpretare ma comunque ci sono dei::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5248,7 +5250,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a617" TIME_SLOT_REF1="ts1232" TIME_SLOT_REF2="ts1233">
-				<ANNOTATION_VALUE>fa (.) venire in mente</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>fa {P} venire in mente</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5343,12 +5345,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a636" TIME_SLOT_REF1="ts1270" TIME_SLOT_REF2="ts1271">
-				<ANNOTATION_VALUE>eh nel sud de:lla (.) penisola araba c'erano dei regni</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh nel sud de:lla {P} penisola araba c'erano dei regni</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a637" TIME_SLOT_REF1="ts1272" TIME_SLOT_REF2="ts1273">
-				<ANNOTATION_VALUE>che (.) erano gli antichi regni:: sudarabici.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che {P} erano gli antichi regni:: sudarabici.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5363,7 +5365,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a640" TIME_SLOT_REF1="ts1278" TIME_SLOT_REF2="ts1279">
-				<ANNOTATION_VALUE>eh (.) la famosa regina di saba che incontra salomone</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh {P} la famosa regina di saba che incontra salomone</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5423,7 +5425,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a652" TIME_SLOT_REF1="ts1302" TIME_SLOT_REF2="ts1303">
-				<ANNOTATION_VALUE>((schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5513,7 +5515,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a670" TIME_SLOT_REF1="ts1338" TIME_SLOT_REF2="ts1339">
-				<ANNOTATION_VALUE>nel loro alfabeto che era questo. (.) non so se si vede</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nel loro alfabeto che era questo. {P} non so se si vede</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5538,7 +5540,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a675" TIME_SLOT_REF1="ts1348" TIME_SLOT_REF2="ts1349">
-				<ANNOTATION_VALUE>e:h~ e loro scrivevano la loro lingua che non c'entrava nie~ era una lingua semitica (.) sì:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h~ e loro scrivevano la loro lingua che non c'entrava nie~ era una lingua semitica {P} sì:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5563,7 +5565,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a680" TIME_SLOT_REF1="ts1358" TIME_SLOT_REF2="ts1359">
-				<ANNOTATION_VALUE>((parla_in_arabo))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{parla_in_arabo}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5608,7 +5610,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a689" TIME_SLOT_REF1="ts1376" TIME_SLOT_REF2="ts1377">
-				<ANNOTATION_VALUE>l'arabia feli:ce (.) opulenta</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'arabia feli:ce {P} opulenta</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5703,7 +5705,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a708" TIME_SLOT_REF1="ts1414" TIME_SLOT_REF2="ts1415">
-				<ANNOTATION_VALUE>qualche mese fa (.) questa bustina sta a due euro e mezzo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>qualche mese fa {P} questa bustina sta a due euro e mezzo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5738,7 +5740,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a715" TIME_SLOT_REF1="ts1428" TIME_SLOT_REF2="ts1429">
-				<ANNOTATION_VALUE>((parla_in_arabo))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{parla_in_arabo}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5758,7 +5760,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a719" TIME_SLOT_REF1="ts1436" TIME_SLOT_REF2="ts1437">
-				<ANNOTATION_VALUE>ci sono tutta una serie di storie interessanti (.) innanzitutto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ci sono tutta una serie di storie interessanti {P} innanzitutto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5773,7 +5775,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a722" TIME_SLOT_REF1="ts1442" TIME_SLOT_REF2="ts1443">
-				<ANNOTATION_VALUE>che è la radice: (.) di,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che è la radice: {P} di,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5793,7 +5795,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a726" TIME_SLOT_REF1="ts1450" TIME_SLOT_REF2="ts1451">
-				<ANNOTATION_VALUE>((parla_in_arabo))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{parla_in_arabo}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5808,12 +5810,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a729" TIME_SLOT_REF1="ts1456" TIME_SLOT_REF2="ts1457">
-				<ANNOTATION_VALUE>quindi c'è ((xxx)) quindi c'è::: i:::il il ((xxx)) il latte</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi c'è {xxx} quindi c'è::: i:::il il {xxx} il latte</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a730" TIME_SLOT_REF1="ts1458" TIME_SLOT_REF2="ts1459">
-				<ANNOTATION_VALUE>lo yogurt in &lt;libano&gt; (.) &lt;probabilme:nte&gt; si chiama ((xxx))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lo yogurt in &lt;libano&gt; {P} &lt;probabilme:nte&gt; si chiama {xxx}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5828,7 +5830,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a733" TIME_SLOT_REF1="ts1464" TIME_SLOT_REF2="ts1465">
-				<ANNOTATION_VALUE>e questa resina siccome (.) è bianca</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e questa resina siccome {P} è bianca</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5918,7 +5920,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a751" TIME_SLOT_REF1="ts1500" TIME_SLOT_REF2="ts1501">
-				<ANNOTATION_VALUE>lo potete masticare come (.) un chewing gum</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lo potete masticare come {P} un chewing gum</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6003,7 +6005,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a768" TIME_SLOT_REF1="ts1534" TIME_SLOT_REF2="ts1535">
-				<ANNOTATION_VALUE>comunque (.) su questa cosa del fatto che si parlava sudarabic~ si parlava sudarabico antico ci torniamo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>comunque {P} su questa cosa del fatto che si parlava sudarabic~ si parlava sudarabico antico ci torniamo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6063,7 +6065,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a780" TIME_SLOT_REF1="ts1558" TIME_SLOT_REF2="ts1559">
-				<ANNOTATION_VALUE>però (.) in realtà</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però {P} in realtà</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6128,7 +6130,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a793" TIME_SLOT_REF1="ts1584" TIME_SLOT_REF2="ts1585">
-				<ANNOTATION_VALUE>e: (.) il corno d'africa che è lì a due passi. c'è uno stretto di mare piccolissimo se torniamo indietro sulla mappa,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: {P} il corno d'africa che è lì a due passi. c'è uno stretto di mare piccolissimo se torniamo indietro sulla mappa,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6148,12 +6150,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a797" TIME_SLOT_REF1="ts1592" TIME_SLOT_REF2="ts1593">
-				<ANNOTATION_VALUE>si s:i~ si parla (.) amarico che è una delle poche lingue semitiche che vengono ancora parlat: (.) in numeri consistenti comunque</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si s:i~ si parla {P} amarico che è una delle poche lingue semitiche che vengono ancora parlat: {P} in numeri consistenti comunque</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a798" TIME_SLOT_REF1="ts1594" TIME_SLOT_REF2="ts1595">
-				<ANNOTATION_VALUE>e (.) e che viene scritta</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} e che viene scritta</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6183,7 +6185,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a804" TIME_SLOT_REF1="ts1606" TIME_SLOT_REF2="ts1607">
-				<ANNOTATION_VALUE>e (.) e:h=m::h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} e:h=m::h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6258,7 +6260,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a819" TIME_SLOT_REF1="ts1636" TIME_SLOT_REF2="ts1637">
-				<ANNOTATION_VALUE>ancient (.) north (.) arabian. nordarabico antico.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ancient {P} north {P} arabian. nordarabico antico.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6393,7 +6395,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a846" TIME_SLOT_REF1="ts1690" TIME_SLOT_REF2="ts1691">
-				<ANNOTATION_VALUE>i nomadi che vivevano in quest'&lt;area&gt; enorme nella penisola (.) scrivevano.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>i nomadi che vivevano in quest'&lt;area&gt; enorme nella penisola {P} scrivevano.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6473,7 +6475,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a862" TIME_SLOT_REF1="ts1722" TIME_SLOT_REF2="ts1723">
-				<ANNOTATION_VALUE>o (.) si annoiavano.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>o {P} si annoiavano.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6563,7 +6565,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a880" TIME_SLOT_REF1="ts1758" TIME_SLOT_REF2="ts1759">
-				<ANNOTATION_VALUE>imparato a scrivere dalle (.) comunità sedentarie che stavano intorno,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>imparato a scrivere dalle {P} comunità sedentarie che stavano intorno,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6618,7 +6620,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a891" TIME_SLOT_REF1="ts1780" TIME_SLOT_REF2="ts1781">
-				<ANNOTATION_VALUE>comunque appunto non sembra che (.) avesse</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>comunque appunto non sembra che {P} avesse</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6693,7 +6695,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a906" TIME_SLOT_REF1="ts1810" TIME_SLOT_REF2="ts1811">
-				<ANNOTATION_VALUE>si gi~ il sasso si gira e dietro trovate (.) qualcuno che ha scritto qualcosa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si gi~ il sasso si gira e dietro trovate {P} qualcuno che ha scritto qualcosa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6713,7 +6715,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a910" TIME_SLOT_REF1="ts1818" TIME_SLOT_REF2="ts1819">
-				<ANNOTATION_VALUE>&lt;continua&gt; &lt;una continua&gt; serie di bu:chi di informazioni di cose che non sappiamo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&lt;continuauna continua&gt; serie di bu:chi di informazioni di cose che non sappiamo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6773,7 +6775,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a922" TIME_SLOT_REF1="ts1842" TIME_SLOT_REF2="ts1843">
-				<ANNOTATION_VALUE>sì~ se vai al british museum loro hanno veramente (.) un sacco di sassi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì~ se vai al british museum loro hanno veramente {P} un sacco di sassi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6923,7 +6925,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a952" TIME_SLOT_REF1="ts1902" TIME_SLOT_REF2="ts1903">
-				<ANNOTATION_VALUE>e alcuni studiosi (.) hanno detto queste lingue qua se voi le analizzate, andate a studiare la struttura, andate a studiare:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e alcuni studiosi {P} hanno detto queste lingue qua se voi le analizzate, andate a studiare la struttura, andate a studiare:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6983,7 +6985,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a964" TIME_SLOT_REF1="ts1926" TIME_SLOT_REF2="ts1927">
-				<ANNOTATION_VALUE>se qualcuno scrive la data (.) lo sai se no no ovviamente questi non scrivevano la data.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se qualcuno scrive la data {P} lo sai se no no ovviamente questi non scrivevano la data.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7023,7 +7025,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a972" TIME_SLOT_REF1="ts1942" TIME_SLOT_REF2="ts1943">
-				<ANNOTATION_VALUE>queste iscrizioni sono datate (.) le più vecchie,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>queste iscrizioni sono datate {P} le più vecchie,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7038,7 +7040,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a975" TIME_SLOT_REF1="ts1948" TIME_SLOT_REF2="ts1949">
-				<ANNOTATION_VALUE>e (.) le più recenti al primo secolo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} le più recenti al primo secolo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7133,7 +7135,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a994" TIME_SLOT_REF1="ts1986" TIME_SLOT_REF2="ts1987">
-				<ANNOTATION_VALUE>vedete che assomiglia a quell'alfabe~ è diversa. ma assomiglia a quell'alfabeto che abbiamo visto prima (.) l'alfabeto sudarabico,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vedete che assomiglia a quell'alfabe~ è diversa. ma assomiglia a quell'alfabeto che abbiamo visto prima {P} l'alfabeto sudarabico,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7143,12 +7145,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a996" TIME_SLOT_REF1="ts1990" TIME_SLOT_REF2="ts1991">
-				<ANNOTATION_VALUE>io non ho &gt;adesso&lt; la slide di questa. però c'è un'iscri zione che è stata trovata a ((xxx))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>io non ho &gt;adesso&lt; la slide di questa. però c'è un'iscri zione che è stata trovata a {xxx}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a997" TIME_SLOT_REF1="ts1992" TIME_SLOT_REF2="ts1993">
-				<ANNOTATION_VALUE>credo (.) con ((xxx))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>credo {P} con {xxx}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7198,7 +7200,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1007" TIME_SLOT_REF1="ts2012" TIME_SLOT_REF2="ts2013">
-				<ANNOTATION_VALUE>il regno di ((xxx)) il regno di ((xxx))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il regno di {xxx} il regno di {xxx}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7223,12 +7225,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1012" TIME_SLOT_REF1="ts2022" TIME_SLOT_REF2="ts2023">
-				<ANNOTATION_VALUE>quindi &lt;questa&gt; potre~ questa è stata trovata molto (.) recentemente</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi &lt;questa&gt; potre~ questa è stata trovata molto {P} recentemente</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1013" TIME_SLOT_REF1="ts2024" TIME_SLOT_REF2="ts2025">
-				<ANNOTATION_VALUE>(credo) nel duemilaquindici addirittura questa potrebbe ess~ questa iscrizione che è stata trovata a ((xxx)) potrebbe essere il primo esempio,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>(credo) nel duemilaquindici addirittura questa potrebbe ess~ questa iscrizione che è stata trovata a {xxx} potrebbe essere il primo esempio,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7263,7 +7265,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1020" TIME_SLOT_REF1="ts2038" TIME_SLOT_REF2="ts2039">
-				<ANNOTATION_VALUE>quindi è possibile (.) che &lt;in questa zona&gt; all'epoca ci fossero delle persone che parlavano arabo o comunque qualcosa di riconoscibile come arabo?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi è possibile {P} che &lt;in questa zona&gt; all'epoca ci fossero delle persone che parlavano arabo o comunque qualcosa di riconoscibile come arabo?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7323,7 +7325,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1032" TIME_SLOT_REF1="ts2062" TIME_SLOT_REF2="ts2063">
-				<ANNOTATION_VALUE>che veneravano una dea (.) del cielo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che veneravano una dea {P} del cielo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7373,7 +7375,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1044" TIME_SLOT_REF1="ts2086" TIME_SLOT_REF2="ts2087">
-				<ANNOTATION_VALUE>questa (.) se è quello che pensiamo noi è la pri~ è la prima volta che troviamo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questa {P} se è quello che pensiamo noi è la pri~ è la prima volta che troviamo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7398,7 +7400,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1049" TIME_SLOT_REF1="ts2096" TIME_SLOT_REF2="ts2097">
-				<ANNOTATION_VALUE>queste lingue qua il safaitico ((l_ismaico)) avevano aq</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>queste lingue qua il safaitico {l_ismaico} avevano aq</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7423,7 +7425,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1054" TIME_SLOT_REF1="ts2106" TIME_SLOT_REF2="ts2107">
-				<ANNOTATION_VALUE>divinità nel senso che (.) questa è la xxx,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>divinità nel senso che {P} questa è la xxx,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7523,7 +7525,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1074" TIME_SLOT_REF1="ts2146" TIME_SLOT_REF2="ts2147">
-				<ANNOTATION_VALUE>arabi (.) che poi &gt;parlavano&lt; arabo anche perché lo troviamo come abbiao visto negli scritti ass:iri,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>arabi {P} che poi &gt;parlavano&lt; arabo anche perché lo troviamo come abbiao visto negli scritti ass:iri,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7553,7 +7555,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1080" TIME_SLOT_REF1="ts2158" TIME_SLOT_REF2="ts2159">
-				<ANNOTATION_VALUE>l'avete studiato alle elementari fino alla nausea credo la mezzaluna fertile (.) okay,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'avete studiato alle elementari fino alla nausea credo la mezzaluna fertile {P} okay,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7608,7 +7610,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1091" TIME_SLOT_REF1="ts2180" TIME_SLOT_REF2="ts2181">
-				<ANNOTATION_VALUE>&gt;allora dove&lt; abbiamo visto (.) che.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;allora dove&lt; abbiamo visto {P} che.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7743,7 +7745,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1118" TIME_SLOT_REF1="ts2234" TIME_SLOT_REF2="ts2235">
-				<ANNOTATION_VALUE>quello che (.) troviamo sui sass:i,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quello che {P} troviamo sui sass:i,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7848,7 +7850,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1139" TIME_SLOT_REF1="ts2276" TIME_SLOT_REF2="ts2277">
-				<ANNOTATION_VALUE>ma se l'arabo (.) nasce qui veramente se questo è il luogo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma se l'arabo {P} nasce qui veramente se questo è il luogo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7918,7 +7920,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1154" TIME_SLOT_REF1="ts2306" TIME_SLOT_REF2="ts2307">
-				<ANNOTATION_VALUE>no::: (.) davvero,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no::: {P} davvero,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7960,17 +7962,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a119" TIME_SLOT_REF1="ts236" TIME_SLOT_REF2="ts237">
-				<ANNOTATION_VALUE>((parla_in_arabo))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{parla_in_arabo}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a121" TIME_SLOT_REF1="ts240" TIME_SLOT_REF2="ts241">
-				<ANNOTATION_VALUE>((parla_in_arabo))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{parla_in_arabo}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a123" TIME_SLOT_REF1="ts244" TIME_SLOT_REF2="ts245">
-				<ANNOTATION_VALUE>((parla_in_arabo))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{parla_in_arabo}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8010,12 +8012,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a297" TIME_SLOT_REF1="ts592" TIME_SLOT_REF2="ts593">
-				<ANNOTATION_VALUE>((parla_in_arabo))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{parla_in_arabo}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a299" TIME_SLOT_REF1="ts596" TIME_SLOT_REF2="ts597">
-				<ANNOTATION_VALUE>((parla_in_arabo))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{parla_in_arabo}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8045,7 +8047,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a333" TIME_SLOT_REF1="ts664" TIME_SLOT_REF2="ts665">
-				<ANNOTATION_VALUE>e::h (.) seice~</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h {P} seice~</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8085,7 +8087,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1043" TIME_SLOT_REF1="ts2084" TIME_SLOT_REF2="ts2085">
-				<ANNOTATION_VALUE>sarebbe i (.) l'articolo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sarebbe i {P} l'articolo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:17+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-07-15T21:57:28+00:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="BOD1004.wav" RELATIVE_MEDIA_URL="BOD1004.wav" MIME_TYPE="audio/x-wav" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -1135,6 +1136,7 @@
 		<TIME_SLOT TIME_SLOT_ID="ts1130" TIME_VALUE="3724148" />
 		<TIME_SLOT TIME_SLOT_ID="ts1131" TIME_VALUE="3726457" />
 		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="BO093" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -2533,7 +2535,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a281" TIME_SLOT_REF1="ts560" TIME_SLOT_REF2="ts561">
-				<ANNOTATION_VALUE>quindi &gt;diciamo&lt; anche considerando questo neurone fatto un po' strano che ha il corpo cellulare molto grande e questo (assoncino) piccolo qui un po' ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi &gt;diciamo&lt; anche considerando questo neurone fatto un po' strano che ha il corpo cellulare molto grande e questo (assoncino) piccolo qui un po' {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3063,7 +3065,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a392" TIME_SLOT_REF1="ts782" TIME_SLOT_REF2="ts783">
-				<ANNOTATION_VALUE>quello lo devi chiedere a madre natura non a me ((ride)) perché cioè ((ride)) per me poteva bastare l'apoptosi evidentemente no. &gt;diciamo&lt; sono dei pathway diversi poi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quello lo devi chiedere a madre natura non a me {ride} perché cioè {ride} per me poteva bastare l'apoptosi evidentemente no. &gt;diciamo&lt; sono dei pathway diversi poi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3328,7 +3330,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a445" TIME_SLOT_REF1="ts888" TIME_SLOT_REF2="ts889">
-				<ANNOTATION_VALUE>qualcuno (.) no</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>qualcuno {P} no</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

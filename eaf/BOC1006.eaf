@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:16+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-07-15T21:57:29+00:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="BOC1006.wav" RELATIVE_MEDIA_URL="BOC1006.wav" MIME_TYPE="audio/x-wav" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -923,10 +924,11 @@
 		<TIME_SLOT TIME_SLOT_ID="ts918" TIME_VALUE="1362300" />
 		<TIME_SLOT TIME_SLOT_ID="ts919" TIME_VALUE="1363050" />
 		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="BO143" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
-				<ANNOTATION_VALUE>e:h (.) pos[so entrare? xx (.) grazie].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h {P} pos[so entrare? xx {P} grazie].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -961,22 +963,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
-				<ANNOTATION_VALUE>[sì:] (.) sì [sì sì (.) certo].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì:] {P} sì [sì sì {P} certo].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
-				<ANNOTATION_VALUE>e::h (.) beh, (.) allora, e::h beh, (.) mi è:: mi è interessato molto, la parte relativa (.) agli errori infatti non a caso dopo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h {P} beh, {P} allora, e::h beh, {P} mi è:: mi è interessato molto, la parte relativa {P} agli errori infatti non a caso dopo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
-				<ANNOTATION_VALUE>e::h (.) ho voluto concentrarmi appunto su quella parte per=e::h la: (.) stesura appunto della mia tesina,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h {P} ho voluto concentrarmi appunto su quella parte per=e::h la: {P} stesura appunto della mia tesina,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
-				<ANNOTATION_VALUE>e anche: mi è:: (.) mi è interessato molto:, (.) il=e:h (.) diciamo l'analisi che abbiamo fatto dell'intercomprensione fra lingue e affini.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e anche: mi è:: {P} mi è interessato molto:, {P} il=e:h {P} diciamo l'analisi che abbiamo fatto dell'intercomprensione fra lingue e affini.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1021,42 +1023,42 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts85">
-				<ANNOTATION_VALUE>la:: didattica: (.) e::h (.) integrata,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la:: didattica: {P} e::h {P} integrata,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
-				<ANNOTATION_VALUE>e:::h il=e::h appunto (.) le xxx au langue, (.) che è una serie appunto d[i::],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h il=e::h appunto {P} le xxx au langue, {P} che è una serie appunto d[i::],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts91">
-				<ANNOTATION_VALUE>[e (.) e ve]l lel~ (.) xx [perdoni, non so il franc]ese.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e {P} e ve]l lel~ {P} xx [perdoni, non so il franc]ese.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
-				<ANNOTATION_VALUE>e il clicl appunto, (.) eh content and language integrated learning,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e il clicl appunto, {P} eh content and language integrated learning,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts97">
-				<ANNOTATION_VALUE>e (.) appunto all'intercomprensione fra lingue e affini (.) per intercomprensione, o, comprensione multilingue, si intende l'apprendimento ricettivo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} appunto all'intercomprensione fra lingue e affini {P} per intercomprensione, o, comprensione multilingue, si intende l'apprendimento ricettivo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
-				<ANNOTATION_VALUE>eh (.) di più lingue mediante lo sviluppo di strategie,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh {P} di più lingue mediante lo sviluppo di strategie,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
-				<ANNOTATION_VALUE>e::h (.) che consentono di traferire, (.) processi cognitivi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h {P} che consentono di traferire, {P} processi cognitivi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts103">
-				<ANNOTATION_VALUE>eh (.) conoscenze, esprerienze, abilità già acquisite, da una lingua all'altra.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh {P} conoscenze, esprerienze, abilità già acquisite, da una lingua all'altra.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1066,7 +1068,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts117">
-				<ANNOTATION_VALUE>beh diciamo che (.) e::h=m (.) gli approcci plurali nascono comunque da nuove tendenze all'interno della didattica.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>beh diciamo che {P} e::h=m {P} gli approcci plurali nascono comunque da nuove tendenze all'interno della didattica.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1076,32 +1078,32 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts120" TIME_SLOT_REF2="ts121">
-				<ANNOTATION_VALUE>in particolar modo abbiamo appunto il=e::h carap, che è appunto il (.) quadro di riferimento per gli approcci plura~ (.) plurali, e il=eh=m:h,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in particolar modo abbiamo appunto il=e::h carap, che è appunto il {P} quadro di riferimento per gli approcci plura~ {P} plurali, e il=eh=m:h,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts123">
-				<ANNOTATION_VALUE>e::h nuovo e:h (.) quadro strategico appunto per il plurilinguismo diciamo che fondamentalmente l'obbiettivo generale degli approcci plurali,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h nuovo e:h {P} quadro strategico appunto per il plurilinguismo diciamo che fondamentalmente l'obbiettivo generale degli approcci plurali,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
-				<ANNOTATION_VALUE>è quello di (.) eh portare avanti una politica di differenziazione linguistica, al fine di superare,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è quello di {P} eh portare avanti una politica di differenziazione linguistica, al fine di superare,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
-				<ANNOTATION_VALUE>contesti e situazioni di monolinguismo come ad esempio, (.) può essere per l'inglese,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>contesti e situazioni di monolinguismo come ad esempio, {P} può essere per l'inglese,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
-				<ANNOTATION_VALUE>e::h (.) e quindi, (.) e::h ci sono appunto varie direzioni appunto che si sono prese,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h {P} e quindi, {P} e::h ci sono appunto varie direzioni appunto che si sono prese,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
-				<ANNOTATION_VALUE>ad esempio appunto la, (.) suddivisione della: (.) della scomposizione della lingua appunto in,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ad esempio appunto la, {P} suddivisione della: {P} della scomposizione della lingua appunto in,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1111,27 +1113,27 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts135">
-				<ANNOTATION_VALUE>e::::h (.) abbiamo &gt;allo stesso tempo&lt; il progetto lingue mode:rne del millenovecento (.) e settantuno appunto le:: unità appunto capitalizzabili in unit credit system,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::::h {P} abbiamo &gt;allo stesso tempo&lt; il progetto lingue mode:rne del millenovecento {P} e settantuno appunto le:: unità appunto capitalizzabili in unit credit system,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts137">
-				<ANNOTATION_VALUE>e (.) eh il=e::h=m:h,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} eh il=e::h=m:h,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts139">
-				<ANNOTATION_VALUE>e (.) inoltre e::h (.) e la appunto la fissa~ (.) diciamo il fissare appunto obbiettivi diciamo ridotti.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} inoltre e::h {P} e la appunto la fissa~ {P} diciamo il fissare appunto obbiettivi diciamo ridotti.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts141">
-				<ANNOTATION_VALUE>e::h (.) e quin=diciamo che, (.) m::h lo scopo fondamentale è quello comunque di, e::h diciamo promuovere,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h {P} e quin=diciamo che, {P} m::h lo scopo fondamentale è quello comunque di, e::h diciamo promuovere,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts142" TIME_SLOT_REF2="ts143">
-				<ANNOTATION_VALUE>una:: cultura:: (.) del (.) plurilinguismo appunto nel cittadino europeo, quindi valorizzare (.) la::: la dimensione interculturale della dell'apprendimento,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>una:: cultura:: {P} del {P} plurilinguismo appunto nel cittadino europeo, quindi valorizzare {P} la::: la dimensione interculturale della dell'apprendimento,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1161,7 +1163,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts162" TIME_SLOT_REF2="ts163">
-				<ANNOTATION_VALUE>e:: (.) allora, (.) eh per quanto riguarda appunto l'intercomprensione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: {P} allora, {P} eh per quanto riguarda appunto l'intercomprensione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1176,22 +1178,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts168" TIME_SLOT_REF2="ts169">
-				<ANNOTATION_VALUE>e:h a me, (.) m'(ha interessato particolarmente appunto eurom=e:h (.) eh cinque,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h a me, {P} m'(ha interessato particolarmente appunto eurom=e:h {P} eh cinque,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts170" TIME_SLOT_REF2="ts171">
-				<ANNOTATION_VALUE>che appunto lo s~ (.) è=mh diciamo=mh il metodo appunto eurom, (.) è quello di e::h consente l'apprendimento di (.) eh qua~ fino a quattro appunto lingue, (.) eh romanze,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che appunto lo s~ {P} è=mh diciamo=mh il metodo appunto eurom, {P} è quello di e::h consente l'apprendimento di {P} eh qua~ fino a quattro appunto lingue, {P} eh romanze,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts172" TIME_SLOT_REF2="ts173">
-				<ANNOTATION_VALUE>per chi ne sa già una, in particolar modo appunto italiano, (.) spagnolo francese catalano e (.) portoghese,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per chi ne sa già una, in particolar modo appunto italiano, {P} spagnolo francese catalano e {P} portoghese,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts174" TIME_SLOT_REF2="ts175">
-				<ANNOTATION_VALUE>in maniera (.) eh ricettiva.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in maniera {P} eh ricettiva.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1211,12 +1213,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts186" TIME_SLOT_REF2="ts187">
-				<ANNOTATION_VALUE>[e:h focali~] sì in maniera appunto sì (.) esatto focalizzandosi sulle abilità:::=mh (.) ricettive,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e:h focali~] sì in maniera appunto sì {P} esatto focalizzandosi sulle abilità:::=mh {P} ricettive,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts190" TIME_SLOT_REF2="ts191">
-				<ANNOTATION_VALUE>e e:h quindi (.) elaborando strategie di comprensione generali,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e e:h quindi {P} elaborando strategie di comprensione generali,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1226,7 +1228,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts194" TIME_SLOT_REF2="ts195">
-				<ANNOTATION_VALUE>e:h attraverso cui è possibile trasferire le (.) e:h le conoscenze da una lingua all'altra, che sono appunto il lessico internazionale, il lessico panromanzo quindi diciamo il lessico affine tra le varie,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h attraverso cui è possibile trasferire le {P} e:h le conoscenze da una lingua all'altra, che sono appunto il lessico internazionale, il lessico panromanzo quindi diciamo il lessico affine tra le varie,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1256,7 +1258,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts206" TIME_SLOT_REF2="ts207">
-				<ANNOTATION_VALUE>ci si basa un po' su un'analisi comunque di quelle che sono (.) le e::h (.) le analogie, fra le lngue romanze.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ci si basa un po' su un'analisi comunque di quelle che sono {P} le e::h {P} le analogie, fra le lngue romanze.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1266,12 +1268,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a106" TIME_SLOT_REF1="ts210" TIME_SLOT_REF2="ts211">
-				<ANNOTATION_VALUE>infatti (.) diciamo che (.) è un metodo che mi lascia un po': come dire,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>infatti {P} diciamo che {P} è un metodo che mi lascia un po': come dire,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts212" TIME_SLOT_REF2="ts213">
-				<ANNOTATION_VALUE>m:::h non s[o sono un (.) un po' p]erples[sa s]ì non so effetttivamente quanto possa: (.) funzionare, però l'ho trovato molto inter[essante perché è un approccio che non] avevo mai:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>m:::h non s[o sono un {P} un po' p]erples[sa s]ì non so effetttivamente quanto possa: {P} funzionare, però l'ho trovato molto inter[essante perché è un approccio che non] avevo mai:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1291,7 +1293,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a117" TIME_SLOT_REF1="ts232" TIME_SLOT_REF2="ts233">
-				<ANNOTATION_VALUE>[sì sì sì sì sì sì sì (.) sì sì sì sì sì].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì sì sì sì sì sì sì {P} sì sì sì sì sì].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1316,12 +1318,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a124" TIME_SLOT_REF1="ts246" TIME_SLOT_REF2="ts247">
-				<ANNOTATION_VALUE>e::h=m:h in diverse lingue, mentre &gt;invece&lt; in eurom quattro aveva accesso anche ad un breve (.) riasunto,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h=m:h in diverse lingue, mentre &gt;invece&lt; in eurom quattro aveva accesso anche ad un breve {P} riasunto,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a125" TIME_SLOT_REF1="ts248" TIME_SLOT_REF2="ts249">
-				<ANNOTATION_VALUE>e::h e quindi (.) prima ci si:=m:h focalizza appunto prima s~=ciamo si fa un ascolto perché si possono anche ascoltare i testi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h e quindi {P} prima ci si:=m:h focalizza appunto prima s~=ciamo si fa un ascolto perché si possono anche ascoltare i testi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1331,32 +1333,32 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a127" TIME_SLOT_REF1="ts252" TIME_SLOT_REF2="ts253">
-				<ANNOTATION_VALUE>e:::h (.) molto generale senza focalizzarsi diciamo sugli elementi linguistici,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h {P} molto generale senza focalizzarsi diciamo sugli elementi linguistici,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a128" TIME_SLOT_REF1="ts254" TIME_SLOT_REF2="ts255">
-				<ANNOTATION_VALUE>e: poi si fa un primo tentativo di (.) traduzione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: poi si fa un primo tentativo di {P} traduzione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a129" TIME_SLOT_REF1="ts256" TIME_SLOT_REF2="ts257">
-				<ANNOTATION_VALUE>naturalmente (.) il diritto all'approssimazione (.) è più che legittimo nel senso che (.) naturalmente: (.) diciamo che m::h m::h,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>naturalmente {P} il diritto all'approssimazione {P} è più che legittimo nel senso che {P} naturalmente: {P} diciamo che m::h m::h,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a130" TIME_SLOT_REF1="ts258" TIME_SLOT_REF2="ts259">
-				<ANNOTATION_VALUE>diciamo che (.) uno dei degli approcci su cui si basa eurom, è che appunto bisogna accettare,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>diciamo che {P} uno dei degli approcci su cui si basa eurom, è che appunto bisogna accettare,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a131" TIME_SLOT_REF1="ts260" TIME_SLOT_REF2="ts261">
-				<ANNOTATION_VALUE>che (.) non è necessario conoscere tutte le parole di un testo per (.) comunque accedere al significato generale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che {P} non è necessario conoscere tutte le parole di un testo per {P} comunque accedere al significato generale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a132" TIME_SLOT_REF1="ts262" TIME_SLOT_REF2="ts263">
-				<ANNOTATION_VALUE>perciò appunto sono (.) consentite traduzioni approssimative, ad esempio si adotta la cosiddetta tecnica della parola vuota,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perciò appunto sono {P} consentite traduzioni approssimative, ad esempio si adotta la cosiddetta tecnica della parola vuota,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1366,32 +1368,32 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a134" TIME_SLOT_REF1="ts266" TIME_SLOT_REF2="ts267">
-				<ANNOTATION_VALUE>o (.) eh (.) cosare.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>o {P} eh {P} cosare.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a135" TIME_SLOT_REF1="ts268" TIME_SLOT_REF2="ts269">
-				<ANNOTATION_VALUE>poi si (.) e:h (.) fa un (.) si procede ad un secondo ascolto ad una seconda lettura, e si ci si focalizza appunto sugli elementi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi si {P} e:h {P} fa un {P} si procede ad un secondo ascolto ad una seconda lettura, e si ci si focalizza appunto sugli elementi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a136" TIME_SLOT_REF1="ts270" TIME_SLOT_REF2="ts271">
-				<ANNOTATION_VALUE>e:h (.) sintattici, appunto lessicali, in questo caso.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h {P} sintattici, appunto lessicali, in questo caso.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a137" TIME_SLOT_REF1="ts272" TIME_SLOT_REF2="ts273">
-				<ANNOTATION_VALUE>quindi appunto si adottano tutta una serie di strategie di comprensione, quindi ad esempio appunto si:: (.) diciamo si sceglie un approccio alla lettura,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi appunto si adottano tutta una serie di strategie di comprensione, quindi ad esempio appunto si:: {P} diciamo si sceglie un approccio alla lettura,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a138" TIME_SLOT_REF1="ts274" TIME_SLOT_REF2="ts275">
-				<ANNOTATION_VALUE>a:::m::h (.) &gt;diciamo&lt; che corrisponde (.) a (.) quelli che sono i propri obbiettivi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a:::m::h {P} &gt;diciamo&lt; che corrisponde {P} a {P} quelli che sono i propri obbiettivi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a139" TIME_SLOT_REF1="ts276" TIME_SLOT_REF2="ts277">
-				<ANNOTATION_VALUE>si: (.) costruisce appunto un percorso di lettura,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si: {P} costruisce appunto un percorso di lettura,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1406,17 +1408,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a143" TIME_SLOT_REF1="ts284" TIME_SLOT_REF2="ts285">
-				<ANNOTATION_VALUE>e poi::: (.) sì.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e poi::: {P} sì.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a144" TIME_SLOT_REF1="ts286" TIME_SLOT_REF2="ts287">
-				<ANNOTATION_VALUE>quindi ad esempio ci si:, (.) focalizza a esempio sul, (.) si cerca appunto di capire il genere,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi ad esempio ci si:, {P} focalizza a esempio sul, {P} si cerca appunto di capire il genere,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a145" TIME_SLOT_REF1="ts288" TIME_SLOT_REF2="ts289">
-				<ANNOTATION_VALUE>e::h il forma:to, (.) magari il periodo appunto di pubblicazione del: (.) dell'articolo, appunto in genere sono articoli tratti da settimanali o quotidiani,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h il forma:to, {P} magari il periodo appunto di pubblicazione del: {P} dell'articolo, appunto in genere sono articoli tratti da settimanali o quotidiani,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1426,7 +1428,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a148" TIME_SLOT_REF1="ts294" TIME_SLOT_REF2="ts295">
-				<ANNOTATION_VALUE>si: (.) individuano ad esempio le seguenze appunto discorsive, o comunque (.) i generi testuali,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si: {P} individuano ad esempio le seguenze appunto discorsive, o comunque {P} i generi testuali,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1441,7 +1443,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts300" TIME_SLOT_REF2="ts301">
-				<ANNOTATION_VALUE>più legati, maggiormente legati insomma alla lingua, appunto (.) come dicevo prima trovando appunto analogi:e,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>più legati, maggiormente legati insomma alla lingua, appunto {P} come dicevo prima trovando appunto analogi:e,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1451,12 +1453,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a157" TIME_SLOT_REF1="ts312" TIME_SLOT_REF2="ts313">
-				<ANNOTATION_VALUE>allora, (.) il [quadro],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora, {P} il [quadro],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a160" TIME_SLOT_REF1="ts318" TIME_SLOT_REF2="ts319">
-				<ANNOTATION_VALUE>allora, il quadro comune europeo di riferimento (.) per la conoscenza delle lingue,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora, il quadro comune europeo di riferimento {P} per la conoscenza delle lingue,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1466,12 +1468,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a162" TIME_SLOT_REF1="ts322" TIME_SLOT_REF2="ts323">
-				<ANNOTATION_VALUE>eh (.) stilato appunto nel (.) eh duemilaeuno,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh {P} stilato appunto nel {P} eh duemilaeuno,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a163" TIME_SLOT_REF1="ts324" TIME_SLOT_REF2="ts325">
-				<ANNOTATION_VALUE>ed è (.) e::h=mh (.) all'interno di esso troviamo (.) e:h la descrizione dei: (.) e:h=i sei appunto livelli,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ed è {P} e::h=mh {P} all'interno di esso troviamo {P} e:h la descrizione dei: {P} e:h=i sei appunto livelli,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1481,22 +1483,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a165" TIME_SLOT_REF1="ts328" TIME_SLOT_REF2="ts329">
-				<ANNOTATION_VALUE>che sono appunto, (.) a uno a due, (.) e:h b uno b due, c uno e c due,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che sono appunto, {P} a uno a due, {P} e:h b uno b due, c uno e c due,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a166" TIME_SLOT_REF1="ts330" TIME_SLOT_REF2="ts331">
-				<ANNOTATION_VALUE>e (.) appunto (.) eh (.) per ogni livello viene descritto cosa l'apprendente sa fare,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} appunto {P} eh {P} per ogni livello viene descritto cosa l'apprendente sa fare,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a167" TIME_SLOT_REF1="ts332" TIME_SLOT_REF2="ts333">
-				<ANNOTATION_VALUE>nella lingua target, in quel dato momento della sua (.) dell'evoluzione del suo processo insomma, (.) eh linguistico,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nella lingua target, in quel dato momento della sua {P} dell'evoluzione del suo processo insomma, {P} eh linguistico,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a168" TIME_SLOT_REF1="ts334" TIME_SLOT_REF2="ts335">
-				<ANNOTATION_VALUE>e:: naturalmente, (.) e::h a seconda appunto dei vari ambiti, quindi ad esempio abbiamo appunto scale specifiche,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: naturalmente, {P} e::h a seconda appunto dei vari ambiti, quindi ad esempio abbiamo appunto scale specifiche,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1506,12 +1508,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a170" TIME_SLOT_REF1="ts338" TIME_SLOT_REF2="ts339">
-				<ANNOTATION_VALUE>un una scala potrebbe essere ad esempio la, (.) comprensione di un'interazione fra parlanti nativi, ad esempio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un una scala potrebbe essere ad esempio la, {P} comprensione di un'interazione fra parlanti nativi, ad esempio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a171" TIME_SLOT_REF1="ts340" TIME_SLOT_REF2="ts341">
-				<ANNOTATION_VALUE>e:: appunto è un documento importantissimo, proprio perché per la prima volta, si cerca di individuare, (.) una linea comune,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: appunto è un documento importantissimo, proprio perché per la prima volta, si cerca di individuare, {P} una linea comune,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1531,17 +1533,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a180" TIME_SLOT_REF1="ts358" TIME_SLOT_REF2="ts359">
-				<ANNOTATION_VALUE>ah (.) beh (.) sì, appunto nel millenovecento (.) e settantuno, c'era stato il progetto lingue mode:rne,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ah {P} beh {P} sì, appunto nel millenovecento {P} e settantuno, c'era stato il progetto lingue mode:rne,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a181" TIME_SLOT_REF1="ts360" TIME_SLOT_REF2="ts361">
-				<ANNOTATION_VALUE>che: (.) appunto, si basava appunto sulle: (.) unità capitalizzabili, e tui (.) sui (.) threshold level che appunto livello soglia che sarebbe appunto livello,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che: {P} appunto, si basava appunto sulle: {P} unità capitalizzabili, e tui {P} sui {P} threshold level che appunto livello soglia che sarebbe appunto livello,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a182" TIME_SLOT_REF1="ts362" TIME_SLOT_REF2="ts363">
-				<ANNOTATION_VALUE>di (.) mh minimo:, (.) diciamo a livello linguistico, (.) eh grazie a cui un apprendente può sopravvivere in un paese stranie:ro,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di {P} mh minimo:, {P} diciamo a livello linguistico, {P} eh grazie a cui un apprendente può sopravvivere in un paese stranie:ro,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1556,7 +1558,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a185" TIME_SLOT_REF1="ts368" TIME_SLOT_REF2="ts369">
-				<ANNOTATION_VALUE>diciamo che:, (.) &gt;probabilmente&lt; questa è la prima volta in cui si ha un documento un po' più sistematico.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>diciamo che:, {P} &gt;probabilmente&lt; questa è la prima volta in cui si ha un documento un po' più sistematico.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1581,7 +1583,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a192" TIME_SLOT_REF1="ts382" TIME_SLOT_REF2="ts383">
-				<ANNOTATION_VALUE>m:h (.) [&gt;cioè&lt;, c'è sempre],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>m:h {P} [&gt;cioè&lt;, c'è sempre],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1596,12 +1598,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a196" TIME_SLOT_REF1="ts390" TIME_SLOT_REF2="ts391">
-				<ANNOTATION_VALUE>infatti anche noi abbiamo visto appunto: mi ricordo quando abbiamo appunto:: (.) durante appunto il suo modulo, analizzato la:: (.) l'interazione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>infatti anche noi abbiamo visto appunto: mi ricordo quando abbiamo appunto:: {P} durante appunto il suo modulo, analizzato la:: {P} l'interazione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a197" TIME_SLOT_REF1="ts392" TIME_SLOT_REF2="ts393">
-				<ANNOTATION_VALUE>fra: due (.) studentesse di italiano, come lingua straniera, di madrelingua francese, julie e amelie mi pareva,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>fra: due {P} studentesse di italiano, come lingua straniera, di madrelingua francese, julie e amelie mi pareva,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1611,7 +1613,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a199" TIME_SLOT_REF1="ts396" TIME_SLOT_REF2="ts397">
-				<ANNOTATION_VALUE>il livello lin~ (.) di padronanza linguis[tica].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il livello lin~ {P} di padronanza linguis[tica].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1651,12 +1653,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a214" TIME_SLOT_REF1="ts426" TIME_SLOT_REF2="ts427">
-				<ANNOTATION_VALUE>beh, (.) e:::h=mh,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>beh, {P} e:::h=mh,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a215" TIME_SLOT_REF1="ts428" TIME_SLOT_REF2="ts429">
-				<ANNOTATION_VALUE>oddio, ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>oddio, {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1681,12 +1683,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a222" TIME_SLOT_REF1="ts442" TIME_SLOT_REF2="ts443">
-				<ANNOTATION_VALUE>[beh, (.) e::h],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[beh, {P} e::h],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a223" TIME_SLOT_REF1="ts444" TIME_SLOT_REF2="ts445">
-				<ANNOTATION_VALUE>beh, che probabilmente (.) comunque,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>beh, che probabilmente {P} comunque,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1706,7 +1708,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a227" TIME_SLOT_REF1="ts452" TIME_SLOT_REF2="ts453">
-				<ANNOTATION_VALUE>ha=mh, (.) insomma=m:h, (.) secondo appunto i vari studi appunto della linguistica acquisizionale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ha=mh, {P} insomma=m:h, {P} secondo appunto i vari studi appunto della linguistica acquisizionale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1726,7 +1728,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a231" TIME_SLOT_REF1="ts460" TIME_SLOT_REF2="ts461">
-				<ANNOTATION_VALUE>appunto diceva corder, noi impariamo:, (.) in maniera conforme, al nostro sillabo interno,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>appunto diceva corder, noi impariamo:, {P} in maniera conforme, al nostro sillabo interno,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1741,7 +1743,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a234" TIME_SLOT_REF1="ts466" TIME_SLOT_REF2="ts467">
-				<ANNOTATION_VALUE>diciamo che probabilmente non=e::h, (.) non ci può essere un metodo che va bene per tutti,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>diciamo che probabilmente non=e::h, {P} non ci può essere un metodo che va bene per tutti,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1751,12 +1753,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a236" TIME_SLOT_REF1="ts470" TIME_SLOT_REF2="ts471">
-				<ANNOTATION_VALUE>diverse:, (.) s=diversissime possono essere le situazioni che si incontrano nella prassi dell'insegnamento, (.) diversi sono gli attori che vi prendono parte,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>diverse:, {P} s=diversissime possono essere le situazioni che si incontrano nella prassi dell'insegnamento, {P} diversi sono gli attori che vi prendono parte,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a237" TIME_SLOT_REF1="ts472" TIME_SLOT_REF2="ts473">
-				<ANNOTATION_VALUE>le esigenze, i bisogni, (.) e:::: insomma tutta [una se]rie insomma di fattori da tenere:: in conto,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>le esigenze, i bisogni, {P} e:::: insomma tutta [una se]rie insomma di fattori da tenere:: in conto,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1771,7 +1773,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a242" TIME_SLOT_REF1="ts482" TIME_SLOT_REF2="ts483">
-				<ANNOTATION_VALUE>[sì proba]bilmente è un po' una generalizzazio:ne che, (.) sicuramente è necessaria, perché altrimenti:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì proba]bilmente è un po' una generalizzazio:ne che, {P} sicuramente è necessaria, perché altrimenti:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1781,12 +1783,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a244" TIME_SLOT_REF1="ts486" TIME_SLOT_REF2="ts487">
-				<ANNOTATION_VALUE>ma però comunque (.) rim[ane ta]:le, probabilment[e],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma però comunque {P} rim[ane ta]:le, probabilment[e],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a247" TIME_SLOT_REF1="ts492" TIME_SLOT_REF2="ts493">
-				<ANNOTATION_VALUE>[sì, degl]i standard, esatt[o (.) a cui, appunto bisogna] (.) a cui appunto l'apprendente deve tentare di adattarsi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì, degl]i standard, esatt[o {P} a cui, appunto bisogna] {P} a cui appunto l'apprendente deve tentare di adattarsi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1801,12 +1803,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a251" TIME_SLOT_REF1="ts500" TIME_SLOT_REF2="ts501">
-				<ANNOTATION_VALUE>proprio perché:, (.) non può esistere un metodo che vada bene per tutti fondamentalmente:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>proprio perché:, {P} non può esistere un metodo che vada bene per tutti fondamentalmente:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a253" TIME_SLOT_REF1="ts504" TIME_SLOT_REF2="ts505">
-				<ANNOTATION_VALUE>[e ques]to pro~, (.) &gt;diciamo&lt; è un po', (.) come dire,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e ques]to pro~, {P} &gt;diciamo&lt; è un po', {P} come dire,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1816,12 +1818,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a255" TIME_SLOT_REF1="ts508" TIME_SLOT_REF2="ts509">
-				<ANNOTATION_VALUE>le: (.) la direzione che si sta prendendo ultimamente.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>le: {P} la direzione che si sta prendendo ultimamente.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a256" TIME_SLOT_REF1="ts510" TIME_SLOT_REF2="ts511">
-				<ANNOTATION_VALUE>e quindi mentre prima avevamo proprio questa:, (.) diciamo rigità assoluta del metodo, soprattutto anche nei primi appunto:: (.) approcci, nei primi comunque:: metodi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi mentre prima avevamo proprio questa:, {P} diciamo rigità assoluta del metodo, soprattutto anche nei primi appunto:: {P} approcci, nei primi comunque:: metodi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1831,7 +1833,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a259" TIME_SLOT_REF1="ts516" TIME_SLOT_REF2="ts517">
-				<ANNOTATION_VALUE>[diciamo] che la glottodidattica è (.) comunque appunto una disciplina molto permeabile, anche a::: appunto cambiamenti sociali, appunto [poli]tici culturali,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[diciamo] che la glottodidattica è {P} comunque appunto una disciplina molto permeabile, anche a::: appunto cambiamenti sociali, appunto [poli]tici culturali,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1841,7 +1843,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a263" TIME_SLOT_REF1="ts524" TIME_SLOT_REF2="ts525">
-				<ANNOTATION_VALUE>m::h, (.) per quanto riguarda, (.) le le idee comunque [sulla ri]cerca linguistica in [generale].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>m::h, {P} per quanto riguarda, {P} le le idee comunque [sulla ri]cerca linguistica in [generale].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1856,12 +1858,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a281" TIME_SLOT_REF1="ts560" TIME_SLOT_REF2="ts561">
-				<ANNOTATION_VALUE>[beh], (.) diciamo quelle che possiamo:::, (.) diciamo quelle che,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[beh], {P} diciamo quelle che possiamo:::, {P} diciamo quelle che,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a282" TIME_SLOT_REF1="ts562" TIME_SLOT_REF2="ts563">
-				<ANNOTATION_VALUE>possono essere considerate le competenze generali dell'apprendente, sono appunto (.) sape:re, saper fare, saper essere, saper comprendere quindi non abbiamo più appunto solo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>possono essere considerate le competenze generali dell'apprendente, sono appunto {P} sape:re, saper fare, saper essere, saper comprendere quindi non abbiamo più appunto solo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1871,7 +1873,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a284" TIME_SLOT_REF1="ts566" TIME_SLOT_REF2="ts567">
-				<ANNOTATION_VALUE>e:::h (.) socio::: (.) cultu~ (.) e::h=m::h,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h {P} socio::: {P} cultu~ {P} e::h=m::h,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1886,7 +1888,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a287" TIME_SLOT_REF1="ts572" TIME_SLOT_REF2="ts573">
-				<ANNOTATION_VALUE>ma, (.) appunto:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma, {P} appunto:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1901,17 +1903,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a290" TIME_SLOT_REF1="ts578" TIME_SLOT_REF2="ts579">
-				<ANNOTATION_VALUE>viene appunto valorizzato molto anche::, negli ultimi tempi, anche l'autonomia, comunque, (.) e l'autoapprendimento, quindi appunto self learning, che appunto è la modalità di studio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>viene appunto valorizzato molto anche::, negli ultimi tempi, anche l'autonomia, comunque, {P} e l'autoapprendimento, quindi appunto self learning, che appunto è la modalità di studio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a291" TIME_SLOT_REF1="ts580" TIME_SLOT_REF2="ts581">
-				<ANNOTATION_VALUE>quindi appunto, (.) il=l'apprende anche grazie appunto all'intoduzione: (.) e::h del=e::h (.) delle tecnologie multimediali.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi appunto, {P} il=l'apprende anche grazie appunto all'intoduzione: {P} e::h del=e::h {P} delle tecnologie multimediali.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a292" TIME_SLOT_REF1="ts582" TIME_SLOT_REF2="ts583">
-				<ANNOTATION_VALUE>e::h (.) a supporto, appunto, della didattica:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h {P} a supporto, appunto, della didattica:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1936,7 +1938,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a307" TIME_SLOT_REF1="ts612" TIME_SLOT_REF2="ts613">
-				<ANNOTATION_VALUE>il=e:::h il=il=appunto la valutazio~, (.) per quanto riguarda la valutazione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il=e:::h il=il=appunto la valutazio~, {P} per quanto riguarda la valutazione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1951,7 +1953,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a310" TIME_SLOT_REF1="ts618" TIME_SLOT_REF2="ts619">
-				<ANNOTATION_VALUE>e (.) e::h (.) prove di tipo integrativo, che prevedono un uso simultaneo: di (.) e:h più ablità, o elementi appunto linguistici e quindi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} e::h {P} prove di tipo integrativo, che prevedono un uso simultaneo: di {P} e:h più ablità, o elementi appunto linguistici e quindi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1961,7 +1963,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a312" TIME_SLOT_REF1="ts622" TIME_SLOT_REF2="ts623">
-				<ANNOTATION_VALUE>quello che (.) è:: diciamo: (.) le condizioni reali della lingua.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quello che {P} è:: diciamo: {P} le condizioni reali della lingua.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1981,17 +1983,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a316" TIME_SLOT_REF1="ts630" TIME_SLOT_REF2="ts631">
-				<ANNOTATION_VALUE>e::: appunto abbiamo diversi tipi di: (.) di test,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::: appunto abbiamo diversi tipi di: {P} di test,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a317" TIME_SLOT_REF1="ts632" TIME_SLOT_REF2="ts633">
-				<ANNOTATION_VALUE>&gt;appunto:::&lt; (.) ad esempio, (.) test appunto diretti, o indiretti,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;appunto:::&lt; {P} ad esempio, {P} test appunto diretti, o indiretti,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a318" TIME_SLOT_REF1="ts634" TIME_SLOT_REF2="ts635">
-				<ANNOTATION_VALUE>test (.) soggettivi, (.) o (.) eh (.) oggettivi, test appunto xxx reference o test norm reference,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>test {P} soggettivi, {P} o {P} eh {P} oggettivi, test appunto xxx reference o test norm reference,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2006,17 +2008,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a321" TIME_SLOT_REF1="ts640" TIME_SLOT_REF2="ts641">
-				<ANNOTATION_VALUE>e::h appunto:: m:::h (.) test appunto: (.) fattoriale appunto d'elementi discreti:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h appunto:: m:::h {P} test appunto: {P} fattoriale appunto d'elementi discreti:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a322" TIME_SLOT_REF1="ts642" TIME_SLOT_REF2="ts643">
-				<ANNOTATION_VALUE>poi c'è stato appunto: (.) l'integrative, o integrated=e:h (.) test,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi c'è stato appunto: {P} l'integrative, o integrated=e:h {P} test,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a323" TIME_SLOT_REF1="ts644" TIME_SLOT_REF2="ts645">
-				<ANNOTATION_VALUE>e poi, (.) il, test appunto comunicativo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e poi, {P} il, test appunto comunicativo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2031,12 +2033,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a326" TIME_SLOT_REF1="ts650" TIME_SLOT_REF2="ts651">
-				<ANNOTATION_VALUE>e:::h il=e:::h (.) principio appunto, (.) quindi uso appunto di materiali autentici o semi-autentici,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h il=e:::h {P} principio appunto, {P} quindi uso appunto di materiali autentici o semi-autentici,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a327" TIME_SLOT_REF1="ts652" TIME_SLOT_REF2="ts653">
-				<ANNOTATION_VALUE>e quindi avevamo appunto visto la differenza fra materiale autentico appunto e: (.) materiale grigio,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi avevamo appunto visto la differenza fra materiale autentico appunto e: {P} materiale grigio,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2046,12 +2048,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a329" TIME_SLOT_REF1="ts656" TIME_SLOT_REF2="ts657">
-				<ANNOTATION_VALUE>e poi appunto i::: coefficienti (.) mh con valore appunto come ad esempio quelli della validità:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e poi appunto i::: coefficienti {P} mh con valore appunto come ad esempio quelli della validità:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a330" TIME_SLOT_REF1="ts658" TIME_SLOT_REF2="ts659">
-				<ANNOTATION_VALUE>e: (.) e:h l'affidabilità o fedeltà.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: {P} e:h l'affidabilità o fedeltà.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2076,7 +2078,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a339" TIME_SLOT_REF1="ts676" TIME_SLOT_REF2="ts677">
-				<ANNOTATION_VALUE>nel senso che appunto sì (.) m:::h il=e:::h (.) il il testing deve essere appunto,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nel senso che appunto sì {P} m:::h il=e:::h {P} il il testing deve essere appunto,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2086,7 +2088,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a341" TIME_SLOT_REF1="ts680" TIME_SLOT_REF2="ts681">
-				<ANNOTATION_VALUE>affidabile, (.) e utile, quindi nel senso il testing comunque deve,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>affidabile, {P} e utile, quindi nel senso il testing comunque deve,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2096,7 +2098,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a343" TIME_SLOT_REF1="ts684" TIME_SLOT_REF2="ts685">
-				<ANNOTATION_VALUE>imparare qualcosa (.) di più a=mh sul proprio processo:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>imparare qualcosa {P} di più a=mh sul proprio processo:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2116,12 +2118,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a347" TIME_SLOT_REF1="ts692" TIME_SLOT_REF2="ts693">
-				<ANNOTATION_VALUE>m::h, (.) diciamo che il testing (.) nel (.) per quanto riguarda: le (.) conoscenze linguistiche, (.) è inevitabile proprio perché:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>m::h, {P} diciamo che il testing {P} nel {P} per quanto riguarda: le {P} conoscenze linguistiche, {P} è inevitabile proprio perché:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a348" TIME_SLOT_REF1="ts694" TIME_SLOT_REF2="ts695">
-				<ANNOTATION_VALUE>io devo avere, (.) una:: (.) cioè, devo testare le mie abilità, devo avere un riscontro pratico e concreto di quello che effettivamente so fare.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>io devo avere, {P} una:: {P} cioè, devo testare le mie abilità, devo avere un riscontro pratico e concreto di quello che effettivamente so fare.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2131,7 +2133,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a352" TIME_SLOT_REF1="ts702" TIME_SLOT_REF2="ts703">
-				<ANNOTATION_VALUE>sì, (.) diciamo che la=il &gt;appunto&lt; il principio olistico dell'utilità, è collegato: (.) ad altri (.) fattori che sono appunto,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì, {P} diciamo che la=il &gt;appunto&lt; il principio olistico dell'utilità, è collegato: {P} ad altri {P} fattori che sono appunto,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2151,17 +2153,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a356" TIME_SLOT_REF1="ts710" TIME_SLOT_REF2="ts711">
-				<ANNOTATION_VALUE>si collega alle caratteristiche: (.) eh socio-biografiche del candidato,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si collega alle caratteristiche: {P} eh socio-biografiche del candidato,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a357" TIME_SLOT_REF1="ts712" TIME_SLOT_REF2="ts713">
-				<ANNOTATION_VALUE>l'impatto appunto sulla società, sui=l ca~ (.) sui candidati, apppunto sui decisori,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'impatto appunto sulla società, sui=l ca~ {P} sui candidati, apppunto sui decisori,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a358" TIME_SLOT_REF1="ts714" TIME_SLOT_REF2="ts715">
-				<ANNOTATION_VALUE>e per questo si parla appunto di (.) test appunto high stake test come ad esempio il test il proficency test, il test di padronanza, o di certificazione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e per questo si parla appunto di {P} test appunto high stake test come ad esempio il test il proficency test, il test di padronanza, o di certificazione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2171,17 +2173,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a360" TIME_SLOT_REF1="ts718" TIME_SLOT_REF2="ts719">
-				<ANNOTATION_VALUE>e quello invece low stake:, (.) [a esempio], il test diagnostico, che invece è dipende dal contesto,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quello invece low stake:, {P} [a esempio], il test diagnostico, che invece è dipende dal contesto,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a363" TIME_SLOT_REF1="ts724" TIME_SLOT_REF2="ts725">
-				<ANNOTATION_VALUE>[e: (.) e:]::h la fattibilità, ossia appunto le concrete opportunità di finanziamento, di gestione, di amministrazione, perché poi naturalmente ci sono tutta una serie di,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e: {P} e:]::h la fattibilità, ossia appunto le concrete opportunità di finanziamento, di gestione, di amministrazione, perché poi naturalmente ci sono tutta una serie di,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a364" TIME_SLOT_REF1="ts726" TIME_SLOT_REF2="ts727">
-				<ANNOTATION_VALUE>comunque componenti burocratiche e (.) pre~ (.) più molto più pratiche da tenere in considerazione natu[ralme]nte.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>comunque componenti burocratiche e {P} pre~ {P} più molto più pratiche da tenere in considerazione natu[ralme]nte.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2196,22 +2198,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a371" TIME_SLOT_REF1="ts740" TIME_SLOT_REF2="ts741">
-				<ANNOTATION_VALUE>beh, (.) perché comnque:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>beh, {P} perché comnque:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a372" TIME_SLOT_REF1="ts742" TIME_SLOT_REF2="ts743">
-				<ANNOTATION_VALUE>sono fattori da tenere (.) assolutamente in considerazione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sono fattori da tenere {P} assolutamente in considerazione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a373" TIME_SLOT_REF1="ts744" TIME_SLOT_REF2="ts745">
-				<ANNOTATION_VALUE>le: (.) caratteristiche socio-biografiche dei candidati.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>le: {P} caratteristiche socio-biografiche dei candidati.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a374" TIME_SLOT_REF1="ts746" TIME_SLOT_REF2="ts747">
-				<ANNOTATION_VALUE>e si sta sempre andando (.) secondo me:, (.) in direz~ (.) si sta si sta andando sempre di più:, (.) diciamo nella direzione di evidenziare proprio,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e si sta sempre andando {P} secondo me:, {P} in direz~ {P} si sta si sta andando sempre di più:, {P} diciamo nella direzione di evidenziare proprio,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2226,7 +2228,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a377" TIME_SLOT_REF1="ts752" TIME_SLOT_REF2="ts753">
-				<ANNOTATION_VALUE>documenti come il (.) portfo~ (.) il=e::h portfolio appunto europeo per le lingue,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>documenti come il {P} portfo~ {P} il=e::h portfolio appunto europeo per le lingue,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2246,7 +2248,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a381" TIME_SLOT_REF1="ts760" TIME_SLOT_REF2="ts761">
-				<ANNOTATION_VALUE>che (.) era xxxxxx diciamo di carta d'identità linguistica dell'apprend[ente],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che {P} era xxxxxx diciamo di carta d'identità linguistica dell'apprend[ente],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2256,12 +2258,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a384" TIME_SLOT_REF1="ts766" TIME_SLOT_REF2="ts767">
-				<ANNOTATION_VALUE>perché (.) che è una [variabile a]ppunto imprescindibile, non [solo &lt;per l]o&gt; sviluppo neurologico, ma anche per altre: ipotesi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché {P} che è una [variabile a]ppunto imprescindibile, non [solo &lt;per l]o&gt; sviluppo neurologico, ma anche per altre: ipotesi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a398" TIME_SLOT_REF1="ts794" TIME_SLOT_REF2="ts795">
-				<ANNOTATION_VALUE>[e::h (.) s::::::],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e::h {P} s::::::],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2296,12 +2298,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a419" TIME_SLOT_REF1="ts836" TIME_SLOT_REF2="ts837">
-				<ANNOTATION_VALUE>sì no mi dispiace non:: (.) non sono molto pratica [neanche del (.) mie (.) eh l]o so mi dispiace.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì no mi dispiace non:: {P} non sono molto pratica [neanche del {P} mie {P} eh l]o so mi dispiace.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a421" TIME_SLOT_REF1="ts840" TIME_SLOT_REF2="ts841">
-				<ANNOTATION_VALUE>n[o starò insomma più attenta si]curamente [per le (.) prossime occasioni].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>n[o starò insomma più attenta si]curamente [per le {P} prossime occasioni].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2321,7 +2323,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a438" TIME_SLOT_REF1="ts874" TIME_SLOT_REF2="ts875">
-				<ANNOTATION_VALUE>sì (.) sì sì sì sì, ho capito.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì {P} sì sì sì sì, ho capito.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2346,7 +2348,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a450" TIME_SLOT_REF1="ts898" TIME_SLOT_REF2="ts899">
-				<ANNOTATION_VALUE>e:::h (.) lo studio centoventiquattro [è:::],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h {P} lo studio centoventiquattro [è:::],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2388,7 +2390,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
-				<ANNOTATION_VALUE>marta, (.) ban[chi].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>marta, {P} ban[chi].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2433,7 +2435,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
-				<ANNOTATION_VALUE>°sì° (.) dunque la tua tesina l'ho corretta io, però te la commento: (.) dopo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>°sì° {P} dunque la tua tesina l'ho corretta io, però te la commento: {P} dopo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2443,17 +2445,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
-				<ANNOTATION_VALUE>e::h=m::h (.) dunque della par~, (.) tu dai l'esame da frequentante?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h=m::h {P} dunque della par~, {P} tu dai l'esame da frequentante?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts47">
-				<ANNOTATION_VALUE>devi darlo da frequentante hai portato:, (.) per la mia parte, sia le slide che gli articoli teorici giusto?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>devi darlo da frequentante hai portato:, {P} per la mia parte, sia le slide che gli articoli teorici giusto?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
-				<ANNOTATION_VALUE>gli articoli (.) hai fatto anche le sli[de]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>gli articoli {P} hai fatto anche le sli[de]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2478,12 +2480,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
-				<ANNOTATION_VALUE>[mh], (.) bene, (.) parliamo di questo allora.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[mh], {P} bene, {P} parliamo di questo allora.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts89">
-				<ANNOTATION_VALUE>[le vel] (.) le vel [langue].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[le vel] {P} le vel [langue].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2513,12 +2515,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts115">
-				<ANNOTATION_VALUE>e (.) qual è diciamo l:a filosofia, in parte che accomuna tutte queste metodologie che hai: menzionato?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} qual è diciamo l:a filosofia, in parte che accomuna tutte queste metodologie che hai: menzionato?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts151">
-				<ANNOTATION_VALUE>[sì (.) sì sì] sì bene molto bene.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì {P} sì sì] sì bene molto bene.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2528,7 +2530,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts157">
-				<ANNOTATION_VALUE>il=e:h (.) il caso specifico dell'inter&lt;comprens[ione&gt;],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il=e:h {P} il caso specifico dell'inter&lt;comprens[ione&gt;],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2563,12 +2565,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a110" TIME_SLOT_REF1="ts218" TIME_SLOT_REF2="ts219">
-				<ANNOTATION_VALUE>[ma (.) quando abbiamo::],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[ma {P} quando abbiamo::],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a112" TIME_SLOT_REF1="ts222" TIME_SLOT_REF2="ts223">
-				<ANNOTATION_VALUE>[conosxx (.) ma quando abbia]mo fatto la sperimentazione in: classe c'eri?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[conosxx {P} ma quando abbia]mo fatto la sperimentazione in: classe c'eri?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2578,7 +2580,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a116" TIME_SLOT_REF1="ts230" TIME_SLOT_REF2="ts231">
-				<ANNOTATION_VALUE>[&gt;quando&lt;] abbamo lavorato su::i testi di:: eurom=e::h (.) [cinque],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[&gt;quando&lt;] abbamo lavorato su::i testi di:: eurom=e::h {P} [cinque],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2613,7 +2615,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a155" TIME_SLOT_REF1="ts308" TIME_SLOT_REF2="ts309">
-				<ANNOTATION_VALUE>va bene, senti che cos'è il, (.) quadro comune europero di riferimento per le lingue?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>va bene, senti che cos'è il, {P} quadro comune europero di riferimento per le lingue?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2643,7 +2645,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a176" TIME_SLOT_REF1="ts350" TIME_SLOT_REF2="ts351">
-				<ANNOTATION_VALUE>e:::h (.) diciamo forse più:::,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h {P} diciamo forse più:::,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2653,7 +2655,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a178" TIME_SLOT_REF1="ts354" TIME_SLOT_REF2="ts355">
-				<ANNOTATION_VALUE>però, (.) ti ricordi quando, (.) [tutta la: (.) le pubblica]zione sui livelli soglia,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però, {P} ti ricordi quando, {P} [tutta la: {P} le pubblica]zione sui livelli soglia,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2688,12 +2690,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a207" TIME_SLOT_REF1="ts412" TIME_SLOT_REF2="ts413">
-				<ANNOTATION_VALUE>[qual è, (.) qual è il ra]pporto tra::,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[qual è, {P} qual è il ra]pporto tra::,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a208" TIME_SLOT_REF1="ts414" TIME_SLOT_REF2="ts415">
-				<ANNOTATION_VALUE>e::h il quadro, (.) diciamo i descrittori, del quadro europeo di riferimento,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h il quadro, {P} diciamo i descrittori, del quadro europeo di riferimento,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2708,12 +2710,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a218" TIME_SLOT_REF1="ts434" TIME_SLOT_REF2="ts435">
-				<ANNOTATION_VALUE>[a]llora, (.) nei, (.) n:=diciamo è anche una (.) critica, forse che possiamo por[tare] nei confronti del=e:h (.) del qua:dro,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[a]llora, {P} nei, {P} n:=diciamo è anche una {P} critica, forse che possiamo por[tare] nei confronti del=e:h {P} del qua:dro,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a221" TIME_SLOT_REF1="ts440" TIME_SLOT_REF2="ts441">
-				<ANNOTATION_VALUE>m::::h, (.) quali sono le critiche che si avanzano, nei confronti dei contenuti del=e:h, (.) del quadro comune [eropeo di] riferimento?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>m::::h, {P} quali sono le critiche che si avanzano, nei confronti dei contenuti del=e:h, {P} del quadro comune [eropeo di] riferimento?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2723,7 +2725,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a239" TIME_SLOT_REF1="ts476" TIME_SLOT_REF2="ts477">
-				<ANNOTATION_VALUE>quindi diciamo che questi descrittori tendono comunque a dare un'idea gen[erale un] [qua:dro, sulla:], (.) progressi[one:],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi diciamo che questi descrittori tendono comunque a dare un'idea gen[erale un] [qua:dro, sulla:], {P} progressi[one:],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2733,7 +2735,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a246" TIME_SLOT_REF1="ts490" TIME_SLOT_REF2="ts491">
-				<ANNOTATION_VALUE>[qui]ndi fisssano, (.) come, (.) un po' la parola chiave, (.) fissano degli stan[dard],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[qui]ndi fisssano, {P} come, {P} un po' la parola chiave, {P} fissano degli stan[dard],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2768,12 +2770,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a265" TIME_SLOT_REF1="ts528" TIME_SLOT_REF2="ts529">
-				<ANNOTATION_VALUE>[un altro dicia]mo dei meriti del (.) del qua:dro::,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[un altro dicia]mo dei meriti del {P} del qua:dro::,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a266" TIME_SLOT_REF1="ts530" TIME_SLOT_REF2="ts531">
-				<ANNOTATION_VALUE>appunto come documento (.) diciamo così divulgati:vo, e ad ampia diffusione, quindi, (.) un documento che arriva nelle mani anche degli insenganti,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>appunto come documento {P} diciamo così divulgati:vo, e ad ampia diffusione, quindi, {P} un documento che arriva nelle mani anche degli insenganti,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2783,12 +2785,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a268" TIME_SLOT_REF1="ts534" TIME_SLOT_REF2="ts535">
-				<ANNOTATION_VALUE>aiuta:, (.) anche:, (.) a redigere poi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>aiuta:, {P} anche:, {P} a redigere poi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a269" TIME_SLOT_REF1="ts536" TIME_SLOT_REF2="ts537">
-				<ANNOTATION_VALUE>e:::h=mh, (.) i manua:li,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h=mh, {P} i manua:li,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2798,7 +2800,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a272" TIME_SLOT_REF1="ts542" TIME_SLOT_REF2="ts543">
-				<ANNOTATION_VALUE>che è stato quello di, (.) mettere in evidenza,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che è stato quello di, {P} mettere in evidenza,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2808,32 +2810,32 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a274" TIME_SLOT_REF1="ts546" TIME_SLOT_REF2="ts547">
-				<ANNOTATION_VALUE>e:::h (.) delle abilità::, (.) diciamo:::,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h {P} delle abilità::, {P} diciamo:::,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a275" TIME_SLOT_REF1="ts548" TIME_SLOT_REF2="ts549">
-				<ANNOTATION_VALUE>linguistico comunicative, e di andare (.) oltre,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>linguistico comunicative, e di andare {P} oltre,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a276" TIME_SLOT_REF1="ts550" TIME_SLOT_REF2="ts551">
-				<ANNOTATION_VALUE>all'abilità (.) linguistico comunicativa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>all'abilità {P} linguistico comunicativa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a277" TIME_SLOT_REF1="ts552" TIME_SLOT_REF2="ts553">
-				<ANNOTATION_VALUE>quindi, (.) di parlare in generale di,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi, {P} di parlare in generale di,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a278" TIME_SLOT_REF1="ts554" TIME_SLOT_REF2="ts555">
-				<ANNOTATION_VALUE>abilità, (.) dell'apprend[ente].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>abilità, {P} dell'apprend[ente].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a280" TIME_SLOT_REF1="ts558" TIME_SLOT_REF2="ts559">
-				<ANNOTATION_VALUE>ecco in che mo:do, (.) in che sen[so]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ecco in che mo:do, {P} in che sen[so]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2868,12 +2870,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a300" TIME_SLOT_REF1="ts598" TIME_SLOT_REF2="ts599">
-				<ANNOTATION_VALUE>ade~, (.) prima di farti una domanda più puntua:le, intanto che (.) eh apro le slide,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ade~, {P} prima di farti una domanda più puntua:le, intanto che {P} eh apro le slide,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a301" TIME_SLOT_REF1="ts600" TIME_SLOT_REF2="ts601">
-				<ANNOTATION_VALUE>e::h=mh (.) parlami:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h=mh {P} parlami:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2883,22 +2885,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a303" TIME_SLOT_REF1="ts604" TIME_SLOT_REF2="ts605">
-				<ANNOTATION_VALUE>nel=e:h (.) processo glottodidattico.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nel=e:h {P} processo glottodidattico.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a332" TIME_SLOT_REF1="ts662" TIME_SLOT_REF2="ts663">
-				<ANNOTATION_VALUE>sì (.) e::h=m:::h,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì {P} e::h=m:::h,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a333" TIME_SLOT_REF1="ts664" TIME_SLOT_REF2="ts665">
-				<ANNOTATION_VALUE>quando::: si parla diciamo di questo concetto più (.) globale, più olistico:, più: (.) anche recente,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quando::: si parla diciamo di questo concetto più {P} globale, più olistico:, più: {P} anche recente,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a334" TIME_SLOT_REF1="ts666" TIME_SLOT_REF2="ts667">
-				<ANNOTATION_VALUE>di (.) utilità (.) [de]l (.) del test, emerge anche una dimensione etica e sociale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di {P} utilità {P} [de]l {P} del test, emerge anche una dimensione etica e sociale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2968,17 +2970,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a388" TIME_SLOT_REF1="ts774" TIME_SLOT_REF2="ts775">
-				<ANNOTATION_VALUE>va bene sei: molto preparata su questa parte senti, (.) la tesi:na</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>va bene sei: molto preparata su questa parte senti, {P} la tesi:na</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a389" TIME_SLOT_REF1="ts776" TIME_SLOT_REF2="ts777">
-				<ANNOTATION_VALUE>allora, (.) ci so:no::,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora, {P} ci so:no::,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a390" TIME_SLOT_REF1="ts778" TIME_SLOT_REF2="ts779">
-				<ANNOTATION_VALUE>del=e:::h (.) &lt;dei vizi di forma, molto importanti&gt;.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>del=e:::h {P} &lt;dei vizi di forma, molto importanti&gt;.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2988,7 +2990,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a392" TIME_SLOT_REF1="ts782" TIME_SLOT_REF2="ts783">
-				<ANNOTATION_VALUE>e:::h=m::h (.) non capisco come mai, nel senso che comunque sei preparata,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h=m::h {P} non capisco come mai, nel senso che comunque sei preparata,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2998,22 +3000,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a394" TIME_SLOT_REF1="ts786" TIME_SLOT_REF2="ts787">
-				<ANNOTATION_VALUE>però, (.) è piena di:, (.) e:::h,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però, {P} è piena di:, {P} e:::h,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a395" TIME_SLOT_REF1="ts788" TIME_SLOT_REF2="ts789">
-				<ANNOTATION_VALUE>m:::h diciamo (.) errori, di punteggiatura:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>m:::h diciamo {P} errori, di punteggiatura:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a396" TIME_SLOT_REF1="ts790" TIME_SLOT_REF2="ts791">
-				<ANNOTATION_VALUE>di::: (.) di forma:, (.) di,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di::: {P} di forma:, {P} di,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a397" TIME_SLOT_REF1="ts792" TIME_SLOT_REF2="ts793">
-				<ANNOTATION_VALUE>e:::h=m::h non so se, (.) per~ (.) forse è una delle prime tesine che scrivi, quindi non [ti sono: (.) non ti sono mai state corre]tte?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h=m::h non so se, {P} per~ {P} forse è una delle prime tesine che scrivi, quindi non [ti sono: {P} non ti sono mai state corre]tte?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3028,7 +3030,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a403" TIME_SLOT_REF1="ts804" TIME_SLOT_REF2="ts805">
-				<ANNOTATION_VALUE>perché per esempio, &gt;lasci spesso, (.) uno o due spazi, tra la parola e i due punti,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché per esempio, &gt;lasci spesso, {P} uno o due spazi, tra la parola e i due punti,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3043,7 +3045,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a406" TIME_SLOT_REF1="ts810" TIME_SLOT_REF2="ts811">
-				<ANNOTATION_VALUE>uno spazio o due, dopo (.) la:: (.) l'articolo con l'apostrofo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>uno spazio o due, dopo {P} la:: {P} l'articolo con l'apostrofo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3058,32 +3060,32 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a409" TIME_SLOT_REF1="ts816" TIME_SLOT_REF2="ts817">
-				<ANNOTATION_VALUE>le virgolette, (.) metti la virgoletta (.) in apertura:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>le virgolette, {P} metti la virgoletta {P} in apertura:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a410" TIME_SLOT_REF1="ts818" TIME_SLOT_REF2="ts819">
-				<ANNOTATION_VALUE>e: lasci lo spazio, e poi metti la virgole~ (.) &gt;aspetta&lt; te li ho segnati xxxxx.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: lasci lo spazio, e poi metti la virgole~ {P} &gt;aspetta&lt; te li ho segnati xxxxx.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a412" TIME_SLOT_REF1="ts822" TIME_SLOT_REF2="ts823">
-				<ANNOTATION_VALUE>m[etti la virgoletta], (.) vedi così (.) in chius[ura],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>m[etti la virgoletta], {P} vedi così {P} in chius[ura],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a415" TIME_SLOT_REF1="ts828" TIME_SLOT_REF2="ts829">
-				<ANNOTATION_VALUE>poi lasci lo spazio prima dei due punti, (.) lasci &lt;più spazi&gt; tra le parentesi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi lasci lo spazio prima dei due punti, {P} lasci &lt;più spazi&gt; tra le parentesi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a416" TIME_SLOT_REF1="ts830" TIME_SLOT_REF2="ts831">
-				<ANNOTATION_VALUE>e:::h (.) quilasci lo spazio e qui no,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h {P} quilasci lo spazio e qui no,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a417" TIME_SLOT_REF1="ts832" TIME_SLOT_REF2="ts833">
-				<ANNOTATION_VALUE>lo sp[azio pri]ma della virgola, (.) non so come ma:i,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lo sp[azio pri]ma della virgola, {P} non so come ma:i,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3098,27 +3100,27 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a423" TIME_SLOT_REF1="ts844" TIME_SLOT_REF2="ts845">
-				<ANNOTATION_VALUE>[poi (.) vabbè, (.) diciamo, (.) legge]vo ieri: su:::=mh,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[poi {P} vabbè, {P} diciamo, {P} legge]vo ieri: su:::=mh,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a424" TIME_SLOT_REF1="ts846" TIME_SLOT_REF2="ts847">
-				<ANNOTATION_VALUE>diciamo ma (.) ma bensì::, (.) o (.) ma però:, (.) è tollerato.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>diciamo ma {P} ma bensì::, {P} o {P} ma però:, {P} è tollerato.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a425" TIME_SLOT_REF1="ts848" TIME_SLOT_REF2="ts849">
-				<ANNOTATION_VALUE>e:::h (.) però in realtà è::,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h {P} però in realtà è::,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a426" TIME_SLOT_REF1="ts850" TIME_SLOT_REF2="ts851">
-				<ANNOTATION_VALUE>mh (.) è tollerato ma:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mh {P} è tollerato ma:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a427" TIME_SLOT_REF1="ts852" TIME_SLOT_REF2="ts853">
-				<ANNOTATION_VALUE>m:::h (.) se è possibile evitare, l'utilizzo doppio, del=e::h (.) delle congiunzioni avversative, è meglio fa:rlo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>m:::h {P} se è possibile evitare, l'utilizzo doppio, del=e::h {P} delle congiunzioni avversative, è meglio fa:rlo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3128,12 +3130,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a430" TIME_SLOT_REF1="ts858" TIME_SLOT_REF2="ts859">
-				<ANNOTATION_VALUE>e::::h, (.) sì anche qui,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::::h, {P} sì anche qui,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a432" TIME_SLOT_REF1="ts862" TIME_SLOT_REF2="ts863">
-				<ANNOTATION_VALUE>okay no (.) i riferimenti bibliograci vanno be:ne, (.) la bibliografia mi sembra formalmente corretta,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>okay no {P} i riferimenti bibliograci vanno be:ne, {P} la bibliografia mi sembra formalmente corretta,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3148,7 +3150,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a436" TIME_SLOT_REF1="ts870" TIME_SLOT_REF2="ts871">
-				<ANNOTATION_VALUE>diventa anche difficile (.) da leggere, perché non si capisce se questo si riferisce,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>diventa anche difficile {P} da leggere, perché non si capisce se questo si riferisce,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3173,12 +3175,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a443" TIME_SLOT_REF1="ts884" TIME_SLOT_REF2="ts885">
-				<ANNOTATION_VALUE>okay (.) senti io, (.) allora per questa parte, ti do: la (.) parte che di questa parte di esame, ti do ventotto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>okay {P} senti io, {P} allora per questa parte, ti do: la {P} parte che di questa parte di esame, ti do ventotto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a445" TIME_SLOT_REF1="ts888" TIME_SLOT_REF2="ts889">
-				<ANNOTATION_VALUE>[e poi] vai allo studio centoventiquattro:, (.) a fare l'altra parte [dell'esa]me,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e poi] vai allo studio centoventiquattro:, {P} a fare l'altra parte [dell'esa]me,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3213,7 +3215,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a456" TIME_SLOT_REF1="ts910" TIME_SLOT_REF2="ts911">
-				<ANNOTATION_VALUE>[allora in bo]cca al lupo per la [prossima::] (.) parte (.) dell'esame.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[allora in bo]cca al lupo per la [prossima::] {P} parte {P} dell'esame.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:18+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-07-15T21:57:29+00:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="BOD2015.wav" RELATIVE_MEDIA_URL="BOD2015.wav" MIME_TYPE="audio/x-wav" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -851,6 +852,7 @@
 		<TIME_SLOT TIME_SLOT_ID="ts846" TIME_VALUE="1333970" />
 		<TIME_SLOT TIME_SLOT_ID="ts847" TIME_VALUE="1334880" />
 		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="BO115" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -899,7 +901,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts71">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -969,12 +971,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts170" TIME_SLOT_REF2="ts171">
-				<ANNOTATION_VALUE>((ride)) chissà.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride} chissà.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts176" TIME_SLOT_REF2="ts177">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -984,7 +986,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts184" TIME_SLOT_REF2="ts185">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1044,7 +1046,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a133" TIME_SLOT_REF1="ts264" TIME_SLOT_REF2="ts265">
-				<ANNOTATION_VALUE>((risata))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{risata}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1064,12 +1066,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a143" TIME_SLOT_REF1="ts284" TIME_SLOT_REF2="ts285">
-				<ANNOTATION_VALUE>già molto (.) altolocata qui la situazione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>già molto {P} altolocata qui la situazione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a145" TIME_SLOT_REF1="ts288" TIME_SLOT_REF2="ts289">
-				<ANNOTATION_VALUE>[quindi (.) è (.) il] terzo anno che vivi in questa casa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[quindi {P} è {P} il] terzo anno che vivi in questa casa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1094,7 +1096,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a162" TIME_SLOT_REF1="ts322" TIME_SLOT_REF2="ts323">
-				<ANNOTATION_VALUE>devi essere:: esperto di (.) vabbè tanto [devi gestire] il rifugio non è che [devi fare]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>devi essere:: esperto di {P} vabbè tanto [devi gestire] il rifugio non è che [devi fare]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1114,7 +1116,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a176" TIME_SLOT_REF1="ts350" TIME_SLOT_REF2="ts351">
-				<ANNOTATION_VALUE>e (.) quando: sarebbe?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} quando: sarebbe?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1149,7 +1151,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a198" TIME_SLOT_REF1="ts394" TIME_SLOT_REF2="ts395">
-				<ANNOTATION_VALUE>eh (.) costa però (.) la patagonia,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh {P} costa però {P} la patagonia,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1159,7 +1161,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a201" TIME_SLOT_REF1="ts400" TIME_SLOT_REF2="ts401">
-				<ANNOTATION_VALUE>be:h cavoli, (.) non la sapevo 'sta roba.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>be:h cavoli, {P} non la sapevo 'sta roba.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1194,7 +1196,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a214" TIME_SLOT_REF1="ts426" TIME_SLOT_REF2="ts427">
-				<ANNOTATION_VALUE>dai (.) parlami della tua tesi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dai {P} parlami della tua tesi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1219,7 +1221,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a259" TIME_SLOT_REF1="ts516" TIME_SLOT_REF2="ts517">
-				<ANNOTATION_VALUE>e quindi, inizierai ah beh (.) ancora non hai trovato il relatore,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi, inizierai ah beh {P} ancora non hai trovato il relatore,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1264,7 +1266,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a282" TIME_SLOT_REF1="ts562" TIME_SLOT_REF2="ts563">
-				<ANNOTATION_VALUE>la sai la storia delle cart~ (.) delle dei tarocchi?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la sai la storia delle cart~ {P} delle dei tarocchi?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1284,7 +1286,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a290" TIME_SLOT_REF1="ts578" TIME_SLOT_REF2="ts579">
-				<ANNOTATION_VALUE>no, (.) però io dico:: &gt;cioè&lt; comunque,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no, {P} però io dico:: &gt;cioè&lt; comunque,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1299,7 +1301,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a295" TIME_SLOT_REF1="ts588" TIME_SLOT_REF2="ts589">
-				<ANNOTATION_VALUE>più che altro è:: (.) esoterismo occidentale mentre di solito, [molte altre cose le vanno a prendere],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>più che altro è:: {P} esoterismo occidentale mentre di solito, [molte altre cose le vanno a prendere],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1314,7 +1316,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a303" TIME_SLOT_REF1="ts604" TIME_SLOT_REF2="ts605">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1324,7 +1326,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a307" TIME_SLOT_REF1="ts612" TIME_SLOT_REF2="ts613">
-				<ANNOTATION_VALUE>perché (.) tua mamma prendeva ripetizioni di matematica?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché {P} tua mamma prendeva ripetizioni di matematica?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1359,12 +1361,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a325" TIME_SLOT_REF1="ts648" TIME_SLOT_REF2="ts649">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a328" TIME_SLOT_REF1="ts654" TIME_SLOT_REF2="ts655">
-				<ANNOTATION_VALUE>perché non si fidava, tipo ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché non si fidava, tipo {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1379,7 +1381,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a333" TIME_SLOT_REF1="ts664" TIME_SLOT_REF2="ts665">
-				<ANNOTATION_VALUE>questa quindi (.) famiglia case.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questa quindi {P} famiglia case.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1394,7 +1396,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a344" TIME_SLOT_REF1="ts686" TIME_SLOT_REF2="ts687">
-				<ANNOTATION_VALUE>quindi negli anni::, tipo (.) ottanta?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi negli anni::, tipo {P} ottanta?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1409,7 +1411,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a348" TIME_SLOT_REF1="ts694" TIME_SLOT_REF2="ts695">
-				<ANNOTATION_VALUE>&gt;cioè&lt; non (.) prima dei tarocchi di cosa stavam parlando? [della tua tesi],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;cioè&lt; non {P} prima dei tarocchi di cosa stavam parlando? [della tua tesi],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1449,7 +1451,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a372" TIME_SLOT_REF1="ts742" TIME_SLOT_REF2="ts743">
-				<ANNOTATION_VALUE>beh, (.) è il futuro: (.) che ci spetta.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>beh, {P} è il futuro: {P} che ci spetta.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1479,12 +1481,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a385" TIME_SLOT_REF1="ts768" TIME_SLOT_REF2="ts769">
-				<ANNOTATION_VALUE>poi sta cosa del (.) della stagione in rifugio sembra super interessan[te].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi sta cosa del {P} della stagione in rifugio sembra super interessan[te].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a392" TIME_SLOT_REF1="ts782" TIME_SLOT_REF2="ts783">
-				<ANNOTATION_VALUE>e invece (.) stagione invernale?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e invece {P} stagione invernale?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1539,7 +1541,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a423" TIME_SLOT_REF1="ts844" TIME_SLOT_REF2="ts845">
-				<ANNOTATION_VALUE>((sbadiglio))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{sbadiglio}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1561,7 +1563,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
-				<ANNOTATION_VALUE>c'è da dire, (.) mh ((ride)) che:: i primi anni sono stati meravigliosi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è da dire, {P} mh {ride} che:: i primi anni sono stati meravigliosi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1571,7 +1573,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
-				<ANNOTATION_VALUE>anche perché, per rispondere alla seconda parte della tua domanda, in questi giorni sto solo studiando quindi (.) è poco esaltante come progetto di vita.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>anche perché, per rispondere alla seconda parte della tua domanda, in questi giorni sto solo studiando quindi {P} è poco esaltante come progetto di vita.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1601,17 +1603,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts33">
-				<ANNOTATION_VALUE>è molto triste, (.) quando arrivi (.) ai dodici tredic'anni.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è molto triste, {P} quando arrivi {P} ai dodici tredic'anni.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
-				<ANNOTATION_VALUE>poi vivere lì, diventa un po', (.) poco stimolante. ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi vivere lì, diventa un po', {P} poco stimolante. {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts41">
-				<ANNOTATION_VALUE>facevo brutto. ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>facevo brutto. {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1621,7 +1623,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
-				<ANNOTATION_VALUE>mh (.) di cosa vuoi fare, (.) davvero.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mh {P} di cosa vuoi fare, {P} davvero.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1631,12 +1633,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
-				<ANNOTATION_VALUE>come spiegare, (.) [a~ abba]ndoni un po' l'infanzia~</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come spiegare, {P} [a~ abba]ndoni un po' l'infanzia~</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
-				<ANNOTATION_VALUE>cioè: (.) prima magari ti basta quello che c'è perché,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè: {P} prima magari ti basta quello che c'è perché,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1671,12 +1673,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
-				<ANNOTATION_VALUE>e: andare a vedere il MONDO ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: andare a vedere il MONDO {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts77">
-				<ANNOTATION_VALUE>allora, sono arrivata (.) a bologna,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora, sono arrivata {P} a bologna,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1716,7 +1718,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts97">
-				<ANNOTATION_VALUE>era: anche (.) interessante vedere co~ (.) perché comunque anche in danimarca, frequentavo molto gli universitari.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>era: anche {P} interessante vedere co~ {P} perché comunque anche in danimarca, frequentavo molto gli universitari.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1731,7 +1733,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts105">
-				<ANNOTATION_VALUE>e:: (.) e poi era una città tutta da scoprire. io la prima volta che son venuta a bologna è stato per per cercare casa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: {P} e poi era una città tutta da scoprire. io la prima volta che son venuta a bologna è stato per per cercare casa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1741,22 +1743,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts110" TIME_SLOT_REF2="ts111">
-				<ANNOTATION_VALUE>a un certo punto, dovevo raggiungere un altro appuntamento per vedere un una: (.) un appartamento,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a un certo punto, dovevo raggiungere un altro appuntamento per vedere un una: {P} un appartamento,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts113">
-				<ANNOTATION_VALUE>e ho chiamato una mia amica che conosceva un po' di più la città, faccio senti, (.) io sono in via zamboni ma dove sono?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e ho chiamato una mia amica che conosceva un po' di più la città, faccio senti, {P} io sono in via zamboni ma dove sono?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts115">
-				<ANNOTATION_VALUE>e lei che mi fa, ma sei in centro dove ((ride)) vuoi essere io (.) non ne avevo la più pallida proprio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e lei che mi fa, ma sei in centro dove {ride} vuoi essere io {P} non ne avevo la più pallida proprio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts119">
-				<ANNOTATION_VALUE>[sì] ho visto: (.) tr~ durante quella famosa giornata, ho visto tre appartamenti,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì] ho visto: {P} tr~ durante quella famosa giornata, ho visto tre appartamenti,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1771,17 +1773,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
-				<ANNOTATION_VALUE>nell'appartamento che corrispondeva di più alle mie aspettative (.) di appartamento universitario.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nell'appartamento che corrispondeva di più alle mie aspettative {P} di appartamento universitario.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
-				<ANNOTATION_VALUE>era un appartamento sfasciato, ((ride)) pieno di poster, disegni sui muri:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>era un appartamento sfasciato, {ride} pieno di poster, disegni sui muri:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
-				<ANNOTATION_VALUE>cadeva a pezzi non (.) niente in quella casa era a norma.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cadeva a pezzi non {P} niente in quella casa era a norma.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1801,7 +1803,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts141">
-				<ANNOTATION_VALUE>che è una cosa, (.) impossibile. &gt;cioè&lt;:: rarissima.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che è una cosa, {P} impossibile. &gt;cioè&lt;:: rarissima.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1816,7 +1818,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts151">
-				<ANNOTATION_VALUE>e: (.) era strabello.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: {P} era strabello.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1826,12 +1828,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts157">
-				<ANNOTATION_VALUE>e poi, (.) c'era un altra doppia dove c'era geni,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e poi, {P} c'era un altra doppia dove c'era geni,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts158" TIME_SLOT_REF2="ts159">
-				<ANNOTATION_VALUE>e enzo. (.) quello ((suono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e enzo. {P} quello {suono}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1846,7 +1848,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts165">
-				<ANNOTATION_VALUE>che sta per mario rossi. ((ride)) che è arrivato a bologna per fare l'università poi invece ha deciso che voleva essere un rappuso.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che sta per mario rossi. {ride} che è arrivato a bologna per fare l'università poi invece ha deciso che voleva essere un rappuso.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1866,7 +1868,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts178" TIME_SLOT_REF2="ts179">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1881,7 +1883,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts192" TIME_SLOT_REF2="ts193">
-				<ANNOTATION_VALUE>mario coma continuo ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mario coma continuo {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1901,7 +1903,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts206" TIME_SLOT_REF2="ts207">
-				<ANNOTATION_VALUE>[ho pensato], ma è vestita tutta di nero. ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[ho pensato], ma è vestita tutta di nero. {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1911,12 +1913,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts212" TIME_SLOT_REF2="ts213">
-				<ANNOTATION_VALUE>poi in realtà è il suo look (.) standard. quindi, (.) ci ho fatto l'abitudine.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi in realtà è il suo look {P} standard. quindi, {P} ci ho fatto l'abitudine.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts216" TIME_SLOT_REF2="ts217">
-				<ANNOTATION_VALUE>ma: ero (.) arrivata quel (.) durante il pomeriggio, e la ragazza di cui prendevo il posto all'iterno della stanza mi aveva accompagnata.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma: ero {P} arrivata quel {P} durante il pomeriggio, e la ragazza di cui prendevo il posto all'iterno della stanza mi aveva accompagnata.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1931,7 +1933,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a112" TIME_SLOT_REF1="ts222" TIME_SLOT_REF2="ts223">
-				<ANNOTATION_VALUE>e quindi era (.) super imbarazzante.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi era {P} super imbarazzante.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1941,7 +1943,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a114" TIME_SLOT_REF1="ts226" TIME_SLOT_REF2="ts227">
-				<ANNOTATION_VALUE>e io ero super timida, quindi (.) mi ricordo essere seduta a tavola,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e io ero super timida, quindi {P} mi ricordo essere seduta a tavola,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1951,7 +1953,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a116" TIME_SLOT_REF1="ts230" TIME_SLOT_REF2="ts231">
-				<ANNOTATION_VALUE>e dicevano ah ma quindi @nomepaese ma dov'è? perché (.) uno è della basilicata uno è della campania,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e dicevano ah ma quindi @nomepaese ma dov'è? perché {P} uno è della basilicata uno è della campania,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1971,7 +1973,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a120" TIME_SLOT_REF1="ts238" TIME_SLOT_REF2="ts239">
-				<ANNOTATION_VALUE>e io avevo pensato che fossero già tutti stra amici e: (.) arrivavo io che: non conoscevo nessuno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e io avevo pensato che fossero già tutti stra amici e: {P} arrivavo io che: non conoscevo nessuno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1986,7 +1988,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a124" TIME_SLOT_REF1="ts246" TIME_SLOT_REF2="ts247">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1996,7 +1998,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a127" TIME_SLOT_REF1="ts252" TIME_SLOT_REF2="ts253">
-				<ANNOTATION_VALUE>che ne so a fumare una sigaretta in compagnia: o::, chiedere qualsiasi cosa. invece a quanto pare prima erano più, (.) [divi]si.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che ne so a fumare una sigaretta in compagnia: o::, chiedere qualsiasi cosa. invece a quanto pare prima erano più, {P} [divi]si.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2016,7 +2018,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a134" TIME_SLOT_REF1="ts266" TIME_SLOT_REF2="ts267">
-				<ANNOTATION_VALUE>hann~ ((risata)) hanno mandato via tutti dalla (.) dall'edificio,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>hann~ {risata} hanno mandato via tutti dalla {P} dall'edificio,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2026,7 +2028,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a136" TIME_SLOT_REF1="ts270" TIME_SLOT_REF2="ts271">
-				<ANNOTATION_VALUE>e: ma perché non era (.) [&gt;cioè&lt; non era] a norma: non era niente::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: ma perché non era {P} [&gt;cioè&lt; non era] a norma: non era niente::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2041,12 +2043,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a142" TIME_SLOT_REF1="ts282" TIME_SLOT_REF2="ts283">
-				<ANNOTATION_VALUE>((risata))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{risata}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a144" TIME_SLOT_REF1="ts286" TIME_SLOT_REF2="ts287">
-				<ANNOTATION_VALUE>certò. beh via @nomeluogo [via @nomeluogo comunque. ci manteniamo] ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>certò. beh via @nomeluogo [via @nomeluogo comunque. ci manteniamo] {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2086,7 +2088,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a156" TIME_SLOT_REF1="ts310" TIME_SLOT_REF2="ts311">
-				<ANNOTATION_VALUE>e: pagano bene, e non hai nemmeno modo di spendere i soldi. perché sei (.) sul cucuzzolo della montagna.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: pagano bene, e non hai nemmeno modo di spendere i soldi. perché sei {P} sul cucuzzolo della montagna.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2101,7 +2103,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a160" TIME_SLOT_REF1="ts318" TIME_SLOT_REF2="ts319">
-				<ANNOTATION_VALUE>poi vabbè io (.) sono sempre andata in montagna.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi vabbè io {P} sono sempre andata in montagna.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2116,7 +2118,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a164" TIME_SLOT_REF1="ts326" TIME_SLOT_REF2="ts327">
-				<ANNOTATION_VALUE>[no::] non sei il gestore, dipende puoi (.) lavorare in cucina puoi lavorare al bar, poi ci sono le camere da preparare,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[no::] non sei il gestore, dipende puoi {P} lavorare in cucina puoi lavorare al bar, poi ci sono le camere da preparare,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2126,12 +2128,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a166" TIME_SLOT_REF1="ts330" TIME_SLOT_REF2="ts331">
-				<ANNOTATION_VALUE>apparecchi i tavoli la mattina:, (.) tutte 'ste cose qui.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>apparecchi i tavoli la mattina:, {P} tutte 'ste cose qui.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a167" TIME_SLOT_REF1="ts332" TIME_SLOT_REF2="ts333">
-				<ANNOTATION_VALUE>è molto faticoso perché (.) ti svegli molto presto perché gli alpinisti si svegliano presto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è molto faticoso perché {P} ti svegli molto presto perché gli alpinisti si svegliano presto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2196,12 +2198,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a186" TIME_SLOT_REF1="ts370" TIME_SLOT_REF2="ts371">
-				<ANNOTATION_VALUE>mh. (.) la mia idea principale era trovare un tirocinio in india.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mh. {P} la mia idea principale era trovare un tirocinio in india.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a188" TIME_SLOT_REF1="ts374" TIME_SLOT_REF2="ts375">
-				<ANNOTATION_VALUE>tipo non (.) in una o enne gi o qualcosa del genere.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tipo non {P} in una o enne gi o qualcosa del genere.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2236,7 +2238,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a199" TIME_SLOT_REF1="ts396" TIME_SLOT_REF2="ts397">
-				<ANNOTATION_VALUE>sì ma non vorrei trattenerrmici molto, sarebbe solo per la soddisfazione di dire (.) ho raggiunto (.) quel punto determinato.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì ma non vorrei trattenerrmici molto, sarebbe solo per la soddisfazione di dire {P} ho raggiunto {P} quel punto determinato.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2256,7 +2258,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a208" TIME_SLOT_REF1="ts414" TIME_SLOT_REF2="ts415">
-				<ANNOTATION_VALUE>non ho subito voglia di (.) ((ride)) mettermi sotto a cercare un tirocinio, uno stage, eccetera.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non ho subito voglia di {P} {ride} mettermi sotto a cercare un tirocinio, uno stage, eccetera.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2266,12 +2268,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a213" TIME_SLOT_REF1="ts424" TIME_SLOT_REF2="ts425">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a215" TIME_SLOT_REF1="ts428" TIME_SLOT_REF2="ts429">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2281,7 +2283,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a217" TIME_SLOT_REF1="ts432" TIME_SLOT_REF2="ts433">
-				<ANNOTATION_VALUE>confronta (.) l'uso (.) che ha fatto de gaulle,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>confronta {P} l'uso {P} che ha fatto de gaulle,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2296,7 +2298,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a220" TIME_SLOT_REF1="ts438" TIME_SLOT_REF2="ts439">
-				<ANNOTATION_VALUE>quindi (.) de gaulle chiaramente in francia, e (.) prima rispetto a berlusconi perché si parla degli anni cinquanta sessanta,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi {P} de gaulle chiaramente in francia, e {P} prima rispetto a berlusconi perché si parla degli anni cinquanta sessanta,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2306,12 +2308,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a222" TIME_SLOT_REF1="ts442" TIME_SLOT_REF2="ts443">
-				<ANNOTATION_VALUE>come dire (.) lui era un uomo: (.) dello stato,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come dire {P} lui era un uomo: {P} dello stato,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a223" TIME_SLOT_REF1="ts444" TIME_SLOT_REF2="ts445">
-				<ANNOTATION_VALUE>era (.) interno, (.) ah. (.) interno al governo. quindi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>era {P} interno, {P} ah. {P} interno al governo. quindi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2326,7 +2328,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a226" TIME_SLOT_REF1="ts450" TIME_SLOT_REF2="ts451">
-				<ANNOTATION_VALUE>al suo carisma, e (.) al risptto che incuteva, nei francesi e nei ministri eccetera eccetera.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>al suo carisma, e {P} al risptto che incuteva, nei francesi e nei ministri eccetera eccetera.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2336,7 +2338,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a228" TIME_SLOT_REF1="ts454" TIME_SLOT_REF2="ts455">
-				<ANNOTATION_VALUE>prima: (.) ha fatto in modo di avere una televisione nazionale,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>prima: {P} ha fatto in modo di avere una televisione nazionale,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2346,7 +2348,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a230" TIME_SLOT_REF1="ts458" TIME_SLOT_REF2="ts459">
-				<ANNOTATION_VALUE>e poi (.) si è buttato in pollitica.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e poi {P} si è buttato in pollitica.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2361,17 +2363,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a235" TIME_SLOT_REF1="ts468" TIME_SLOT_REF2="ts469">
-				<ANNOTATION_VALUE>perché (.) era una cosa che si stava (.) sviluppando,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché {P} era una cosa che si stava {P} sviluppando,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a236" TIME_SLOT_REF1="ts470" TIME_SLOT_REF2="ts471">
-				<ANNOTATION_VALUE>in quegli anni. &gt;cioè&lt; (.) in quegli anni che (.) la televisione comincia ad essere sempre più presente nelle case dei francesi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in quegli anni. &gt;cioè&lt; {P} in quegli anni che {P} la televisione comincia ad essere sempre più presente nelle case dei francesi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a237" TIME_SLOT_REF1="ts472" TIME_SLOT_REF2="ts473">
-				<ANNOTATION_VALUE>e lui ha capito subito che quello poteva essere un (.) un mezzo efficace,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e lui ha capito subito che quello poteva essere un {P} un mezzo efficace,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2381,7 +2383,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a239" TIME_SLOT_REF1="ts476" TIME_SLOT_REF2="ts477">
-				<ANNOTATION_VALUE>e mantenere: (.) il contatto con i suoi elettori.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e mantenere: {P} il contatto con i suoi elettori.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2406,12 +2408,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a245" TIME_SLOT_REF1="ts488" TIME_SLOT_REF2="ts489">
-				<ANNOTATION_VALUE>e poi, (.) la cosa interessante è che (.) è stato un po' un precursore delle nuove tecniche,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e poi, {P} la cosa interessante è che {P} è stato un po' un precursore delle nuove tecniche,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a246" TIME_SLOT_REF1="ts490" TIME_SLOT_REF2="ts491">
-				<ANNOTATION_VALUE>di comunicazione. per esempio (.) la prima volta che de gaulle è apparso in televisione portava gli occhiali e leggeva da un foglio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di comunicazione. per esempio {P} la prima volta che de gaulle è apparso in televisione portava gli occhiali e leggeva da un foglio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2421,12 +2423,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a248" TIME_SLOT_REF1="ts494" TIME_SLOT_REF2="ts495">
-				<ANNOTATION_VALUE>invece, (.) dopo si raccapezza, diciamo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>invece, {P} dopo si raccapezza, diciamo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a249" TIME_SLOT_REF1="ts496" TIME_SLOT_REF2="ts497">
-				<ANNOTATION_VALUE>e:: a~ (.) comincia a imparare a memoria i suoi discorsi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: a~ {P} comincia a imparare a memoria i suoi discorsi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2466,7 +2468,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a258" TIME_SLOT_REF1="ts514" TIME_SLOT_REF2="ts515">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2501,12 +2503,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a270" TIME_SLOT_REF1="ts538" TIME_SLOT_REF2="ts539">
-				<ANNOTATION_VALUE>[per quello di] domani mio fratello mi ha letto le carte. ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[per quello di] domani mio fratello mi ha letto le carte. {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a273" TIME_SLOT_REF1="ts544" TIME_SLOT_REF2="ts545">
-				<ANNOTATION_VALUE>è venuto l'appeso ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è venuto l'appeso {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2521,7 +2523,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a277" TIME_SLOT_REF1="ts552" TIME_SLOT_REF2="ts553">
-				<ANNOTATION_VALUE>perché: teoricamente dovrebbe simbolizzare: il cambiamento, e (.) la tranquillità di fronte a una situazione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché: teoricamente dovrebbe simbolizzare: il cambiamento, e {P} la tranquillità di fronte a una situazione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2531,7 +2533,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a279" TIME_SLOT_REF1="ts556" TIME_SLOT_REF2="ts557">
-				<ANNOTATION_VALUE>ehm (.) cambiamento di nuovo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ehm {P} cambiamento di nuovo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2551,7 +2553,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a288" TIME_SLOT_REF1="ts574" TIME_SLOT_REF2="ts575">
-				<ANNOTATION_VALUE>&gt;cioè&lt; (.) anche gli stessi arcani, sono spesso, &gt;cioè&lt; ci sono spesso dei piccoli dettagli che cambiano a seconda dei diversi mazzi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;cioè&lt; {P} anche gli stessi arcani, sono spesso, &gt;cioè&lt; ci sono spesso dei piccoli dettagli che cambiano a seconda dei diversi mazzi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2576,12 +2578,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a299" TIME_SLOT_REF1="ts596" TIME_SLOT_REF2="ts597">
-				<ANNOTATION_VALUE>mi ha raccontato (.) il mio dentista, che era il coinquilino di mio padre all'università.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mi ha raccontato {P} il mio dentista, che era il coinquilino di mio padre all'università.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a300" TIME_SLOT_REF1="ts598" TIME_SLOT_REF2="ts599">
-				<ANNOTATION_VALUE>che quando ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che quando {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2591,7 +2593,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a302" TIME_SLOT_REF1="ts602" TIME_SLOT_REF2="ts603">
-				<ANNOTATION_VALUE>mio papà per rimorchiare faceva le carte alle ragazze ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mio papà per rimorchiare faceva le carte alle ragazze {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2601,7 +2603,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a306" TIME_SLOT_REF1="ts610" TIME_SLOT_REF2="ts611">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2616,12 +2618,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a314" TIME_SLOT_REF1="ts626" TIME_SLOT_REF2="ts627">
-				<ANNOTATION_VALUE>sì, ma sono venuti in italia quando lei (.) era ancora [giovane].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì, ma sono venuti in italia quando lei {P} era ancora [giovane].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a316" TIME_SLOT_REF1="ts630" TIME_SLOT_REF2="ts631">
-				<ANNOTATION_VALUE>prima sono arrivati (.) a (.) padova,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>prima sono arrivati {P} a {P} padova,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2666,12 +2668,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a327" TIME_SLOT_REF1="ts652" TIME_SLOT_REF2="ts653">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a329" TIME_SLOT_REF1="ts656" TIME_SLOT_REF2="ts657">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2731,12 +2733,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a351" TIME_SLOT_REF1="ts700" TIME_SLOT_REF2="ts701">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a355" TIME_SLOT_REF1="ts708" TIME_SLOT_REF2="ts709">
-				<ANNOTATION_VALUE>[ha deciso:] ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[ha deciso:] {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2761,7 +2763,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a360" TIME_SLOT_REF1="ts718" TIME_SLOT_REF2="ts719">
-				<ANNOTATION_VALUE>in realtà già in passato ci aveva dedicato un po' di tempo però poi: (.) ha lasciato perdere magari aveva già altre cose da fare.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in realtà già in passato ci aveva dedicato un po' di tempo però poi: {P} ha lasciato perdere magari aveva già altre cose da fare.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2826,7 +2828,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a381" TIME_SLOT_REF1="ts760" TIME_SLOT_REF2="ts761">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2906,7 +2908,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a402" TIME_SLOT_REF1="ts802" TIME_SLOT_REF2="ts803">
-				<ANNOTATION_VALUE>e c'erano un sacco di famiglie che cercavano per tenere i bambini mentre loro lavoravano tipo al loro (.) bar, o albergo sulle piste.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e c'erano un sacco di famiglie che cercavano per tenere i bambini mentre loro lavoravano tipo al loro {P} bar, o albergo sulle piste.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2921,7 +2923,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a407" TIME_SLOT_REF1="ts812" TIME_SLOT_REF2="ts813">
-				<ANNOTATION_VALUE>eh (.) vuoi i cash.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh {P} vuoi i cash.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2961,7 +2963,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a420" TIME_SLOT_REF1="ts838" TIME_SLOT_REF2="ts839">
-				<ANNOTATION_VALUE>però anche lì avrei bisogno di un posto dove (.) mi diano vitto e alloggio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però anche lì avrei bisogno di un posto dove {P} mi diano vitto e alloggio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

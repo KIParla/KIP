@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:17+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-07-15T21:57:27+00:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="BOD1003.wav" RELATIVE_MEDIA_URL="BOD1003.wav" MIME_TYPE="audio/x-wav" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -1889,6 +1890,7 @@
 		<TIME_SLOT TIME_SLOT_ID="ts1884" TIME_VALUE="5046619" />
 		<TIME_SLOT TIME_SLOT_ID="ts1885" TIME_VALUE="5050149" />
 		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="BO092" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -1917,12 +1919,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
-				<ANNOTATION_VALUE>non lo sa nessuno (.) questo è il problema.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non lo sa nessuno {P} questo è il problema.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
-				<ANNOTATION_VALUE>ma (.) si fan delle simulazioni</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma {P} si fan delle simulazioni</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1932,22 +1934,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
-				<ANNOTATION_VALUE>e cioè (.) e:::h l'aumento di popolazione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e cioè {P} e:::h l'aumento di popolazione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
-				<ANNOTATION_VALUE>l'aumento di (inurbamento) (.) il calo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'aumento di (inurbamento) {P} il calo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
-				<ANNOTATION_VALUE>e:::=della (.) coltivazioni il il cambio delle destinazioni d'uso della maggior parte: delle zone della terra coltivabile</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::=della {P} coltivazioni il il cambio delle destinazioni d'uso della maggior parte: delle zone della terra coltivabile</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts25">
-				<ANNOTATION_VALUE>e::h verso colture che siano più intensive (.) quindi più redditizie</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h verso colture che siano più intensive {P} quindi più redditizie</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1977,7 +1979,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
-				<ANNOTATION_VALUE>il problema è (.) è vero</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il problema è {P} è vero</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2027,7 +2029,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts57">
-				<ANNOTATION_VALUE>ma (.) fate conto che è talmente perfetto come costruzione che gli astronomi gli astrofisici lo usano come base di ricerca cioè</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma {P} fate conto che è talmente perfetto come costruzione che gli astronomi gli astrofisici lo usano come base di ricerca cioè</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2042,12 +2044,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
-				<ANNOTATION_VALUE>c'hanno messo tutti i comportamenti noti (.) ivi compresa l'ultima scoperta che viene fatta la settimana scorsa ve la mettono dentro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'hanno messo tutti i comportamenti noti {P} ivi compresa l'ultima scoperta che viene fatta la settimana scorsa ve la mettono dentro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts65">
-				<ANNOTATION_VALUE>alla fine questa cosa che era un videogioco (.) nasce come un videogioco</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>alla fine questa cosa che era un videogioco {P} nasce come un videogioco</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2067,7 +2069,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
-				<ANNOTATION_VALUE>no no no è serissimo nel senso che la maggiorparte degli astronomi (.) lo utilizzano come database quindi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no no no è serissimo nel senso che la maggiorparte degli astronomi {P} lo utilizzano come database quindi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2082,17 +2084,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts79">
-				<ANNOTATION_VALUE>la simulazione e la realtà sono: (.) praticamente coincidenti.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la simulazione e la realtà sono: {P} praticamente coincidenti.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts81">
-				<ANNOTATION_VALUE>uno si deve sempre ricordare: (.) qual è la la differenza no,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>uno si deve sempre ricordare: {P} qual è la la differenza no,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts83">
-				<ANNOTATION_VALUE>eh non so se sapete (.) ogni tanto vengon fuori delle cose stranissime tipo un bambino di dieci anni</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh non so se sapete {P} ogni tanto vengon fuori delle cose stranissime tipo un bambino di dieci anni</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2137,12 +2139,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
-				<ANNOTATION_VALUE>ovviamente un ((ride)) pilota di fianco</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ovviamente un {ride} pilota di fianco</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts103">
-				<ANNOTATION_VALUE>e questo bambino (.) senza aver~ fare una piega</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e questo bambino {P} senza aver~ fare una piega</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2167,12 +2169,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts113">
-				<ANNOTATION_VALUE>se avessimo avuto un aereo vero (.) &gt;sarebbe stata esattamente la stessa co~ non era su un aereo vero era un aer~ su un simulatore professionali&lt; (.) che usano i piloti quindi non era sul computerino di casa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se avessimo avuto un aereo vero {P} &gt;sarebbe stata esattamente la stessa co~ non era su un aereo vero era un aer~ su un simulatore professionali&lt; {P} che usano i piloti quindi non era sul computerino di casa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts115">
-				<ANNOTATION_VALUE>va bene detto questo (.) c'è un argomento (.) di fondo su cui e::hm</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>va bene detto questo {P} c'è un argomento {P} di fondo su cui e::hm</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2187,7 +2189,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts120" TIME_SLOT_REF2="ts121">
-				<ANNOTATION_VALUE>non è che io se scrivo su una mappa (.) e:h oceano (.) ci va l'acqua</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non è che io se scrivo su una mappa {P} e:h oceano {P} ci va l'acqua</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2202,7 +2204,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
-				<ANNOTATION_VALUE>attenzione nel confondere la mappa (.) con la realtà</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>attenzione nel confondere la mappa {P} con la realtà</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2212,12 +2214,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
-				<ANNOTATION_VALUE>soprattutto perché (.) le simulazioni</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>soprattutto perché {P} le simulazioni</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts133">
-				<ANNOTATION_VALUE>partono ((scrive_alla_lavagna))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>partono {scrive_alla_lavagna}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2237,17 +2239,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts141">
-				<ANNOTATION_VALUE>che (.) le carte le peliamo in maniera casuali i dadi li tiriamo in maniera casuale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che {P} le carte le peliamo in maniera casuali i dadi li tiriamo in maniera casuale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts142" TIME_SLOT_REF2="ts143">
-				<ANNOTATION_VALUE>i:l tasselini che usavamo ieri per estrarre i numeri da zero a dieci (.) da zero a nove</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>i:l tasselini che usavamo ieri per estrarre i numeri da zero a dieci {P} da zero a nove</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts145">
-				<ANNOTATION_VALUE>eh:: (.) sono (.) tirati su in maniera casuale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh:: {P} sono {P} tirati su in maniera casuale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2272,7 +2274,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts154" TIME_SLOT_REF2="ts155">
-				<ANNOTATION_VALUE>vi ricordate quando: (.) dicevamo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vi ricordate quando: {P} dicevamo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2287,7 +2289,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts161">
-				<ANNOTATION_VALUE>mondiale un quinto (.) della popolazione mondiale (.) è cinese</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mondiale un quinto {P} della popolazione mondiale {P} è cinese</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2302,7 +2304,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts166" TIME_SLOT_REF2="ts167">
-				<ANNOTATION_VALUE>se io estraessi mio figlio a caso sarebbe cinese ma (.) insomma se estraggo mio figlio a caso (.) diciamo che c'è qualche problema no, non:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se io estraessi mio figlio a caso sarebbe cinese ma {P} insomma se estraggo mio figlio a caso {P} diciamo che c'è qualche problema no, non:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2317,12 +2319,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts172" TIME_SLOT_REF2="ts173">
-				<ANNOTATION_VALUE>il: randomizzare ((scrive_alla_lavagna))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il: randomizzare {scrive_alla_lavagna}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts174" TIME_SLOT_REF2="ts175">
-				<ANNOTATION_VALUE>è sottointeso (.) ma non è affatto garantito.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è sottointeso {P} ma non è affatto garantito.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2337,7 +2339,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a91" TIME_SLOT_REF1="ts180" TIME_SLOT_REF2="ts181">
-				<ANNOTATION_VALUE>ed è quella che vien scordata (.) sempre.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ed è quella che vien scordata {P} sempre.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2347,17 +2349,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts184" TIME_SLOT_REF2="ts185">
-				<ANNOTATION_VALUE>nel senso che (.) ci basta questo per forza.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nel senso che {P} ci basta questo per forza.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts186" TIME_SLOT_REF2="ts187">
-				<ANNOTATION_VALUE>la vediamo al rovescio e cioè vediamo il risltato di quello che avevamo visto ieri (.) e lo utilizziamo ribaltato.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la vediamo al rovescio e cioè vediamo il risltato di quello che avevamo visto ieri {P} e lo utilizziamo ribaltato.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts188" TIME_SLOT_REF2="ts189">
-				<ANNOTATION_VALUE>noi avevam visto questo (.) prendevamo dei numerini</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>noi avevam visto questo {P} prendevamo dei numerini</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2367,17 +2369,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts192" TIME_SLOT_REF2="ts193">
-				<ANNOTATION_VALUE>da zero (.) a nove (.) in maniera identica cioé (.) se noi (.) andiamo (.) a:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>da zero {P} a nove {P} in maniera identica cioé {P} se noi {P} andiamo {P} a:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts194" TIME_SLOT_REF2="ts195">
-				<ANNOTATION_VALUE>a campionarli (.) in maniera casuale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a campionarli {P} in maniera casuale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a99" TIME_SLOT_REF1="ts196" TIME_SLOT_REF2="ts197">
-				<ANNOTATION_VALUE>noi abbiamo la stessa probabilità di andare a (.) prendere uno zero (.) come di andare a prendere un nove o un sei o un sette</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>noi abbiamo la stessa probabilità di andare a {P} prendere uno zero {P} come di andare a prendere un nove o un sei o un sette</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2387,7 +2389,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts200" TIME_SLOT_REF2="ts201">
-				<ANNOTATION_VALUE>certo (.) ((bussa_sulla_lavagna)) se questa vale (.) se io la mano la metto sempre qui in mezzo (.) eh mi viene o cinque o sei o cinque o sei</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>certo {P} {bussa_sulla_lavagna} se questa vale {P} se io la mano la metto sempre qui in mezzo {P} eh mi viene o cinque o sei o cinque o sei</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2397,12 +2399,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" TIME_SLOT_REF1="ts204" TIME_SLOT_REF2="ts205">
-				<ANNOTATION_VALUE>mh gli estraggo con la stessa probabilità (.) qui qui qui non in un punto (.) la probabilità è costante.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mh gli estraggo con la stessa probabilità {P} qui qui qui non in un punto {P} la probabilità è costante.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts206" TIME_SLOT_REF2="ts207">
-				<ANNOTATION_VALUE>questa è l'assunzione (.) ((scrive_alla_lavagna)) che noi usavamo ieri.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questa è l'assunzione {P} {scrive_alla_lavagna} che noi usavamo ieri.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2422,12 +2424,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a108" TIME_SLOT_REF1="ts214" TIME_SLOT_REF2="ts215">
-				<ANNOTATION_VALUE>alla fine duecentosessanta estrazioni (.) e tornava più o meno non tornava benissimo eh ma più o meno tornava.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>alla fine duecentosessanta estrazioni {P} e tornava più o meno non tornava benissimo eh ma più o meno tornava.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts216" TIME_SLOT_REF2="ts217">
-				<ANNOTATION_VALUE>eh poi avevam fatto una campionatura finale (.) in cui non prendevamo i singoli campioni ma ne prendevamo tre alla volta cioè facevamo tre estrazioni (.) una due e tre ((scrive_alla_lavagna))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh poi avevam fatto una campionatura finale {P} in cui non prendevamo i singoli campioni ma ne prendevamo tre alla volta cioè facevamo tre estrazioni {P} una due e tre {scrive_alla_lavagna}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2442,7 +2444,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a112" TIME_SLOT_REF1="ts222" TIME_SLOT_REF2="ts223">
-				<ANNOTATION_VALUE>se io prendo la prima estrazione la seconda estrazione la terza estrazione poi faccio ics uno più ics due più ics tre (.) diviso tre.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se io prendo la prima estrazione la seconda estrazione la terza estrazione poi faccio ics uno più ics due più ics tre {P} diviso tre.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2462,7 +2464,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a116" TIME_SLOT_REF1="ts230" TIME_SLOT_REF2="ts231">
-				<ANNOTATION_VALUE>saltava che da qui (.) a qui la la forma della distribuzione va fatta così.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>saltava che da qui {P} a qui la la forma della distribuzione va fatta così.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2472,12 +2474,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a118" TIME_SLOT_REF1="ts234" TIME_SLOT_REF2="ts235">
-				<ANNOTATION_VALUE>era fatta a (.) istogramma veniva una cosa così.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>era fatta a {P} istogramma veniva una cosa così.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a119" TIME_SLOT_REF1="ts236" TIME_SLOT_REF2="ts237">
-				<ANNOTATION_VALUE>allora uno (.) eh: sostanzialmente il: il ragionamento che faceva era questo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora uno {P} eh: sostanzialmente il: il ragionamento che faceva era questo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2492,7 +2494,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a122" TIME_SLOT_REF1="ts242" TIME_SLOT_REF2="ts243">
-				<ANNOTATION_VALUE>e vado a vedere come si distribuiscono queste medie si distribuiscono (.) secondo una curva centrata partendo da una curva piatta.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e vado a vedere come si distribuiscono queste medie si distribuiscono {P} secondo una curva centrata partendo da una curva piatta.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2507,7 +2509,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a125" TIME_SLOT_REF1="ts248" TIME_SLOT_REF2="ts249">
-				<ANNOTATION_VALUE>è chiaro che se io ho una curva di partenza che è fatta già centrata ((scrive_alla_lavagna))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è chiaro che se io ho una curva di partenza che è fatta già centrata {scrive_alla_lavagna}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2532,7 +2534,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a130" TIME_SLOT_REF1="ts258" TIME_SLOT_REF2="ts259">
-				<ANNOTATION_VALUE>avevam preso (.) un campione che era fatto così</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>avevam preso {P} un campione che era fatto così</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2542,22 +2544,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a132" TIME_SLOT_REF1="ts262" TIME_SLOT_REF2="ts263">
-				<ANNOTATION_VALUE>zero (.) uno due</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>zero {P} uno due</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a133" TIME_SLOT_REF1="ts264" TIME_SLOT_REF2="ts265">
-				<ANNOTATION_VALUE>sette otto e nove (.) il resto non aveva niente mancavano il il tre il quattro il cinque e il sei</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sette otto e nove {P} il resto non aveva niente mancavano il il tre il quattro il cinque e il sei</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a134" TIME_SLOT_REF1="ts266" TIME_SLOT_REF2="ts267">
-				<ANNOTATION_VALUE>anche da questi (.) avevamo visto che pur essendo il contrario (.) di una distribuzione centrata (.) quello che veniva prendendendo le medie di::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>anche da questi {P} avevamo visto che pur essendo il contrario {P} di una distribuzione centrata {P} quello che veniva prendendendo le medie di::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a135" TIME_SLOT_REF1="ts268" TIME_SLOT_REF2="ts269">
-				<ANNOTATION_VALUE>di ordine tre (.) quello che veniva anche qui era una curva che più o meno è una campana.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di ordine tre {P} quello che veniva anche qui era una curva che più o meno è una campana.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2587,17 +2589,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a141" TIME_SLOT_REF1="ts280" TIME_SLOT_REF2="ts281">
-				<ANNOTATION_VALUE>e: (.) aveva concluso che::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: {P} aveva concluso che::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a142" TIME_SLOT_REF1="ts282" TIME_SLOT_REF2="ts283">
-				<ANNOTATION_VALUE>questa distribuzione (.) che lui chiamava a campana</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questa distribuzione {P} che lui chiamava a campana</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a143" TIME_SLOT_REF1="ts284" TIME_SLOT_REF2="ts285">
-				<ANNOTATION_VALUE>era in realtà l:: l~ la forma (.) di tutte</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>era in realtà l:: l~ la forma {P} di tutte</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2612,7 +2614,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a146" TIME_SLOT_REF1="ts290" TIME_SLOT_REF2="ts291">
-				<ANNOTATION_VALUE>di misure ripetute (.) e lo faccio sempre perché se no la probabilità di errore esplode</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di misure ripetute {P} e lo faccio sempre perché se no la probabilità di errore esplode</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2622,7 +2624,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a148" TIME_SLOT_REF1="ts294" TIME_SLOT_REF2="ts295">
-				<ANNOTATION_VALUE>e quindi il passo successivo è dire (.) boh.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi il passo successivo è dire {P} boh.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2632,17 +2634,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a150" TIME_SLOT_REF1="ts298" TIME_SLOT_REF2="ts299">
-				<ANNOTATION_VALUE>allora il ragionamento di gauss era (.) mh abbastanza complicato.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora il ragionamento di gauss era {P} mh abbastanza complicato.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts300" TIME_SLOT_REF2="ts301">
-				<ANNOTATION_VALUE>nel senso che (.) cioè o meglio più che complicato articolato essendo lui una persona molto raffinata x</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nel senso che {P} cioè o meglio più che complicato articolato essendo lui una persona molto raffinata x</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a152" TIME_SLOT_REF1="ts302" TIME_SLOT_REF2="ts303">
-				<ANNOTATION_VALUE>il suo eh: ragionamento (.) passava attraverso (.) tre punti logici il primo è questo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il suo eh: ragionamento {P} passava attraverso {P} tre punti logici il primo è questo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2657,22 +2659,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a155" TIME_SLOT_REF1="ts308" TIME_SLOT_REF2="ts309">
-				<ANNOTATION_VALUE>uno due tre (.) quattro cinque sei</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>uno due tre {P} quattro cinque sei</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a156" TIME_SLOT_REF1="ts310" TIME_SLOT_REF2="ts311">
-				<ANNOTATION_VALUE>sette otto e nove (.) dieci oggetti.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sette otto e nove {P} dieci oggetti.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a157" TIME_SLOT_REF1="ts312" TIME_SLOT_REF2="ts313">
-				<ANNOTATION_VALUE>perché, perché semplicemente: (.) siamo abituati a contare (.) con dieci dita e quindi (.) la nostra numerazione è è decimale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché, perché semplicemente: {P} siamo abituati a contare {P} con dieci dita e quindi {P} la nostra numerazione è è decimale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a158" TIME_SLOT_REF1="ts314" TIME_SLOT_REF2="ts315">
-				<ANNOTATION_VALUE>di fatto se vogliam però rappresentare (.) l'oggetto che genera questi::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di fatto se vogliam però rappresentare {P} l'oggetto che genera questi::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2697,17 +2699,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a163" TIME_SLOT_REF1="ts324" TIME_SLOT_REF2="ts325">
-				<ANNOTATION_VALUE>li può prendere in mano e quindi prender un: cubetto (.) lo tira vede cosa viene fuori su una faccia</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>li può prendere in mano e quindi prender un: cubetto {P} lo tira vede cosa viene fuori su una faccia</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a164" TIME_SLOT_REF1="ts326" TIME_SLOT_REF2="ts327">
-				<ANNOTATION_VALUE>e quello che succede è esattamente la stessa cosa (.) tranne che il dado (.) ha una distribuzione uniforme (.) fatta così ((scrive_alla_lavagna))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quello che succede è esattamente la stessa cosa {P} tranne che il dado {P} ha una distribuzione uniforme {P} fatta così {scrive_alla_lavagna}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a165" TIME_SLOT_REF1="ts328" TIME_SLOT_REF2="ts329">
-				<ANNOTATION_VALUE>uno due (.) tre (.) quattro cinque e sei.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>uno due {P} tre {P} quattro cinque e sei.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2727,12 +2729,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a169" TIME_SLOT_REF1="ts336" TIME_SLOT_REF2="ts337">
-				<ANNOTATION_VALUE>è (.) il dado fisicamente fatto così</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è {P} il dado fisicamente fatto così</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a170" TIME_SLOT_REF1="ts338" TIME_SLOT_REF2="ts339">
-				<ANNOTATION_VALUE>eh (.) la stessa cosa fatta con dieci è come se avessi (.) un dado a dieci facce immaginatevi un:=oggetto (.) sfaccettato in maniera tale da avere dieci facce.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh {P} la stessa cosa fatta con dieci è come se avessi {P} un dado a dieci facce immaginatevi un:=oggetto {P} sfaccettato in maniera tale da avere dieci facce.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2762,22 +2764,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a176" TIME_SLOT_REF1="ts350" TIME_SLOT_REF2="ts351">
-				<ANNOTATION_VALUE>una sfera in fondo è un dado con (.) infinite facce</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>una sfera in fondo è un dado con {P} infinite facce</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a177" TIME_SLOT_REF1="ts352" TIME_SLOT_REF2="ts353">
-				<ANNOTATION_VALUE>continua ad aggiungere e assomiglia sempre di più a una sfera a una palla con (.) degli specchietti sempre più piccoli e una sfera.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>continua ad aggiungere e assomiglia sempre di più a una sfera a una palla con {P} degli specchietti sempre più piccoli e una sfera.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a178" TIME_SLOT_REF1="ts354" TIME_SLOT_REF2="ts355">
-				<ANNOTATION_VALUE>allora (.) con la sfera</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora {P} con la sfera</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a179" TIME_SLOT_REF1="ts356" TIME_SLOT_REF2="ts357">
-				<ANNOTATION_VALUE>quello che succede è che (.) ogni punto della singola sfera</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quello che succede è che {P} ogni punto della singola sfera</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2787,7 +2789,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a181" TIME_SLOT_REF1="ts360" TIME_SLOT_REF2="ts361">
-				<ANNOTATION_VALUE>un affare di questo tipo (.) solo che di punti ne ha infiniti.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un affare di questo tipo {P} solo che di punti ne ha infiniti.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2797,12 +2799,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a183" TIME_SLOT_REF1="ts364" TIME_SLOT_REF2="ts365">
-				<ANNOTATION_VALUE>in cui ho (.) un punto di partenza (.) zero</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in cui ho {P} un punto di partenza {P} zero</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a184" TIME_SLOT_REF1="ts366" TIME_SLOT_REF2="ts367">
-				<ANNOTATION_VALUE>e un punto di fine (.) chiamiamolo effe</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e un punto di fine {P} chiamiamolo effe</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2812,7 +2814,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a186" TIME_SLOT_REF1="ts370" TIME_SLOT_REF2="ts371">
-				<ANNOTATION_VALUE>la probabilità (.) all'interno di questo sia uno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la probabilità {P} all'interno di questo sia uno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2837,17 +2839,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a191" TIME_SLOT_REF1="ts380" TIME_SLOT_REF2="ts381">
-				<ANNOTATION_VALUE>de:i dei pun~ ciascuno dei punti dello spazio dei campioni compare (.) enne volte sul totale di enne</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>de:i dei pun~ ciascuno dei punti dello spazio dei campioni compare {P} enne volte sul totale di enne</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a192" TIME_SLOT_REF1="ts382" TIME_SLOT_REF2="ts383">
-				<ANNOTATION_VALUE>quindi in pratica quello che succede è che (.) ciascuna faccia ha una probabilità enne su enne di comparire</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi in pratica quello che succede è che {P} ciascuna faccia ha una probabilità enne su enne di comparire</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a193" TIME_SLOT_REF1="ts384" TIME_SLOT_REF2="ts385">
-				<ANNOTATION_VALUE>se di facce ne ho infinite ciascuna di queste chiaramente (.) avrà una probabilità infinitesima</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se di facce ne ho infinite ciascuna di queste chiaramente {P} avrà una probabilità infinitesima</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2857,12 +2859,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a195" TIME_SLOT_REF1="ts388" TIME_SLOT_REF2="ts389">
-				<ANNOTATION_VALUE>è che la probabilità che viene da uno (.) più la probabilità che viene da due più tre più quattro più cinque e (.) il totale (deve arrivare) a uno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è che la probabilità che viene da uno {P} più la probabilità che viene da due più tre più quattro più cinque e {P} il totale (deve arrivare) a uno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a196" TIME_SLOT_REF1="ts390" TIME_SLOT_REF2="ts391">
-				<ANNOTATION_VALUE>un sesto più un sesto più un sesto più un sesto e (.) fa sei sesti che è uno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un sesto più un sesto più un sesto più un sesto e {P} fa sei sesti che è uno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2872,7 +2874,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a198" TIME_SLOT_REF1="ts394" TIME_SLOT_REF2="ts395">
-				<ANNOTATION_VALUE>l'integrale (.) cioè l'area che sta qui sotto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'integrale {P} cioè l'area che sta qui sotto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2887,7 +2889,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a201" TIME_SLOT_REF1="ts400" TIME_SLOT_REF2="ts401">
-				<ANNOTATION_VALUE>tra zero e effe (.) di una certa funzione che chiameremo densità di probabilità ma (.) chi~ la chiamiamo effe di ics in de ics deve dare uno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tra zero e effe {P} di una certa funzione che chiameremo densità di probabilità ma {P} chi~ la chiamiamo effe di ics in de ics deve dare uno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2897,12 +2899,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a203" TIME_SLOT_REF1="ts404" TIME_SLOT_REF2="ts405">
-				<ANNOTATION_VALUE>che (.) fatta</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che {P} fatta</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a204" TIME_SLOT_REF1="ts406" TIME_SLOT_REF2="ts407">
-				<ANNOTATION_VALUE>in modo (.) da essere (.) inseriti in quella integrale (.) sul dominio dello spazio dei campioni da uno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in modo {P} da essere {P} inseriti in quella integrale {P} sul dominio dello spazio dei campioni da uno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2917,7 +2919,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a207" TIME_SLOT_REF1="ts412" TIME_SLOT_REF2="ts413">
-				<ANNOTATION_VALUE>il vantaggio è enorme dal punto di vista: (.) operativo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il vantaggio è enorme dal punto di vista: {P} operativo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2932,7 +2934,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a210" TIME_SLOT_REF1="ts418" TIME_SLOT_REF2="ts419">
-				<ANNOTATION_VALUE>lui essendo un matematico straordinario (.) anziché far del casino faceva una semplificazione incredibile di tutto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lui essendo un matematico straordinario {P} anziché far del casino faceva una semplificazione incredibile di tutto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2952,7 +2954,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a214" TIME_SLOT_REF1="ts426" TIME_SLOT_REF2="ts427">
-				<ANNOTATION_VALUE>per definire un dado (.) abbiam bisogno dell'oggetto fisico comunque abbiam bisogno di sei numeri</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per definire un dado {P} abbiam bisogno dell'oggetto fisico comunque abbiam bisogno di sei numeri</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2967,12 +2969,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a217" TIME_SLOT_REF1="ts432" TIME_SLOT_REF2="ts433">
-				<ANNOTATION_VALUE>definire e utilizzare i numeri da zero a nove (.) abbiamo usato le tesserine di carta.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>definire e utilizzare i numeri da zero a nove {P} abbiamo usato le tesserine di carta.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a218" TIME_SLOT_REF1="ts434" TIME_SLOT_REF2="ts435">
-				<ANNOTATION_VALUE>quindi fisicamente abbiam bisogno di (.) dieci tesserine di carta.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi fisicamente abbiam bisogno di {P} dieci tesserine di carta.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2987,12 +2989,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a221" TIME_SLOT_REF1="ts440" TIME_SLOT_REF2="ts441">
-				<ANNOTATION_VALUE>se avessimo bisogno come (.) come diceva gauss di infinite (.) cioé aumentate il numero delle facce avremmo bisogno di infinite tesserine</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se avessimo bisogno come {P} come diceva gauss di infinite {P} cioé aumentate il numero delle facce avremmo bisogno di infinite tesserine</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a222" TIME_SLOT_REF1="ts442" TIME_SLOT_REF2="ts443">
-				<ANNOTATION_VALUE>alla fine infinite tesserine infiniti campionamenti (.) per ogni tesserina (.) diventerebbe un infinito accodato x.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>alla fine infinite tesserine infiniti campionamenti {P} per ogni tesserina {P} diventerebbe un infinito accodato x.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3022,12 +3024,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a228" TIME_SLOT_REF1="ts454" TIME_SLOT_REF2="ts455">
-				<ANNOTATION_VALUE>cioè che p~ posso andare (.) all'infinitamente piccolo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè che p~ posso andare {P} all'infinitamente piccolo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a229" TIME_SLOT_REF1="ts456" TIME_SLOT_REF2="ts457">
-				<ANNOTATION_VALUE>poi non me ne frega niente (.) l'importante è che soddisfi (.) questo integrale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi non me ne frega niente {P} l'importante è che soddisfi {P} questo integrale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3052,12 +3054,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a234" TIME_SLOT_REF1="ts466" TIME_SLOT_REF2="ts467">
-				<ANNOTATION_VALUE>è una funzione facile (.) o meglio facile è una funzione facile da scrivere.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è una funzione facile {P} o meglio facile è una funzione facile da scrivere.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a235" TIME_SLOT_REF1="ts468" TIME_SLOT_REF2="ts469">
-				<ANNOTATION_VALUE>la funzione a campana (.) è una funzione che ha un centro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la funzione a campana {P} è una funzione che ha un centro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3082,22 +3084,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a240" TIME_SLOT_REF1="ts478" TIME_SLOT_REF2="ts479">
-				<ANNOTATION_VALUE>ma deve essere (.) qualcosa che (.) si schiaccia molto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma deve essere {P} qualcosa che {P} si schiaccia molto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a241" TIME_SLOT_REF1="ts480" TIME_SLOT_REF2="ts481">
-				<ANNOTATION_VALUE>ha un centro (.) e si schiaccia molto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ha un centro {P} e si schiaccia molto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a242" TIME_SLOT_REF1="ts482" TIME_SLOT_REF2="ts483">
-				<ANNOTATION_VALUE>quindi (.) lui dice (.) qual è la funzione che si schiaccia più di tutte?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi {P} lui dice {P} qual è la funzione che si schiaccia più di tutte?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a243" TIME_SLOT_REF1="ts484" TIME_SLOT_REF2="ts485">
-				<ANNOTATION_VALUE>l'esponenziale (.) l'esponenziale negativo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'esponenziale {P} l'esponenziale negativo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3122,7 +3124,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a248" TIME_SLOT_REF1="ts494" TIME_SLOT_REF2="ts495">
-				<ANNOTATION_VALUE>perché (.) il mu (.) mi definisce (.) il punto centrale (.) ma (.) ho bisogno di un altro parametro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché {P} il mu {P} mi definisce {P} il punto centrale {P} ma {P} ho bisogno di un altro parametro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3132,7 +3134,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a250" TIME_SLOT_REF1="ts498" TIME_SLOT_REF2="ts499">
-				<ANNOTATION_VALUE>questo parametro (.) chiamiamolo silva.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo parametro {P} chiamiamolo silva.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3142,12 +3144,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a252" TIME_SLOT_REF1="ts502" TIME_SLOT_REF2="ts503">
-				<ANNOTATION_VALUE>uno (.) è il parametro del centro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>uno {P} è il parametro del centro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a253" TIME_SLOT_REF1="ts504" TIME_SLOT_REF2="ts505">
-				<ANNOTATION_VALUE>che tra l'altro noi abbiam chiamato locazione dall'inizio cioè dove è localizzato il centro (.) la media.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che tra l'altro noi abbiam chiamato locazione dall'inizio cioè dove è localizzato il centro {P} la media.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3177,17 +3179,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a259" TIME_SLOT_REF1="ts516" TIME_SLOT_REF2="ts517">
-				<ANNOTATION_VALUE>come si fa in matematica a simmetrizzare la funzione, io prendo la differenza tra ics (.) e la media</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come si fa in matematica a simmetrizzare la funzione, io prendo la differenza tra ics {P} e la media</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a260" TIME_SLOT_REF1="ts518" TIME_SLOT_REF2="ts519">
-				<ANNOTATION_VALUE>che potrebbe essere che ics è più grande della media (.) se ics è maggiore della media (.) questo è positivo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che potrebbe essere che ics è più grande della media {P} se ics è maggiore della media {P} questo è positivo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a261" TIME_SLOT_REF1="ts520" TIME_SLOT_REF2="ts521">
-				<ANNOTATION_VALUE>se ics è minore della media (.) questo è negativo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se ics è minore della media {P} questo è negativo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3222,7 +3224,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a268" TIME_SLOT_REF1="ts534" TIME_SLOT_REF2="ts535">
-				<ANNOTATION_VALUE>che questa funzione io (.) vorrei</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che questa funzione io {P} vorrei</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3247,7 +3249,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a273" TIME_SLOT_REF1="ts544" TIME_SLOT_REF2="ts545">
-				<ANNOTATION_VALUE>e qui va da più infinito (.) non ci sia nient'altro cioè la probabilità deve essere uno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e qui va da più infinito {P} non ci sia nient'altro cioè la probabilità deve essere uno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3267,7 +3269,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a277" TIME_SLOT_REF1="ts552" TIME_SLOT_REF2="ts553">
-				<ANNOTATION_VALUE>studiando un minimo di integrali quello che si vede (.) è che basta dividere tutto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>studiando un minimo di integrali quello che si vede {P} è che basta dividere tutto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3277,12 +3279,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a279" TIME_SLOT_REF1="ts556" TIME_SLOT_REF2="ts557">
-				<ANNOTATION_VALUE>una (.) costante</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>una {P} costante</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a280" TIME_SLOT_REF1="ts558" TIME_SLOT_REF2="ts559">
-				<ANNOTATION_VALUE>che è uno su radice di due pi greco (.) sigma al quadrato.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che è uno su radice di due pi greco {P} sigma al quadrato.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3302,7 +3304,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a284" TIME_SLOT_REF1="ts566" TIME_SLOT_REF2="ts567">
-				<ANNOTATION_VALUE>questa (.) funzione (.) è la funzione che soddisfa tutto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questa {P} funzione {P} è la funzione che soddisfa tutto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3322,12 +3324,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a288" TIME_SLOT_REF1="ts574" TIME_SLOT_REF2="ts575">
-				<ANNOTATION_VALUE>tenete presente che (.) il g~ il ricondurre qualsiasi esperimento (.) o qualsiasi operazione di media che uno può fare indipendentemente dalla distribuzione di partenza</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tenete presente che {P} il g~ il ricondurre qualsiasi esperimento {P} o qualsiasi operazione di media che uno può fare indipendentemente dalla distribuzione di partenza</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a289" TIME_SLOT_REF1="ts576" TIME_SLOT_REF2="ts577">
-				<ANNOTATION_VALUE>è una cosa di una potenza straordinaria perché vi dà (.) l'elemento di base per andare ad analizzare i dati.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è una cosa di una potenza straordinaria perché vi dà {P} l'elemento di base per andare ad analizzare i dati.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3362,12 +3364,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a296" TIME_SLOT_REF1="ts590" TIME_SLOT_REF2="ts591">
-				<ANNOTATION_VALUE>gauss quando se ne accorse disse (.) però (.) quasi quasi faccio la teoria (degli errori) sopra.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>gauss quando se ne accorse disse {P} però {P} quasi quasi faccio la teoria (degli errori) sopra.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a297" TIME_SLOT_REF1="ts592" TIME_SLOT_REF2="ts593">
-				<ANNOTATION_VALUE>anche perché quello che io non so: (.) sono esattamente gli scostamenti x cioè gli errori che non riesco a controllare</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>anche perché quello che io non so: {P} sono esattamente gli scostamenti x cioè gli errori che non riesco a controllare</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3392,12 +3394,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a302" TIME_SLOT_REF1="ts602" TIME_SLOT_REF2="ts603">
-				<ANNOTATION_VALUE>il passo successivo (.) è che gauss disse</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il passo successivo {P} è che gauss disse</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a303" TIME_SLOT_REF1="ts604" TIME_SLOT_REF2="ts605">
-				<ANNOTATION_VALUE>bene (.) però</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>bene {P} però</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3412,22 +3414,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a306" TIME_SLOT_REF1="ts610" TIME_SLOT_REF2="ts611">
-				<ANNOTATION_VALUE>è vero che ne ha ottenuto una cosa universale (.) ma.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è vero che ne ha ottenuto una cosa universale {P} ma.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a307" TIME_SLOT_REF1="ts612" TIME_SLOT_REF2="ts613">
-				<ANNOTATION_VALUE>se io vado a misurare una cosa qui (.) vado a misurare una cosa lì (.) vado a misurare la larghezza del tavolo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se io vado a misurare una cosa qui {P} vado a misurare una cosa lì {P} vado a misurare la larghezza del tavolo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a308" TIME_SLOT_REF1="ts614" TIME_SLOT_REF2="ts615">
-				<ANNOTATION_VALUE>vado a (misurare) la lunghezza (.) del tavolo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vado a (misurare) la lunghezza {P} del tavolo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a309" TIME_SLOT_REF1="ts616" TIME_SLOT_REF2="ts617">
-				<ANNOTATION_VALUE>e chiaramente è più lungo che largo (.) quindi già ho due variabili</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e chiaramente è più lungo che largo {P} quindi già ho due variabili</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3452,12 +3454,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a314" TIME_SLOT_REF1="ts626" TIME_SLOT_REF2="ts627">
-				<ANNOTATION_VALUE>per la lunghezza (.) per la larghezza (.) per l'altezza della stanza (.) per: l'età: (.) del bidello (.) per la lunghezza del gesso</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per la lunghezza {P} per la larghezza {P} per l'altezza della stanza {P} per: l'età: {P} del bidello {P} per la lunghezza del gesso</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a315" TIME_SLOT_REF1="ts628" TIME_SLOT_REF2="ts629">
-				<ANNOTATION_VALUE>per il peso della seggiola (.) se io riesco a fare questo sono apposto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per il peso della seggiola {P} se io riesco a fare questo sono apposto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3487,7 +3489,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a321" TIME_SLOT_REF1="ts640" TIME_SLOT_REF2="ts641">
-				<ANNOTATION_VALUE>dal fatto che ho (.) due cose che son diverse</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dal fatto che ho {P} due cose che son diverse</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3502,17 +3504,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a324" TIME_SLOT_REF1="ts646" TIME_SLOT_REF2="ts647">
-				<ANNOTATION_VALUE>uno è la media (.) e l'altro è la scampanatura.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>uno è la media {P} e l'altro è la scampanatura.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a325" TIME_SLOT_REF1="ts648" TIME_SLOT_REF2="ts649">
-				<ANNOTATION_VALUE>io devo trovare un modo di togliere la scampanatura (.) e la media (.) se tolgo questo sono apposto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>io devo trovare un modo di togliere la scampanatura {P} e la media {P} se tolgo questo sono apposto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a326" TIME_SLOT_REF1="ts650" TIME_SLOT_REF2="ts651">
-				<ANNOTATION_VALUE>allora il ragionamento di toglier la media (.) se io voglio toglier la media cioè la differenza tra (.) u:na cosa che è messa qui e una che è messa qui cosa faccio?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora il ragionamento di toglier la media {P} se io voglio toglier la media cioè la differenza tra {P} u:na cosa che è messa qui e una che è messa qui cosa faccio?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3522,7 +3524,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a328" TIME_SLOT_REF1="ts654" TIME_SLOT_REF2="ts655">
-				<ANNOTATION_VALUE>se io ho (.) questo gesto e questo gesso fisicamente sono separati (.) io li voglio confrontare per vedere qual è più lungo dei due cosa faccio?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se io ho {P} questo gesto e questo gesso fisicamente sono separati {P} io li voglio confrontare per vedere qual è più lungo dei due cosa faccio?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3532,7 +3534,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a330" TIME_SLOT_REF1="ts658" TIME_SLOT_REF2="ts659">
-				<ANNOTATION_VALUE>le sposto (.) in centro.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>le sposto {P} in centro.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3562,7 +3564,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a336" TIME_SLOT_REF1="ts670" TIME_SLOT_REF2="ts671">
-				<ANNOTATION_VALUE>ics (.) che misuro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ics {P} che misuro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3572,7 +3574,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a338" TIME_SLOT_REF1="ts674" TIME_SLOT_REF2="ts675">
-				<ANNOTATION_VALUE>qualsiasi sia la media (.) diventa (.) mh:: (.) diventa una media che non centra no?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>qualsiasi sia la media {P} diventa {P} mh:: {P} diventa una media che non centra no?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3587,17 +3589,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a341" TIME_SLOT_REF1="ts680" TIME_SLOT_REF2="ts681">
-				<ANNOTATION_VALUE>zeta è uguale a (.) ics (.) meno ics medio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>zeta è uguale a {P} ics {P} meno ics medio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a342" TIME_SLOT_REF1="ts682" TIME_SLOT_REF2="ts683">
-				<ANNOTATION_VALUE>se io gli tolgo la media automaticamente (.) gli ho tolto la media e la media torna zero cioè</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se io gli tolgo la media automaticamente {P} gli ho tolto la media e la media torna zero cioè</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a343" TIME_SLOT_REF1="ts684" TIME_SLOT_REF2="ts685">
-				<ANNOTATION_VALUE>la media di zeta per forza è zero (.) gli tolgo la media di questo (.) questo ha una media più grande automaticamente gliela tolgo e diventa zero.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la media di zeta per forza è zero {P} gli tolgo la media di questo {P} questo ha una media più grande automaticamente gliela tolgo e diventa zero.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3607,12 +3609,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a345" TIME_SLOT_REF1="ts688" TIME_SLOT_REF2="ts689">
-				<ANNOTATION_VALUE>che (.) il sigma non costa~ non contasse non (scampanamente)</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che {P} il sigma non costa~ non contasse non (scampanamente)</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a346" TIME_SLOT_REF1="ts690" TIME_SLOT_REF2="ts691">
-				<ANNOTATION_VALUE>eh (.) se voglio che non conti (.) lo divido.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh {P} se voglio che non conti {P} lo divido.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3622,7 +3624,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a348" TIME_SLOT_REF1="ts694" TIME_SLOT_REF2="ts695">
-				<ANNOTATION_VALUE>lo divido per sigma automaticamente quello che succede (.) è che dividevo un numero</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lo divido per sigma automaticamente quello che succede {P} è che dividevo un numero</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3632,12 +3634,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a350" TIME_SLOT_REF1="ts698" TIME_SLOT_REF2="ts699">
-				<ANNOTATION_VALUE>un numero che (.) dipende cioé per la scala automaticamente questo oggetto qui non è che perda la scala ma la scala resta condivisa no?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un numero che {P} dipende cioé per la scala automaticamente questo oggetto qui non è che perda la scala ma la scala resta condivisa no?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a351" TIME_SLOT_REF1="ts700" TIME_SLOT_REF2="ts701">
-				<ANNOTATION_VALUE>se io ho cinquanta e lo divido per cinquanta (.) la scala diventa x</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se io ho cinquanta e lo divido per cinquanta {P} la scala diventa x</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3662,27 +3664,27 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a356" TIME_SLOT_REF1="ts710" TIME_SLOT_REF2="ts711">
-				<ANNOTATION_VALUE>quello che abbiamo è che (.) otteniamo delle campane che hanno media zero</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quello che abbiamo è che {P} otteniamo delle campane che hanno media zero</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a357" TIME_SLOT_REF1="ts712" TIME_SLOT_REF2="ts713">
-				<ANNOTATION_VALUE>e (.) x eh: (.) sigma uguale a uno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} x eh: {P} sigma uguale a uno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a358" TIME_SLOT_REF1="ts714" TIME_SLOT_REF2="ts715">
-				<ANNOTATION_VALUE>otteniamo delle campane che sono delle campane (.) che sichiamano normalizzate.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>otteniamo delle campane che sono delle campane {P} che sichiamano normalizzate.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a359" TIME_SLOT_REF1="ts716" TIME_SLOT_REF2="ts717">
-				<ANNOTATION_VALUE>anzi (.) si chiamano curve (.) normali non si chiamano neanche più campana niente.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>anzi {P} si chiamano curve {P} normali non si chiamano neanche più campana niente.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a360" TIME_SLOT_REF1="ts718" TIME_SLOT_REF2="ts719">
-				<ANNOTATION_VALUE>che cos'è la curva normale, la curva normale di gauss non è nient'altro che una campana con media zero (.) e (.) scala uno (.) scampanamento uno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che cos'è la curva normale, la curva normale di gauss non è nient'altro che una campana con media zero {P} e {P} scala uno {P} scampanamento uno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3692,7 +3694,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a362" TIME_SLOT_REF1="ts722" TIME_SLOT_REF2="ts723">
-				<ANNOTATION_VALUE>beh (.) la forma è</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>beh {P} la forma è</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3702,17 +3704,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a364" TIME_SLOT_REF1="ts726" TIME_SLOT_REF2="ts727">
-				<ANNOTATION_VALUE>in questo caso il sigma di zeta è uno l'abbiamo normalizzato lì (.) e sopra c'abbiamo (.) e (.) meno zeta quadro (.) mezzo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in questo caso il sigma di zeta è uno l'abbiamo normalizzato lì {P} e sopra c'abbiamo {P} e {P} meno zeta quadro {P} mezzo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a365" TIME_SLOT_REF1="ts728" TIME_SLOT_REF2="ts729">
-				<ANNOTATION_VALUE>questa è la forma della (.) della curva normale di gauss.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questa è la forma della {P} della curva normale di gauss.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a366" TIME_SLOT_REF1="ts730" TIME_SLOT_REF2="ts731">
-				<ANNOTATION_VALUE>effe di zeta (.) è questo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>effe di zeta {P} è questo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3792,7 +3794,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a391" TIME_SLOT_REF1="ts780" TIME_SLOT_REF2="ts781">
-				<ANNOTATION_VALUE>allora (.) il ragionamento è questo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora {P} il ragionamento è questo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3802,7 +3804,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a393" TIME_SLOT_REF1="ts784" TIME_SLOT_REF2="ts785">
-				<ANNOTATION_VALUE>partiamo da un campione (.) misurato.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>partiamo da un campione {P} misurato.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3822,12 +3824,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a397" TIME_SLOT_REF1="ts792" TIME_SLOT_REF2="ts793">
-				<ANNOTATION_VALUE>allora il ragionamento è (.) che (.) siccome (.) abbiamo (.) una curva (.) fatta da infiniti:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora il ragionamento è {P} che {P} siccome {P} abbiamo {P} una curva {P} fatta da infiniti:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a398" TIME_SLOT_REF1="ts794" TIME_SLOT_REF2="ts795">
-				<ANNOTATION_VALUE>dati (.) cioé noi dovremmo avere un istogramma con infinite sbarrette giusto?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dati {P} cioé noi dovremmo avere un istogramma con infinite sbarrette giusto?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3847,17 +3849,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a402" TIME_SLOT_REF1="ts802" TIME_SLOT_REF2="ts803">
-				<ANNOTATION_VALUE>la media (.) cambia poco perché la media comunque sia la faremmo alla stessa maniera.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la media {P} cambia poco perché la media comunque sia la faremmo alla stessa maniera.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a403" TIME_SLOT_REF1="ts804" TIME_SLOT_REF2="ts805">
-				<ANNOTATION_VALUE>come facciamo con questa (.) sigma che si chiama deviazione standard, beh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come facciamo con questa {P} sigma che si chiama deviazione standard, beh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a404" TIME_SLOT_REF1="ts806" TIME_SLOT_REF2="ts807">
-				<ANNOTATION_VALUE>la facciamo stimando (.) esse</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la facciamo stimando {P} esse</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3867,17 +3869,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a406" TIME_SLOT_REF1="ts810" TIME_SLOT_REF2="ts811">
-				<ANNOTATION_VALUE>eh:: vi ricordate che:: la deviazione standard l'abbiamo imparato a (.) a farla no, la deviazione standard scritta nella maniera intuitiva (.) è questa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh:: vi ricordate che:: la deviazione standard l'abbiamo imparato a {P} a farla no, la deviazione standard scritta nella maniera intuitiva {P} è questa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a407" TIME_SLOT_REF1="ts812" TIME_SLOT_REF2="ts813">
-				<ANNOTATION_VALUE>è (.) ics (.) meno (.) ics medio</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è {P} ics {P} meno {P} ics medio</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a408" TIME_SLOT_REF1="ts814" TIME_SLOT_REF2="ts815">
-				<ANNOTATION_VALUE>al quadrato (.) in somma (.) fratto enne</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>al quadrato {P} in somma {P} fratto enne</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3892,12 +3894,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a411" TIME_SLOT_REF1="ts820" TIME_SLOT_REF2="ts821">
-				<ANNOTATION_VALUE>se facciamo andare enne all'infinito (.) diventa sigma.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se facciamo andare enne all'infinito {P} diventa sigma.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a412" TIME_SLOT_REF1="ts822" TIME_SLOT_REF2="ts823">
-				<ANNOTATION_VALUE>cioé (.) esse</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioé {P} esse</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3907,7 +3909,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a414" TIME_SLOT_REF1="ts826" TIME_SLOT_REF2="ts827">
-				<ANNOTATION_VALUE>ma noi non lo facciamo andare all'infinito perchèall'infinito ci vorrebbe un tempo infinito (.) quindi no~ no~ non ci riusciremo mai (.) ma lo stimiamo così.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma noi non lo facciamo andare all'infinito perchèall'infinito ci vorrebbe un tempo infinito {P} quindi no~ no~ non ci riusciremo mai {P} ma lo stimiamo così.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3922,27 +3924,27 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a417" TIME_SLOT_REF1="ts832" TIME_SLOT_REF2="ts833">
-				<ANNOTATION_VALUE>i nostri dati sono (.) ics uno (.) ics due (.) ics tre (.) ecetera eccetera</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>i nostri dati sono {P} ics uno {P} ics due {P} ics tre {P} ecetera eccetera</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a418" TIME_SLOT_REF1="ts834" TIME_SLOT_REF2="ts835">
-				<ANNOTATION_VALUE>da ogni dato ci calcoliamo cioé dall'insieme dei dati ci calcoliamo la media (.) e quello lo sabbiam fare</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>da ogni dato ci calcoliamo cioé dall'insieme dei dati ci calcoliamo la media {P} e quello lo sabbiam fare</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a419" TIME_SLOT_REF1="ts836" TIME_SLOT_REF2="ts837">
-				<ANNOTATION_VALUE>somma di ics (ui) (.) diviso enne</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>somma di ics (ui) {P} diviso enne</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a420" TIME_SLOT_REF1="ts838" TIME_SLOT_REF2="ts839">
-				<ANNOTATION_VALUE>ci calcoliamo (.) sigma di ics (.) che (.) è quella non la restiamo a scrivere</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ci calcoliamo {P} sigma di ics {P} che {P} è quella non la restiamo a scrivere</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a421" TIME_SLOT_REF1="ts840" TIME_SLOT_REF2="ts841">
-				<ANNOTATION_VALUE>e (.) utilizzando questa formula qui che si chiama (.) normalizzazione (.) o standardizzazione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} utilizzando questa formula qui che si chiama {P} normalizzazione {P} o standardizzazione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3952,7 +3954,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a423" TIME_SLOT_REF1="ts844" TIME_SLOT_REF2="ts845">
-				<ANNOTATION_VALUE>la corrispondenza di ics uno ci troviamo uno zeta uno (.) uno zeta due</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la corrispondenza di ics uno ci troviamo uno zeta uno {P} uno zeta due</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3977,7 +3979,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a428" TIME_SLOT_REF1="ts854" TIME_SLOT_REF2="ts855">
-				<ANNOTATION_VALUE>quindi (.) una volta che abbiamo fatto quella piccola trasformazione usando sta tabella conosciamo tutto del nostro insieme</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi {P} una volta che abbiamo fatto quella piccola trasformazione usando sta tabella conosciamo tutto del nostro insieme</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3997,17 +3999,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a432" TIME_SLOT_REF1="ts862" TIME_SLOT_REF2="ts863">
-				<ANNOTATION_VALUE>eh:::m: (.) è fatta così.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh:::m: {P} è fatta così.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a433" TIME_SLOT_REF1="ts864" TIME_SLOT_REF2="ts865">
-				<ANNOTATION_VALUE>quello che voi vedete scritto nella tabella non è nient'altro che l'area (.) eh: segnata in azzurro.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quello che voi vedete scritto nella tabella non è nient'altro che l'area {P} eh: segnata in azzurro.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a434" TIME_SLOT_REF1="ts866" TIME_SLOT_REF2="ts867">
-				<ANNOTATION_VALUE>e cioé (.) è l'area (.) compresa tra (.) la curva (.) e l'asse</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e cioé {P} è l'area {P} compresa tra {P} la curva {P} e l'asse</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4017,22 +4019,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a436" TIME_SLOT_REF1="ts870" TIME_SLOT_REF2="ts871">
-				<ANNOTATION_VALUE>che non è nient'altro che la probabilità perché (.) noi quella curva l'abbiamo costruita come, l'abbiamo costruita come la probabilità di avere (.) i valori</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che non è nient'altro che la probabilità perché {P} noi quella curva l'abbiamo costruita come, l'abbiamo costruita come la probabilità di avere {P} i valori</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a437" TIME_SLOT_REF1="ts872" TIME_SLOT_REF2="ts873">
-				<ANNOTATION_VALUE>compresi (.) in un certo intervallo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>compresi {P} in un certo intervallo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a438" TIME_SLOT_REF1="ts874" TIME_SLOT_REF2="ts875">
-				<ANNOTATION_VALUE>eh:: adesso l'abbiam cancellata però che sostanzialmente era come (.) l~ l'eccellente:: (.) dei dei singoli dadi le uscite dei singoli dadi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh:: adesso l'abbiam cancellata però che sostanzialmente era come {P} l~ l'eccellente:: {P} dei dei singoli dadi le uscite dei singoli dadi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a439" TIME_SLOT_REF1="ts876" TIME_SLOT_REF2="ts877">
-				<ANNOTATION_VALUE>questo è come se fosse le uscite (.) tra tutte le facce comprese tra zero e ics del dado.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo è come se fosse le uscite {P} tra tutte le facce comprese tra zero e ics del dado.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4042,7 +4044,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a441" TIME_SLOT_REF1="ts880" TIME_SLOT_REF2="ts881">
-				<ANNOTATION_VALUE>dunque (.) è scritta così.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dunque {P} è scritta così.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4057,12 +4059,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a444" TIME_SLOT_REF1="ts886" TIME_SLOT_REF2="ts887">
-				<ANNOTATION_VALUE>in orizzontale (.) ci sono i:: (.) i centesimi e cioé</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in orizzontale {P} ci sono i:: {P} i centesimi e cioé</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a445" TIME_SLOT_REF1="ts888" TIME_SLOT_REF2="ts889">
-				<ANNOTATION_VALUE>per esempio se prendete la seconda riga la seconda riga dice zero uno zero punto (.) nella: (.) nella retta verticale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per esempio se prendete la seconda riga la seconda riga dice zero uno zero punto {P} nella: {P} nella retta verticale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4082,12 +4084,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a449" TIME_SLOT_REF1="ts896" TIME_SLOT_REF2="ts897">
-				<ANNOTATION_VALUE>che significa, significa che l'ultimo valore (.) a destra (.) è zero punto diciannove.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che significa, significa che l'ultimo valore {P} a destra {P} è zero punto diciannove.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a450" TIME_SLOT_REF1="ts898" TIME_SLOT_REF2="ts899">
-				<ANNOTATION_VALUE>perché è zero uno (.) decimali (.) e nove centesimi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché è zero uno {P} decimali {P} e nove centesimi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4102,22 +4104,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a453" TIME_SLOT_REF1="ts904" TIME_SLOT_REF2="ts905">
-				<ANNOTATION_VALUE>zero::: (.) cinquantaquattro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>zero::: {P} cinquantaquattro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a454" TIME_SLOT_REF1="ts906" TIME_SLOT_REF2="ts907">
-				<ANNOTATION_VALUE>non è nient'altro che zero cinque in verticale (.) e zero quattro qua (.) e quindi leggete che la probabilità</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non è nient'altro che zero cinque in verticale {P} e zero quattro qua {P} e quindi leggete che la probabilità</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a455" TIME_SLOT_REF1="ts908" TIME_SLOT_REF2="ts909">
-				<ANNOTATION_VALUE>di avere (.) un valore compreso tra zero (.) e</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di avere {P} un valore compreso tra zero {P} e</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a456" TIME_SLOT_REF1="ts910" TIME_SLOT_REF2="ts911">
-				<ANNOTATION_VALUE>zeta uguale zero cinquantaquattro è zero punto due zero cinque quattro (.) capito?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>zeta uguale zero cinquantaquattro è zero punto due zero cinque quattro {P} capito?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4137,7 +4139,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a461" TIME_SLOT_REF1="ts920" TIME_SLOT_REF2="ts921">
-				<ANNOTATION_VALUE>tra zero e::: (.) zeta uguale a uno e novantasette.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tra zero e::: {P} zeta uguale a uno e novantasette.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4147,12 +4149,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a464" TIME_SLOT_REF1="ts926" TIME_SLOT_REF2="ts927">
-				<ANNOTATION_VALUE>tra zeta (.) uguale zero e zeta uguale tre punto::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tra zeta {P} uguale zero e zeta uguale tre punto::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a465" TIME_SLOT_REF1="ts928" TIME_SLOT_REF2="ts929">
-				<ANNOTATION_VALUE>eh::: (.) tre punto zero sei.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh::: {P} tre punto zero sei.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4162,22 +4164,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a468" TIME_SLOT_REF1="ts934" TIME_SLOT_REF2="ts935">
-				<ANNOTATION_VALUE>quando siete arrivati a (.) tre punto zero nove (.) vedete che la tabella si ferma (.) perché si ferma?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quando siete arrivati a {P} tre punto zero nove {P} vedete che la tabella si ferma {P} perché si ferma?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a469" TIME_SLOT_REF1="ts936" TIME_SLOT_REF2="ts937">
-				<ANNOTATION_VALUE>si ferma semplicemente perchèsiamo arrivati a zero quattro nove nove cioè manca (.) un millessimo (.) a arrivare a zero cinque.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si ferma semplicemente perchèsiamo arrivati a zero quattro nove nove cioè manca {P} un millessimo {P} a arrivare a zero cinque.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a470" TIME_SLOT_REF1="ts938" TIME_SLOT_REF2="ts939">
-				<ANNOTATION_VALUE>in totale zero cinque (.) perchèdi qua (.) siccome è una probabilità (.) ci deve stare a destra di quello che vedete eh: (.) colorato in azzurro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in totale zero cinque {P} perchèdi qua {P} siccome è una probabilità {P} ci deve stare a destra di quello che vedete eh: {P} colorato in azzurro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a471" TIME_SLOT_REF1="ts940" TIME_SLOT_REF2="ts941">
-				<ANNOTATION_VALUE>a destra ci deve star zero cinque (.) se andiamo all'infinito e a sinistra zero cinque.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a destra ci deve star zero cinque {P} se andiamo all'infinito e a sinistra zero cinque.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4187,7 +4189,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a473" TIME_SLOT_REF1="ts944" TIME_SLOT_REF2="ts945">
-				<ANNOTATION_VALUE>eh: non non stanno a far la tabella doppia cioé non: (.) eh=è scritta così semplicemente perché andarla a raddoppiar di là uno ci mette lo specchio e fatto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh: non non stanno a far la tabella doppia cioé non: {P} eh=è scritta così semplicemente perché andarla a raddoppiar di là uno ci mette lo specchio e fatto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4207,7 +4209,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a477" TIME_SLOT_REF1="ts952" TIME_SLOT_REF2="ts953">
-				<ANNOTATION_VALUE>eh::: ci fermiamo e poi vi faccio fare un esercizio (.) okay?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh::: ci fermiamo e poi vi faccio fare un esercizio {P} okay?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4257,7 +4259,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a490" TIME_SLOT_REF1="ts978" TIME_SLOT_REF2="ts979">
-				<ANNOTATION_VALUE>il luogo in cui ha frequentato le superiori (.) e che c'entra questo scusa?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il luogo in cui ha frequentato le superiori {P} e che c'entra questo scusa?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4297,12 +4299,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a500" TIME_SLOT_REF1="ts998" TIME_SLOT_REF2="ts999">
-				<ANNOTATION_VALUE>m::: (.) avete problemi su questo?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>m::: {P} avete problemi su questo?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a501" TIME_SLOT_REF1="ts1000" TIME_SLOT_REF2="ts1001">
-				<ANNOTATION_VALUE>no avete le tabelle avete tutto adesso (.) le tiro fuori anch'io le tabelle così</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no avete le tabelle avete tutto adesso {P} le tiro fuori anch'io le tabelle così</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4342,7 +4344,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a510" TIME_SLOT_REF1="ts1018" TIME_SLOT_REF2="ts1019">
-				<ANNOTATION_VALUE>uno (.) perché se fosse uno vorrebbe dire che io siccome (quell'area) è una probabilità (.) è la probabilità di avere</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>uno {P} perché se fosse uno vorrebbe dire che io siccome (quell'area) è una probabilità {P} è la probabilità di avere</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4352,17 +4354,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a512" TIME_SLOT_REF1="ts1022" TIME_SLOT_REF2="ts1023">
-				<ANNOTATION_VALUE>&gt;il che vorrebbe dire sostanzialmente&lt; che se io mi calcolo la media (.) mi calcolo esse</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;il che vorrebbe dire sostanzialmente&lt; che se io mi calcolo la media {P} mi calcolo esse</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a513" TIME_SLOT_REF1="ts1024" TIME_SLOT_REF2="ts1025">
-				<ANNOTATION_VALUE>tra: (.) la media meno esse e la media più esse ho il cento per cento dei dati manco per sogno proprio manco per sogno (.) guardate un po' quelli giusti</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tra: {P} la media meno esse e la media più esse ho il cento per cento dei dati manco per sogno proprio manco per sogno {P} guardate un po' quelli giusti</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a514" TIME_SLOT_REF1="ts1026" TIME_SLOT_REF2="ts1027">
-				<ANNOTATION_VALUE>questo purtroppo è la cosa che dice io ho considerato l'errore trovo tutto (.) no.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo purtroppo è la cosa che dice io ho considerato l'errore trovo tutto {P} no.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4372,7 +4374,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a516" TIME_SLOT_REF1="ts1030" TIME_SLOT_REF2="ts1031">
-				<ANNOTATION_VALUE>guardate un po' quanto viene (.) fate un conticino su</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>guardate un po' quanto viene {P} fate un conticino su</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4382,7 +4384,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a518" TIME_SLOT_REF1="ts1034" TIME_SLOT_REF2="ts1035">
-				<ANNOTATION_VALUE>la tabella devi guardare eh (.) bisogna guardar la tabella vien fuori dalla tabella quella domanda la risposta alla domanda che avevo fatto x</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la tabella devi guardare eh {P} bisogna guardar la tabella vien fuori dalla tabella quella domanda la risposta alla domanda che avevo fatto x</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4392,27 +4394,27 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a521" TIME_SLOT_REF1="ts1040" TIME_SLOT_REF2="ts1041">
-				<ANNOTATION_VALUE>non tirate a indovinare ragionate su (.) cosa c'è scritto nella tabella.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non tirate a indovinare ragionate su {P} cosa c'è scritto nella tabella.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a522" TIME_SLOT_REF1="ts1042" TIME_SLOT_REF2="ts1043">
-				<ANNOTATION_VALUE>quella tabella c'è scritto (.) zeta</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quella tabella c'è scritto {P} zeta</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a523" TIME_SLOT_REF1="ts1044" TIME_SLOT_REF2="ts1045">
-				<ANNOTATION_VALUE>con i numeri (.) e poi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>con i numeri {P} e poi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a524" TIME_SLOT_REF1="ts1046" TIME_SLOT_REF2="ts1047">
-				<ANNOTATION_VALUE>allora (.) cercate (.) cercate di mh mh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora {P} cercate {P} cercate di mh mh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a525" TIME_SLOT_REF1="ts1048" TIME_SLOT_REF2="ts1049">
-				<ANNOTATION_VALUE>come diceva fibonacci (.) qualsiasi parola (.) conta.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come diceva fibonacci {P} qualsiasi parola {P} conta.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4422,17 +4424,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a527" TIME_SLOT_REF1="ts1052" TIME_SLOT_REF2="ts1053">
-				<ANNOTATION_VALUE>la (.) distribuzione di gauss (.) ha (.) media zero (.) e deviazione standard (.) &lt;uno&gt;.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la {P} distribuzione di gauss {P} ha {P} media zero {P} e deviazione standard {P} &lt;uno&gt;.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a528" TIME_SLOT_REF1="ts1054" TIME_SLOT_REF2="ts1055">
-				<ANNOTATION_VALUE>quindi il fatto che sia uno quello zeta lì (.) che vedete zeta la tabella è rappresentata (.) tra</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi il fatto che sia uno quello zeta lì {P} che vedete zeta la tabella è rappresentata {P} tra</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a529" TIME_SLOT_REF1="ts1056" TIME_SLOT_REF2="ts1057">
-				<ANNOTATION_VALUE>zero (.) e tre.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>zero {P} e tre.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4442,7 +4444,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a531" TIME_SLOT_REF1="ts1060" TIME_SLOT_REF2="ts1061">
-				<ANNOTATION_VALUE>quindi (.) la colonna che dovete guardare e la (.) casella che dovete guardare è una sola</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi {P} la colonna che dovete guardare e la {P} casella che dovete guardare è una sola</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4452,7 +4454,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a533" TIME_SLOT_REF1="ts1064" TIME_SLOT_REF2="ts1065">
-				<ANNOTATION_VALUE>quant'è (.) il numero</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quant'è {P} il numero</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4462,7 +4464,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a538" TIME_SLOT_REF1="ts1074" TIME_SLOT_REF2="ts1075">
-				<ANNOTATION_VALUE>no (.) è sbagliata anche questa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no {P} è sbagliata anche questa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4472,17 +4474,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a540" TIME_SLOT_REF1="ts1078" TIME_SLOT_REF2="ts1079">
-				<ANNOTATION_VALUE>maggiore (.) di: (.) meno uno</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>maggiore {P} di: {P} meno uno</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a541" TIME_SLOT_REF1="ts1080" TIME_SLOT_REF2="ts1081">
-				<ANNOTATION_VALUE>e: (.) minore (.) di uno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: {P} minore {P} di uno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a542" TIME_SLOT_REF1="ts1082" TIME_SLOT_REF2="ts1083">
-				<ANNOTATION_VALUE>questo è tradotto in termini (.) di disuguaglianza (.) la domanda che avevo fatto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo è tradotto in termini {P} di disuguaglianza {P} la domanda che avevo fatto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4532,7 +4534,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a553" TIME_SLOT_REF1="ts1104" TIME_SLOT_REF2="ts1105">
-				<ANNOTATION_VALUE>se io questa qui me la spezzo in due (.) e devo farlo perché la tabella è simmetrica (.) io guardo soltanto la parte destra cioé (.) diventa minore di uno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se io questa qui me la spezzo in due {P} e devo farlo perché la tabella è simmetrica {P} io guardo soltanto la parte destra cioé {P} diventa minore di uno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4542,12 +4544,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a555" TIME_SLOT_REF1="ts1108" TIME_SLOT_REF2="ts1109">
-				<ANNOTATION_VALUE>corrispondente (.) a (.) zeta minore di uno (.) e quindi la probabilità</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>corrispondente {P} a {P} zeta minore di uno {P} e quindi la probabilità</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a556" TIME_SLOT_REF1="ts1110" TIME_SLOT_REF2="ts1111">
-				<ANNOTATION_VALUE>di zeta che è compreso tra zero (.) e uno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di zeta che è compreso tra zero {P} e uno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4582,32 +4584,32 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a564" TIME_SLOT_REF1="ts1126" TIME_SLOT_REF2="ts1127">
-				<ANNOTATION_VALUE>cioé l'area (.) vedete che (è) colorata in azzurro apposta.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioé l'area {P} vedete che (è) colorata in azzurro apposta.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a565" TIME_SLOT_REF1="ts1128" TIME_SLOT_REF2="ts1129">
-				<ANNOTATION_VALUE>l'area compresa tra zero (.) e (.) uno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'area compresa tra zero {P} e {P} uno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a566" TIME_SLOT_REF1="ts1130" TIME_SLOT_REF2="ts1131">
-				<ANNOTATION_VALUE>siccome quella (.) quella tabella lì è una tabella (.) fatta (.) per tutti i valori di zeta</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>siccome quella {P} quella tabella lì è una tabella {P} fatta {P} per tutti i valori di zeta</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a567" TIME_SLOT_REF1="ts1132" TIME_SLOT_REF2="ts1133">
-				<ANNOTATION_VALUE>se zeta io lo prendo (.) uguale a sigma cioé è uno (.) sigma è unitario &gt;ragione per cui mi da: la tabella è normale&lt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se zeta io lo prendo {P} uguale a sigma cioé è uno {P} sigma è unitario &gt;ragione per cui mi da: la tabella è normale&lt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a568" TIME_SLOT_REF1="ts1134" TIME_SLOT_REF2="ts1135">
-				<ANNOTATION_VALUE>devo andare a vedere qual è (.) l'area compresa tra zero</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>devo andare a vedere qual è {P} l'area compresa tra zero</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a569" TIME_SLOT_REF1="ts1136" TIME_SLOT_REF2="ts1137">
-				<ANNOTATION_VALUE>e (.) il valore che sto prendendo come sigma che è uno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} il valore che sto prendendo come sigma che è uno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4632,7 +4634,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a575" TIME_SLOT_REF1="ts1148" TIME_SLOT_REF2="ts1149">
-				<ANNOTATION_VALUE>è sessantotto e ves~ sessantotto (.) diciam sessantotto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è sessantotto e ves~ sessantotto {P} diciam sessantotto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4642,7 +4644,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a577" TIME_SLOT_REF1="ts1152" TIME_SLOT_REF2="ts1153">
-				<ANNOTATION_VALUE>zeta (.) meno sigma (.) e zeta più sigma</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>zeta {P} meno sigma {P} e zeta più sigma</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4672,17 +4674,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a583" TIME_SLOT_REF1="ts1164" TIME_SLOT_REF2="ts1165">
-				<ANNOTATION_VALUE>che poi diventava sei e trentasette (.) più e meno uno: (.) per dieci (.) alla quattro (.) meno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che poi diventava sei e trentasette {P} più e meno uno: {P} per dieci {P} alla quattro {P} meno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a584" TIME_SLOT_REF1="ts1166" TIME_SLOT_REF2="ts1167">
-				<ANNOTATION_VALUE>questo era (.) la maniera in cui la scrivevamo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo era {P} la maniera in cui la scrivevamo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a585" TIME_SLOT_REF1="ts1168" TIME_SLOT_REF2="ts1169">
-				<ANNOTATION_VALUE>ma (.) non è che tutti i valori sono compresi tra</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma {P} non è che tutti i valori sono compresi tra</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4702,7 +4704,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a589" TIME_SLOT_REF1="ts1176" TIME_SLOT_REF2="ts1177">
-				<ANNOTATION_VALUE>&lt;e: tra il: eh: meno:&gt; (.) due sigma e più due sigma?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&lt;e: tra il: eh: meno:&gt; {P} due sigma e più due sigma?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4732,17 +4734,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a596" TIME_SLOT_REF1="ts1190" TIME_SLOT_REF2="ts1191">
-				<ANNOTATION_VALUE>quindi diventa nove cinque e qualcosa cioè (.) praticamente quello che succede (.) è che</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi diventa nove cinque e qualcosa cioè {P} praticamente quello che succede {P} è che</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a597" TIME_SLOT_REF1="ts1192" TIME_SLOT_REF2="ts1193">
-				<ANNOTATION_VALUE>tra: (.) quel valore (.) meno (.) i due sigma (.) e (.) quel la media (.) più quel (.) i due sigma</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tra: {P} quel valore {P} meno {P} i due sigma {P} e {P} quel la media {P} più quel {P} i due sigma</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a598" TIME_SLOT_REF1="ts1194" TIME_SLOT_REF2="ts1195">
-				<ANNOTATION_VALUE>automaticamente vi viene fuori (.) che c'avete il novantacinque per cento x o il cento per cento</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>automaticamente vi viene fuori {P} che c'avete il novantacinque per cento x o il cento per cento</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4752,7 +4754,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a600" TIME_SLOT_REF1="ts1198" TIME_SLOT_REF2="ts1199">
-				<ANNOTATION_VALUE>attenzione che il cinque per cento vuol dire (.) cinque volte su cento</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>attenzione che il cinque per cento vuol dire {P} cinque volte su cento</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4762,7 +4764,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a602" TIME_SLOT_REF1="ts1202" TIME_SLOT_REF2="ts1203">
-				<ANNOTATION_VALUE>&gt;una volta su venti per caso&lt; (.) &gt;vi dovete aspettare che&lt; (.) abbiate un valore che è al di fuori.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;una volta su venti per caso&lt; {P} &gt;vi dovete aspettare che&lt; {P} abbiate un valore che è al di fuori.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4782,12 +4784,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a606" TIME_SLOT_REF1="ts1210" TIME_SLOT_REF2="ts1211">
-				<ANNOTATION_VALUE>più (.) oltre i venti chilometri</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>più {P} oltre i venti chilometri</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a607" TIME_SLOT_REF1="ts1212" TIME_SLOT_REF2="ts1213">
-				<ANNOTATION_VALUE>di sotto e di sopra (.) io mi devo aspettare una misura su venti quando vado a fare le misura no:n &gt;c'è mica niente di male&lt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di sotto e di sopra {P} io mi devo aspettare una misura su venti quando vado a fare le misura no:n &gt;c'è mica niente di male&lt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4797,12 +4799,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a609" TIME_SLOT_REF1="ts1216" TIME_SLOT_REF2="ts1217">
-				<ANNOTATION_VALUE>la curva di gauss dice esattamente quello (.) ho avrò dei valori dei valori strani.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la curva di gauss dice esattamente quello {P} ho avrò dei valori dei valori strani.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a610" TIME_SLOT_REF1="ts1218" TIME_SLOT_REF2="ts1219">
-				<ANNOTATION_VALUE>e ne avrò (.) in proporzione di questo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e ne avrò {P} in proporzione di questo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4812,12 +4814,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a612" TIME_SLOT_REF1="ts1222" TIME_SLOT_REF2="ts1223">
-				<ANNOTATION_VALUE>tra meno tre sigma e: (.) più tre sigma.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tra meno tre sigma e: {P} più tre sigma.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a613" TIME_SLOT_REF1="ts1224" TIME_SLOT_REF2="ts1225">
-				<ANNOTATION_VALUE>mh: (.) pochino di più.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mh: {P} pochino di più.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4832,17 +4834,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a617" TIME_SLOT_REF1="ts1232" TIME_SLOT_REF2="ts1233">
-				<ANNOTATION_VALUE>esattamente allora se noi andiamo a prendere il meno tre (.) e il più tre: (.) vuol dire andare a prendere quattro (.) zero punto quattro nove otto sette e moltiplicarlo per due.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>esattamente allora se noi andiamo a prendere il meno tre {P} e il più tre: {P} vuol dire andare a prendere quattro {P} zero punto quattro nove otto sette e moltiplicarlo per due.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a618" TIME_SLOT_REF1="ts1234" TIME_SLOT_REF2="ts1235">
-				<ANNOTATION_VALUE>quello che rimane (.) è molto poco (.) è un pochino (.) il due per mille dai alla fine dei conti qualcosa del genere.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quello che rimane {P} è molto poco {P} è un pochino {P} il due per mille dai alla fine dei conti qualcosa del genere.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a619" TIME_SLOT_REF1="ts1236" TIME_SLOT_REF2="ts1237">
-				<ANNOTATION_VALUE>però anche lì (.) se io (.) mh:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però anche lì {P} se io {P} mh:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4857,22 +4859,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a622" TIME_SLOT_REF1="ts1242" TIME_SLOT_REF2="ts1243">
-				<ANNOTATION_VALUE>e (.) vado a fare un numero di campionamenti grande tipo duemila o tremila misure io mi devo aspettare uno scostamento (.) di trenta mentri non di: di trenta chilomentri non: di: di tre chilometri (.) seguendo la gaussiana.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} vado a fare un numero di campionamenti grande tipo duemila o tremila misure io mi devo aspettare uno scostamento {P} di trenta mentri non di: di trenta chilomentri non: di: di tre chilometri {P} seguendo la gaussiana.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a623" TIME_SLOT_REF1="ts1244" TIME_SLOT_REF2="ts1245">
-				<ANNOTATION_VALUE>ovviamente questo (.) eh:: fa sì che: (.) la maggior parte dei casi (.) nella maggior parte dei casi ci siano dei fraintendimenti incredibili.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ovviamente questo {P} eh:: fa sì che: {P} la maggior parte dei casi {P} nella maggior parte dei casi ci siano dei fraintendimenti incredibili.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a624" TIME_SLOT_REF1="ts1246" TIME_SLOT_REF2="ts1247">
-				<ANNOTATION_VALUE>e quindi::: dobbiamo imparare a usarlo (.) cioè (.) non:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi::: dobbiamo imparare a usarlo {P} cioè {P} non:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a625" TIME_SLOT_REF1="ts1248" TIME_SLOT_REF2="ts1249">
-				<ANNOTATION_VALUE>&gt;dobbiamo imparare a calcolare (meglio il reale) poi (.) a fare in modo che questa cosa&lt; diventi automatica.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;dobbiamo imparare a calcolare (meglio il reale) poi {P} a fare in modo che questa cosa&lt; diventi automatica.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4897,7 +4899,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a630" TIME_SLOT_REF1="ts1258" TIME_SLOT_REF2="ts1259">
-				<ANNOTATION_VALUE>meno uno (.) e due.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>meno uno {P} e due.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4917,7 +4919,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a637" TIME_SLOT_REF1="ts1272" TIME_SLOT_REF2="ts1273">
-				<ANNOTATION_VALUE>come hai fatto a fare il conto ottantun~ a memoria (.) come hai fatto a fare?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>come hai fatto a fare il conto ottantun~ a memoria {P} come hai fatto a fare?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4932,22 +4934,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a641" TIME_SLOT_REF1="ts1280" TIME_SLOT_REF2="ts1281">
-				<ANNOTATION_VALUE>a memoria mi viene diverso ma vabbè (.) si è giusto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a memoria mi viene diverso ma vabbè {P} si è giusto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a642" TIME_SLOT_REF1="ts1282" TIME_SLOT_REF2="ts1283">
-				<ANNOTATION_VALUE>sissignore allora in questo caso dovete sommare due (.) zeta uguale a due a destra</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sissignore allora in questo caso dovete sommare due {P} zeta uguale a due a destra</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a643" TIME_SLOT_REF1="ts1284" TIME_SLOT_REF2="ts1285">
-				<ANNOTATION_VALUE>con zeta uguale uno (.) a sinistra (.) li state sommando.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>con zeta uguale uno {P} a sinistra {P} li state sommando.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a644" TIME_SLOT_REF1="ts1286" TIME_SLOT_REF2="ts1287">
-				<ANNOTATION_VALUE>e se fosse invece il valore compreso tra (.) zeta uno e zeta due (.) non meno uno e due ma zeta uno e zeta due quant'è?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e se fosse invece il valore compreso tra {P} zeta uno e zeta due {P} non meno uno e due ma zeta uno e zeta due quant'è?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4957,17 +4959,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a646" TIME_SLOT_REF1="ts1290" TIME_SLOT_REF2="ts1291">
-				<ANNOTATION_VALUE>uno (.) e due (.) tutte due positivi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>uno {P} e due {P} tutte due positivi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a647" TIME_SLOT_REF1="ts1292" TIME_SLOT_REF2="ts1293">
-				<ANNOTATION_VALUE>sissignore &gt;perché (.) quello che dobbiamo fare cioè quello che viene chiesto è sostanzialmente&lt; l'area compresa tra</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sissignore &gt;perché {P} quello che dobbiamo fare cioè quello che viene chiesto è sostanzialmente&lt; l'area compresa tra</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a648" TIME_SLOT_REF1="ts1294" TIME_SLOT_REF2="ts1295">
-				<ANNOTATION_VALUE>uno e due (.) quindi devo andare aprendere tutta l'area (.) sino a due (.) e toglierli questa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>uno e due {P} quindi devo andare aprendere tutta l'area {P} sino a due {P} e toglierli questa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4982,12 +4984,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a651" TIME_SLOT_REF1="ts1300" TIME_SLOT_REF2="ts1301">
-				<ANNOTATION_VALUE>due (.) meno uno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>due {P} meno uno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a652" TIME_SLOT_REF1="ts1302" TIME_SLOT_REF2="ts1303">
-				<ANNOTATION_VALUE>area (.) due (.) meno (.) area uno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>area {P} due {P} meno {P} area uno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4997,7 +4999,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a654" TIME_SLOT_REF1="ts1306" TIME_SLOT_REF2="ts1307">
-				<ANNOTATION_VALUE>eh:: (.) chiaro a tutti?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh:: {P} chiaro a tutti?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5012,7 +5014,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a657" TIME_SLOT_REF1="ts1312" TIME_SLOT_REF2="ts1313">
-				<ANNOTATION_VALUE>un valore che sia (.) minore (.) della media meno un sigma.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un valore che sia {P} minore {P} della media meno un sigma.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5027,7 +5029,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a660" TIME_SLOT_REF1="ts1318" TIME_SLOT_REF2="ts1319">
-				<ANNOTATION_VALUE>la media sta qui (.) in centro.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la media sta qui {P} in centro.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5072,32 +5074,32 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a671" TIME_SLOT_REF1="ts1340" TIME_SLOT_REF2="ts1341">
-				<ANNOTATION_VALUE>la vostra tabella (.) sostanzialmente vi da la parte destra non vi da la parte sinistra ma (.) potete ragionare come se foste allo specchio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la vostra tabella {P} sostanzialmente vi da la parte destra non vi da la parte sinistra ma {P} potete ragionare come se foste allo specchio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a672" TIME_SLOT_REF1="ts1342" TIME_SLOT_REF2="ts1343">
-				<ANNOTATION_VALUE>quindi tutta questa cosa qui voi la trasferite (.) dall'altra parte (.) e ragionate sulla parte destra quello che vi si chiede (.) è questo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi tutta questa cosa qui voi la trasferite {P} dall'altra parte {P} e ragionate sulla parte destra quello che vi si chiede {P} è questo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a673" TIME_SLOT_REF1="ts1344" TIME_SLOT_REF2="ts1345">
-				<ANNOTATION_VALUE>cioè la parte che sta a sinistra (del quad~) ma di fatto (.) è come se fosse tutto qui.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè la parte che sta a sinistra (del quad~) ma di fatto {P} è come se fosse tutto qui.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a674" TIME_SLOT_REF1="ts1346" TIME_SLOT_REF2="ts1347">
-				<ANNOTATION_VALUE>perché è allo specchio (.) allora quanto vale questo, da qua in qua vale zero cinque.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché è allo specchio {P} allora quanto vale questo, da qua in qua vale zero cinque.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a675" TIME_SLOT_REF1="ts1348" TIME_SLOT_REF2="ts1349">
-				<ANNOTATION_VALUE>questo qui (.) sino a un sigma vale (.) zero tre quattro uno tre</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo qui {P} sino a un sigma vale {P} zero tre quattro uno tre</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a676" TIME_SLOT_REF1="ts1350" TIME_SLOT_REF2="ts1351">
-				<ANNOTATION_VALUE>e quindi questo qui non è nient'altro che zero cinque (.) meno (.) zero tre eh (.) tre quattro (.) uno tre.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi questo qui non è nient'altro che zero cinque {P} meno {P} zero tre eh {P} tre quattro {P} uno tre.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5107,12 +5109,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a678" TIME_SLOT_REF1="ts1354" TIME_SLOT_REF2="ts1355">
-				<ANNOTATION_VALUE>attenzione che in questo dal punto di vista morfologico si chiama (.) la coda della distribuzione vuol dire i valori che stanno</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>attenzione che in questo dal punto di vista morfologico si chiama {P} la coda della distribuzione vuol dire i valori che stanno</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a679" TIME_SLOT_REF1="ts1356" TIME_SLOT_REF2="ts1357">
-				<ANNOTATION_VALUE>più piccoli (.) o più grandi (.) rispetto a un certo valore di solito è quello che interessa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>più piccoli {P} o più grandi {P} rispetto a un certo valore di solito è quello che interessa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5122,7 +5124,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a681" TIME_SLOT_REF1="ts1360" TIME_SLOT_REF2="ts1361">
-				<ANNOTATION_VALUE>per esempio (.) se io ho un:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per esempio {P} se io ho un:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5137,7 +5139,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a684" TIME_SLOT_REF1="ts1366" TIME_SLOT_REF2="ts1367">
-				<ANNOTATION_VALUE>io non voglio stare (.) oltre quello strappo (.) quindi la probabilità che ho (.) di avere</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>io non voglio stare {P} oltre quello strappo {P} quindi la probabilità che ho {P} di avere</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5152,17 +5154,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a687" TIME_SLOT_REF1="ts1372" TIME_SLOT_REF2="ts1373">
-				<ANNOTATION_VALUE>cioé (.) la probabilità</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioé {P} la probabilità</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a688" TIME_SLOT_REF1="ts1374" TIME_SLOT_REF2="ts1375">
-				<ANNOTATION_VALUE>di (.) rottura non è nient'altro che la probabilità di av~ dei calchi maggiori (.) di un certo valore oltre la media.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di {P} rottura non è nient'altro che la probabilità di av~ dei calchi maggiori {P} di un certo valore oltre la media.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a689" TIME_SLOT_REF1="ts1376" TIME_SLOT_REF2="ts1377">
-				<ANNOTATION_VALUE>quindi (.) o se no se volete l'inquinamento (.) è la stessa cosa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi {P} o se no se volete l'inquinamento {P} è la stessa cosa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5172,7 +5174,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a691" TIME_SLOT_REF1="ts1380" TIME_SLOT_REF2="ts1381">
-				<ANNOTATION_VALUE>un pochino di manualità sulla tabella dunque vediamo (.) eh:m:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un pochino di manualità sulla tabella dunque vediamo {P} eh:m:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5182,22 +5184,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a693" TIME_SLOT_REF1="ts1384" TIME_SLOT_REF2="ts1385">
-				<ANNOTATION_VALUE>superiori (.) al doppio (.) della deviazione standard (.) cioè di andare (.) la media</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>superiori {P} al doppio {P} della deviazione standard {P} cioè di andare {P} la media</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a694" TIME_SLOT_REF1="ts1386" TIME_SLOT_REF2="ts1387">
-				<ANNOTATION_VALUE>oltre (.) due sigma (.) dalla media.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>oltre {P} due sigma {P} dalla media.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a695" TIME_SLOT_REF1="ts1388" TIME_SLOT_REF2="ts1389">
-				<ANNOTATION_VALUE>disegnino (.) e il conto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>disegnino {P} e il conto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a697" TIME_SLOT_REF1="ts1392" TIME_SLOT_REF2="ts1393">
-				<ANNOTATION_VALUE>più o meno sì però (.) più o meno.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>più o meno sì però {P} più o meno.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5212,7 +5214,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a701" TIME_SLOT_REF1="ts1400" TIME_SLOT_REF2="ts1401">
-				<ANNOTATION_VALUE>voi dovete andare a prendere (.) il due da zero (.) anche qui per differenza.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>voi dovete andare a prendere {P} il due da zero {P} anche qui per differenza.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5237,12 +5239,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a706" TIME_SLOT_REF1="ts1410" TIME_SLOT_REF2="ts1411">
-				<ANNOTATION_VALUE>il tutto (.) è zero cinque (.) qui ho due (.) devo andare a fare</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il tutto {P} è zero cinque {P} qui ho due {P} devo andare a fare</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a707" TIME_SLOT_REF1="ts1412" TIME_SLOT_REF2="ts1413">
-				<ANNOTATION_VALUE>dalla tabella leggo questo (.) che è zero quattro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dalla tabella leggo questo {P} che è zero quattro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5267,7 +5269,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a713" TIME_SLOT_REF1="ts1424" TIME_SLOT_REF2="ts1425">
-				<ANNOTATION_VALUE>la probabilità che io ho di avere valori superiori alla media (.) è il cinquanta per cento.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la probabilità che io ho di avere valori superiori alla media {P} è il cinquanta per cento.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5277,7 +5279,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a715" TIME_SLOT_REF1="ts1428" TIME_SLOT_REF2="ts1429">
-				<ANNOTATION_VALUE>superiori a un certo valore (.) devo andarmi a guardar la tabella</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>superiori a un certo valore {P} devo andarmi a guardar la tabella</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5287,7 +5289,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a717" TIME_SLOT_REF1="ts1432" TIME_SLOT_REF2="ts1433">
-				<ANNOTATION_VALUE>disegnino (.) e e e lettura di tabella.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>disegnino {P} e e e lettura di tabella.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5302,7 +5304,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a721" TIME_SLOT_REF1="ts1440" TIME_SLOT_REF2="ts1441">
-				<ANNOTATION_VALUE>la (.) superiore alla media</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la {P} superiore alla media</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5322,7 +5324,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a725" TIME_SLOT_REF1="ts1448" TIME_SLOT_REF2="ts1449">
-				<ANNOTATION_VALUE>il disegnino (.) va sempre fatto la (.) bisogna sempre farsi la (gaussiano)</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il disegnino {P} va sempre fatto la {P} bisogna sempre farsi la (gaussiano)</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5337,7 +5339,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a728" TIME_SLOT_REF1="ts1454" TIME_SLOT_REF2="ts1455">
-				<ANNOTATION_VALUE>quindi a me interessa (.) superiori alla media meno sigma &gt;devo andare a prendere&lt; ((scrive_alla_lavagna))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi a me interessa {P} superiori alla media meno sigma &gt;devo andare a prendere&lt; {scrive_alla_lavagna}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5362,7 +5364,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a734" TIME_SLOT_REF1="ts1466" TIME_SLOT_REF2="ts1467">
-				<ANNOTATION_VALUE>allora (.) eh:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora {P} eh:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5372,17 +5374,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a736" TIME_SLOT_REF1="ts1470" TIME_SLOT_REF2="ts1471">
-				<ANNOTATION_VALUE>i due passi assieme vuol dire (.) sino adesso stiam lavoran~ su zeta</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>i due passi assieme vuol dire {P} sino adesso stiam lavoran~ su zeta</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a737" TIME_SLOT_REF1="ts1472" TIME_SLOT_REF2="ts1473">
-				<ANNOTATION_VALUE>ma su zeta perché (.) l'abbiam già (convertito) &gt;ci dobbiamo aggiungere la standardizzazione (.) che è questo&lt;.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma su zeta perché {P} l'abbiam già (convertito) &gt;ci dobbiamo aggiungere la standardizzazione {P} che è questo&lt;.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a738" TIME_SLOT_REF1="ts1474" TIME_SLOT_REF2="ts1475">
-				<ANNOTATION_VALUE>allora supponiamo di avere ((scrive_alla_lavagna))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora supponiamo di avere {scrive_alla_lavagna}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5392,17 +5394,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a740" TIME_SLOT_REF1="ts1478" TIME_SLOT_REF2="ts1479">
-				<ANNOTATION_VALUE>facciam le misure (.) supponiam che qualcuno che qualcuno le abbia già fatte le misure</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>facciam le misure {P} supponiam che qualcuno che qualcuno le abbia già fatte le misure</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a741" TIME_SLOT_REF1="ts1480" TIME_SLOT_REF2="ts1481">
-				<ANNOTATION_VALUE>e (.) la media dello strato dei sedimenti (.) in una certa zona ci viene (.) quarantadue metri.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} la media dello strato dei sedimenti {P} in una certa zona ci viene {P} quarantadue metri.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a742" TIME_SLOT_REF1="ts1482" TIME_SLOT_REF2="ts1483">
-				<ANNOTATION_VALUE>ovviamente ci viene anche il parametro di locazione il parametro di locazione (.) è (.) sedici metri.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ovviamente ci viene anche il parametro di locazione il parametro di locazione {P} è {P} sedici metri.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5422,12 +5424,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a746" TIME_SLOT_REF1="ts1490" TIME_SLOT_REF2="ts1491">
-				<ANNOTATION_VALUE>dobbiamo passare da (.) ics (.) a zeta (.) dove zeta non è nient'altro che ics</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dobbiamo passare da {P} ics {P} a zeta {P} dove zeta non è nient'altro che ics</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a747" TIME_SLOT_REF1="ts1492" TIME_SLOT_REF2="ts1493">
-				<ANNOTATION_VALUE>meno ics medio (.) fratto esse</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>meno ics medio {P} fratto esse</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5447,7 +5449,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a751" TIME_SLOT_REF1="ts1500" TIME_SLOT_REF2="ts1501">
-				<ANNOTATION_VALUE>&lt;qual è (.) la probabilità (.) di incontrare dei sedimenti che siano maggiori&gt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&lt;qual è {P} la probabilità {P} di incontrare dei sedimenti che siano maggiori&gt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5457,7 +5459,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a753" TIME_SLOT_REF1="ts1504" TIME_SLOT_REF2="ts1505">
-				<ANNOTATION_VALUE>&lt;di (.) trenta metri&gt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&lt;di {P} trenta metri&gt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5472,12 +5474,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a756" TIME_SLOT_REF1="ts1510" TIME_SLOT_REF2="ts1511">
-				<ANNOTATION_VALUE>sette minuti per risolvere la cosa ciascuno: (.) cercando di fare il più possibile da solo perché</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sette minuti per risolvere la cosa ciascuno: {P} cercando di fare il più possibile da solo perché</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a757" TIME_SLOT_REF1="ts1512" TIME_SLOT_REF2="ts1513">
-				<ANNOTATION_VALUE>se chiede a quello di fianco (.) magari succede che quello di fianco x non ce l'ha (.) sicuramente non ce l'ha di fianco al compito perché</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se chiede a quello di fianco {P} magari succede che quello di fianco x non ce l'ha {P} sicuramente non ce l'ha di fianco al compito perché</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5487,7 +5489,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a759" TIME_SLOT_REF1="ts1516" TIME_SLOT_REF2="ts1517">
-				<ANNOTATION_VALUE>quantomeno (.) fatelo per l'esame.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quantomeno {P} fatelo per l'esame.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5502,7 +5504,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a762" TIME_SLOT_REF1="ts1522" TIME_SLOT_REF2="ts1523">
-				<ANNOTATION_VALUE>si impara (.) poco.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si impara {P} poco.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5512,7 +5514,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a764" TIME_SLOT_REF1="ts1526" TIME_SLOT_REF2="ts1527">
-				<ANNOTATION_VALUE>adesso vi metto dell'ansia addosso (.) forza dai.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>adesso vi metto dell'ansia addosso {P} forza dai.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5537,27 +5539,27 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a769" TIME_SLOT_REF1="ts1536" TIME_SLOT_REF2="ts1537">
-				<ANNOTATION_VALUE>non è nient'altro che (.) state attenti qua xxx proviamo a farne degli altri di esercizi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non è nient'altro che {P} state attenti qua xxx proviamo a farne degli altri di esercizi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a770" TIME_SLOT_REF1="ts1538" TIME_SLOT_REF2="ts1539">
-				<ANNOTATION_VALUE>eh non è nient'altro che come: (.) la domanda di prima solo che questa è scritt~ (.) eh è detta in italiano mentre quella (.) l'altra era già scritta in termini:: matematici cioè</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh non è nient'altro che come: {P} la domanda di prima solo che questa è scritt~ {P} eh è detta in italiano mentre quella {P} l'altra era già scritta in termini:: matematici cioè</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a771" TIME_SLOT_REF1="ts1540" TIME_SLOT_REF2="ts1541">
-				<ANNOTATION_VALUE>noi (.) l~ la domanda (.) è</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>noi {P} l~ la domanda {P} è</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a772" TIME_SLOT_REF1="ts1542" TIME_SLOT_REF2="ts1543">
-				<ANNOTATION_VALUE>ics maggiore di trenta (.) ma noi (.) l'unica cosa che dobbiamo fare (.) è tradurci (.) ics</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ics maggiore di trenta {P} ma noi {P} l'unica cosa che dobbiamo fare {P} è tradurci {P} ics</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a773" TIME_SLOT_REF1="ts1544" TIME_SLOT_REF2="ts1545">
-				<ANNOTATION_VALUE>in zeta (.) semplicemente utilizzando la standardizzazione e cioè</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in zeta {P} semplicemente utilizzando la standardizzazione e cioè</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5567,7 +5569,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a775" TIME_SLOT_REF1="ts1548" TIME_SLOT_REF2="ts1549">
-				<ANNOTATION_VALUE>è zeta (.) dobbiamo andare a mettere trenta qui</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è zeta {P} dobbiamo andare a mettere trenta qui</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5577,7 +5579,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a777" TIME_SLOT_REF1="ts1552" TIME_SLOT_REF2="ts1553">
-				<ANNOTATION_VALUE>diviso esse che è sedici (.) e ci viene?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>diviso esse che è sedici {P} e ci viene?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5597,22 +5599,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a783" TIME_SLOT_REF1="ts1564" TIME_SLOT_REF2="ts1565">
-				<ANNOTATION_VALUE>qual è la probabilità (.) che</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>qual è la probabilità {P} che</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a784" TIME_SLOT_REF1="ts1566" TIME_SLOT_REF2="ts1567">
-				<ANNOTATION_VALUE>ics sia maggiore di trenta (.) e quindi (.) tradotto in termini di zeta che (la zeta) sia maggiore di zero settantacinque (.) che è?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ics sia maggiore di trenta {P} e quindi {P} tradotto in termini di zeta che (la zeta) sia maggiore di zero settantacinque {P} che è?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a786" TIME_SLOT_REF1="ts1570" TIME_SLOT_REF2="ts1571">
-				<ANNOTATION_VALUE>perché zero settantacinque lo devo andare a leggere in tabella e diventa (.) zero (.) due sette tre quattro.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché zero settantacinque lo devo andare a leggere in tabella e diventa {P} zero {P} due sette tre quattro.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a787" TIME_SLOT_REF1="ts1572" TIME_SLOT_REF2="ts1573">
-				<ANNOTATION_VALUE>più ci devo aggiungere (.) ovviamente</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>più ci devo aggiungere {P} ovviamente</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5627,12 +5629,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a790" TIME_SLOT_REF1="ts1578" TIME_SLOT_REF2="ts1579">
-				<ANNOTATION_VALUE>&gt;funzionan tutti così funzionan tutti in questa maniera&lt; cioè (.) in realtà (.) la traduzione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;funzionan tutti così funzionan tutti in questa maniera&lt; cioè {P} in realtà {P} la traduzione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a791" TIME_SLOT_REF1="ts1580" TIME_SLOT_REF2="ts1581">
-				<ANNOTATION_VALUE>dall'italiano al al valore (.) passa attraverso la standardizzazione (.) e il campo della probabilità passa attraverso la tabella.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dall'italiano al al valore {P} passa attraverso la standardizzazione {P} e il campo della probabilità passa attraverso la tabella.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5657,17 +5659,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a796" TIME_SLOT_REF1="ts1590" TIME_SLOT_REF2="ts1591">
-				<ANNOTATION_VALUE>boh (.) però (.) s~ qualcuno lo avrà letto chissà che dati ha preso</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>boh {P} però {P} s~ qualcuno lo avrà letto chissà che dati ha preso</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a797" TIME_SLOT_REF1="ts1592" TIME_SLOT_REF2="ts1593">
-				<ANNOTATION_VALUE>quest'anno sicuramente a bologna ci son stati più di quarantadrammi c'è stato il record (.) però</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quest'anno sicuramente a bologna ci son stati più di quarantadrammi c'è stato il record {P} però</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a798" TIME_SLOT_REF1="ts1594" TIME_SLOT_REF2="ts1595">
-				<ANNOTATION_VALUE>attenzione che la media delle temperature (.) in: (.) luglio a bologna</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>attenzione che la media delle temperature {P} in: {P} luglio a bologna</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5682,7 +5684,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a801" TIME_SLOT_REF1="ts1600" TIME_SLOT_REF2="ts1601">
-				<ANNOTATION_VALUE>e la deviazione standard (.) è</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e la deviazione standard {P} è</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5697,12 +5699,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a804" TIME_SLOT_REF1="ts1606" TIME_SLOT_REF2="ts1607">
-				<ANNOTATION_VALUE>che la temperatura (.) a bologna</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che la temperatura {P} a bologna</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a805" TIME_SLOT_REF1="ts1608" TIME_SLOT_REF2="ts1609">
-				<ANNOTATION_VALUE>sia maggiore di quaranta gradi? ((scrive_alla_lavagna))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sia maggiore di quaranta gradi? {scrive_alla_lavagna}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5747,17 +5749,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a816" TIME_SLOT_REF1="ts1630" TIME_SLOT_REF2="ts1631">
-				<ANNOTATION_VALUE>uno virgola trentatré in tabella (.) che è</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>uno virgola trentatré in tabella {P} che è</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a817" TIME_SLOT_REF1="ts1632" TIME_SLOT_REF2="ts1633">
-				<ANNOTATION_VALUE>zero virgola quattro zero otto due (.) giusto?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>zero virgola quattro zero otto due {P} giusto?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a818" TIME_SLOT_REF1="ts1634" TIME_SLOT_REF2="ts1635">
-				<ANNOTATION_VALUE>e (.) zero virgola cinque meno zero virgola quattro zero otto due vi dà (.) il il valore.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} zero virgola cinque meno zero virgola quattro zero otto due vi dà {P} il il valore.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5777,12 +5779,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a822" TIME_SLOT_REF1="ts1642" TIME_SLOT_REF2="ts1643">
-				<ANNOTATION_VALUE>maggiore di: (.) quaranta</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>maggiore di: {P} quaranta</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a823" TIME_SLOT_REF1="ts1644" TIME_SLOT_REF2="ts1645">
-				<ANNOTATION_VALUE>è (.) dell'ordine (.) del (.) circa (.) mh (.) lo zero nove per cento.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è {P} dell'ordine {P} del {P} circa {P} mh {P} lo zero nove per cento.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5792,7 +5794,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a825" TIME_SLOT_REF1="ts1648" TIME_SLOT_REF2="ts1649">
-				<ANNOTATION_VALUE>significa che bene o male (.) è dell'ordine di una volta (.) per secolo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>significa che bene o male {P} è dell'ordine di una volta {P} per secolo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5802,17 +5804,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a827" TIME_SLOT_REF1="ts1652" TIME_SLOT_REF2="ts1653">
-				<ANNOTATION_VALUE>allora uno dice ma noi non abbiamo (.) le temperature han detto non capitava da duecento anni (.) ci credo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora uno dice ma noi non abbiamo {P} le temperature han detto non capitava da duecento anni {P} ci credo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a828" TIME_SLOT_REF1="ts1654" TIME_SLOT_REF2="ts1655">
-				<ANNOTATION_VALUE>ma (.) sicuramente anche peggio</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma {P} sicuramente anche peggio</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a829" TIME_SLOT_REF1="ts1656" TIME_SLOT_REF2="ts1657">
-				<ANNOTATION_VALUE>a parte il fatto che è una fluttuazione statistica e quindi il fatto che venga (.) l'una volta su cento mh:: non è che uno su cento può essere anche sì?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a parte il fatto che è una fluttuazione statistica e quindi il fatto che venga {P} l'una volta su cento mh:: non è che uno su cento può essere anche sì?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5832,7 +5834,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a837" TIME_SLOT_REF1="ts1672" TIME_SLOT_REF2="ts1673">
-				<ANNOTATION_VALUE>nove per cento certo (.) è quaranta non quarantotto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nove per cento certo {P} è quaranta non quarantotto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5847,7 +5849,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a840" TIME_SLOT_REF1="ts1678" TIME_SLOT_REF2="ts1679">
-				<ANNOTATION_VALUE>allora però (.) attenzione a maggior ragione (.) anche se venisse il nove per cento</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora però {P} attenzione a maggior ragione {P} anche se venisse il nove per cento</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5867,7 +5869,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a844" TIME_SLOT_REF1="ts1686" TIME_SLOT_REF2="ts1687">
-				<ANNOTATION_VALUE>se anche fosse una cosa x duecento anni x sì (.) &gt;ma duecento anni fa la temperatura dell'aeroporto non la misurava nessuno perché non c'era l'aereoporto&lt; per dirne una.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se anche fosse una cosa x duecento anni x sì {P} &gt;ma duecento anni fa la temperatura dell'aeroporto non la misurava nessuno perché non c'era l'aereoporto&lt; per dirne una.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5877,7 +5879,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a846" TIME_SLOT_REF1="ts1690" TIME_SLOT_REF2="ts1691">
-				<ANNOTATION_VALUE>gli stessi tipi di termometri probabilmente hanno abbiamo trent'anni di dati (.) e in trent'anni di dati ci stava benissimo un errore del genere (.) anche se i numeri erano vi ripeto citati a memoria e sicuramente non non giusti.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>gli stessi tipi di termometri probabilmente hanno abbiamo trent'anni di dati {P} e in trent'anni di dati ci stava benissimo un errore del genere {P} anche se i numeri erano vi ripeto citati a memoria e sicuramente non non giusti.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5887,7 +5889,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a848" TIME_SLOT_REF1="ts1694" TIME_SLOT_REF2="ts1695">
-				<ANNOTATION_VALUE>voi prendete i dati (.) li traducete in zeta (.) poi da zeta guardate la tabella (.) e poi tornate indietro e fate il confronto finale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>voi prendete i dati {P} li traducete in zeta {P} poi da zeta guardate la tabella {P} e poi tornate indietro e fate il confronto finale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5897,12 +5899,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a850" TIME_SLOT_REF1="ts1698" TIME_SLOT_REF2="ts1699">
-				<ANNOTATION_VALUE>il meccanismo è: è assolutamente: trasparente cioè non non c'è niente di difficile (nel conto) (.) si fa semplicemente così</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il meccanismo è: è assolutamente: trasparente cioè non non c'è niente di difficile (nel conto) {P} si fa semplicemente così</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a851" TIME_SLOT_REF1="ts1700" TIME_SLOT_REF2="ts1701">
-				<ANNOTATION_VALUE>e chiaro che se io devo trovare (.) i parametri media (.) e deviazione standard</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e chiaro che se io devo trovare {P} i parametri media {P} e deviazione standard</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5922,12 +5924,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a855" TIME_SLOT_REF1="ts1708" TIME_SLOT_REF2="ts1709">
-				<ANNOTATION_VALUE>cioè (.) il fatto che io creda al risultato</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè {P} il fatto che io creda al risultato</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a856" TIME_SLOT_REF1="ts1710" TIME_SLOT_REF2="ts1711">
-				<ANNOTATION_VALUE>deriva (.) semplicemente dal fatto (.) che io (.) credo (.) che (.) i miei dati rappresentino (.) sufficientemente la realtà (.) se di dati ne ho pochi (.) ci credo poco.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>deriva {P} semplicemente dal fatto {P} che io {P} credo {P} che {P} i miei dati rappresentino {P} sufficientemente la realtà {P} se di dati ne ho pochi {P} ci credo poco.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5937,22 +5939,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a858" TIME_SLOT_REF1="ts1714" TIME_SLOT_REF2="ts1715">
-				<ANNOTATION_VALUE>la probabilità mi vien fuori lo stesso (.) ma è una probabilità (.) che è non è una probabilità solida</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la probabilità mi vien fuori lo stesso {P} ma è una probabilità {P} che è non è una probabilità solida</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a859" TIME_SLOT_REF1="ts1716" TIME_SLOT_REF2="ts1717">
-				<ANNOTATION_VALUE>eh: ciò non toglie che vedete che la chiave adesso stiamo (.) mh: domani (.) ovviamente che è l'ultima lezione che facciam prima di natale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh: ciò non toglie che vedete che la chiave adesso stiamo {P} mh: domani {P} ovviamente che è l'ultima lezione che facciam prima di natale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a860" TIME_SLOT_REF1="ts1718" TIME_SLOT_REF2="ts1719">
-				<ANNOTATION_VALUE>stiamo entrando (.) nella: (.) nell'ambito di quello che volevamo cioè (.) noi abbiamo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>stiamo entrando {P} nella: {P} nell'ambito di quello che volevamo cioè {P} noi abbiamo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a861" TIME_SLOT_REF1="ts1720" TIME_SLOT_REF2="ts1721">
-				<ANNOTATION_VALUE>il modo di andare a valutare (.) una un'affermazione l'affermazione qual è,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il modo di andare a valutare {P} una un'affermazione l'affermazione qual è,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5972,7 +5974,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a865" TIME_SLOT_REF1="ts1728" TIME_SLOT_REF2="ts1729">
-				<ANNOTATION_VALUE>nessuno mi vieta di andare a confrontare due insiemi (.) e per esempio che ne so (.) di andare avedere se un insieme è uguale a un altro.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nessuno mi vieta di andare a confrontare due insiemi {P} e per esempio che ne so {P} di andare avedere se un insieme è uguale a un altro.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5982,12 +5984,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a867" TIME_SLOT_REF1="ts1732" TIME_SLOT_REF2="ts1733">
-				<ANNOTATION_VALUE>&lt;quanto è credibile un certo tipo di (.) conclusione&gt;.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&lt;quanto è credibile un certo tipo di {P} conclusione&gt;.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a868" TIME_SLOT_REF1="ts1734" TIME_SLOT_REF2="ts1735">
-				<ANNOTATION_VALUE>&gt;si chiama teoria statistica delle decisioni per questo&lt; perché non è che io faccia nulla di più (.) che non andare a decidere magari un sì o un no</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;si chiama teoria statistica delle decisioni per questo&lt; perché non è che io faccia nulla di più {P} che non andare a decidere magari un sì o un no</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5997,12 +5999,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a870" TIME_SLOT_REF1="ts1738" TIME_SLOT_REF2="ts1739">
-				<ANNOTATION_VALUE>attenzione che (.) &gt;salvo il fatto che il numero di dati che ho deve essere sufficiente salvo il fatto che i dati devono essere migliori possibili&lt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>attenzione che {P} &gt;salvo il fatto che il numero di dati che ho deve essere sufficiente salvo il fatto che i dati devono essere migliori possibili&lt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a871" TIME_SLOT_REF1="ts1740" TIME_SLOT_REF2="ts1741">
-				<ANNOTATION_VALUE>io riesco a ottenere (.) dando un numero (.) a quanto è credibile (.) la mia conclusione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>io riesco a ottenere {P} dando un numero {P} a quanto è credibile {P} la mia conclusione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6017,17 +6019,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a874" TIME_SLOT_REF1="ts1746" TIME_SLOT_REF2="ts1747">
-				<ANNOTATION_VALUE>quello che faremo è semplicemente utilizzare i dati per costruirci delle gaussiane (.) o qualcosa che ci assomiglia comunque delle curve a campana centrate</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quello che faremo è semplicemente utilizzare i dati per costruirci delle gaussiane {P} o qualcosa che ci assomiglia comunque delle curve a campana centrate</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a875" TIME_SLOT_REF1="ts1748" TIME_SLOT_REF2="ts1749">
-				<ANNOTATION_VALUE>e queste curve a campana (.) ognuna per insieme</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e queste curve a campana {P} ognuna per insieme</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a876" TIME_SLOT_REF1="ts1750" TIME_SLOT_REF2="ts1751">
-				<ANNOTATION_VALUE>ci permetteranno di andare ad a dare delle risposte (.) in fondo se volete tutte queste cose (.) poi vengono utilizzate tipicamente</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ci permetteranno di andare ad a dare delle risposte {P} in fondo se volete tutte queste cose {P} poi vengono utilizzate tipicamente</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6047,17 +6049,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a880" TIME_SLOT_REF1="ts1758" TIME_SLOT_REF2="ts1759">
-				<ANNOTATION_VALUE>cioè la risposta è (.) se è sano (.) o se è malato? non non è una cosa molto difficile</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè la risposta è {P} se è sano {P} o se è malato? non non è una cosa molto difficile</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a881" TIME_SLOT_REF1="ts1760" TIME_SLOT_REF2="ts1761">
-				<ANNOTATION_VALUE>ma in realtà la l: la domanda (.) la risposta alla domanda (.) passa (.) attraverso (.) operazioni di questo tipo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma in realtà la l: la domanda {P} la risposta alla domanda {P} passa {P} attraverso {P} operazioni di questo tipo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a882" TIME_SLOT_REF1="ts1762" TIME_SLOT_REF2="ts1763">
-				<ANNOTATION_VALUE>cioè si va a vedere se un parametro (.) misurato</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè si va a vedere se un parametro {P} misurato</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6077,12 +6079,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a886" TIME_SLOT_REF1="ts1770" TIME_SLOT_REF2="ts1771">
-				<ANNOTATION_VALUE>oppure viceversa (.) che per una persona malata (.) siano troppo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>oppure viceversa {P} che per una persona malata {P} siano troppo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a887" TIME_SLOT_REF1="ts1772" TIME_SLOT_REF2="ts1773">
-				<ANNOTATION_VALUE>diverse da quello che i malati hanno e quindi (.) che venga definito sano che sia definibile sano.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>diverse da quello che i malati hanno e quindi {P} che venga definito sano che sia definibile sano.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6092,17 +6094,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a889" TIME_SLOT_REF1="ts1776" TIME_SLOT_REF2="ts1777">
-				<ANNOTATION_VALUE>la logica è semplicemente questa (.) non non è molto dive~ cè</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la logica è semplicemente questa {P} non non è molto dive~ cè</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a890" TIME_SLOT_REF1="ts1778" TIME_SLOT_REF2="ts1779">
-				<ANNOTATION_VALUE>mh: eh non non c'è mai una certezza (.) ma c'è sempre una probabilità</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mh: eh non non c'è mai una certezza {P} ma c'è sempre una probabilità</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a891" TIME_SLOT_REF1="ts1780" TIME_SLOT_REF2="ts1781">
-				<ANNOTATION_VALUE>molto bassa di sbagliare (.) questo è quello che che si cerca di fare nella teoria statistica delle decisioni.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>molto bassa di sbagliare {P} questo è quello che che si cerca di fare nella teoria statistica delle decisioni.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6122,27 +6124,27 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a895" TIME_SLOT_REF1="ts1788" TIME_SLOT_REF2="ts1789">
-				<ANNOTATION_VALUE>(non son difficoltà il conto) la statistica (.) pratica è facile non: non c'è niente di difficile.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>(non son difficoltà il conto) la statistica {P} pratica è facile non: non c'è niente di difficile.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a896" TIME_SLOT_REF1="ts1790" TIME_SLOT_REF2="ts1791">
-				<ANNOTATION_VALUE>quello che può essere difficile (e) spesso e volentieri (.) lo è</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quello che può essere difficile (e) spesso e volentieri {P} lo è</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a897" TIME_SLOT_REF1="ts1792" TIME_SLOT_REF2="ts1793">
-				<ANNOTATION_VALUE>è quello di andare a definire quali sono i termini (.) della definizione matematica del problema questo è vero (.) questo può essere difficile.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è quello di andare a definire quali sono i termini {P} della definizione matematica del problema questo è vero {P} questo può essere difficile.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a898" TIME_SLOT_REF1="ts1794" TIME_SLOT_REF2="ts1795">
-				<ANNOTATION_VALUE>cioè non sempre le domande son domande banali tipo questa (.) qual è la probabilità che sia superiore al: quaranta per ce~ a quaranta gradi, questo vabbè</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè non sempre le domande son domande banali tipo questa {P} qual è la probabilità che sia superiore al: quaranta per ce~ a quaranta gradi, questo vabbè</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a899" TIME_SLOT_REF1="ts1796" TIME_SLOT_REF2="ts1797">
-				<ANNOTATION_VALUE>eh::: vi faccio un esempio (.) l'ultimo poi (.) eh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh::: vi faccio un esempio {P} l'ultimo poi {P} eh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6172,17 +6174,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a905" TIME_SLOT_REF1="ts1808" TIME_SLOT_REF2="ts1809">
-				<ANNOTATION_VALUE>devo andare a calcolare la: tenuta della: (.) di una corda per alpinista</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>devo andare a calcolare la: tenuta della: {P} di una corda per alpinista</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a906" TIME_SLOT_REF1="ts1810" TIME_SLOT_REF2="ts1811">
-				<ANNOTATION_VALUE>e eh chiaramente quello che succede se la corda molla (.) l'alpinista muore.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e eh chiaramente quello che succede se la corda molla {P} l'alpinista muore.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a907" TIME_SLOT_REF1="ts1812" TIME_SLOT_REF2="ts1813">
-				<ANNOTATION_VALUE>supponete di esser voi l'alpinista o il responsabile d~ della della cordata (.) lì</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>supponete di esser voi l'alpinista o il responsabile d~ della della cordata {P} lì</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6192,12 +6194,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a909" TIME_SLOT_REF1="ts1816" TIME_SLOT_REF2="ts1817">
-				<ANNOTATION_VALUE>mh: ancora più semplicemente (.) qual è la probabilità che accettereste per andare su un aereo?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mh: ancora più semplicemente {P} qual è la probabilità che accettereste per andare su un aereo?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a910" TIME_SLOT_REF1="ts1818" TIME_SLOT_REF2="ts1819">
-				<ANNOTATION_VALUE>di incidente non è zero eh (.) non c'è non c'è niente di zero</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di incidente non è zero eh {P} non c'è non c'è niente di zero</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6207,7 +6209,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a912" TIME_SLOT_REF1="ts1822" TIME_SLOT_REF2="ts1823">
-				<ANNOTATION_VALUE>una su cento vuol dire ogni cento aerei in media ogni cento voli in media (.) ce n'è uno che cade.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>una su cento vuol dire ogni cento aerei in media ogni cento voli in media {P} ce n'è uno che cade.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6232,7 +6234,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a917" TIME_SLOT_REF1="ts1832" TIME_SLOT_REF2="ts1833">
-				<ANNOTATION_VALUE>quanti aerei ci sono in volo, non so se avete mai visto quelle applicazioni che fan vedere (.) quanti voli ci sono</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quanti aerei ci sono in volo, non so se avete mai visto quelle applicazioni che fan vedere {P} quanti voli ci sono</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6247,7 +6249,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a920" TIME_SLOT_REF1="ts1838" TIME_SLOT_REF2="ts1839">
-				<ANNOTATION_VALUE>secondo me dev'essere più bassa di così perché ci fosse ogni giorno un aereo che cade (.) in aereo non ci andremmo di sicuro cè proprio (.) io per primo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>secondo me dev'essere più bassa di così perché ci fosse ogni giorno un aereo che cade {P} in aereo non ci andremmo di sicuro cè proprio {P} io per primo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6257,12 +6259,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a922" TIME_SLOT_REF1="ts1842" TIME_SLOT_REF2="ts1843">
-				<ANNOTATION_VALUE>vedete (.) che (.) lì (.) si va a guardare la coda della distribuzione ma la coda per cui (.) alla fine (.) questa tabella non basta</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vedete {P} che {P} lì {P} si va a guardare la coda della distribuzione ma la coda per cui {P} alla fine {P} questa tabella non basta</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a923" TIME_SLOT_REF1="ts1844" TIME_SLOT_REF2="ts1845">
-				<ANNOTATION_VALUE>lì bisogna usare una tabella di~ (.) diciamo le tabelle non comuni cioè le ca~ le tablle (.) in cui si va avanti a cinque a sei sigma cioè si va (.) son più lunghe le tabelle che usano lì</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lì bisogna usare una tabella di~ {P} diciamo le tabelle non comuni cioè le ca~ le tablle {P} in cui si va avanti a cinque a sei sigma cioè si va {P} son più lunghe le tabelle che usano lì</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6272,12 +6274,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a925" TIME_SLOT_REF1="ts1848" TIME_SLOT_REF2="ts1849">
-				<ANNOTATION_VALUE>qual è (.) la probabilità: (.) che secondo voi una casa petrolifera usa (.) per andare a vedere se i pozzi sono produttivi?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>qual è {P} la probabilità: {P} che secondo voi una casa petrolifera usa {P} per andare a vedere se i pozzi sono produttivi?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a926" TIME_SLOT_REF1="ts1850" TIME_SLOT_REF2="ts1851">
-				<ANNOTATION_VALUE>cioè (.) si può sbagliare s~</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè {P} si può sbagliare s~</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6292,7 +6294,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a929" TIME_SLOT_REF1="ts1856" TIME_SLOT_REF2="ts1857">
-				<ANNOTATION_VALUE>ha bisogno di novanta: (.) nove pozzi produttivi rispetto ai cento scavi che fa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ha bisogno di novanta: {P} nove pozzi produttivi rispetto ai cento scavi che fa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6307,7 +6309,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a932" TIME_SLOT_REF1="ts1862" TIME_SLOT_REF2="ts1863">
-				<ANNOTATION_VALUE>se (.) almeno novantanove su cento non son buone (.) licenzia tutti.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se {P} almeno novantanove su cento non son buone {P} licenzia tutti.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6317,7 +6319,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a934" TIME_SLOT_REF1="ts1866" TIME_SLOT_REF2="ts1867">
-				<ANNOTATION_VALUE>no (.) non è così perché (.) in realtà ci guadagna talmente tanto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no {P} non è così perché {P} in realtà ci guadagna talmente tanto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6327,7 +6329,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a936" TIME_SLOT_REF1="ts1870" TIME_SLOT_REF2="ts1871">
-				<ANNOTATION_VALUE>che gli va gli va bene (.) le va non bene benissimo non solo se ne trova uno su due (.) una su tre (.) normalmente viaggiano una su venti.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che gli va gli va bene {P} le va non bene benissimo non solo se ne trova uno su due {P} una su tre {P} normalmente viaggiano una su venti.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6337,17 +6339,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a938" TIME_SLOT_REF1="ts1874" TIME_SLOT_REF2="ts1875">
-				<ANNOTATION_VALUE>tranne una volta su venti (.) che guarda caso è il cinque per cento lì è tutto ribaltato cioè mentre in aereo voi avete bisogno di probabilità</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tranne una volta su venti {P} che guarda caso è il cinque per cento lì è tutto ribaltato cioè mentre in aereo voi avete bisogno di probabilità</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a939" TIME_SLOT_REF1="ts1876" TIME_SLOT_REF2="ts1877">
-				<ANNOTATION_VALUE>di: eh successo altissime (.) di là (.) si accontentano con probabilità di insuccesso (.) bassis~ di insuccesso altissime cioè di successo bassissime (.) perché</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di: eh successo altissime {P} di là {P} si accontentano con probabilità di insuccesso {P} bassis~ di insuccesso altissime cioè di successo bassissime {P} perché</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a940" TIME_SLOT_REF1="ts1878" TIME_SLOT_REF2="ts1879">
-				<ANNOTATION_VALUE>primo perché non muore nessuno (.) secondo perché il guadagno è garantito comunque</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>primo perché non muore nessuno {P} secondo perché il guadagno è garantito comunque</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6384,7 +6386,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a384" TIME_SLOT_REF1="ts766" TIME_SLOT_REF2="ts767">
-				<ANNOTATION_VALUE>no no x due copie lì (.) o no?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no no x due copie lì {P} o no?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6414,7 +6416,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a459" TIME_SLOT_REF1="ts916" TIME_SLOT_REF2="ts917">
-				<ANNOTATION_VALUE>è (.) zero virgola (.) due sei sette tre?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è {P} zero virgola {P} due sei sette tre?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6504,7 +6506,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a631" TIME_SLOT_REF1="ts1260" TIME_SLOT_REF2="ts1261">
-				<ANNOTATION_VALUE>((brusio))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{brusio}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6524,7 +6526,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a666" TIME_SLOT_REF1="ts1330" TIME_SLOT_REF2="ts1331">
-				<ANNOTATION_VALUE>zero virgola (.) uno cinque otto sette.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>zero virgola {P} uno cinque otto sette.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6574,7 +6576,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a811" TIME_SLOT_REF1="ts1620" TIME_SLOT_REF2="ts1621">
-				<ANNOTATION_VALUE>zero punto (.) zero nove (.) diciotto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>zero punto {P} zero nove {P} diciotto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6599,7 +6601,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a834" TIME_SLOT_REF1="ts1666" TIME_SLOT_REF2="ts1667">
-				<ANNOTATION_VALUE>zero virgola zero nove (.) uno ot[to]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>zero virgola zero nove {P} uno ot[to]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:19+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-07-15T21:57:29+00:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="TOD1016.wav" RELATIVE_MEDIA_URL="TOD1016.wav" MIME_TYPE="audio/x-wav" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -2991,6 +2992,139 @@
 		<TIME_SLOT TIME_SLOT_ID="ts2986" TIME_VALUE="5863710" />
 		<TIME_SLOT TIME_SLOT_ID="ts2987" TIME_VALUE="5864261" />
 		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
+	<TIER TIER_ID="???" LINGUISTIC_TYPE_REF="default-lt">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+				<ANNOTATION_VALUE>xxx adesso xxx</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
+				<ANNOTATION_VALUE>c'era lei che comunque xxx</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+				<ANNOTATION_VALUE>adesso che ce l'abbiamo</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts41">
+				<ANNOTATION_VALUE>passa anche dietro non so se xxx</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
+				<ANNOTATION_VALUE>comunque ieri,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts47">
+				<ANNOTATION_VALUE>sono:: per curiosità sono andata a vedere::</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
+				<ANNOTATION_VALUE>un un una cosa che chiedeva:: il (tizio) xxx</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
+				<ANNOTATION_VALUE>eh all'esame {P} sono andata anch'io lì</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
+				<ANNOTATION_VALUE>infatti gli ho detto no non xxx perché::</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+				<ANNOTATION_VALUE>sì mi ha detto xxxxare mh mh mh</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts57">
+				<ANNOTATION_VALUE>sì sì però è vero. xxxxxare</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
+				<ANNOTATION_VALUE>sì con le fonti letterarie: alla fine (ti rimane)</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
+				<ANNOTATION_VALUE>ma {P} e invece l'uno è bellissimo xx</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
+				<ANNOTATION_VALUE>(quanto) mi dive::rto.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts65">
+				<ANNOTATION_VALUE>e ognuno vaga xxx</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a548" TIME_SLOT_REF1="ts1094" TIME_SLOT_REF2="ts1095">
+				<ANNOTATION_VALUE>[vediamo il testo].</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a551" TIME_SLOT_REF1="ts1100" TIME_SLOT_REF2="ts1101">
+				<ANNOTATION_VALUE>[sì sì]</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a559" TIME_SLOT_REF1="ts1116" TIME_SLOT_REF2="ts1117">
+				<ANNOTATION_VALUE>sì</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a696" TIME_SLOT_REF1="ts1390" TIME_SLOT_REF2="ts1391">
+				<ANNOTATION_VALUE>mh mh mh mh [mh]</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1351" TIME_SLOT_REF1="ts2700" TIME_SLOT_REF2="ts2701">
+				<ANNOTATION_VALUE>[com'è che si chiama::] questo::: utilizzo dei dodici suoni?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1352" TIME_SLOT_REF1="ts2702" TIME_SLOT_REF2="ts2703">
+				<ANNOTATION_VALUE>xx[x]?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1408" TIME_SLOT_REF1="ts2814" TIME_SLOT_REF2="ts2815">
+				<ANNOTATION_VALUE>[è la stessa domanda]</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1475" TIME_SLOT_REF1="ts2948" TIME_SLOT_REF2="ts2949">
+				<ANNOTATION_VALUE>m:::h ascoltando l'aria</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1477" TIME_SLOT_REF1="ts2952" TIME_SLOT_REF2="ts2953">
+				<ANNOTATION_VALUE>no no l:: l~ l'ultima il concertato ecco</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1479" TIME_SLOT_REF1="ts2956" TIME_SLOT_REF2="ts2957">
+				<ANNOTATION_VALUE>non mi sono reso conto del momento in cui:: entrano i tromboni</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
 	<TIER TIER_ID="TO070" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
@@ -3029,7 +3163,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
-				<ANNOTATION_VALUE>qualcosa che:: è rimasto:: (.) qualche dubbio?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>qualcosa che:: è rimasto:: {P} qualche dubbio?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3044,7 +3178,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
-				<ANNOTATION_VALUE>non abbiamo ancora finito i testi che avete però (.) in realtà:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non abbiamo ancora finito i testi che avete però {P} in realtà:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3074,7 +3208,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3084,7 +3218,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts71">
-				<ANNOTATION_VALUE>&gt;sì sì&lt; (.) ma ma: sì.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;sì sì&lt; {P} ma ma: sì.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3109,7 +3243,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts81">
-				<ANNOTATION_VALUE>nel loro rapporto con la parola (.) quindi recitativo (.) e aria.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>nel loro rapporto con la parola {P} quindi recitativo {P} e aria.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3139,22 +3273,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts93">
-				<ANNOTATION_VALUE>a dare per scontato che si capisca (.) il senso (.) soprattutto (.) emotivo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a dare per scontato che si capisca {P} il senso {P} soprattutto {P} emotivo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
-				<ANNOTATION_VALUE>e non tanto ragionativo (.) in questi casi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e non tanto ragionativo {P} in questi casi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts97">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
-				<ANNOTATION_VALUE>del testo (.) attraverso la musica.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>del testo {P} attraverso la musica.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3189,7 +3323,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts113">
-				<ANNOTATION_VALUE>e deve proseguire quindi con una certa rapidità (.) anche</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e deve proseguire quindi con una certa rapidità {P} anche</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3199,7 +3333,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts117">
-				<ANNOTATION_VALUE>la: parte (.) del sentimento</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la: parte {P} del sentimento</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3289,7 +3423,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts152" TIME_SLOT_REF2="ts153">
-				<ANNOTATION_VALUE>si condensano in (.) tipi diversi di canto tant'è vero che dicevo ieri addirittura</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si condensano in {P} tipi diversi di canto tant'è vero che dicevo ieri addirittura</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3299,7 +3433,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts157">
-				<ANNOTATION_VALUE>eh (.) a usare le cosiddette arie di baule</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh {P} a usare le cosiddette arie di baule</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3309,7 +3443,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts161">
-				<ANNOTATION_VALUE>ma (.) a un'emozione.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma {P} a un'emozione.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3339,7 +3473,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts172" TIME_SLOT_REF2="ts173">
-				<ANNOTATION_VALUE>e::: usando quindi (.) una::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::: usando quindi {P} una::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3374,7 +3508,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts186" TIME_SLOT_REF2="ts187">
-				<ANNOTATION_VALUE>degli esempi di (.) opera: settecentesca.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>degli esempi di {P} opera: settecentesca.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3539,7 +3673,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a127" TIME_SLOT_REF1="ts252" TIME_SLOT_REF2="ts253">
-				<ANNOTATION_VALUE>dato che (.) a quell'epoca il (.) pianoforte era già stato inventato</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dato che {P} a quell'epoca il {P} pianoforte era già stato inventato</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3554,7 +3688,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a130" TIME_SLOT_REF1="ts258" TIME_SLOT_REF2="ts259">
-				<ANNOTATION_VALUE>e (.) fortepiano è diciamo l'antenato del pianoforte</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} fortepiano è diciamo l'antenato del pianoforte</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3609,12 +3743,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a141" TIME_SLOT_REF1="ts280" TIME_SLOT_REF2="ts281">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a142" TIME_SLOT_REF1="ts282" TIME_SLOT_REF2="ts283">
-				<ANNOTATION_VALUE>forse vi state chiedendo &gt;qual è la differenza esattamente tra un clavicambalo&lt; (.) e un fortepiano</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>forse vi state chiedendo &gt;qual è la differenza esattamente tra un clavicambalo&lt; {P} e un fortepiano</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3644,7 +3778,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a148" TIME_SLOT_REF1="ts294" TIME_SLOT_REF2="ts295">
-				<ANNOTATION_VALUE>ecco il clavicembalo (.) è naturalmente più piccolo però anche lui ha la coda</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ecco il clavicembalo {P} è naturalmente più piccolo però anche lui ha la coda</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3659,7 +3793,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts300" TIME_SLOT_REF2="ts301">
-				<ANNOTATION_VALUE>perché nel clavicembalo (.) le corde</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché nel clavicembalo {P} le corde</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3669,7 +3803,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a153" TIME_SLOT_REF1="ts304" TIME_SLOT_REF2="ts305">
-				<ANNOTATION_VALUE>che ha: nella (.) &gt;nella cassa di risonanza che forma questa coda allungata&lt; le corde vengono pizzicate</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che ha: nella {P} &gt;nella cassa di risonanza che forma questa coda allungata&lt; le corde vengono pizzicate</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3819,7 +3953,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a183" TIME_SLOT_REF1="ts364" TIME_SLOT_REF2="ts365">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3834,7 +3968,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a186" TIME_SLOT_REF1="ts370" TIME_SLOT_REF2="ts371">
-				<ANNOTATION_VALUE>delle corde. quando (.) allora quando io suono una nota so:la</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>delle corde. quando {P} allora quando io suono una nota so:la</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3909,7 +4043,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a201" TIME_SLOT_REF1="ts400" TIME_SLOT_REF2="ts401">
-				<ANNOTATION_VALUE>e che non soltanto il martelletto (.) la percuote (.) e poi torna indietro.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e che non soltanto il martelletto {P} la percuote {P} e poi torna indietro.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3949,7 +4083,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a209" TIME_SLOT_REF1="ts416" TIME_SLOT_REF2="ts417">
-				<ANNOTATION_VALUE>è (.) uno strumento</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è {P} uno strumento</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3984,7 +4118,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a216" TIME_SLOT_REF1="ts430" TIME_SLOT_REF2="ts431">
-				<ANNOTATION_VALUE>e (.) &gt;il clavicembalo per stargli dietro doveva fiorire doveva ripetere le note doveva far qualcosa perché se stava fermo&lt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} &gt;il clavicembalo per stargli dietro doveva fiorire doveva ripetere le note doveva far qualcosa perché se stava fermo&lt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3994,12 +4128,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a218" TIME_SLOT_REF1="ts434" TIME_SLOT_REF2="ts435">
-				<ANNOTATION_VALUE>&gt;mh=eh adesso (.) vi volevo solo fare sentire la diferenza della nota suonata senza pedale e con pedale&lt;.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;mh=eh adesso {P} vi volevo solo fare sentire la diferenza della nota suonata senza pedale e con pedale&lt;.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a219" TIME_SLOT_REF1="ts436" TIME_SLOT_REF2="ts437">
-				<ANNOTATION_VALUE>((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4014,12 +4148,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a222" TIME_SLOT_REF1="ts442" TIME_SLOT_REF2="ts443">
-				<ANNOTATION_VALUE>a questo p~ eh ((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a questo p~ eh {suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a223" TIME_SLOT_REF1="ts444" TIME_SLOT_REF2="ts445">
-				<ANNOTATION_VALUE>mentre sul clavicembalo io appena ho suonato (.) e::h ((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mentre sul clavicembalo io appena ho suonato {P} e::h {suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4069,7 +4203,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a233" TIME_SLOT_REF1="ts464" TIME_SLOT_REF2="ts465">
-				<ANNOTATION_VALUE>se lo voglio (.) prolungare ancora di più:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se lo voglio {P} prolungare ancora di più:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4129,7 +4263,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a245" TIME_SLOT_REF1="ts488" TIME_SLOT_REF2="ts489">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4169,12 +4303,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a253" TIME_SLOT_REF1="ts504" TIME_SLOT_REF2="ts505">
-				<ANNOTATION_VALUE>per cui in realtà (.) è proprio tutto il pacchetto che cambia.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per cui in realtà {P} è proprio tutto il pacchetto che cambia.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a254" TIME_SLOT_REF1="ts506" TIME_SLOT_REF2="ts507">
-				<ANNOTATION_VALUE>e d'altra parte un certo modo di cantare in fondo (.) è influenzato come dicevo alla prima lezione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e d'altra parte un certo modo di cantare in fondo {P} è influenzato come dicevo alla prima lezione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4184,7 +4318,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a256" TIME_SLOT_REF1="ts510" TIME_SLOT_REF2="ts511">
-				<ANNOTATION_VALUE>sono accompagnata (.) solo da un pianofo::rte solo da una chita::rra</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sono accompagnata {P} solo da un pianofo::rte solo da una chita::rra</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4219,7 +4353,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a263" TIME_SLOT_REF1="ts524" TIME_SLOT_REF2="ts525">
-				<ANNOTATION_VALUE>eh (.) avrei qualche problema in più perché è già una sonorità molto forte</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh {P} avrei qualche problema in più perché è già una sonorità molto forte</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4269,7 +4403,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a273" TIME_SLOT_REF1="ts544" TIME_SLOT_REF2="ts545">
-				<ANNOTATION_VALUE>darle magari (.) aiutarla</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>darle magari {P} aiutarla</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4304,7 +4438,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a280" TIME_SLOT_REF1="ts558" TIME_SLOT_REF2="ts559">
-				<ANNOTATION_VALUE>non ci si cura più (.) troppo della voce.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non ci si cura più {P} troppo della voce.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4404,7 +4538,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a300" TIME_SLOT_REF1="ts598" TIME_SLOT_REF2="ts599">
-				<ANNOTATION_VALUE>della nona sinfonia, (.) di beethoven,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>della nona sinfonia, {P} di beethoven,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4414,7 +4548,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a302" TIME_SLOT_REF1="ts602" TIME_SLOT_REF2="ts603">
-				<ANNOTATION_VALUE>e::h (.) estremamente evoluta già,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h {P} estremamente evoluta già,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4424,7 +4558,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a304" TIME_SLOT_REF1="ts606" TIME_SLOT_REF2="ts607">
-				<ANNOTATION_VALUE>e (.) le voci sono dentro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} le voci sono dentro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4464,7 +4598,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a312" TIME_SLOT_REF1="ts622" TIME_SLOT_REF2="ts623">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4494,12 +4628,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a318" TIME_SLOT_REF1="ts634" TIME_SLOT_REF2="ts635">
-				<ANNOTATION_VALUE>e dal cosiddetto (.) bel canto cioè da tutta la serie di regole</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e dal cosiddetto {P} bel canto cioè da tutta la serie di regole</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a319" TIME_SLOT_REF1="ts636" TIME_SLOT_REF2="ts637">
-				<ANNOTATION_VALUE>e di (.) prassi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e di {P} prassi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4549,7 +4683,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a329" TIME_SLOT_REF1="ts656" TIME_SLOT_REF2="ts657">
-				<ANNOTATION_VALUE>il canto non (.) doveva distinguersi dalla parola anche in anche in questo il canto anche quando è irato</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il canto non {P} doveva distinguersi dalla parola anche in anche in questo il canto anche quando è irato</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4559,7 +4693,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a331" TIME_SLOT_REF1="ts660" TIME_SLOT_REF2="ts661">
-				<ANNOTATION_VALUE>eh nulla di (.) aspro.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh nulla di {P} aspro.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4579,7 +4713,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a335" TIME_SLOT_REF1="ts668" TIME_SLOT_REF2="ts669">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4744,7 +4878,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a368" TIME_SLOT_REF1="ts734" TIME_SLOT_REF2="ts735">
-				<ANNOTATION_VALUE>pensare di spostare un'aria (.) da un personaggio all'altro perché ognuno</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>pensare di spostare un'aria {P} da un personaggio all'altro perché ognuno</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4789,7 +4923,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a377" TIME_SLOT_REF1="ts752" TIME_SLOT_REF2="ts753">
-				<ANNOTATION_VALUE>non si mettono più (.) a comporre un'opera</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non si mettono più {P} a comporre un'opera</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4819,7 +4953,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a383" TIME_SLOT_REF1="ts764" TIME_SLOT_REF2="ts765">
-				<ANNOTATION_VALUE>di aspettare di vedere (.) il compimento del libretto dovevano cominciare a lavorare subito</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di aspettare di vedere {P} il compimento del libretto dovevano cominciare a lavorare subito</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4939,12 +5073,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a407" TIME_SLOT_REF1="ts812" TIME_SLOT_REF2="ts813">
-				<ANNOTATION_VALUE>vive a vienna con lui quindi si possono vedere (.) e possono lavorare insieme</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vive a vienna con lui quindi si possono vedere {P} e possono lavorare insieme</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a408" TIME_SLOT_REF1="ts814" TIME_SLOT_REF2="ts815">
-				<ANNOTATION_VALUE>((si_schiariasce_la_voce)) ((si_schiariasce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiariasce_la_voce} {si_schiariasce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4979,7 +5113,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a415" TIME_SLOT_REF1="ts828" TIME_SLOT_REF2="ts829">
-				<ANNOTATION_VALUE>eh? anche se naturalmente (.) avveniva poi anche (.) il reciproco.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh? anche se naturalmente {P} avveniva poi anche {P} il reciproco.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4994,7 +5128,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a418" TIME_SLOT_REF1="ts834" TIME_SLOT_REF2="ts835">
-				<ANNOTATION_VALUE>opere (.) &gt;diciamo buffe su testo di da ponte&lt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>opere {P} &gt;diciamo buffe su testo di da ponte&lt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5004,7 +5138,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a420" TIME_SLOT_REF1="ts838" TIME_SLOT_REF2="ts839">
-				<ANNOTATION_VALUE>la prima le nozze di figaro (.) millesettecentottantesei</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la prima le nozze di figaro {P} millesettecentottantesei</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5034,12 +5168,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a426" TIME_SLOT_REF1="ts850" TIME_SLOT_REF2="ts851">
-				<ANNOTATION_VALUE>così (.) fan tutte.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>così {P} fan tutte.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a427" TIME_SLOT_REF1="ts852" TIME_SLOT_REF2="ts853">
-				<ANNOTATION_VALUE>beninteso mozart ha scritto anche altre opere italiane (.) ma già quand'era un bambino,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>beninteso mozart ha scritto anche altre opere italiane {P} ma già quand'era un bambino,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5049,7 +5183,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a429" TIME_SLOT_REF1="ts856" TIME_SLOT_REF2="ts857">
-				<ANNOTATION_VALUE>quella che ho citato ieri (.) e::h così fan tute,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quella che ho citato ieri {P} e::h così fan tute,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5074,7 +5208,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a434" TIME_SLOT_REF1="ts866" TIME_SLOT_REF2="ts867">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5114,7 +5248,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a442" TIME_SLOT_REF1="ts882" TIME_SLOT_REF2="ts883">
-				<ANNOTATION_VALUE>e (.) è tutto chiaro?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} è tutto chiaro?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5149,7 +5283,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a449" TIME_SLOT_REF1="ts896" TIME_SLOT_REF2="ts897">
-				<ANNOTATION_VALUE>anche per farvi notare (.) eh=in~ intanto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>anche per farvi notare {P} eh=in~ intanto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5184,7 +5318,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a456" TIME_SLOT_REF1="ts910" TIME_SLOT_REF2="ts911">
-				<ANNOTATION_VALUE>il canto e (.) al di là del canto il ritmo dato alla pagina</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il canto e {P} al di là del canto il ritmo dato alla pagina</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5279,7 +5413,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a475" TIME_SLOT_REF1="ts948" TIME_SLOT_REF2="ts949">
-				<ANNOTATION_VALUE>pensate:::=mh non so la poesia francese (.) dopo baudelaire</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>pensate:::=mh non so la poesia francese {P} dopo baudelaire</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5319,12 +5453,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a483" TIME_SLOT_REF1="ts964" TIME_SLOT_REF2="ts965">
-				<ANNOTATION_VALUE>comunque (.) per discreto che sia il compositore</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>comunque {P} per discreto che sia il compositore</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a484" TIME_SLOT_REF1="ts966" TIME_SLOT_REF2="ts967">
-				<ANNOTATION_VALUE>crea (.) un'interferenza.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>crea {P} un'interferenza.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5399,7 +5533,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a499" TIME_SLOT_REF1="ts996" TIME_SLOT_REF2="ts997">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5424,7 +5558,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a504" TIME_SLOT_REF1="ts1006" TIME_SLOT_REF2="ts1007">
-				<ANNOTATION_VALUE>eh quindi (.) è molto evidente.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh quindi {P} è molto evidente.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5509,7 +5643,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a521" TIME_SLOT_REF1="ts1040" TIME_SLOT_REF2="ts1041">
-				<ANNOTATION_VALUE>mh in toto (.) eh?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mh in toto {P} eh?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5554,7 +5688,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a530" TIME_SLOT_REF1="ts1058" TIME_SLOT_REF2="ts1059">
-				<ANNOTATION_VALUE>il massimo della dell'azione possibile da parte di (.) di don ottavio è dire a qualcuno di fare qualcosa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il massimo della dell'azione possibile da parte di {P} di don ottavio è dire a qualcuno di fare qualcosa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5584,7 +5718,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a536" TIME_SLOT_REF1="ts1070" TIME_SLOT_REF2="ts1071">
-				<ANNOTATION_VALUE>&gt;in cui dice tutto il suo amore per donna anna (.) però non muovo un dito&lt;.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;in cui dice tutto il suo amore per donna anna {P} però non muovo un dito&lt;.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5659,7 +5793,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a553" TIME_SLOT_REF1="ts1104" TIME_SLOT_REF2="ts1105">
-				<ANNOTATION_VALUE>vabbè (.) io nel dubbio lo proietto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vabbè {P} io nel dubbio lo proietto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5669,7 +5803,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a555" TIME_SLOT_REF1="ts1108" TIME_SLOT_REF2="ts1109">
-				<ANNOTATION_VALUE>°un momento (.) eh°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>°un momento {P} eh°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5684,7 +5818,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a558" TIME_SLOT_REF1="ts1114" TIME_SLOT_REF2="ts1115">
-				<ANNOTATION_VALUE>vabbè (.) mi assicurate che riuscite a leggere tutti?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vabbè {P} mi assicurate che riuscite a leggere tutti?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5694,7 +5828,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a561" TIME_SLOT_REF1="ts1120" TIME_SLOT_REF2="ts1121">
-				<ANNOTATION_VALUE>((fa_partire_un_brano))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{fa_partire_un_brano}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5719,7 +5853,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a566" TIME_SLOT_REF1="ts1130" TIME_SLOT_REF2="ts1131">
-				<ANNOTATION_VALUE>((fa_ascoltare_un_brano))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{fa_ascoltare_un_brano}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5729,7 +5863,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a568" TIME_SLOT_REF1="ts1134" TIME_SLOT_REF2="ts1135">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5744,17 +5878,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a571" TIME_SLOT_REF1="ts1140" TIME_SLOT_REF2="ts1141">
-				<ANNOTATION_VALUE>è (.) aria del protagonista. &gt;tra l'altro gion~ don giovanni preticamente non canta arie</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è {P} aria del protagonista. &gt;tra l'altro gion~ don giovanni preticamente non canta arie</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a572" TIME_SLOT_REF1="ts1142" TIME_SLOT_REF2="ts1143">
-				<ANNOTATION_VALUE>ha solo: (.) ques' aria qua,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ha solo: {P} ques' aria qua,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a573" TIME_SLOT_REF1="ts1144" TIME_SLOT_REF2="ts1145">
-				<ANNOTATION_VALUE>e poi un'altra aria in cui: dà disposizioni metà di (.) voi qua vadano e: gli altir vadan là ma</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e poi un'altra aria in cui: dà disposizioni metà di {P} voi qua vadano e: gli altir vadan là ma</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5809,7 +5943,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a584" TIME_SLOT_REF1="ts1166" TIME_SLOT_REF2="ts1167">
-				<ANNOTATION_VALUE>non è neanche d'azione (.) è lui che: dice agli altri che cosa debbano fare.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non è neanche d'azione {P} è lui che: dice agli altri che cosa debbano fare.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5819,7 +5953,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a586" TIME_SLOT_REF1="ts1170" TIME_SLOT_REF2="ts1171">
-				<ANNOTATION_VALUE>in realtà di suo (.) nell'opera di mozart non si ferma mai a esprimere un sentimento.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in realtà di suo {P} nell'opera di mozart non si ferma mai a esprimere un sentimento.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5904,7 +6038,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a603" TIME_SLOT_REF1="ts1204" TIME_SLOT_REF2="ts1205">
-				<ANNOTATION_VALUE>non non si preoccupa di (.) accompagnare ma è scatenata.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>non non si preoccupa di {P} accompagnare ma è scatenata.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5939,7 +6073,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a610" TIME_SLOT_REF1="ts1218" TIME_SLOT_REF2="ts1219">
-				<ANNOTATION_VALUE>e::: ((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::: {si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5979,12 +6113,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a618" TIME_SLOT_REF1="ts1234" TIME_SLOT_REF2="ts1235">
-				<ANNOTATION_VALUE>per di più è particolarmente presto perché il ritmo (.) è già molto rapido</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per di più è particolarmente presto perché il ritmo {P} è già molto rapido</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a619" TIME_SLOT_REF1="ts1236" TIME_SLOT_REF2="ts1237">
-				<ANNOTATION_VALUE>((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6004,7 +6138,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a623" TIME_SLOT_REF1="ts1244" TIME_SLOT_REF2="ts1245">
-				<ANNOTATION_VALUE>ma (.) ho già anche una:::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma {P} ho già anche una:::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6014,7 +6148,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a625" TIME_SLOT_REF1="ts1248" TIME_SLOT_REF2="ts1249">
-				<ANNOTATION_VALUE>((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6024,7 +6158,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a627" TIME_SLOT_REF1="ts1252" TIME_SLOT_REF2="ts1253">
-				<ANNOTATION_VALUE>((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6079,12 +6213,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a638" TIME_SLOT_REF1="ts1274" TIME_SLOT_REF2="ts1275">
-				<ANNOTATION_VALUE>((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a639" TIME_SLOT_REF1="ts1276" TIME_SLOT_REF2="ts1277">
-				<ANNOTATION_VALUE>((suona_il_pianoforte)) ((canta))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte} {canta}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6119,7 +6253,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a646" TIME_SLOT_REF1="ts1290" TIME_SLOT_REF2="ts1291">
-				<ANNOTATION_VALUE>((suna_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suna_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6159,7 +6293,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a654" TIME_SLOT_REF1="ts1306" TIME_SLOT_REF2="ts1307">
-				<ANNOTATION_VALUE>dei (.) pe~ &gt;delle porzioni di te:sto&lt;,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dei {P} pe~ &gt;delle porzioni di te:sto&lt;,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6174,7 +6308,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a657" TIME_SLOT_REF1="ts1312" TIME_SLOT_REF2="ts1313">
-				<ANNOTATION_VALUE>così: smon~ (.) un pochino smontato.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>così: smon~ {P} un pochino smontato.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6189,7 +6323,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a660" TIME_SLOT_REF1="ts1318" TIME_SLOT_REF2="ts1319">
-				<ANNOTATION_VALUE>la (.) la questione ritmica e::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la {P} la questione ritmica e::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6199,7 +6333,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a662" TIME_SLOT_REF1="ts1322" TIME_SLOT_REF2="ts1323">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6269,7 +6403,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a676" TIME_SLOT_REF1="ts1350" TIME_SLOT_REF2="ts1351">
-				<ANNOTATION_VALUE>forse xx~ ho ho (.) ho omesso di dire la cosa fondamentale</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>forse xx~ ho ho {P} ho omesso di dire la cosa fondamentale</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6334,12 +6468,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a689" TIME_SLOT_REF1="ts1376" TIME_SLOT_REF2="ts1377">
-				<ANNOTATION_VALUE>e (.) li vuole in qualche modo attirare a casa sua</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} li vuole in qualche modo attirare a casa sua</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a690" TIME_SLOT_REF1="ts1378" TIME_SLOT_REF2="ts1379">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6374,7 +6508,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a698" TIME_SLOT_REF1="ts1394" TIME_SLOT_REF2="ts1395">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6464,7 +6598,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a716" TIME_SLOT_REF1="ts1430" TIME_SLOT_REF2="ts1431">
-				<ANNOTATION_VALUE>e mozart (.) e::h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e mozart {P} e::h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6504,7 +6638,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a724" TIME_SLOT_REF1="ts1446" TIME_SLOT_REF2="ts1447">
-				<ANNOTATION_VALUE>l'orchestra principale poi in altri (.) in altre sale si ballavano</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'orchestra principale poi in altri {P} in altre sale si ballavano</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6579,7 +6713,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a739" TIME_SLOT_REF1="ts1476" TIME_SLOT_REF2="ts1477">
-				<ANNOTATION_VALUE>d'una decina (.) devi aumentar.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>d'una decina {P} devi aumentar.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6629,77 +6763,77 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a749" TIME_SLOT_REF1="ts1496" TIME_SLOT_REF2="ts1497">
-				<ANNOTATION_VALUE>finc'han del vino calda la testa una gran festa fa preparar. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>finc'han del vino calda la testa una gran festa fa preparar. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a750" TIME_SLOT_REF1="ts1498" TIME_SLOT_REF2="ts1499">
-				<ANNOTATION_VALUE>se trovi in piazza qualche ragazza teco ancor quella cerca menar e fin qua siamo andarti di seguito ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se trovi in piazza qualche ragazza teco ancor quella cerca menar e fin qua siamo andarti di seguito {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a751" TIME_SLOT_REF1="ts1500" TIME_SLOT_REF2="ts1501">
-				<ANNOTATION_VALUE>teco ancora quella cerca menar ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>teco ancora quella cerca menar {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a752" TIME_SLOT_REF1="ts1502" TIME_SLOT_REF2="ts1503">
-				<ANNOTATION_VALUE>cerca menar (.) cerca menar. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cerca menar {P} cerca menar. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a753" TIME_SLOT_REF1="ts1504" TIME_SLOT_REF2="ts1505">
-				<ANNOTATION_VALUE>senza alcun ordine la danza sia chi il minuetto chi la follia chi l'alemanna farai ballar ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>senza alcun ordine la danza sia chi il minuetto chi la follia chi l'alemanna farai ballar {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a754" TIME_SLOT_REF1="ts1506" TIME_SLOT_REF2="ts1507">
-				<ANNOTATION_VALUE>chi il minuetto farai ballar chi la follia farai ballar chi l'alemanna farai ballar. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>chi il minuetto farai ballar chi la follia farai ballar chi l'alemanna farai ballar. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a755" TIME_SLOT_REF1="ts1508" TIME_SLOT_REF2="ts1509">
-				<ANNOTATION_VALUE>ed io frattanto dall'altro canto con questa e quella vuo' amoreggia vuo' amoreggiar vuo' amoreggiar. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ed io frattanto dall'altro canto con questa e quella vuo' amoreggia vuo' amoreggiar vuo' amoreggiar. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a756" TIME_SLOT_REF1="ts1510" TIME_SLOT_REF2="ts1511">
-				<ANNOTATION_VALUE>a::h la mia lista doman mattina d'una decina devi aumentar. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a::h la mia lista doman mattina d'una decina devi aumentar. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a757" TIME_SLOT_REF1="ts1512" TIME_SLOT_REF2="ts1513">
-				<ANNOTATION_VALUE>a::h la mia lista d'una decina devi aumentar, se trovi in piazza qualche ragazza teco ancor quella cerca menar, ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a::h la mia lista d'una decina devi aumentar, se trovi in piazza qualche ragazza teco ancor quella cerca menar, {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a758" TIME_SLOT_REF1="ts1514" TIME_SLOT_REF2="ts1515">
-				<ANNOTATION_VALUE>a:h la mia lista doman mattina d'una decina devi aumentar ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a:h la mia lista doman mattina d'una decina devi aumentar {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a759" TIME_SLOT_REF1="ts1516" TIME_SLOT_REF2="ts1517">
-				<ANNOTATION_VALUE>senza alun ordine d~ la danza sia ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>senza alun ordine d~ la danza sia {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a760" TIME_SLOT_REF1="ts1518" TIME_SLOT_REF2="ts1519">
-				<ANNOTATION_VALUE>chi il minuetto chi la follia chi l'alemanna farai ballar. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>chi il minuetto chi la follia chi l'alemanna farai ballar. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a761" TIME_SLOT_REF1="ts1520" TIME_SLOT_REF2="ts1521">
-				<ANNOTATION_VALUE>a::h la mia lista d'una decina d~ ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a::h la mia lista d'una decina d~ {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a762" TIME_SLOT_REF1="ts1522" TIME_SLOT_REF2="ts1523">
-				<ANNOTATION_VALUE>dovrai aumen~ devi aumentar. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dovrai aumen~ devi aumentar. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a763" TIME_SLOT_REF1="ts1524" TIME_SLOT_REF2="ts1525">
-				<ANNOTATION_VALUE>d'una decina devi aumentar, d'una decina devi aumentar devi aumentar devi aumentar d:vi (.) devi aumentar. ((legge))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>d'una decina devi aumentar, d'una decina devi aumentar devi aumentar devi aumentar d:vi {P} devi aumentar. {legge}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6774,7 +6908,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a778" TIME_SLOT_REF1="ts1554" TIME_SLOT_REF2="ts1555">
-				<ANNOTATION_VALUE>voglio dire eh e:::h è f~ è facile (.) ripeterli ecco si prestano</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>voglio dire eh e:::h è f~ è facile {P} ripeterli ecco si prestano</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6814,7 +6948,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a786" TIME_SLOT_REF1="ts1570" TIME_SLOT_REF2="ts1571">
-				<ANNOTATION_VALUE>a descrivere (.) il carattere di</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>a descrivere {P} il carattere di</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6854,7 +6988,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a794" TIME_SLOT_REF1="ts1586" TIME_SLOT_REF2="ts1587">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6869,7 +7003,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a797" TIME_SLOT_REF1="ts1592" TIME_SLOT_REF2="ts1593">
-				<ANNOTATION_VALUE>dunque (.) eh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dunque {P} eh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6879,7 +7013,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a799" TIME_SLOT_REF1="ts1596" TIME_SLOT_REF2="ts1597">
-				<ANNOTATION_VALUE>((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6889,27 +7023,27 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a801" TIME_SLOT_REF1="ts1600" TIME_SLOT_REF2="ts1601">
-				<ANNOTATION_VALUE>((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a802" TIME_SLOT_REF1="ts1602" TIME_SLOT_REF2="ts1603">
-				<ANNOTATION_VALUE>e questo ((suona_il_pianoforte)) è</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e questo {suona_il_pianoforte} è</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a803" TIME_SLOT_REF1="ts1604" TIME_SLOT_REF2="ts1605">
-				<ANNOTATION_VALUE>(a)desso: (.) sì se vi sembra difficile ditemelo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>(a)desso: {P} sì se vi sembra difficile ditemelo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a804" TIME_SLOT_REF1="ts1606" TIME_SLOT_REF2="ts1607">
-				<ANNOTATION_VALUE>però: vede~ lui:: comincia con ((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però: vede~ lui:: comincia con {suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a805" TIME_SLOT_REF1="ts1608" TIME_SLOT_REF2="ts1609">
-				<ANNOTATION_VALUE>questa parte qui la canta cam~ ((suona_il_pianoforte)) cambiando tonalità scurendo la tonalità se prima era ((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questa parte qui la canta cam~ {suona_il_pianoforte} cambiando tonalità scurendo la tonalità se prima era {suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6934,7 +7068,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a810" TIME_SLOT_REF1="ts1618" TIME_SLOT_REF2="ts1619">
-				<ANNOTATION_VALUE>((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6944,37 +7078,37 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a812" TIME_SLOT_REF1="ts1622" TIME_SLOT_REF2="ts1623">
-				<ANNOTATION_VALUE>minore che cambia ((suona_il_pianoforte)) soltanto per una nota</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>minore che cambia {suona_il_pianoforte} soltanto per una nota</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a813" TIME_SLOT_REF1="ts1624" TIME_SLOT_REF2="ts1625">
-				<ANNOTATION_VALUE>((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a814" TIME_SLOT_REF1="ts1626" TIME_SLOT_REF2="ts1627">
-				<ANNOTATION_VALUE>questo è il maggiore, ((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo è il maggiore, {suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a815" TIME_SLOT_REF1="ts1628" TIME_SLOT_REF2="ts1629">
-				<ANNOTATION_VALUE>((suona_il_pianoforte)) questo è il minore. ((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte} questo è il minore. {suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a816" TIME_SLOT_REF1="ts1630" TIME_SLOT_REF2="ts1631">
-				<ANNOTATION_VALUE>mh ((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mh {si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a817" TIME_SLOT_REF1="ts1632" TIME_SLOT_REF2="ts1633">
-				<ANNOTATION_VALUE>sono cose che poi durante il corso:: &gt;cerco di farvi sentire non ve le chiedo all'esame&lt; però mi piace che ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sono cose che poi durante il corso:: &gt;cerco di farvi sentire non ve le chiedo all'esame&lt; però mi piace che {ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a818" TIME_SLOT_REF1="ts1634" TIME_SLOT_REF2="ts1635">
-				<ANNOTATION_VALUE>che vi abituate voi (.) a sentire ogni tanto queste::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che vi abituate voi {P} a sentire ogni tanto queste::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7029,12 +7163,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a829" TIME_SLOT_REF1="ts1656" TIME_SLOT_REF2="ts1657">
-				<ANNOTATION_VALUE>((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a830" TIME_SLOT_REF1="ts1658" TIME_SLOT_REF2="ts1659">
-				<ANNOTATION_VALUE>si porta giù questa ((suona_il_pianoforte)) su quest'altra zona è come se calasse un'ombra. eh?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si porta giù questa {suona_il_pianoforte} su quest'altra zona è come se calasse un'ombra. eh?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7044,7 +7178,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a832" TIME_SLOT_REF1="ts1662" TIME_SLOT_REF2="ts1663">
-				<ANNOTATION_VALUE>((suona_il_pianoforte)) ((canta))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte} {canta}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7054,7 +7188,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a834" TIME_SLOT_REF1="ts1666" TIME_SLOT_REF2="ts1667">
-				<ANNOTATION_VALUE>eh perché (.) non ha::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh perché {P} non ha::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7074,7 +7208,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a838" TIME_SLOT_REF1="ts1674" TIME_SLOT_REF2="ts1675">
-				<ANNOTATION_VALUE>((suona_il_pianoforte)) ((canta))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte} {canta}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7089,17 +7223,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a841" TIME_SLOT_REF1="ts1680" TIME_SLOT_REF2="ts1681">
-				<ANNOTATION_VALUE>((suona_il_pianoforte)) ((canta))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte} {canta}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a842" TIME_SLOT_REF1="ts1682" TIME_SLOT_REF2="ts1683">
-				<ANNOTATION_VALUE>sentite che: la la cosa (.) la cosa straordinaria</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sentite che: la la cosa {P} la cosa straordinaria</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a843" TIME_SLOT_REF1="ts1684" TIME_SLOT_REF2="ts1685">
-				<ANNOTATION_VALUE>in genere quando (.) il testo dell'aria ripete una parola</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>in genere quando {P} il testo dell'aria ripete una parola</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7154,7 +7288,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a854" TIME_SLOT_REF1="ts1706" TIME_SLOT_REF2="ts1707">
-				<ANNOTATION_VALUE>((suona_il_pianoforte)) ((canta))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte} {canta}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7189,7 +7323,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a861" TIME_SLOT_REF1="ts1720" TIME_SLOT_REF2="ts1721">
-				<ANNOTATION_VALUE>temino ((canta)) che ritona a ogni piè sospinto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>temino {canta} che ritona a ogni piè sospinto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7199,7 +7333,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a863" TIME_SLOT_REF1="ts1724" TIME_SLOT_REF2="ts1725">
-				<ANNOTATION_VALUE>((canta)) e ripete sempre la medesima.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{canta} e ripete sempre la medesima.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7229,7 +7363,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a869" TIME_SLOT_REF1="ts1736" TIME_SLOT_REF2="ts1737">
-				<ANNOTATION_VALUE>perché: lui (.) dopo la conquista</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché: lui {P} dopo la conquista</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7304,12 +7438,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a884" TIME_SLOT_REF1="ts1766" TIME_SLOT_REF2="ts1767">
-				<ANNOTATION_VALUE>che non dà:: (.) problemi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che non dà:: {P} problemi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a885" TIME_SLOT_REF1="ts1768" TIME_SLOT_REF2="ts1769">
-				<ANNOTATION_VALUE>ah tra l'altro (.) è talmente rapido anche l'attacco</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ah tra l'altro {P} è talmente rapido anche l'attacco</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7354,7 +7488,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a894" TIME_SLOT_REF1="ts1786" TIME_SLOT_REF2="ts1787">
-				<ANNOTATION_VALUE>((ascoltano_un_pezzo_del_don_giovanni))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ascoltano_un_pezzo_del_don_giovanni}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7364,7 +7498,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a896" TIME_SLOT_REF1="ts1790" TIME_SLOT_REF2="ts1791">
-				<ANNOTATION_VALUE>((fa_ascoltare_un_brano))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{fa_ascoltare_un_brano}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7384,7 +7518,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a900" TIME_SLOT_REF1="ts1798" TIME_SLOT_REF2="ts1799">
-				<ANNOTATION_VALUE>((fa_ascoltare_un_brano))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{fa_ascoltare_un_brano}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7394,7 +7528,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a902" TIME_SLOT_REF1="ts1802" TIME_SLOT_REF2="ts1803">
-				<ANNOTATION_VALUE>((fa_ascoltare_un_brano))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{fa_ascoltare_un_brano}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7404,7 +7538,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a904" TIME_SLOT_REF1="ts1806" TIME_SLOT_REF2="ts1807">
-				<ANNOTATION_VALUE>((fa_ascoltare_un_brano))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{fa_ascoltare_un_brano}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7414,7 +7548,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a906" TIME_SLOT_REF1="ts1810" TIME_SLOT_REF2="ts1811">
-				<ANNOTATION_VALUE>((fa_ascoltare_un_brano))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{fa_ascoltare_un_brano}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7429,7 +7563,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a909" TIME_SLOT_REF1="ts1816" TIME_SLOT_REF2="ts1817">
-				<ANNOTATION_VALUE>usare: (.) l'aria (.) anche per (.) momenti di azione adesso</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>usare: {P} l'aria {P} anche per {P} momenti di azione adesso</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7469,7 +7603,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a917" TIME_SLOT_REF1="ts1832" TIME_SLOT_REF2="ts1833">
-				<ANNOTATION_VALUE>eh mentre:: eh mozart riesce a dare (.) certe volte</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh mentre:: eh mozart riesce a dare {P} certe volte</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7479,7 +7613,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a919" TIME_SLOT_REF1="ts1836" TIME_SLOT_REF2="ts1837">
-				<ANNOTATION_VALUE>connotato di azione (.) a delle arie.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>connotato di azione {P} a delle arie.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7519,7 +7653,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a927" TIME_SLOT_REF1="ts1852" TIME_SLOT_REF2="ts1853">
-				<ANNOTATION_VALUE>e poi parla con una (.) terzo personaggio che è lì nella stanza</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e poi parla con una {P} terzo personaggio che è lì nella stanza</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7549,7 +7683,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a933" TIME_SLOT_REF1="ts1864" TIME_SLOT_REF2="ts1865">
-				<ANNOTATION_VALUE>ma mentre parla (.) agisce</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma mentre parla {P} agisce</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7594,7 +7728,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a942" TIME_SLOT_REF1="ts1882" TIME_SLOT_REF2="ts1883">
-				<ANNOTATION_VALUE>e quindi naturalmente cambia il modo di cantare (.) ecco perché:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi naturalmente cambia il modo di cantare {P} ecco perché:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7619,7 +7753,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a947" TIME_SLOT_REF1="ts1892" TIME_SLOT_REF2="ts1893">
-				<ANNOTATION_VALUE>e che vediamo invece ancora molto bene per un personaggio come don ottavio (.) se voi girate la:::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e che vediamo invece ancora molto bene per un personaggio come don ottavio {P} se voi girate la:::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7639,7 +7773,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a951" TIME_SLOT_REF1="ts1900" TIME_SLOT_REF2="ts1901">
-				<ANNOTATION_VALUE>assolutamente immobile (.) eh?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>assolutamente immobile {P} eh?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7799,7 +7933,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a983" TIME_SLOT_REF1="ts1964" TIME_SLOT_REF2="ts1965">
-				<ANNOTATION_VALUE>di base per cui (.) le parole dovrebbero essere piane.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di base per cui {P} le parole dovrebbero essere piane.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7854,7 +7988,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a994" TIME_SLOT_REF1="ts1986" TIME_SLOT_REF2="ts1987">
-				<ANNOTATION_VALUE>ma questo (.) questo anche non ve lo chiederò mai all'esame ma è guisto perché (.) se vi dico il nome di un verso</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma questo {P} questo anche non ve lo chiederò mai all'esame ma è guisto perché {P} se vi dico il nome di un verso</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7889,7 +8023,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1001" TIME_SLOT_REF1="ts2000" TIME_SLOT_REF2="ts2001">
-				<ANNOTATION_VALUE>((tossisce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{tossisce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8144,12 +8278,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1052" TIME_SLOT_REF1="ts2102" TIME_SLOT_REF2="ts2103">
-				<ANNOTATION_VALUE>quindi di una melodia continuamente istabile (.) eh?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi di una melodia continuamente istabile {P} eh?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1053" TIME_SLOT_REF1="ts2104" TIME_SLOT_REF2="ts2105">
-				<ANNOTATION_VALUE>e ci (.) c'è invece il soprano drammatico</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e ci {P} c'è invece il soprano drammatico</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8169,7 +8303,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1057" TIME_SLOT_REF1="ts2112" TIME_SLOT_REF2="ts2113">
-				<ANNOTATION_VALUE>quindi voglio dire (.) queste differenze sono:: standardizzate.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi voglio dire {P} queste differenze sono:: standardizzate.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8224,7 +8358,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1068" TIME_SLOT_REF1="ts2134" TIME_SLOT_REF2="ts2135">
-				<ANNOTATION_VALUE>perché non ha studiato quel tipo di canto, né (.) non è particolarmente portato,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché non ha studiato quel tipo di canto, né {P} non è particolarmente portato,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8314,7 +8448,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1086" TIME_SLOT_REF1="ts2170" TIME_SLOT_REF2="ts2171">
-				<ANNOTATION_VALUE>comunque insomma don ottavio (.) è un tenore</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>comunque insomma don ottavio {P} è un tenore</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8379,7 +8513,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1099" TIME_SLOT_REF1="ts2196" TIME_SLOT_REF2="ts2197">
-				<ANNOTATION_VALUE>((fa_ascoltare_un_brano))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{fa_ascoltare_un_brano}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8389,12 +8523,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1101" TIME_SLOT_REF1="ts2200" TIME_SLOT_REF2="ts2201">
-				<ANNOTATION_VALUE>((fa_ascoltare_un_brano))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{fa_ascoltare_un_brano}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1102" TIME_SLOT_REF1="ts2202" TIME_SLOT_REF2="ts2203">
-				<ANNOTATION_VALUE>ecco (.) forse:: si sentiva bene qua no? quello che intendevo con tenore lirico un tipo di voce:::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ecco {P} forse:: si sentiva bene qua no? quello che intendevo con tenore lirico un tipo di voce:::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8519,7 +8653,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1127" TIME_SLOT_REF1="ts2252" TIME_SLOT_REF2="ts2253">
-				<ANNOTATION_VALUE>farle:: farle risuonare (.) ecco.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>farle:: farle risuonare {P} ecco.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8534,7 +8668,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1130" TIME_SLOT_REF1="ts2258" TIME_SLOT_REF2="ts2259">
-				<ANNOTATION_VALUE>mo::: ((canta)) e po so~</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mo::: {canta} e po so~</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8614,12 +8748,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1146" TIME_SLOT_REF1="ts2290" TIME_SLOT_REF2="ts2291">
-				<ANNOTATION_VALUE>per cui un tenore può essere adatto a fare questa parte (.) e un altro no.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per cui un tenore può essere adatto a fare questa parte {P} e un altro no.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1147" TIME_SLOT_REF1="ts2292" TIME_SLOT_REF2="ts2293">
-				<ANNOTATION_VALUE>poi naturalmente (.) in queste aria qua mozartiane c'è tutto anche::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi naturalmente {P} in queste aria qua mozartiane c'è tutto anche::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8664,7 +8798,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1156" TIME_SLOT_REF1="ts2310" TIME_SLOT_REF2="ts2311">
-				<ANNOTATION_VALUE>((suona_il_pianoforte)) ((canta))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte} {canta}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8694,7 +8828,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1162" TIME_SLOT_REF1="ts2322" TIME_SLOT_REF2="ts2323">
-				<ANNOTATION_VALUE>è chiaro che qui questo ((canta))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è chiaro che qui questo {canta}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8729,12 +8863,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1169" TIME_SLOT_REF1="ts2336" TIME_SLOT_REF2="ts2337">
-				<ANNOTATION_VALUE>mi pare:: (.) evidente quasi abnorme no la: la differenza</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mi pare:: {P} evidente quasi abnorme no la: la differenza</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1170" TIME_SLOT_REF1="ts2338" TIME_SLOT_REF2="ts2339">
-				<ANNOTATION_VALUE>mi pare:: (.) evidente quasi abnorme no la: la differenza</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mi pare:: {P} evidente quasi abnorme no la: la differenza</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8769,7 +8903,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1177" TIME_SLOT_REF1="ts2352" TIME_SLOT_REF2="ts2353">
-				<ANNOTATION_VALUE>e:::h la melodia non esiste c'è soltanto quel frammento ((canta))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h la melodia non esiste c'è soltanto quel frammento {canta}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8809,12 +8943,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1185" TIME_SLOT_REF1="ts2368" TIME_SLOT_REF2="ts2369">
-				<ANNOTATION_VALUE>e:: è proprio (.) un altro mondo espressivo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: è proprio {P} un altro mondo espressivo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1186" TIME_SLOT_REF1="ts2370" TIME_SLOT_REF2="ts2371">
-				<ANNOTATION_VALUE>qui è tutto melodia (.) di là era tutto ritmo. e sempre canto è in fondo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>qui è tutto melodia {P} di là era tutto ritmo. e sempre canto è in fondo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8979,7 +9113,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1219" TIME_SLOT_REF1="ts2436" TIME_SLOT_REF2="ts2437">
-				<ANNOTATION_VALUE>umana del tempo ma che è in un'altra dimensione (.) sovrannaturale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>umana del tempo ma che è in un'altra dimensione {P} sovrannaturale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8994,12 +9128,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1222" TIME_SLOT_REF1="ts2442" TIME_SLOT_REF2="ts2443">
-				<ANNOTATION_VALUE>e:h che::: è un libertino (.) ma</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h che::: è un libertino {P} ma</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1223" TIME_SLOT_REF1="ts2444" TIME_SLOT_REF2="ts2445">
-				<ANNOTATION_VALUE>però (.) è::: persona che sa come ospitare</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però {P} è::: persona che sa come ospitare</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9009,7 +9143,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1225" TIME_SLOT_REF1="ts2448" TIME_SLOT_REF2="ts2449">
-				<ANNOTATION_VALUE>e che quindi sentiremo (.) diviso</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e che quindi sentiremo {P} diviso</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9059,7 +9193,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1235" TIME_SLOT_REF1="ts2468" TIME_SLOT_REF2="ts2469">
-				<ANNOTATION_VALUE>di don giovanni cioè (.) il suo ateismo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di don giovanni cioè {P} il suo ateismo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9084,7 +9218,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1240" TIME_SLOT_REF1="ts2478" TIME_SLOT_REF2="ts2479">
-				<ANNOTATION_VALUE>e quindi si sente proprio (.) la paura che gli corre nella schiena.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi si sente proprio {P} la paura che gli corre nella schiena.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9094,7 +9228,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1242" TIME_SLOT_REF1="ts2482" TIME_SLOT_REF2="ts2483">
-				<ANNOTATION_VALUE>leporello che non si fa mentre (.) don giova::nni (.) che è un cavaliere</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>leporello che non si fa mentre {P} don giova::nni {P} che è un cavaliere</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9159,7 +9293,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1255" TIME_SLOT_REF1="ts2508" TIME_SLOT_REF2="ts2509">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9209,7 +9343,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1265" TIME_SLOT_REF1="ts2528" TIME_SLOT_REF2="ts2529">
-				<ANNOTATION_VALUE>si sente un grido:: e poi lei: lei va via (.) e:::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>si sente un grido:: e poi lei: lei va via {P} e:::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9239,7 +9373,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1271" TIME_SLOT_REF1="ts2540" TIME_SLOT_REF2="ts2541">
-				<ANNOTATION_VALUE>e e poi un (.) commendatore canta in questo modo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e e poi un {P} commendatore canta in questo modo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9249,7 +9383,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1273" TIME_SLOT_REF1="ts2544" TIME_SLOT_REF2="ts2545">
-				<ANNOTATION_VALUE>((suona_il_pianoforte)) ((canta))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte} {canta}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9294,7 +9428,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1282" TIME_SLOT_REF1="ts2562" TIME_SLOT_REF2="ts2563">
-				<ANNOTATION_VALUE>((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9334,7 +9468,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1290" TIME_SLOT_REF1="ts2578" TIME_SLOT_REF2="ts2579">
-				<ANNOTATION_VALUE>((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9349,7 +9483,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1293" TIME_SLOT_REF1="ts2584" TIME_SLOT_REF2="ts2585">
-				<ANNOTATION_VALUE>((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9364,7 +9498,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1296" TIME_SLOT_REF1="ts2590" TIME_SLOT_REF2="ts2591">
-				<ANNOTATION_VALUE>((suona_il_piannoforte_)) ((canta))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_piannoforte_} {canta}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9374,7 +9508,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1298" TIME_SLOT_REF1="ts2594" TIME_SLOT_REF2="ts2595">
-				<ANNOTATION_VALUE>((suona_il_pianoforte)) ((canta))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte} {canta}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9384,7 +9518,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1300" TIME_SLOT_REF1="ts2598" TIME_SLOT_REF2="ts2599">
-				<ANNOTATION_VALUE>((suona_il_pianoforte)) ((canta))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte} {canta}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9419,7 +9553,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1307" TIME_SLOT_REF1="ts2612" TIME_SLOT_REF2="ts2613">
-				<ANNOTATION_VALUE>di fermezza (.) no?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di fermezza {P} no?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9489,7 +9623,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1321" TIME_SLOT_REF1="ts2640" TIME_SLOT_REF2="ts2641">
-				<ANNOTATION_VALUE>mentre ogni brano ha un (.) un suo centro di gravità</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mentre ogni brano ha un {P} un suo centro di gravità</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9509,7 +9643,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1325" TIME_SLOT_REF1="ts2648" TIME_SLOT_REF2="ts2649">
-				<ANNOTATION_VALUE>((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9519,7 +9653,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1327" TIME_SLOT_REF1="ts2652" TIME_SLOT_REF2="ts2653">
-				<ANNOTATION_VALUE>invece (.) eh ques~ &gt;queste battute qui del commendatore non si capisce dove vogliono andare a finire perché&lt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>invece {P} eh ques~ &gt;queste battute qui del commendatore non si capisce dove vogliono andare a finire perché&lt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9554,7 +9688,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1334" TIME_SLOT_REF1="ts2666" TIME_SLOT_REF2="ts2667">
-				<ANNOTATION_VALUE>e e che serve proprio per (.) farci capire come questo personaggio sia di un altro mondo</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e e che serve proprio per {P} farci capire come questo personaggio sia di un altro mondo</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9584,7 +9718,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1340" TIME_SLOT_REF1="ts2678" TIME_SLOT_REF2="ts2679">
-				<ANNOTATION_VALUE>quando canta (.) il commendatore lo accompagnano tre tromboni.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quando canta {P} il commendatore lo accompagnano tre tromboni.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9614,7 +9748,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1346" TIME_SLOT_REF1="ts2690" TIME_SLOT_REF2="ts2691">
-				<ANNOTATION_VALUE>deputati solo a lui. e (.) per indicare la sua</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>deputati solo a lui. e {P} per indicare la sua</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9639,7 +9773,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1353" TIME_SLOT_REF1="ts2704" TIME_SLOT_REF2="ts2705">
-				<ANNOTATION_VALUE>[e]hmh (.) totale cromatico. eh?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e]hmh {P} totale cromatico. eh?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9659,32 +9793,32 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1357" TIME_SLOT_REF1="ts2712" TIME_SLOT_REF2="ts2713">
-				<ANNOTATION_VALUE>vedete? se s~ faccio la scala di (.) mettiamo do maggiore tutti i tasti bianchi ((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>vedete? se s~ faccio la scala di {P} mettiamo do maggiore tutti i tasti bianchi {suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1358" TIME_SLOT_REF1="ts2714" TIME_SLOT_REF2="ts2715">
-				<ANNOTATION_VALUE>poi si chiude quando xx tendono a rimanere lì (.) sospesi no? lo sentite che ((suona_il_pianoforte)) qua non è finito. eh?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi si chiude quando xx tendono a rimanere lì {P} sospesi no? lo sentite che {suona_il_pianoforte} qua non è finito. eh?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1359" TIME_SLOT_REF1="ts2716" TIME_SLOT_REF2="ts2717">
-				<ANNOTATION_VALUE>però la scala in realtà è questa ((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però la scala in realtà è questa {suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1360" TIME_SLOT_REF1="ts2718" TIME_SLOT_REF2="ts2719">
-				<ANNOTATION_VALUE>oppure parto dal mi ((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>oppure parto dal mi {suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1361" TIME_SLOT_REF1="ts2720" TIME_SLOT_REF2="ts2721">
-				<ANNOTATION_VALUE>((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1362" TIME_SLOT_REF1="ts2722" TIME_SLOT_REF2="ts2723">
-				<ANNOTATION_VALUE>su ognuno dei suoni io posso (.) ricreare eh? questa:::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>su ognuno dei suoni io posso {P} ricreare eh? questa:::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9724,7 +9858,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1370" TIME_SLOT_REF1="ts2738" TIME_SLOT_REF2="ts2739">
-				<ANNOTATION_VALUE>((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9734,7 +9868,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1372" TIME_SLOT_REF1="ts2742" TIME_SLOT_REF2="ts2743">
-				<ANNOTATION_VALUE>((suona_il_pianoforte)) con questo sistema io faccio tutte le note ((suona_il_pianoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_pianoforte} con questo sistema io faccio tutte le note {suona_il_pianoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9744,7 +9878,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1374" TIME_SLOT_REF1="ts2746" TIME_SLOT_REF2="ts2747">
-				<ANNOTATION_VALUE>((suona_il_painoforte))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{suona_il_painoforte}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9784,7 +9918,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1382" TIME_SLOT_REF1="ts2762" TIME_SLOT_REF2="ts2763">
-				<ANNOTATION_VALUE>usa questi didici suoni (.) alla pari (.) tutti insieme.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>usa questi didici suoni {P} alla pari {P} tutti insieme.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9824,7 +9958,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1390" TIME_SLOT_REF1="ts2778" TIME_SLOT_REF2="ts2779">
-				<ANNOTATION_VALUE>bisognava (.) m::odulare passare da un'armonia all'altra</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>bisognava {P} m::odulare passare da un'armonia all'altra</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9924,7 +10058,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1411" TIME_SLOT_REF1="ts2820" TIME_SLOT_REF2="ts2821">
-				<ANNOTATION_VALUE>ma comunque non (.) non spaventatevi che poi intanto p~ io::: penso anche a come:: magari prendervi degli altri esempi e via via</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma comunque non {P} non spaventatevi che poi intanto p~ io::: penso anche a come:: magari prendervi degli altri esempi e via via</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10024,12 +10158,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1431" TIME_SLOT_REF1="ts2860" TIME_SLOT_REF2="ts2861">
-				<ANNOTATION_VALUE>((fa_ascoltare_un_brano))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{fa_ascoltare_un_brano}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1432" TIME_SLOT_REF1="ts2862" TIME_SLOT_REF2="ts2863">
-				<ANNOTATION_VALUE>quattro cinque sei sette otto nove dieci undici dodici tredici quattordici quindici, ((fa_ascoltare_un_brano))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quattro cinque sei sette otto nove dieci undici dodici tredici quattordici quindici, {fa_ascoltare_un_brano}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10039,22 +10173,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1434" TIME_SLOT_REF1="ts2866" TIME_SLOT_REF2="ts2867">
-				<ANNOTATION_VALUE>((fa_ascoltare_un_brano))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{fa_ascoltare_un_brano}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1435" TIME_SLOT_REF1="ts2868" TIME_SLOT_REF2="ts2869">
-				<ANNOTATION_VALUE>xxxxxxxxx ((fa_ascoltare_un_brano))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>xxxxxxxxx {fa_ascoltare_un_brano}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1436" TIME_SLOT_REF1="ts2870" TIME_SLOT_REF2="ts2871">
-				<ANNOTATION_VALUE>((ride)) ((ascoltano_aria_del_don_giovanni))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride} {ascoltano_aria_del_don_giovanni}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1437" TIME_SLOT_REF1="ts2872" TIME_SLOT_REF2="ts2873">
-				<ANNOTATION_VALUE>((fa_ascoltare_un_brano))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{fa_ascoltare_un_brano}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10064,12 +10198,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1439" TIME_SLOT_REF1="ts2876" TIME_SLOT_REF2="ts2877">
-				<ANNOTATION_VALUE>che quello vero è il grido di don giovanni che sprofonda (.) e leporello ha talmente paura che gli fa eco come se fosse sprofondato anche lui. eh?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che quello vero è il grido di don giovanni che sprofonda {P} e leporello ha talmente paura che gli fa eco come se fosse sprofondato anche lui. eh?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1440" TIME_SLOT_REF1="ts2878" TIME_SLOT_REF2="ts2879">
-				<ANNOTATION_VALUE>e:: ((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: {si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10109,7 +10243,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1448" TIME_SLOT_REF1="ts2894" TIME_SLOT_REF2="ts2895">
-				<ANNOTATION_VALUE>((canta))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{canta}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10159,7 +10293,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1458" TIME_SLOT_REF1="ts2914" TIME_SLOT_REF2="ts2915">
-				<ANNOTATION_VALUE>e (.) c'è una duttilità straordinaria anche queste frasi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e {P} c'è una duttilità straordinaria anche queste frasi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10194,7 +10328,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1465" TIME_SLOT_REF1="ts2928" TIME_SLOT_REF2="ts2929">
-				<ANNOTATION_VALUE>no? perché: fa come (.) come dire</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no? perché: fa come {P} come dire</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10289,7 +10423,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1487" TIME_SLOT_REF1="ts2972" TIME_SLOT_REF2="ts2973">
-				<ANNOTATION_VALUE>però in in quel punto lì entrano (.) e poi rimangono</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però in in quel punto lì entrano {P} e poi rimangono</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10314,7 +10448,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1492" TIME_SLOT_REF1="ts2982" TIME_SLOT_REF2="ts2983">
-				<ANNOTATION_VALUE>ma è anche proprio quel punto lì del (.) sono addirittura la voce è all'unisono.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma è anche proprio quel punto lì del {P} sono addirittura la voce è all'unisono.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10325,138 +10459,6 @@
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1494" TIME_SLOT_REF1="ts2986" TIME_SLOT_REF2="ts2987">
 				<ANNOTATION_VALUE>prego.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		</TIER>
-	<TIER TIER_ID="???" LINGUISTIC_TYPE_REF="default-lt">
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
-				<ANNOTATION_VALUE>xxx adesso xxx</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
-				<ANNOTATION_VALUE>c'era lei che comunque xxx</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
-				<ANNOTATION_VALUE>adesso che ce l'abbiamo</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts41">
-				<ANNOTATION_VALUE>passa anche dietro non so se xxx</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
-				<ANNOTATION_VALUE>comunque ieri,</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts47">
-				<ANNOTATION_VALUE>sono:: per curiosità sono andata a vedere::</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
-				<ANNOTATION_VALUE>un un una cosa che chiedeva:: il (tizio) xxx</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
-				<ANNOTATION_VALUE>eh all'esame (.) sono andata anch'io lì</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
-				<ANNOTATION_VALUE>infatti gli ho detto no non xxx perché::</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
-				<ANNOTATION_VALUE>sì mi ha detto xxxxare mh mh mh</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts57">
-				<ANNOTATION_VALUE>sì sì però è vero. xxxxxare</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
-				<ANNOTATION_VALUE>sì con le fonti letterarie: alla fine (ti rimane)</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
-				<ANNOTATION_VALUE>ma (.) e invece l'uno è bellissimo xx</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
-				<ANNOTATION_VALUE>(quanto) mi dive::rto.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts65">
-				<ANNOTATION_VALUE>e ognuno vaga xxx</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a548" TIME_SLOT_REF1="ts1094" TIME_SLOT_REF2="ts1095">
-				<ANNOTATION_VALUE>[vediamo il testo].</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a551" TIME_SLOT_REF1="ts1100" TIME_SLOT_REF2="ts1101">
-				<ANNOTATION_VALUE>[sì sì]</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a559" TIME_SLOT_REF1="ts1116" TIME_SLOT_REF2="ts1117">
-				<ANNOTATION_VALUE>sì</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a696" TIME_SLOT_REF1="ts1390" TIME_SLOT_REF2="ts1391">
-				<ANNOTATION_VALUE>mh mh mh mh [mh]</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1351" TIME_SLOT_REF1="ts2700" TIME_SLOT_REF2="ts2701">
-				<ANNOTATION_VALUE>[com'è che si chiama::] questo::: utilizzo dei dodici suoni?</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1352" TIME_SLOT_REF1="ts2702" TIME_SLOT_REF2="ts2703">
-				<ANNOTATION_VALUE>xx[x]?</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1408" TIME_SLOT_REF1="ts2814" TIME_SLOT_REF2="ts2815">
-				<ANNOTATION_VALUE>[è la stessa domanda]</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1475" TIME_SLOT_REF1="ts2948" TIME_SLOT_REF2="ts2949">
-				<ANNOTATION_VALUE>m:::h ascoltando l'aria</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1477" TIME_SLOT_REF1="ts2952" TIME_SLOT_REF2="ts2953">
-				<ANNOTATION_VALUE>no no l:: l~ l'ultima il concertato ecco</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1479" TIME_SLOT_REF1="ts2956" TIME_SLOT_REF2="ts2957">
-				<ANNOTATION_VALUE>non mi sono reso conto del momento in cui:: entrano i tromboni</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>

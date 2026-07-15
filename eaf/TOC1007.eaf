@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:10:19+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-07-15T21:57:29+00:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="TOC1007.wav" RELATIVE_MEDIA_URL="TOC1007.wav" MIME_TYPE="audio/x-wav" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -493,10 +494,11 @@
 		<TIME_SLOT TIME_SLOT_ID="ts488" TIME_VALUE="1259707" />
 		<TIME_SLOT TIME_SLOT_ID="ts489" TIME_VALUE="1260240" />
 		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="TO024" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -511,7 +513,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
-				<ANNOTATION_VALUE>((colpo_di_tosse))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{colpo_di_tosse}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -536,12 +538,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
-				<ANNOTATION_VALUE>classico, o (.) comunista?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>classico, o {P} comunista?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts33">
-				<ANNOTATION_VALUE>((colpi_di_tosse))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{colpi_di_tosse}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -561,7 +563,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
-				<ANNOTATION_VALUE>((colpi_di_tosse))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{colpi_di_tosse}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -571,7 +573,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
-				<ANNOTATION_VALUE>e:::h=m:h diritto arcaico. (.) allora, e::h=il=e::h periodo diciamo imperiale classico, quando inizia.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h=m:h diritto arcaico. {P} allora, e::h=il=e::h periodo diciamo imperiale classico, quando inizia.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -581,7 +583,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
-				<ANNOTATION_VALUE>[ecco]. lei quindi sta parlando. in genere le anti~, arcaico non è un termine che si usa si, [nella storia dell'india. si] parla o di antichità cinese oppure di cina classica. lei (.) [quan]do dice (.) diritto arcaico?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[ecco]. lei quindi sta parlando. in genere le anti~, arcaico non è un termine che si usa si, [nella storia dell'india. si] parla o di antichità cinese oppure di cina classica. lei {P} [quan]do dice {P} diritto arcaico?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -596,7 +598,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
-				<ANNOTATION_VALUE>dell'antichità [classica. de~ no(n) dell'an]tichità classica della cina (.) anti[ca]. (.) prima dell'impero. (.) [mh].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dell'antichità [classica. de~ no(n) dell'an]tichità classica della cina {P} anti[ca]. {P} prima dell'impero. {P} [mh].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -626,12 +628,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts123">
-				<ANNOTATION_VALUE>ah. dovevo scriverlo::, qua. (.) cos'ha preso?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ah. dovevo scriverlo::, qua. {P} cos'ha preso?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts141">
-				<ANNOTATION_VALUE>((colpo_di_tosse))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{colpo_di_tosse}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -641,7 +643,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts146" TIME_SLOT_REF2="ts147">
-				<ANNOTATION_VALUE>aspetto multifo:r[me no], dell'ordine e dei metodi per tenere l'ordine in cina, (.) ha la sua radice in due (.) tradizio:ni, (.) contrapposte ma coesis[tenti in cina. cioè],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>aspetto multifo:r[me no], dell'ordine e dei metodi per tenere l'ordine in cina, {P} ha la sua radice in due {P} tradizio:ni, {P} contrapposte ma coesis[tenti in cina. cioè],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -651,7 +653,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts154" TIME_SLOT_REF2="ts155">
-				<ANNOTATION_VALUE>esat[tamente. allora qua]li sono le (.) concezi[oni alla base dell'una o dell'altra].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>esat[tamente. allora qua]li sono le {P} concezi[oni alla base dell'una o dell'altra].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -661,42 +663,42 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts162" TIME_SLOT_REF2="ts163">
-				<ANNOTATION_VALUE>e che [conce]zione ognuna di esse ha dell'uomo. (.) e della natura uma[na].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e che [conce]zione ognuna di esse ha dell'uomo. {P} e della natura uma[na].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts170" TIME_SLOT_REF2="ts171">
-				<ANNOTATION_VALUE>[a raccogliere diciamo l'eredità di ques]ta:: (.) cina:,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[a raccogliere diciamo l'eredità di ques]ta:: {P} cina:,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts174" TIME_SLOT_REF2="ts175">
-				<ANNOTATION_VALUE>[ar~] (.) an[tica e (per~)]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[ar~] {P} an[tica e (per~)]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts178" TIME_SLOT_REF2="ts179">
-				<ANNOTATION_VALUE>sì. e (.) facendo però (.) m::h ricorso a che cosa. cos'è necessario perché gli uomini, convivano in questo modo armonioso.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì. e {P} facendo però {P} m::h ricorso a che cosa. cos'è necessario perché gli uomini, convivano in questo modo armonioso.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a92" TIME_SLOT_REF1="ts182" TIME_SLOT_REF2="ts183">
-				<ANNOTATION_VALUE>che siano, (.) [educati].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che siano, {P} [educati].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts188" TIME_SLOT_REF2="ts189">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts190" TIME_SLOT_REF2="ts191">
-				<ANNOTATION_VALUE>[sì. educa]ti, (.) più che ne~ anche nel senso che: appunto educati cortesi gentili, però che &lt;ven&gt;=gano educati. attraverso l'educa[zione]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì. educa]ti, {P} più che ne~ anche nel senso che: appunto educati cortesi gentili, però che &lt;ven&gt;=gano educati. attraverso l'educa[zione]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts194" TIME_SLOT_REF2="ts195">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce)) dell'uomo, che l~ l'uomo, che, queste sue naturali disposizioni positive, (.) vengono coltivate.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce} dell'uomo, che l~ l'uomo, che, queste sue naturali disposizioni positive, {P} vengono coltivate.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -706,12 +708,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a102" TIME_SLOT_REF1="ts202" TIME_SLOT_REF2="ts203">
-				<ANNOTATION_VALUE>[sì, no. ma questo è già la], ((si_schiarisce_la_voce)) adesso veniamo alle leggi, ((colpi_di_tosse)) invisibili come [lei dice],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì, no. ma questo è già la], {si_schiarisce_la_voce} adesso veniamo alle leggi, {colpi_di_tosse} invisibili come [lei dice],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts206" TIME_SLOT_REF2="ts207">
-				<ANNOTATION_VALUE>però, non è tanto avere la legge. è (.) che [cosa com]porta l'applicazione della leg[ge].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però, non è tanto avere la legge. è {P} che [cosa com]porta l'applicazione della leg[ge].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -721,12 +723,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts216" TIME_SLOT_REF2="ts217">
-				<ANNOTATION_VALUE>[puni]re. (.) [punire].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[puni]re. {P} [punire].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a111" TIME_SLOT_REF1="ts220" TIME_SLOT_REF2="ts221">
-				<ANNOTATION_VALUE>picchiare. eh. d'accordo. perché non si può confidare su una natura così (.) positiva (.) e:::h dell'uomo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>picchiare. eh. d'accordo. perché non si può confidare su una natura così {P} positiva {P} e:::h dell'uomo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -736,7 +738,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a114" TIME_SLOT_REF1="ts226" TIME_SLOT_REF2="ts227">
-				<ANNOTATION_VALUE>che è propria della cina classica (.) che la legge (.) debba essere (.) non pubblicata, segreta (.) è un=eh, il portato della confluenza del pensiero confuciano con=eh quello legista.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che è propria della cina classica {P} che la legge {P} debba essere {P} non pubblicata, segreta {P} è un=eh, il portato della confluenza del pensiero confuciano con=eh quello legista.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -746,22 +748,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a120" TIME_SLOT_REF1="ts238" TIME_SLOT_REF2="ts239">
-				<ANNOTATION_VALUE>[no no] guardi. il primo (.) il primo imperatore,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[no no] guardi. il primo {P} il primo imperatore,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a121" TIME_SLOT_REF1="ts240" TIME_SLOT_REF2="ts241">
-				<ANNOTATION_VALUE>è quello che ha fatto bruciare tutti i libri confuciani, (.) [lu]i ha costruito l'impero, sul[la base] del=eh pensiero legista.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è quello che ha fatto bruciare tutti i libri confuciani, {P} [lu]i ha costruito l'impero, sul[la base] del=eh pensiero legista.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a124" TIME_SLOT_REF1="ts246" TIME_SLOT_REF2="ts247">
-				<ANNOTATION_VALUE>dopo di che (.) c'è po[i:], (.) una prevalenza [più dell'uno o dell'altro]. però proprio, e::h il primo imperatore, è quello che (.) ha cercato di (.) far tacere i con[fucia]ni.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>dopo di che {P} c'è po[i:], {P} una prevalenza [più dell'uno o dell'altro]. però proprio, e::h il primo imperatore, è quello che {P} ha cercato di {P} far tacere i con[fucia]ni.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a129" TIME_SLOT_REF1="ts256" TIME_SLOT_REF2="ts257">
-				<ANNOTATION_VALUE>[no. diceva]mo. allora perché è importante cioè. perché si può dire che una legge tenuta segreta (.) e:::h sia e::h conforme più (.) a un pensiero influenzato dal confucianesimo, che al pensiero legista.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[no. diceva]mo. allora perché è importante cioè. perché si può dire che una legge tenuta segreta {P} e:::h sia e::h conforme più {P} a un pensiero influenzato dal confucianesimo, che al pensiero legista.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -771,7 +773,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a135" TIME_SLOT_REF1="ts268" TIME_SLOT_REF2="ts269">
-				<ANNOTATION_VALUE>[NO. è que~] cioè la l~ (.) i (.) chi applica la legge, che tanto non è un giurista, (.) la=applica a seconda dell'opportunità.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[NO. è que~] cioè la l~ {P} i {P} chi applica la legge, che tanto non è un giurista, {P} la=applica a seconda dell'opportunità.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -781,12 +783,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a138" TIME_SLOT_REF1="ts274" TIME_SLOT_REF2="ts275">
-				<ANNOTATION_VALUE>[sì] questo, (.) si può dire sempre però</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì] questo, {P} si può dire sempre però</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a139" TIME_SLOT_REF1="ts276" TIME_SLOT_REF2="ts277">
-				<ANNOTATION_VALUE>può ritenere che in certi casi (.) sia più opportuno sempre ai fini dell'educazione, non fare un'applicazione completa o parti[colar]mente rigorosa della legge,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>può ritenere che in certi casi {P} sia più opportuno sempre ai fini dell'educazione, non fare un'applicazione completa o parti[colar]mente rigorosa della legge,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -801,7 +803,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a144" TIME_SLOT_REF1="ts286" TIME_SLOT_REF2="ts287">
-				<ANNOTATION_VALUE>[quindi], (.) l'applicazione della legge in::: per il pensiero confuciano è comunque sempre uno strumento di educazione,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[quindi], {P} l'applicazione della legge in::: per il pensiero confuciano è comunque sempre uno strumento di educazione,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -821,7 +823,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a148" TIME_SLOT_REF1="ts294" TIME_SLOT_REF2="ts295">
-				<ANNOTATION_VALUE>e::h il diritto (.) di common law inglese, (.) e::h ha conosciuto nel corso del diciannovesimo secolo, (.) delle grandi trasformazio[ni].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h il diritto {P} di common law inglese, {P} e::h ha conosciuto nel corso del diciannovesimo secolo, {P} delle grandi trasformazio[ni].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -831,17 +833,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a153" TIME_SLOT_REF1="ts304" TIME_SLOT_REF2="ts305">
-				<ANNOTATION_VALUE>((colpi_di_tosse))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{colpi_di_tosse}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a156" TIME_SLOT_REF1="ts310" TIME_SLOT_REF2="ts311">
-				<ANNOTATION_VALUE>[no beh]. (.) cosa vuol dire incosti[tuzionale::=i:~ in inghilterra]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[no beh]. {P} cosa vuol dire incosti[tuzionale::=i:~ in inghilterra]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a162" TIME_SLOT_REF1="ts322" TIME_SLOT_REF2="ts323">
-				<ANNOTATION_VALUE>senta, adesso, e:h mi spieghi (.) come ma:i,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>senta, adesso, e:h mi spieghi {P} come ma:i,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -851,12 +853,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a165" TIME_SLOT_REF1="ts328" TIME_SLOT_REF2="ts329">
-				<ANNOTATION_VALUE>però senza ancora abbordare questi argomenti tecnici, (.) mi spieghi come mai (.) la teoria del precedente vincolante, sarebbe una rivoluzione rispetto a quello che lei diceva c'era prima,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però senza ancora abbordare questi argomenti tecnici, {P} mi spieghi come mai {P} la teoria del precedente vincolante, sarebbe una rivoluzione rispetto a quello che lei diceva c'era prima,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a166" TIME_SLOT_REF1="ts330" TIME_SLOT_REF2="ts331">
-				<ANNOTATION_VALUE>cioè (.) il rispetto del precedente, in mancanza del quale la decisione sarebbe stata erra[ta].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè {P} il rispetto del precedente, in mancanza del quale la decisione sarebbe stata erra[ta].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -876,57 +878,57 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a176" TIME_SLOT_REF1="ts350" TIME_SLOT_REF2="ts351">
-				<ANNOTATION_VALUE>((colpi_di_tosse))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{colpi_di_tosse}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a178" TIME_SLOT_REF1="ts354" TIME_SLOT_REF2="ts355">
-				<ANNOTATION_VALUE>prima del=eh (.) di questo momento in cui, si impone la dottrina del dichiarativa del common law.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>prima del=eh {P} di questo momento in cui, si impone la dottrina del dichiarativa del common law.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a180" TIME_SLOT_REF1="ts358" TIME_SLOT_REF2="ts359">
-				<ANNOTATION_VALUE>quindi, in un certo senso, e:::h nel diciannovesimo secolo si avrebbe avuto un::: restringimento (.) della voncolatività del precedente. perché mentre prima io dovevo tenere conto della sentenza nel suo insieme, dopo tengo conto solo di una parte della sentenza? (.) è così?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi, in un certo senso, e:::h nel diciannovesimo secolo si avrebbe avuto un::: restringimento {P} della voncolatività del precedente. perché mentre prima io dovevo tenere conto della sentenza nel suo insieme, dopo tengo conto solo di una parte della sentenza? {P} è così?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a182" TIME_SLOT_REF1="ts362" TIME_SLOT_REF2="ts363">
-				<ANNOTATION_VALUE>[sì. (.) ques]to: l'ho capito.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì. {P} ques]to: l'ho capito.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a183" TIME_SLOT_REF1="ts364" TIME_SLOT_REF2="ts365">
-				<ANNOTATION_VALUE>però. e::h lei mi ha detto. (.) e:::h (.) nel quadro della teoria dichiarativa del precedente vincolante, (.) si sviluppano queste tecniche di trattamento delle sentenze, per io dis=tinguo tra ratio decidendi e opera obiter dicta, e quindi sono legata so::lo alla ratio decidendi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>però. e::h lei mi ha detto. {P} e:::h {P} nel quadro della teoria dichiarativa del precedente vincolante, {P} si sviluppano queste tecniche di trattamento delle sentenze, per io dis=tinguo tra ratio decidendi e opera obiter dicta, e quindi sono legata so::lo alla ratio decidendi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a184" TIME_SLOT_REF1="ts366" TIME_SLOT_REF2="ts367">
-				<ANNOTATION_VALUE>me~ e io le chiedo cos'era prima invece la re~ la situazione? lei m'(ha detto che (.) siccome esisteva il principio del precedente vincolante, i giudici però erano legati dal::=la sentenza nel suo insieme.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>me~ e io le chiedo cos'era prima invece la re~ la situazione? lei m'(ha detto che {P} siccome esisteva il principio del precedente vincolante, i giudici però erano legati dal::=la sentenza nel suo insieme.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a185" TIME_SLOT_REF1="ts368" TIME_SLOT_REF2="ts369">
-				<ANNOTATION_VALUE>allora sembrerebbe quasi che (.) con l'affermazione della teoria del dichiarativa [del prece]dente in fondo (.) &lt;si restringa&gt; (.) [la: e:::h] il peso (.) di questo (.) vincolatività del precedente. non riguarda più tutta la sentenza ma solo una sua parte.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora sembrerebbe quasi che {P} con l'affermazione della teoria del dichiarativa [del prece]dente in fondo {P} &lt;si restringa&gt; {P} [la: e:::h] il peso {P} di questo {P} vincolatività del precedente. non riguarda più tutta la sentenza ma solo una sua parte.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a190" TIME_SLOT_REF1="ts378" TIME_SLOT_REF2="ts379">
-				<ANNOTATION_VALUE>((colpo_di_tosse))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{colpo_di_tosse}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a192" TIME_SLOT_REF1="ts382" TIME_SLOT_REF2="ts383">
-				<ANNOTATION_VALUE>[sì]. (.) senta. mi spieghi e::h come ma:i (.) però e::h si impone questa teoria del=eh precedente vincolante. proprio nel diciannovesimo secolo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì]. {P} senta. mi spieghi e::h come ma:i {P} però e::h si impone questa teoria del=eh precedente vincolante. proprio nel diciannovesimo secolo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a193" TIME_SLOT_REF1="ts384" TIME_SLOT_REF2="ts385">
-				<ANNOTATION_VALUE>((colpi_di_tosse))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{colpi_di_tosse}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a194" TIME_SLOT_REF1="ts386" TIME_SLOT_REF2="ts387">
-				<ANNOTATION_VALUE>diciamo che (.) è in genere interpretato, questo imporsi della nuova teoria, come un metodo per riportare in equilibrio, un sistema che aveva perso il suo tradizionale equilibrio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>diciamo che {P} è in genere interpretato, questo imporsi della nuova teoria, come un metodo per riportare in equilibrio, un sistema che aveva perso il suo tradizionale equilibrio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -936,12 +938,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a199" TIME_SLOT_REF1="ts396" TIME_SLOT_REF2="ts397">
-				<ANNOTATION_VALUE>((colpi_di_tosse))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{colpi_di_tosse}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a201" TIME_SLOT_REF1="ts400" TIME_SLOT_REF2="ts401">
-				<ANNOTATION_VALUE>[s:enta, (.) s]::ì.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[s:enta, {P} s]::ì.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -956,7 +958,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a206" TIME_SLOT_REF1="ts410" TIME_SLOT_REF2="ts411">
-				<ANNOTATION_VALUE>cos'era successo. (.) nel=eh, cioè. co~ diciamo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cos'era successo. {P} nel=eh, cioè. co~ diciamo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -976,7 +978,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a213" TIME_SLOT_REF1="ts424" TIME_SLOT_REF2="ts425">
-				<ANNOTATION_VALUE>((colpi_di_tosse))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{colpi_di_tosse}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -986,17 +988,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a219" TIME_SLOT_REF1="ts436" TIME_SLOT_REF2="ts437">
-				<ANNOTATION_VALUE>[allo]ra faccio, (.) rispet~ eh la la teoria, l'imporsi della teoria dichiarativa del common law (.) è in relazione con=eh (.) queste (.) rifo:rme o con una di queste rifor[me]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[allo]ra faccio, {P} rispet~ eh la la teoria, l'imporsi della teoria dichiarativa del common law {P} è in relazione con=eh {P} queste {P} rifo:rme o con una di queste rifor[me]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a221" TIME_SLOT_REF1="ts440" TIME_SLOT_REF2="ts441">
-				<ANNOTATION_VALUE>((colpo_di_tosse)) quali</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{colpo_di_tosse} quali</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a223" TIME_SLOT_REF1="ts444" TIME_SLOT_REF2="ts445">
-				<ANNOTATION_VALUE>((colpi_di_tosse))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{colpi_di_tosse}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1016,7 +1018,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a230" TIME_SLOT_REF1="ts458" TIME_SLOT_REF2="ts459">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1031,12 +1033,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a235" TIME_SLOT_REF1="ts468" TIME_SLOT_REF2="ts469">
-				<ANNOTATION_VALUE>[to~] cioè. intendiamoci. poi c'era sempre un atto improduttivo della causa. però, si (.) eliminava questa (.) e:::h (.) tipi~ tipicizzazione nei writ.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[to~] cioè. intendiamoci. poi c'era sempre un atto improduttivo della causa. però, si {P} eliminava questa {P} e:::h {P} tipi~ tipicizzazione nei writ.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a237" TIME_SLOT_REF1="ts472" TIME_SLOT_REF2="ts473">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1046,7 +1048,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a240" TIME_SLOT_REF1="ts478" TIME_SLOT_REF2="ts479">
-				<ANNOTATION_VALUE>((si_schiarisce_la_voce))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{si_schiarisce_la_voce}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1065,43 +1067,6 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>
-	<TIER TIER_ID="???" LINGUISTIC_TYPE_REF="default-lt">
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts117">
-				<ANNOTATION_VALUE>sì</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts120" TIME_SLOT_REF2="ts121">
-				<ANNOTATION_VALUE>sì</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
-				<ANNOTATION_VALUE>ventisette</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
-				<ANNOTATION_VALUE>sì tanto il libretto ormai cartaceo</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
-				<ANNOTATION_VALUE>però per sicurezza per paura di problemi:</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
-				<ANNOTATION_VALUE>grazie</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts133">
-				<ANNOTATION_VALUE>arrivederci.</ANNOTATION_VALUE>
-				</ALIGNABLE_ANNOTATION>
-			</ANNOTATION>
-		</TIER>
 	<TIER TIER_ID="TO023" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
@@ -1115,7 +1080,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
-				<ANNOTATION_VALUE>[delle firme? (.) sì sì sì].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[delle firme? {P} sì sì sì].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1130,7 +1095,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
-				<ANNOTATION_VALUE>allora, (.) il=e:h, &gt;innanzitutto&lt; [biso~]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora, {P} il=e:h, &gt;innanzitutto&lt; [biso~]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1195,7 +1160,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts75">
-				<ANNOTATION_VALUE>[m:h, (.) ho capito].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[m:h, {P} ho capito].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1230,12 +1195,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
-				<ANNOTATION_VALUE>e:::h=m:h (.) appunto c'era, e::h m:h questa concezione di tenere, e::h le leggi (.) quasi, nascoste.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:::h=m:h {P} appunto c'era, e::h m:h questa concezione di tenere, e::h le leggi {P} quasi, nascoste.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts97">
-				<ANNOTATION_VALUE>perché, e di non=eh rivelarle troppo, appunto per la paura che (.) le: le persone (.) potessero in qualche modo conoscendo le leggi, sviarle in qualche maniera.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché, e di non=eh rivelarle troppo, appunto per la paura che {P} le: le persone {P} potessero in qualche modo conoscendo le leggi, sviarle in qualche maniera.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1265,17 +1230,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts135">
-				<ANNOTATION_VALUE>e::h &gt;stavo dicendo&lt; si basa su, quattro principi. quindi per risolvere diciamo, una controversia (.) si inziava con il king=eh, ovvero il=e::h sentimento di umanità verso gli altri che tutti:: i cittadini dovevano avere per comportarsi in maniera giusta,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h &gt;stavo dicendo&lt; si basa su, quattro principi. quindi per risolvere diciamo, una controversia {P} si inziava con il king=eh, ovvero il=e::h sentimento di umanità verso gli altri che tutti:: i cittadini dovevano avere per comportarsi in maniera giusta,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts137">
-				<ANNOTATION_VALUE>poi si passava al li, che e:ra, un=eh il principio di gentilezza. inzialmente era più un rito religioso. un rito sacro, ma poi divenne un=eh con l'evolversi del tempo, il=eh diciamo un principio di gentilezza ovvero che tutte le persone, dovevano comportarsi in maniera (.) gentile e onesta nei confronti del prossimo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi si passava al li, che e:ra, un=eh il principio di gentilezza. inzialmente era più un rito religioso. un rito sacro, ma poi divenne un=eh con l'evolversi del tempo, il=eh diciamo un principio di gentilezza ovvero che tutte le persone, dovevano comportarsi in maniera {P} gentile e onesta nei confronti del prossimo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts139">
-				<ANNOTATION_VALUE>se questo non bastava, allora si ricorreva al lii, (.) ovvero: scritto lii co~ con due i, che e::h era diciamo la morale. quindi tutto ciò che riguardava la morale, e se poi tutto ciò e::h non=eh non si riusciva a risolvere si faceva ricorso al fa. ovvero, (.) la legge.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>se questo non bastava, allora si ricorreva al lii, {P} ovvero: scritto lii co~ con due i, che e::h era diciamo la morale. quindi tutto ciò che riguardava la morale, e se poi tutto ciò e::h non=eh non si riusciva a risolvere si faceva ricorso al fa. ovvero, {P} la legge.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1290,7 +1255,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts151">
-				<ANNOTATION_VALUE>[sì. (.) allora=la] tradizione confuciana e la [tradizione] legista.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì. {P} allora=la] tradizione confuciana e la [tradizione] legista.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1310,12 +1275,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts166" TIME_SLOT_REF2="ts167">
-				<ANNOTATION_VALUE>[sì] allora, innanzi=&gt;eh&lt;=tutto la concezione del li, e:::h=m:h (.) tende a: a dire che ehm:: si basa innanzitutto sulle tesi di confucio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì] allora, innanzi=&gt;eh&lt;=tutto la concezione del li, e:::h=m:h {P} tende a: a dire che ehm:: si basa innanzitutto sulle tesi di confucio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts168" TIME_SLOT_REF2="ts169">
-				<ANNOTATION_VALUE>quindi nonostante il li fosse, e::h (.) molt~ fosse nato molto prima di di confucio, poi è stato però confucio a dare delle teorie diverse, si basava sul fatto che e::h [l'uomo, sì. raccoglie tutte le le::]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi nonostante il li fosse, e::h {P} molt~ fosse nato molto prima di di confucio, poi è stato però confucio a dare delle teorie diverse, si basava sul fatto che e::h [l'uomo, sì. raccoglie tutte le le::]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1325,7 +1290,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts176" TIME_SLOT_REF2="ts177">
-				<ANNOTATION_VALUE>[per per formare delle] teorie in cui dice che l'uomo, può (.) e::h convivere, e::h in maniera pacifica, in maniera serena, senza ricorrere (.) a~ alle leggi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[per per formare delle] teorie in cui dice che l'uomo, può {P} e::h convivere, e::h in maniera pacifica, in maniera serena, senza ricorrere {P} a~ alle leggi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1350,12 +1315,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts198" TIME_SLOT_REF2="ts199">
-				<ANNOTATION_VALUE>eh=i legisti invece pensano che e::h l'uomo non sia: al~ così e::h bravo, così propenso al=e::h=m::h all'essere: diciamo:: gentile, all'essere ehm:: (.) in armonia con=e:h con tutti gli altri,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh=i legisti invece pensano che e::h l'uomo non sia: al~ così e::h bravo, così propenso al=e::h=m::h all'essere: diciamo:: gentile, all'essere ehm:: {P} in armonia con=e:h con tutti gli altri,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts200" TIME_SLOT_REF2="ts201">
-				<ANNOTATION_VALUE>quindi cerca di mettere (.) delle leggi, che però queste leggi non devono essere, e::h diciamo visibili. appun[to perché l'uomo cerca sempre],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi cerca di mettere {P} delle leggi, che però queste leggi non devono essere, e::h diciamo visibili. appun[to perché l'uomo cerca sempre],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1385,12 +1350,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a112" TIME_SLOT_REF1="ts222" TIME_SLOT_REF2="ts223">
-				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>{ride}</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a116" TIME_SLOT_REF1="ts230" TIME_SLOT_REF2="ts231">
-				<ANNOTATION_VALUE>e::h (.) perché (.) ehm::: bisogna dire che, eh=ehm:: innanzitutto, (.) il=e::h=mh. il pensiero:: confuciano, ehm:: parlo un attimo del=eh del formarsi.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h {P} perché {P} ehm::: bisogna dire che, eh=ehm:: innanzitutto, {P} il=e::h=mh. il pensiero:: confuciano, ehm:: parlo un attimo del=eh del formarsi.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1425,7 +1390,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a126" TIME_SLOT_REF1="ts250" TIME_SLOT_REF2="ts251">
-				<ANNOTATION_VALUE>[sì. e poi.]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì. e poi].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1435,7 +1400,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a128" TIME_SLOT_REF1="ts254" TIME_SLOT_REF2="ts255">
-				<ANNOTATION_VALUE>quindi, e::h=m:h (.) &gt;mi sono un attimo perso&lt;. non mi ricor[do, eh],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi, e::h=m:h {P} &gt;mi sono un attimo perso&lt;. non mi ricor[do, eh],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1470,7 +1435,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a143" TIME_SLOT_REF1="ts284" TIME_SLOT_REF2="ts285">
-				<ANNOTATION_VALUE>[sì. (.) sì sì],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì. {P} sì sì],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1480,7 +1445,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts300" TIME_SLOT_REF2="ts301">
-				<ANNOTATION_VALUE>allora. la:: grande trasformazione, (.) e::h consiste(=è) quella della considerazione del precedente vincolante.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora. la:: grande trasformazione, {P} e::h consiste(=è) quella della considerazione del precedente vincolante.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1490,7 +1455,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a154" TIME_SLOT_REF1="ts306" TIME_SLOT_REF2="ts307">
-				<ANNOTATION_VALUE>e quindi, e::h un giudice che si discostava da una sentenza, (.) e::h ri~ risultava incostituzionale.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi, e::h un giudice che si discostava da una sentenza, {P} e::h ri~ risultava incostituzionale.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1505,7 +1470,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a158" TIME_SLOT_REF1="ts314" TIME_SLOT_REF2="ts315">
-				<ANNOTATION_VALUE>risultava:: (.) sbagliata, (.) appunto perché, e::h si teneva sempre conto della sentenza precedente.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>risultava:: {P} sbagliata, {P} appunto perché, e::h si teneva sempre conto della sentenza precedente.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1515,7 +1480,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a160" TIME_SLOT_REF1="ts318" TIME_SLOT_REF2="ts319">
-				<ANNOTATION_VALUE>ossia che un giudice durante la sua sentenza, avesse due:: eh e:::h (.) me~ due:: due tipi di e::h concezione. ovvero (.) la:: ratio decidenti,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ossia che un giudice durante la sua sentenza, avesse due:: eh e:::h {P} me~ due:: due tipi di e::h concezione. ovvero {P} la:: ratio decidenti,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1535,7 +1500,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a169" TIME_SLOT_REF1="ts336" TIME_SLOT_REF2="ts337">
-				<ANNOTATION_VALUE>[eh] la differenza è che il=e:h=mh il giudice, mh in questo caso, doveva sì tenere conto della vecchia sentenza, ma soltanto (.) del=eh ehm:: della legge applicata, al caso specifico.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[eh] la differenza è che il=e:h=mh il giudice, mh in questo caso, doveva sì tenere conto della vecchia sentenza, ma soltanto {P} del=eh ehm:: della legge applicata, al caso specifico.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1550,7 +1515,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a173" TIME_SLOT_REF1="ts344" TIME_SLOT_REF2="ts345">
-				<ANNOTATION_VALUE>quindi doveva e::h (.) ved~ tener conto di una determinata regola, che fosse applicata ad una determinata fattispecie.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi doveva e::h {P} ved~ tener conto di una determinata regola, che fosse applicata ad una determinata fattispecie.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1570,7 +1535,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a181" TIME_SLOT_REF1="ts360" TIME_SLOT_REF2="ts361">
-				<ANNOTATION_VALUE>no, no no. e::h bisognava guardare l'elemento significativo, (.) che e:::h doveva essere applicato in=eh in quella determi[nata sentenza].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no, no no. e::h bisognava guardare l'elemento significativo, {P} che e:::h doveva essere applicato in=eh in quella determi[nata sentenza].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1590,7 +1555,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a189" TIME_SLOT_REF1="ts376" TIME_SLOT_REF2="ts377">
-				<ANNOTATION_VALUE>perché l'obiter dictum poi poteva cambiare in base alla sentenza, in base a~ al giudice:: (.) e:h (.) che la: (.) &gt;faceva&lt;.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché l'obiter dictum poi poteva cambiare in base alla sentenza, in base a~ al giudice:: {P} e:h {P} che la: {P} &gt;faceva&lt;.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1650,7 +1615,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a215" TIME_SLOT_REF1="ts428" TIME_SLOT_REF2="ts429">
-				<ANNOTATION_VALUE>la dif~ e::h=mh grazie:: &gt;cioè&lt; la disputa avuta tra il re:, e sid~ edward coke, no è prima. (.) e::h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la dif~ e::h=mh grazie:: &gt;cioè&lt; la disputa avuta tra il re:, e sid~ edward coke, no è prima. {P} e::h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1716,6 +1681,43 @@
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a245" TIME_SLOT_REF1="ts488" TIME_SLOT_REF2="ts489">
 				<ANNOTATION_VALUE>grazie.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
+	<TIER TIER_ID="???" LINGUISTIC_TYPE_REF="default-lt">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts117">
+				<ANNOTATION_VALUE>sì</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts120" TIME_SLOT_REF2="ts121">
+				<ANNOTATION_VALUE>sì</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
+				<ANNOTATION_VALUE>ventisette</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
+				<ANNOTATION_VALUE>sì tanto il libretto ormai cartaceo</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
+				<ANNOTATION_VALUE>però per sicurezza per paura di problemi:</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
+				<ANNOTATION_VALUE>grazie</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts133">
+				<ANNOTATION_VALUE>arrivederci.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>
