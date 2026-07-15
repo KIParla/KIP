@@ -48,7 +48,7 @@ jobs:
             --out_orthographic linear-orthographic/
 
       - name: Regenerate EAF files
-        run: python _tools/tsv2eaf.py -i tsv/ -o eaf/
+        run: python _tools/cli.py vert2eaf --input-dir tsv/ -o eaf/
 
       - name: Commit regenerated files
         run: |
