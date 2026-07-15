@@ -39,7 +39,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install pympi-ling
+        run: pip install -e _tools
 
       - name: Regenerate linear files
         run: |
