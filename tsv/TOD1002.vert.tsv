@@ -7021,7 +7021,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1259-13	TO004	1259	1259	13	rock	rock	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1259-14	TO004	1259	1259	14	and	and	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1259-15	TO004	1259	1259	15	roll.	roll	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=3743.389	_	_	_	_
-1260-0	TO004	1260	1260	0	>ci(o)è<	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=3746.223	_	Fast=0-4(0)	2-3(0)	_
+1260-0	TO004	1260	1260	0	>ci(o)è<	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	Begin=3746.223	_	Fast=0-4(0)	_	_
 1260-1	TO004	1260	1260	1	<quando>	quando	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	Slow=0-6(0)	_	_
 1260-2	TO004	1260	1260	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	Fast=0-3(1)	_	_
 1260-3	TO004	1260	1260	3	<diventa>	diventa	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	Slow=0-7(1)	_	_
@@ -8683,11 +8683,10 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1583-2	TO004	1583	1583	2	sè,	sè	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=4775.173	_	_	_	_
 1584-0	TO004	1584	1584	0	<un	un	_	_	_	_	_	linguistic	_	none	_	Begin=4775.288	_	Slow=0-2(0)	_	_
 1584-1	TO004	1584	1584	1	carico	carico	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-6(0)	_	_
-1584-2	TO004	1584	1584	2	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-2(0)	_	_
-1584-3	TO004	1584	1584	3	>		_	_	_	_	_	error	_	none	PauseAfter=Yes	_	_	_	_	_
-1584-4	TO004	1584	1584	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
-1584-5	TO004	1584	1584	5	informazione	informazione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-1584-6	TO004	1584	1584	6	significativa.	significativa	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=4778.798	_	_	_	_
+1584-2	TO004	1584	1584	2	di>	di	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	Slow=0-2(0)	_	_
+1584-3	TO004	1584	1584	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+1584-4	TO004	1584	1584	4	informazione	informazione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+1584-5	TO004	1584	1584	5	significativa.	significativa	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=4778.798	_	_	_	_
 1585-0	TO004	1585	1585	0	perché,	perché	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=4780.153|End=4780.863	_	_	_	_
 1586-0	TO004	1586	1586	0	il	il	_	_	_	_	_	linguistic	_	none	_	Begin=4781.148	_	_	_	_
 1586-1	TO004	1586	1586	1	colore,	colore	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=4782.128	_	_	_	_

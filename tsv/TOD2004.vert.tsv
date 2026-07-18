@@ -623,8 +623,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 115-3	TO084	115	115	3	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 115-4	TO084	115	115	4	proprio	proprio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 115-5	TO084	115	115	5	nostra.	nostra	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=241.561	_	_	_	_
-116-0	TO999	116	116	0	[mhmh],	mhmh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=241.62|End=242.035	_	_	_	0-4(20)
-117-0	TO084	117	117	0	[quindi]::,	quindi	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=241.62|End=242.535	5x2	_	_	0-6(20)
+116-0	TO084	116	116	0	[quindi]::,	quindi	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=241.62|End=242.535	5x2	_	_	0-6(20)
+117-0	TO999	117	117	0	[mhmh],	mhmh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=241.62|End=242.035	_	_	_	0-4(20)
 118-0	TO084	118	118	0	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=242.77	_	_	_	_
 118-1	TO084	118	118	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 118-2	TO084	118	118	2	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

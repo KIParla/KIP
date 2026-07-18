@@ -2333,8 +2333,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 284-2	TO028	284	284	2	quest'	quest'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 284-3	TO028	284	284	3	anno	anno	_	_	_	_	_	linguistic	_	none	_	End=805.057	_	_	_	_
 285-0	TO028	285	285	0	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	Begin=805.725|End=806.158	_	_	_	_
-286-0	TO028	286	286	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=807.855|End=808.408	_	_	_	_
-287-0	TO026	287	287	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=807.855|End=808.408	_	_	_	_
+286-0	TO026	286	286	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=807.855|End=808.408	_	_	_	_
+287-0	TO028	287	287	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=807.855|End=808.408	_	_	_	_
 288-0	TO026	288	288	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=809.161	_	_	_	_
 288-1	TO026	288	288	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 288-2	TO026	288	288	2	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2369,8 +2369,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 294-0	TO028	294	294	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=821.341	_	_	_	_
 294-1	TO028	294	294	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 294-2	TO028	294	294	2	sì	sì	_	_	_	_	_	linguistic	_	none	_	End=821.913	_	_	_	_
-295-0	TO028	295	295	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=821.992|End=822.417	_	_	_	_
-296-0	TO026	296	296	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=821.992|End=822.417	_	_	_	_
+295-0	TO026	295	295	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=821.992|End=822.417	_	_	_	_
+296-0	TO028	296	296	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=821.992|End=822.417	_	_	_	_
 297-0	TO026	297	297	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=822.694	_	_	_	_
 297-1	TO026	297	297	1	beh	beh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 297-2	TO026	297	297	2	[eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(99)

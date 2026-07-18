@@ -2448,7 +2448,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 435-0	TO078	435	435	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=970.121	_	_	_	_
 435-1	TO078	435	435	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	End=970.712	_	_	_	_
 436-0	TO074	436	436	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=970.712	_	_	_	_
-436-1	TO074	436	436	1	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-3(0)	_
+436-1	TO074	436	436	1	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 436-2	TO074	436	436	2	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 436-3	TO074	436	436	3	scusi	scusi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 436-4	TO074	436	436	4	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3267,7 +3267,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 583-4	TO078	583	583	4	es[sere	essere	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-6(0)	_	2-6(?)
 583-5	TO078	583	583	5	pronta	pronta	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-6(0)	_	0-6(?)
 583-6	TO078	583	583	6	per]<	per	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-3(0)	_	0-3(?)
-583-7	TO078	583	583	7	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-3(0)	_
+583-7	TO078	583	583	7	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 583-8	TO078	583	583	8	[giusto	giusto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(?)
 583-9	TO078	583	583	9	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(?)
 583-10	TO078	583	583	10	aggiustamenti	aggiustamenti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-13(?)
@@ -3275,7 +3275,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 583-12	TO078	583	583	12	ultimi	ultimi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(?)
 583-13	TO078	583	583	13	giorni]	giorni	_	_	_	_	_	linguistic	_	none	_	End=1288.939	_	_	_	0-6(?)
 584-0	TO074	584	584	0	[sì]	sì	_	_	_	_	_	linguistic	_	none	_	Begin=1285.748|End=1286.293	_	_	_	0-2(128)
-585-0	TO074	585	585	0	[c(io)è	cioè	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=1286.551	_	_	1-3(0)	0-4(129)
+585-0	TO074	585	585	0	[c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes|PauseAfter=Yes	Begin=1286.551	_	_	_	0-4(129)
 585-1	TO074	585	585	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	0-3(129)
 585-2	TO074	585	585	2	giusto	giusto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(129)
 585-3	TO074	585	585	3	per]	per	_	_	_	_	_	linguistic	_	none	_	End=1288.039	_	_	_	0-3(129)
@@ -3780,7 +3780,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 688-3	TO074	688	688	3	questo?	questo	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=1578.776	_	_	_	_
 689-0	TO079	689	689	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=1579.007|End=1579.57	_	_	_	_
 690-0	TO079	690	690	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=1579.991|End=1580.532	_	_	_	_
-691-0	TO074	691	691	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=1580.532	_	_	1-3(0)	_
+691-0	TO074	691	691	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	Begin=1580.532	_	_	_	_
 691-1	TO074	691	691	1	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 691-2	TO074	691	691	2	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 691-3	TO074	691	691	3	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4386,7 +4386,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 798-2	TO074	798	798	2	dell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 798-3	TO074	798	798	3	antropologia	antropologia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 798-4	TO074	798	798	4	c~	c~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
-798-5	TO074	798	798	5	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-3(0)	_
+798-5	TO074	798	798	5	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 798-6	TO074	798	798	6	mettere	mettere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 798-7	TO074	798	798	7	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 798-8	TO074	798	798	8	mezzo	mezzo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4672,7 +4672,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 853-4	TO079	853	853	4	tra	tra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 853-5	TO079	853	853	5	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 853-6	TO079	853	853	6	r[ighe,	righe	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	1-5(188)
-853-7	TO079	853	853	7	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-3(0)	0-4(188)
+853-7	TO079	853	853	7	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	0-4(188)
 853-8	TO079	853	853	8	non:]	non	_	_	_	_	_	linguistic	_	none	_	_	2x1	_	_	0-3(188)
 853-9	TO079	853	853	9	non	non	_	_	_	_	_	linguistic	_	none	_	End=2004.195	_	_	_	_
 854-0	TO074	854	854	0	[s::ì]	sì	_	_	_	_	_	linguistic	_	none	_	Begin=2003.143|End=2003.825	0x2	_	_	0-2(188)
@@ -5481,7 +5481,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 990-5	TO079	990	990	5	aveva	aveva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 990-6	TO079	990	990	6	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 990-7	TO079	990	990	7	se~	se~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
-990-8	TO079	990	990	8	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-3(0)	_
+990-8	TO079	990	990	8	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 990-9	TO079	990	990	9	aveva:	aveva	_	_	_	_	_	linguistic	_	none	_	End=2277.491	4x1	_	_	_
 991-0	TO074	991	991	0	no	no	_	_	_	_	_	linguistic	_	none	_	Begin=2277.558	_	_	_	_
 991-1	TO074	991	991	1	t~	t~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
@@ -5703,7 +5703,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1031-13	TO074	1031	1031	13	buchi]	buchi	_	_	_	_	_	linguistic	_	none	_	End=2368.507	_	_	_	0-5(4)
 1032-0	TO079	1032	1032	0	[vo~	vo~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	Begin=2363.617	_	_	_	0-3(3)
 1032-1	TO079	1032	1032	1	mh]	mh	_	_	_	_	_	linguistic	_	none	_	End=2365.104	_	_	_	0-2(3)
-1033-0	TO079	1033	1033	0	[c(io)è]	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=2367.825|End=2368.503	_	_	1-3(0)	0-4(4)
+1033-0	TO079	1033	1033	0	[c(io)è]	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	Begin=2367.825|End=2368.503	_	_	_	0-4(4)
 1034-0	TO079	1034	1034	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=2368.507	_	_	_	_
 1034-1	TO079	1034	1034	1	voglio	voglio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1034-2	TO079	1034	1034	2	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

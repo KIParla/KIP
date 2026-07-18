@@ -1486,8 +1486,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 244-4	BO095	244	244	4	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 244-5	BO095	244	244	5	pro[blema]	problema	_	_	_	_	_	linguistic	_	none	_	End=657.951	_	_	_	3-8(30)
 245-0	BO097	245	245	0	[esa]tto	esatto	_	_	_	_	_	linguistic	_	none	_	Begin=657.569|End=658.245	_	_	_	0-3(30)
-246-0	BO097	246	246	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=658.245|End=658.825	_	_	_	_
-247-0	BO095	247	247	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=658.245|End=658.825	_	_	_	_
+246-0	BO095	246	246	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=658.245|End=658.825	_	_	_	_
+247-0	BO097	247	247	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=658.245|End=658.825	_	_	_	_
 248-0	BO097	248	248	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=659.855	_	_	_	_
 248-1	BO097	248	248	1	ne	ne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 248-2	BO097	248	248	2	restano	restano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1627,8 +1627,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 276-0	BO097	276	276	0	sei	sei	_	_	_	_	_	linguistic	_	none	_	Begin=721.714	_	_	_	_
 276-1	BO097	276	276	1	proprio	proprio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 276-2	BO097	276	276	2	bello	bello	_	_	_	_	_	linguistic	_	none	_	End=722.633	_	_	_	_
-277-0	BO097	277	277	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=723.173|End=723.585	_	_	_	_
-278-0	BO095	278	278	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=723.173|End=723.585	_	_	_	_
+277-0	BO095	277	277	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=723.173|End=723.585	_	_	_	_
+278-0	BO097	278	278	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=723.173|End=723.585	_	_	_	_
 279-0	BO095	279	279	0	poi	poi	_	_	_	_	_	linguistic	_	none	_	Begin=726.596	_	_	_	_
 279-1	BO095	279	279	1	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 279-2	BO095	279	279	2	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

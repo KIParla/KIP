@@ -2506,8 +2506,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 231-0	TO055	231	231	0	ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=979.055	_	_	_	_
 231-1	TO055	231	231	1	stai	stai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 231-2	TO055	231	231	2	scherzan~	scherzan~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes|ProsodicLink=Yes	_	_	_	_	_
-231-3	TO055	231	231	3			_	_	_	_	_	error	_	none	_	_	_	_	_	_
-231-4	TO055	231	231	4	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=979.88	_	_	_	_
+231-3	TO055	231	231	3	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=979.88	_	_	_	_
 232-0	TO046	232	232	0	no.	no	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=979.888|End=980.4	_	_	_	_
 233-0	TO046	233	233	0	il	il	_	_	_	_	_	linguistic	_	none	_	Begin=981.115	_	_	_	_
 233-1	TO046	233	233	1	finale	finale	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

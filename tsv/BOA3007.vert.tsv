@@ -760,10 +760,10 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 137-4	BO071	137	137	4	ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 137-5	BO071	137	137	5	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 137-6	BO071	137	137	6	bresciano,	bresciano	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=295.61	_	_	_	_
-138-0	BO071	138	138	0	[in	in	_	_	_	_	_	linguistic	_	none	_	Begin=295.741	_	_	_	0-2(21)
-138-1	BO071	138	138	1	bresciano]	bresciano	_	_	_	_	_	linguistic	_	none	_	End=296.538	_	_	_	0-9(21)
-139-0	BO072	139	139	0	[in	in	_	_	_	_	_	linguistic	_	none	_	Begin=295.741	_	_	_	0-2(21)
-139-1	BO072	139	139	1	bresciano]	bresciano	_	_	_	_	_	linguistic	_	none	_	End=296.538	_	_	_	0-9(21)
+138-0	BO072	138	138	0	[in	in	_	_	_	_	_	linguistic	_	none	_	Begin=295.741	_	_	_	0-2(21)
+138-1	BO072	138	138	1	bresciano]	bresciano	_	_	_	_	_	linguistic	_	none	_	End=296.538	_	_	_	0-9(21)
+139-0	BO071	139	139	0	[in	in	_	_	_	_	_	linguistic	_	none	_	Begin=295.741	_	_	_	0-2(21)
+139-1	BO071	139	139	1	bresciano]	bresciano	_	_	_	_	_	linguistic	_	none	_	End=296.538	_	_	_	0-9(21)
 140-0	BO072	140	140	0	com'	com'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=296.57	_	_	_	_
 140-1	BO072	140	140	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 140-2	BO072	140	140	2	successo?	successo	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=297.44	_	_	_	_
@@ -1235,8 +1235,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 223-2	BO071	223	223	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 223-3	BO071	223	223	3	illegale,	illegale	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=485.17	_	_	_	_
 224-0	BO021	224	224	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=485.546|End=486.041	_	_	_	_
-225-0	BO071	225	225	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=485.546|End=486.041	_	_	_	_
-226-0	BO072	226	226	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=485.546|End=486.041	_	_	_	_
+225-0	BO072	225	225	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=485.546|End=486.041	_	_	_	_
+226-0	BO071	226	226	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=485.546|End=486.041	_	_	_	_
 227-0	BO071	227	227	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=488.27	_	_	_	_
 227-1	BO071	227	227	1	sto	sto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 227-2	BO071	227	227	2	scherzando	scherzando	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

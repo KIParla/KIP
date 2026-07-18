@@ -245,8 +245,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 29-3	BO010	29	29	3	posso	posso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 29-4	BO010	29	29	4	[raccon]tarvela	raccontarvela	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(202)
 29-5	BO010	29	29	5	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	End=81.652	_	_	_	_
-30-0	BO007	30	30	0	[certo].	certo	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=80.845|End=81.203	_	_	_	0-5(202)
-31-0	BO009	31	31	0	[certo].	certo	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=80.845|End=81.203	_	_	_	0-5(202)
+30-0	BO009	30	30	0	[certo].	certo	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=80.845|End=81.203	_	_	_	0-5(202)
+31-0	BO007	31	31	0	[certo].	certo	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=80.845|End=81.203	_	_	_	0-5(202)
 32-0	BO010	32	32	0	niente	niente	_	_	_	_	_	linguistic	_	none	_	Begin=82.057	_	_	_	_
 32-1	BO010	32	32	1	eravamo:	eravamo	_	_	_	_	_	linguistic	_	none	_	End=82.934	6x1	_	_	_
 33-0	BO010	33	33	0	ero	ero	_	_	_	_	_	linguistic	_	none	_	Begin=83.71	_	_	_	_
@@ -2150,8 +2150,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 340-1	BO009	340	340	1	marianna	marianna	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 340-2	BO009	340	340	2	qua	qua	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 340-3	BO009	340	340	3	praticamente,	praticamente	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=578.57	_	_	_	_
-341-0	BO007	341	341	0	[mari]anna	marianna	_	_	_	_	_	linguistic	_	none	_	Begin=579.076|End=580.049	_	_	_	0-4(91)
-342-0	BO009	342	342	0	[ha:]	ha	_	_	_	_	_	linguistic	_	none	_	Begin=579.076|End=579.626	1x1	_	_	0-2(91)
+341-0	BO009	341	341	0	[ha:]	ha	_	_	_	_	_	linguistic	_	none	_	Begin=579.076|End=579.626	1x1	_	_	0-2(91)
+342-0	BO007	342	342	0	[mari]anna	marianna	_	_	_	_	_	linguistic	_	none	_	Begin=579.076|End=580.049	_	_	_	0-4(91)
 343-0	BO009	343	343	0	ecco	ecco	_	_	_	_	_	linguistic	_	none	_	Begin=580.245	_	_	_	_
 343-1	BO009	343	343	1	esatt[o].	esatto	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=580.877	_	_	_	5-6(92)
 344-0	BO010	344	344	0	[c]he	che	_	_	_	_	_	linguistic	_	none	_	Begin=580.828	_	_	_	0-1(92)

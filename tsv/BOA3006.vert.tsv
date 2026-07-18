@@ -291,8 +291,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 39-2	???	39	39	2	niente.	niente	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
 39-3	???	39	39	3	grazie	grazie	_	_	_	_	_	linguistic	_	none	_	End=95.643	_	_	_	_
 40-0	???	40	40	0	ciao	ciao	_	_	_	_	_	linguistic	_	none	_	Begin=95.754|End=96.014	_	_	_	_
-41-0	BO071	41	41	0	[ciao]	ciao	_	_	_	_	_	linguistic	_	none	_	Begin=96.12|End=96.883	_	_	_	0-4(9)
-42-0	BO048	42	42	0	[ciao]	ciao	_	_	_	_	_	linguistic	_	none	_	Begin=96.12|End=96.883	_	_	_	0-4(9)
+41-0	BO048	41	41	0	[ciao]	ciao	_	_	_	_	_	linguistic	_	none	_	Begin=96.12|End=96.883	_	_	_	0-4(9)
+42-0	BO071	42	42	0	[ciao]	ciao	_	_	_	_	_	linguistic	_	none	_	Begin=96.12|End=96.883	_	_	_	0-4(9)
 43-0	BO072	43	43	0	eh,	eh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=99.8	_	_	_	_
 43-1	BO072	43	43	1	andre,	andre	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=100.928	_	_	_	_
 44-0	BO072	44	44	0	beato	beato	_	_	_	_	_	linguistic	_	none	_	Begin=103.16	_	_	_	_

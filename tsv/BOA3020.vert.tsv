@@ -3636,9 +3636,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 747-2	BO153	747	747	2	sorprenderebbe	sorprenderebbe	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
 747-3	BO153	747	747	3	più	più	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
 747-4	BO153	747	747	4	che	che	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
-747-5	BO153	747	747	5	altro	altro	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
-747-6	BO153	747	747	6	°		_	_	_	_	_	error	_	none	_	_	_	_	_	_
-747-7	BO153	747	747	7	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1093.88	_	_	_	_
+747-5	BO153	747	747	5	altro°	altro	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
+747-6	BO153	747	747	6	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1093.88	_	_	_	_
 748-0	BO152	748	748	0	[m::h]	mh	_	_	_	_	_	linguistic	_	none	_	Begin=1093.931|End=1094.31	0x2	_	_	0-2(212)
 749-0	BO153	749	749	0	[m]::h	mh	_	_	_	_	_	linguistic	_	none	_	Begin=1094.148|End=1094.59	0x2	_	_	0-1(212)
 750-0	BO153	750	750	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=1094.64	_	_	_	_

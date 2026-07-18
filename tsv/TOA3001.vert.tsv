@@ -5298,10 +5298,10 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 613-0	TO029	613	613	0	no	no	_	_	_	_	_	linguistic	_	none	_	Begin=1753.757	_	_	_	_
 613-1	TO029	613	613	1	[magari]	magari	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(226)
 613-2	TO029	613	613	2	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	End=1755.372	_	_	_	_
-614-0	TO033	614	614	0	[alla	alla	_	_	_	_	_	linguistic	_	none	_	Begin=1754.168	_	_	_	0-4(226)
-614-1	TO033	614	614	1	cra:::i]	crai	_	_	_	_	_	linguistic	_	none	_	End=1755.253	2x3	_	_	0-4(226)
-615-0	TO034	615	615	0	[alla	alla	_	_	_	_	_	linguistic	_	none	_	Begin=1754.168	_	_	_	0-4(226)
-615-1	TO034	615	615	1	cra:::i]	crai	_	_	_	_	_	linguistic	_	none	_	End=1755.238	2x3	_	_	0-4(226)
+614-0	TO034	614	614	0	[alla	alla	_	_	_	_	_	linguistic	_	none	_	Begin=1754.168	_	_	_	0-4(226)
+614-1	TO034	614	614	1	cra:::i]	crai	_	_	_	_	_	linguistic	_	none	_	End=1755.238	2x3	_	_	0-4(226)
+615-0	TO033	615	615	0	[alla	alla	_	_	_	_	_	linguistic	_	none	_	Begin=1754.168	_	_	_	0-4(226)
+615-1	TO033	615	615	1	cra:::i]	crai	_	_	_	_	_	linguistic	_	none	_	End=1755.253	2x3	_	_	0-4(226)
 616-0	TO029	616	616	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=1755.687	_	_	_	_
 616-1	TO029	616	616	1	scoperto	scoperto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 616-2	TO029	616	616	2	[che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(201)

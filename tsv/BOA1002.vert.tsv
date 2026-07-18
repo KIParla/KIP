@@ -729,8 +729,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 90-6	BO026	90	90	6	del	del	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 90-7	BO026	90	90	7	dieci,	dieci	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=266.045	_	_	_	_
 91-0	BO030	91	91	0	[luglio].	luglio	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=266.045|End=267.011	_	_	_	0-6(74)
-92-0	BO032	92	92	0	[luglio].	luglio	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=266.045|End=267.011	_	_	_	0-6(74)
-93-0	BO029	93	93	0	[luglio].	luglio	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=266.045|End=267.011	_	_	_	0-6(74)
+92-0	BO029	92	92	0	[luglio].	luglio	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=266.045|End=267.011	_	_	_	0-6(74)
+93-0	BO032	93	93	0	[luglio].	luglio	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=266.045|End=267.011	_	_	_	0-6(74)
 94-0	BO028	94	94	0	le	le	_	_	_	_	_	linguistic	_	none	_	Begin=267.638	_	_	_	_
 94-1	BO028	94	94	1	mandiamo	mandiamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 94-2	BO028	94	94	2	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
