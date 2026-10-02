@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-07-15T21:57:29+00:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-02T12:57:03+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
-		<MEDIA_DESCRIPTOR MEDIA_URL="TOD2011.wav" RELATIVE_MEDIA_URL="TOD2011.wav" MIME_TYPE="audio/x-wav" />
+		<MEDIA_DESCRIPTOR MEDIA_URL="TOD2011.mp3" RELATIVE_MEDIA_URL="TOD2011.mp3" MIME_TYPE="audio/mpeg" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -474,7 +474,6 @@
 		<TIME_SLOT TIME_SLOT_ID="ts468" TIME_VALUE="1894036" />
 		<TIME_SLOT TIME_SLOT_ID="ts469" TIME_VALUE="1897790" />
 		</TIME_ORDER>
-	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="TO055" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -1590,7 +1589,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a224" TIME_SLOT_REF1="ts446" TIME_SLOT_REF2="ts447">
-				<ANNOTATION_VALUE>e::h barcellona è un paese molto importante per l'architettura. e::h catalana, ((si schiarisce la voce)) soprattutto per=e:h tutta l'architettura di: gaudì, che io ho studiato: m:h nel corso di questi tre anni per=eh storia dell'architettura,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h barcellona è un paese molto importante per l'architettura. e::h catalana, ((si_schiarisce_la_voce)) soprattutto per=e:h tutta l'architettura di: gaudì, che io ho studiato: m:h nel corso di questi tre anni per=eh storia dell'architettura,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

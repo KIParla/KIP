@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-07-15T21:57:29+00:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-02T12:57:02+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
-		<MEDIA_DESCRIPTOR MEDIA_URL="TOC1005.wav" RELATIVE_MEDIA_URL="TOC1005.wav" MIME_TYPE="audio/x-wav" />
+		<MEDIA_DESCRIPTOR MEDIA_URL="TOC1005.mp3" RELATIVE_MEDIA_URL="TOC1005.mp3" MIME_TYPE="audio/mpeg" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -66,9 +66,9 @@
 		<TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="166644" />
 		<TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="176493" />
 		<TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="176848" />
-		<TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="181328" />
+		<TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="180666" />
 		<TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="176848" />
-		<TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="180666" />
+		<TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="181328" />
 		<TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="181559" />
 		<TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="192848" />
 		<TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="192100" />
@@ -116,9 +116,9 @@
 		<TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="294714" />
 		<TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="296508" />
 		<TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="296683" />
-		<TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="297025" />
+		<TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="310375" />
 		<TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="296683" />
-		<TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="310375" />
+		<TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="297025" />
 		<TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="310491" />
 		<TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="320650" />
 		<TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="320835" />
@@ -616,7 +616,6 @@
 		<TIME_SLOT TIME_SLOT_ID="ts610" TIME_VALUE="1494189" />
 		<TIME_SLOT TIME_SLOT_ID="ts611" TIME_VALUE="1495049" />
 		</TIME_ORDER>
-	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="TO021" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -699,7 +698,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts65">
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
 				<ANNOTATION_VALUE>[no. (.) del del setl~ (.) del setl~ del trust].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
@@ -764,7 +763,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts115">
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts113">
 				<ANNOTATION_VALUE>[e:]:h di conseguenza se e:::h l'equi~ il=e::h, il tribunale dell'equity (.) e::h ha un ruolo molto importante. e proprio attraverso il trust, e:h=m::h assume, cioè ottiene anche il consenso e il favo:re.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
@@ -1541,7 +1540,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts65">
 				<ANNOTATION_VALUE>[no. settlor del trust, (.) ma], e:::h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
@@ -1601,7 +1600,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts113">
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts115">
 				<ANNOTATION_VALUE>[mh].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
@@ -2052,32 +2051,32 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a271" TIME_SLOT_REF1="ts540" TIME_SLOT_REF2="ts541">
-				<ANNOTATION_VALUE>sì. e:h non=e:h bisogna segnare tutto sulla carta, perché non riesco a entrare nel=e:h computer ((verso altra persona))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì. e:h non=e:h bisogna segnare tutto sulla carta, perché non riesco a entrare nel=e:h computer ((verso_altra_persona))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a272" TIME_SLOT_REF1="ts542" TIME_SLOT_REF2="ts543">
-				<ANNOTATION_VALUE>intanto la prossima o il prossimo sono questi. ((verso altra persona))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>intanto la prossima o il prossimo sono questi. ((verso_altra_persona))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a273" TIME_SLOT_REF1="ts544" TIME_SLOT_REF2="ts545">
-				<ANNOTATION_VALUE>di:: e::h=mh (.) ma~ (.) poten~ (.) ah no. aspetta. p, (.) quindi è e:h rossi giulia ((verso altra persona))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di:: e::h=mh (.) ma~ (.) poten~ (.) ah no. aspetta. p, (.) quindi è e:h rossi giulia ((verso_altra_persona))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a274" TIME_SLOT_REF1="ts546" TIME_SLOT_REF2="ts547">
-				<ANNOTATION_VALUE>ti fai dire cosa portano. °questo qua° è una specie di musulmano. (.) sì. ti fai di:re se portano diritto penale o:: la sharia:, quella della donnini ((verso altra persona))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ti fai dire cosa portano. °questo qua° è una specie di musulmano. (.) sì. ti fai di:re se portano diritto penale o:: la sharia:, quella della donnini ((verso_altra_persona))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a275" TIME_SLOT_REF1="ts548" TIME_SLOT_REF2="ts549">
-				<ANNOTATION_VALUE>fattelo dire da loro. ma xx saranno &lt;onesti&gt; ((verso altra persona))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>fattelo dire da loro. ma xx saranno &lt;onesti&gt; ((verso_altra_persona))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a276" TIME_SLOT_REF1="ts550" TIME_SLOT_REF2="ts551">
-				<ANNOTATION_VALUE>quindi (.) chiami poi questa. ((verso altra persona))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi (.) chiami poi questa. ((verso_altra_persona))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

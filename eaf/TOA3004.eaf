@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-07-15T21:57:29+00:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-02T12:57:01+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
-		<MEDIA_DESCRIPTOR MEDIA_URL="TOA3004.wav" RELATIVE_MEDIA_URL="TOA3004.wav" MIME_TYPE="audio/x-wav" />
+		<MEDIA_DESCRIPTOR MEDIA_URL="TOA3004.mp3" RELATIVE_MEDIA_URL="TOA3004.mp3" MIME_TYPE="audio/mpeg" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -100,9 +100,9 @@
 		<TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="109977" />
 		<TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="111384" />
 		<TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="111495" />
-		<TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="112562" />
+		<TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="112963" />
 		<TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="111495" />
-		<TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="112963" />
+		<TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="112562" />
 		<TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="114172" />
 		<TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="117674" />
 		<TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="117858" />
@@ -128,9 +128,9 @@
 		<TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="140243" />
 		<TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="140594" />
 		<TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="144534" />
-		<TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="145943" />
+		<TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="144893" />
 		<TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="144534" />
-		<TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="144893" />
+		<TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="145943" />
 		<TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="146582" />
 		<TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="146886" />
 		<TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="147979" />
@@ -674,9 +674,9 @@
 		<TIME_SLOT TIME_SLOT_ID="ts668" TIME_VALUE="809340" />
 		<TIME_SLOT TIME_SLOT_ID="ts669" TIME_VALUE="809533" />
 		<TIME_SLOT TIME_SLOT_ID="ts670" TIME_VALUE="810242" />
-		<TIME_SLOT TIME_SLOT_ID="ts671" TIME_VALUE="811313" />
+		<TIME_SLOT TIME_SLOT_ID="ts671" TIME_VALUE="810775" />
 		<TIME_SLOT TIME_SLOT_ID="ts672" TIME_VALUE="810242" />
-		<TIME_SLOT TIME_SLOT_ID="ts673" TIME_VALUE="810775" />
+		<TIME_SLOT TIME_SLOT_ID="ts673" TIME_VALUE="811313" />
 		<TIME_SLOT TIME_SLOT_ID="ts674" TIME_VALUE="811527" />
 		<TIME_SLOT TIME_SLOT_ID="ts675" TIME_VALUE="812366" />
 		<TIME_SLOT TIME_SLOT_ID="ts676" TIME_VALUE="812177" />
@@ -1706,7 +1706,6 @@
 		<TIME_SLOT TIME_SLOT_ID="ts1700" TIME_VALUE="2087710" />
 		<TIME_SLOT TIME_SLOT_ID="ts1701" TIME_VALUE="2088875" />
 		</TIME_ORDER>
-	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="TO038" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -3151,7 +3150,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts97">
 				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
@@ -3171,7 +3170,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
 				<ANNOTATION_VALUE>[forse],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
@@ -3387,7 +3386,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a192" TIME_SLOT_REF1="ts382" TIME_SLOT_REF2="ts383">
-				<ANNOTATION_VALUE>[ah perché c'era] i ((nome band))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[ah perché c'era] i ((nome_band))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3536,7 +3535,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a263" TIME_SLOT_REF1="ts524" TIME_SLOT_REF2="ts525">
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a262" TIME_SLOT_REF1="ts522" TIME_SLOT_REF2="ts523">
 				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
@@ -3666,7 +3665,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a337" TIME_SLOT_REF1="ts672" TIME_SLOT_REF2="ts673">
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a336" TIME_SLOT_REF1="ts670" TIME_SLOT_REF2="ts671">
 				<ANNOTATION_VALUE>[tu pure]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
@@ -4433,7 +4432,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts97">
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
 				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
@@ -4448,7 +4447,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
 				<ANNOTATION_VALUE>[le oli]ve sanno di peperone.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
@@ -4584,7 +4583,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a193" TIME_SLOT_REF1="ts384" TIME_SLOT_REF2="ts385">
-				<ANNOTATION_VALUE>(allora) è chiaramen[te marci dei ((nome band)) lu]i.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>(allora) è chiaramen[te marci dei ((nome_band)) lu]i.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4694,172 +4693,172 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a355" TIME_SLOT_REF1="ts708" TIME_SLOT_REF2="ts709">
-				<ANNOTATION_VALUE>marci dei ((nome band))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>marci dei ((nome_band))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a376" TIME_SLOT_REF1="ts750" TIME_SLOT_REF2="ts751">
-				<ANNOTATION_VALUE>ciao rossi ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ciao rossi ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a378" TIME_SLOT_REF1="ts754" TIME_SLOT_REF2="ts755">
-				<ANNOTATION_VALUE>[ti disturbo]? ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[ti disturbo]? ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a381" TIME_SLOT_REF1="ts760" TIME_SLOT_REF2="ts761">
-				<ANNOTATION_VALUE>[cosa fa]i? ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[cosa fa]i? ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a385" TIME_SLOT_REF1="ts768" TIME_SLOT_REF2="ts769">
-				<ANNOTATION_VALUE>perché? ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché? ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a388" TIME_SLOT_REF1="ts774" TIME_SLOT_REF2="ts775">
-				<ANNOTATION_VALUE>[a::::h], ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[a::::h], ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a397" TIME_SLOT_REF1="ts792" TIME_SLOT_REF2="ts793">
-				<ANNOTATION_VALUE>e::: volevo farti delle domande. perché non capisco se lo spazio su cui lavoriamo è piat[to o curvo]. ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::: volevo farti delle domande. perché non capisco se lo spazio su cui lavoriamo è piat[to o curvo]. ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a400" TIME_SLOT_REF1="ts798" TIME_SLOT_REF2="ts799">
-				<ANNOTATION_VALUE>perché se noi usiamo, (christoffel,) eh. però se usi le gamma è curvo. ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché se noi usiamo, (christoffel,) eh. però se usi le gamma è curvo. ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a401" TIME_SLOT_REF1="ts800" TIME_SLOT_REF2="ts801">
-				<ANNOTATION_VALUE>cioè. tieni con~, ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè. tieni con~, ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a402" TIME_SLOT_REF1="ts802" TIME_SLOT_REF2="ts803">
-				<ANNOTATION_VALUE>oka~, ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>oka~, ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a404" TIME_SLOT_REF1="ts806" TIME_SLOT_REF2="ts807">
-				<ANNOTATION_VALUE>[e:h dipende dalla kappa]. ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e:h dipende dalla kappa]. ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a407" TIME_SLOT_REF1="ts812" TIME_SLOT_REF2="ts813">
-				<ANNOTATION_VALUE>[dipende dalla kappa]. ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[dipende dalla kappa]. ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a411" TIME_SLOT_REF1="ts820" TIME_SLOT_REF2="ts821">
-				<ANNOTATION_VALUE>[eh però io quello che non capisco è:: perché usiamo dici~ det~ decidiamo che usiamo la derivata covariante se::: in realtà], non c'è scritto da nessuna parte che lo [spazio è curvo]. ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[eh però io quello che non capisco è:: perché usiamo dici~ det~ decidiamo che usiamo la derivata covariante se::: in realtà], non c'è scritto da nessuna parte che lo [spazio è curvo]. ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a422" TIME_SLOT_REF1="ts842" TIME_SLOT_REF2="ts843">
-				<ANNOTATION_VALUE>e::h ma l'espressione non va bene. perché la metrica non ha gli indici in basso ma=ha gli indici in alto. quindi io ho provato a=abbassare gli indici, ma a quel punto mi vengono tre metriche:, da: derivare con leibniz=eh, ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h ma l'espressione non va bene. perché la metrica non ha gli indici in basso ma=ha gli indici in alto. quindi io ho provato a=abbassare gli indici, ma a quel punto mi vengono tre metriche:, da: derivare con leibniz=eh, ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a423" TIME_SLOT_REF1="ts844" TIME_SLOT_REF2="ts845">
-				<ANNOTATION_VALUE>e:: ho l'ho fatto &gt;tipo&lt; due=ore stamattina, e non::: (.) non ottengo nnulla di buono. mi vengono delle gamma che tirano fuori quel fattore, erre punto su erre:, ma ne vengono altri mille in realtà che non vanno via. ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:: ho l'ho fatto &gt;tipo&lt; due=ore stamattina, e non::: (.) non ottengo nnulla di buono. mi vengono delle gamma che tirano fuori quel fattore, erre punto su erre:, ma ne vengono altri mille in realtà che non vanno via. ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a424" TIME_SLOT_REF1="ts846" TIME_SLOT_REF2="ts847">
-				<ANNOTATION_VALUE>più che altro:, (.) e:h quella:: quella l~ foto che ti ho mandato di de lambda gi mu nu, ha tutti gli indici bassi, ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>più che altro:, (.) e:h quella:: quella l~ foto che ti ho mandato di de lambda gi mu nu, ha tutti gli indici bassi, ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a425" TIME_SLOT_REF1="ts848" TIME_SLOT_REF2="ts849">
-				<ANNOTATION_VALUE>mentre, noi abbiamo, e::h tipo de mu basso, giro sigma alto. io posso abbassarli e usare::: tre metriche. ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>mentre, noi abbiamo, e::h tipo de mu basso, giro sigma alto. io posso abbassarli e usare::: tre metriche. ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a426" TIME_SLOT_REF1="ts850" TIME_SLOT_REF2="ts851">
-				<ANNOTATION_VALUE>e poi però, faccio leibniz per tutte e tre. perché a quel punto mi viene de mu, non so se vabbè. ti mando una foto dopo così:: t~ ti faccio vedere cosa dico. ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e poi però, faccio leibniz per tutte e tre. perché a quel punto mi viene de mu, non so se vabbè. ti mando una foto dopo così:: t~ ti faccio vedere cosa dico. ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a427" TIME_SLOT_REF1="ts852" TIME_SLOT_REF2="ts853">
-				<ANNOTATION_VALUE>e ma se io::=abbasso gli indici alle derivate, cioè io posso scrivere le derivate normali? ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e ma se io::=abbasso gli indici alle derivate, cioè io posso scrivere le derivate normali? ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a428" TIME_SLOT_REF1="ts854" TIME_SLOT_REF2="ts855">
-				<ANNOTATION_VALUE>che in teoria sono vetto:ri:, covarianti con gli indici in alto? ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>che in teoria sono vetto:ri:, covarianti con gli indici in alto? ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a429" TIME_SLOT_REF1="ts856" TIME_SLOT_REF2="ts857">
-				<ANNOTATION_VALUE>posso? cioè abbasso quelli della metrica, alzo quelli delle derivate. posso? ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>posso? cioè abbasso quelli della metrica, alzo quelli delle derivate. posso? ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a430" TIME_SLOT_REF1="ts858" TIME_SLOT_REF2="ts859">
-				<ANNOTATION_VALUE>cioè scrivo, ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè scrivo, ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a431" TIME_SLOT_REF1="ts860" TIME_SLOT_REF2="ts861">
-				<ANNOTATION_VALUE>EH. perché dovrei tene~, ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>EH. perché dovrei tene~, ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a432" TIME_SLOT_REF1="ts862" TIME_SLOT_REF2="ts863">
-				<ANNOTATION_VALUE>sì. ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì. ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a433" TIME_SLOT_REF1="ts864" TIME_SLOT_REF2="ts865">
-				<ANNOTATION_VALUE>comunque io ti mando una foto adesso quando rientro, di quello che ho fatto. perché secondo me c'è qualcosina che non va. ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>comunque io ti mando una foto adesso quando rientro, di quello che ho fatto. perché secondo me c'è qualcosina che non va. ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a434" TIME_SLOT_REF1="ts866" TIME_SLOT_REF2="ts867">
-				<ANNOTATION_VALUE>e::::h non=eh nel senso che non riesco ad arrivare lì. e poi::, ci risentiamo. ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::::h non=eh nel senso che non riesco ad arrivare lì. e poi::, ci risentiamo. ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a435" TIME_SLOT_REF1="ts868" TIME_SLOT_REF2="ts869">
-				<ANNOTATION_VALUE>okay. ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>okay. ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a437" TIME_SLOT_REF1="ts872" TIME_SLOT_REF2="ts873">
-				<ANNOTATION_VALUE>[eh sì però:: a] me, l'unico dubbio è che non abbiam [mai derivata covariante di gi basso ma derivata covariante] di gi alto. ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[eh sì però:: a] me, l'unico dubbio è che non abbiam [mai derivata covariante di gi basso ma derivata covariante] di gi alto. ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a439" TIME_SLOT_REF1="ts876" TIME_SLOT_REF2="ts877">
-				<ANNOTATION_VALUE>[non, cioè]. ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[non, cioè]. ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a442" TIME_SLOT_REF1="ts882" TIME_SLOT_REF2="ts883">
-				<ANNOTATION_VALUE>[e:]:h, ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[e:]:h, ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a444" TIME_SLOT_REF1="ts886" TIME_SLOT_REF2="ts887">
-				<ANNOTATION_VALUE>[hai capito? il problema. comunque se ti voglia di guardare anche tu io ti mando la foto, e:: ne riparliamo]. ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[hai capito? il problema. comunque se ti voglia di guardare anche tu io ti mando la foto, e:: ne riparliamo]. ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a447" TIME_SLOT_REF1="ts892" TIME_SLOT_REF2="ts893">
-				<ANNOTATION_VALUE>[okay gran]de. va bene. ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[okay gran]de. va bene. ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a448" TIME_SLOT_REF1="ts894" TIME_SLOT_REF2="ts895">
-				<ANNOTATION_VALUE>un ba[cio], ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>un ba[cio], ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a450" TIME_SLOT_REF1="ts898" TIME_SLOT_REF2="ts899">
-				<ANNOTATION_VALUE>ciao mari ciao ciao. ((al telefono))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ciao mari ciao ciao. ((al_telefono))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5370,7 +5369,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a262" TIME_SLOT_REF1="ts522" TIME_SLOT_REF2="ts523">
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a263" TIME_SLOT_REF1="ts524" TIME_SLOT_REF2="ts525">
 				<ANNOTATION_VALUE>((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
@@ -5420,7 +5419,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
-			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a336" TIME_SLOT_REF1="ts670" TIME_SLOT_REF2="ts671">
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a337" TIME_SLOT_REF1="ts672" TIME_SLOT_REF2="ts673">
 				<ANNOTATION_VALUE>[ti ha fatto] schifo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>

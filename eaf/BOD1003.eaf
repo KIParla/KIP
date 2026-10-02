@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-07-15T21:57:27+00:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-02T12:56:59+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
-		<MEDIA_DESCRIPTOR MEDIA_URL="BOD1003.wav" RELATIVE_MEDIA_URL="BOD1003.wav" MIME_TYPE="audio/x-wav" />
+		<MEDIA_DESCRIPTOR MEDIA_URL="BOD1003.mp3" RELATIVE_MEDIA_URL="BOD1003.mp3" MIME_TYPE="audio/mpeg" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -1262,8 +1262,8 @@
 		<TIME_SLOT TIME_SLOT_ID="ts1256" TIME_VALUE="3010491" />
 		<TIME_SLOT TIME_SLOT_ID="ts1257" TIME_VALUE="3013899" />
 		<TIME_SLOT TIME_SLOT_ID="ts1258" TIME_VALUE="3015026" />
-		<TIME_SLOT TIME_SLOT_ID="ts1259" TIME_VALUE="3018226" />
-		<TIME_SLOT TIME_SLOT_ID="ts1260" TIME_VALUE="3018218" />
+		<TIME_SLOT TIME_SLOT_ID="ts1259" TIME_VALUE="3018221" />
+		<TIME_SLOT TIME_SLOT_ID="ts1260" TIME_VALUE="3018221" />
 		<TIME_SLOT TIME_SLOT_ID="ts1261" TIME_VALUE="3022115" />
 		<TIME_SLOT TIME_SLOT_ID="ts1262" TIME_VALUE="3068942" />
 		<TIME_SLOT TIME_SLOT_ID="ts1263" TIME_VALUE="3070586" />
@@ -1890,7 +1890,6 @@
 		<TIME_SLOT TIME_SLOT_ID="ts1884" TIME_VALUE="5046619" />
 		<TIME_SLOT TIME_SLOT_ID="ts1885" TIME_VALUE="5050149" />
 		</TIME_ORDER>
-	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="BO092" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -2219,7 +2218,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts133">
-				<ANNOTATION_VALUE>partono ((scrive alla lavagna))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>partono ((scrive_alla_lavagna))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2319,7 +2318,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts172" TIME_SLOT_REF2="ts173">
-				<ANNOTATION_VALUE>il: randomizzare ((scrive alla lavagna))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il: randomizzare ((scrive_alla_lavagna))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2389,7 +2388,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts200" TIME_SLOT_REF2="ts201">
-				<ANNOTATION_VALUE>certo (.) ((bussa sulla lavagna)) se questa vale (.) se io la mano la metto sempre qui in mezzo (.) eh mi viene o cinque o sei o cinque o sei</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>certo (.) ((bussa_sulla_lavagna)) se questa vale (.) se io la mano la metto sempre qui in mezzo (.) eh mi viene o cinque o sei o cinque o sei</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2404,7 +2403,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts206" TIME_SLOT_REF2="ts207">
-				<ANNOTATION_VALUE>questa è l'assunzione (.) ((scrive alla lavagna)) che noi usavamo ieri.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questa è l'assunzione (.) ((scrive_alla_lavagna)) che noi usavamo ieri.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2429,7 +2428,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts216" TIME_SLOT_REF2="ts217">
-				<ANNOTATION_VALUE>eh poi avevam fatto una campionatura finale (.) in cui non prendevamo i singoli campioni ma ne prendevamo tre alla volta cioè facevamo tre estrazioni (.) una due e tre ((scrive alla lavagna))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh poi avevam fatto una campionatura finale (.) in cui non prendevamo i singoli campioni ma ne prendevamo tre alla volta cioè facevamo tre estrazioni (.) una due e tre ((scrive_alla_lavagna))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2509,7 +2508,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a125" TIME_SLOT_REF1="ts248" TIME_SLOT_REF2="ts249">
-				<ANNOTATION_VALUE>è chiaro che se io ho una curva di partenza che è fatta già centrata ((scrive alla lavagna))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è chiaro che se io ho una curva di partenza che è fatta già centrata ((scrive_alla_lavagna))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2704,7 +2703,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a164" TIME_SLOT_REF1="ts326" TIME_SLOT_REF2="ts327">
-				<ANNOTATION_VALUE>e quello che succede è esattamente la stessa cosa (.) tranne che il dado (.) ha una distribuzione uniforme (.) fatta così ((scrive alla lavagna))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quello che succede è esattamente la stessa cosa (.) tranne che il dado (.) ha una distribuzione uniforme (.) fatta così ((scrive_alla_lavagna))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5339,7 +5338,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a728" TIME_SLOT_REF1="ts1454" TIME_SLOT_REF2="ts1455">
-				<ANNOTATION_VALUE>quindi a me interessa (.) superiori alla media meno sigma &gt;devo andare a prendere&lt; ((scrive alla lavagna))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi a me interessa (.) superiori alla media meno sigma &gt;devo andare a prendere&lt; ((scrive_alla_lavagna))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5384,7 +5383,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a738" TIME_SLOT_REF1="ts1474" TIME_SLOT_REF2="ts1475">
-				<ANNOTATION_VALUE>allora supponiamo di avere ((scrive alla lavagna))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>allora supponiamo di avere ((scrive_alla_lavagna))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5704,7 +5703,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a805" TIME_SLOT_REF1="ts1608" TIME_SLOT_REF2="ts1609">
-				<ANNOTATION_VALUE>sia maggiore di quaranta gradi? ((scrive alla lavagna))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sia maggiore di quaranta gradi? ((scrive_alla_lavagna))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6094,7 +6093,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a889" TIME_SLOT_REF1="ts1776" TIME_SLOT_REF2="ts1777">
-				<ANNOTATION_VALUE>la logica è semplicemente questa (.) non non è molto dive~ cè</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>la logica è semplicemente questa (.) non non è molto dive~ c(io)è</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6249,7 +6248,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a920" TIME_SLOT_REF1="ts1838" TIME_SLOT_REF2="ts1839">
-				<ANNOTATION_VALUE>secondo me dev'essere più bassa di così perché ci fosse ogni giorno un aereo che cade (.) in aereo non ci andremmo di sicuro cè proprio (.) io per primo.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>secondo me dev'essere più bassa di così perché ci fosse ogni giorno un aereo che cade (.) in aereo non ci andremmo di sicuro c(io)è proprio (.) io per primo.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

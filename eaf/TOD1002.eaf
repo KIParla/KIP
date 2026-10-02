@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-07-15T21:57:26+00:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-02T12:57:02+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
-		<MEDIA_DESCRIPTOR MEDIA_URL="TOD1002.wav" RELATIVE_MEDIA_URL="TOD1002.wav" MIME_TYPE="audio/x-wav" />
+		<MEDIA_DESCRIPTOR MEDIA_URL="TOD1002.mp3" RELATIVE_MEDIA_URL="TOD1002.mp3" MIME_TYPE="audio/mpeg" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
 	<TIME_ORDER>
@@ -3580,7 +3580,6 @@
 		<TIME_SLOT TIME_SLOT_ID="ts3574" TIME_VALUE="5362468" />
 		<TIME_SLOT TIME_SLOT_ID="ts3575" TIME_VALUE="5363118" />
 		</TIME_ORDER>
-	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="TO004" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -8419,7 +8418,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a972" TIME_SLOT_REF1="ts1942" TIME_SLOT_REF2="ts1943">
-				<ANNOTATION_VALUE>((imita ovazione della folla))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>((imita_ovazione_della_folla))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -11489,7 +11488,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1586" TIME_SLOT_REF1="ts3170" TIME_SLOT_REF2="ts3171">
-				<ANNOTATION_VALUE>&lt;un carico di &gt; (.) informazione significativa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&lt;un carico di&gt; (.) informazione significativa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
