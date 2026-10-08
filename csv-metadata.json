@@ -43,23 +43,6 @@
             "dc:description": "Semicolon-separated list of participant codes."
           },
           {
-            "name": "participants-relationship",
-            "titles": "participants-relationship",
-            "dc:description": "Commonly asymmetric|symmetric, not enforced as a hard constraint."
-          },
-          {
-            "name": "moderator",
-            "titles": "moderator",
-            "datatype": {
-              "base": "boolean",
-              "format": "yes|no"
-            }
-          },
-          {
-            "name": "topic",
-            "titles": "topic"
-          },
-          {
             "name": "year",
             "titles": "year",
             "datatype": "gYear"
@@ -181,7 +164,7 @@
             "name": "span",
             "titles": "span",
             "required": true,
-            "dc:description": "Raw Jefferson span (character slice of the original annotation)."
+            "dc:description": "Raw enriched span (character slice of the original annotation)."
           },
           {
             "name": "form",
