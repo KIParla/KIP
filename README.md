@@ -64,9 +64,6 @@ Metadata is to be interpreted as follows:
    - `type`: type of interaction, one of `exam`, `free-conversation`, `lecture`, `office-hours` (i.e., professor - student meetings), `semistructured-interview`
    - `duration`: duration of the conversation, expressed in `hh:mm:ss` format
    - `participants-number`: number of participants in the conversation
-   - `participants-relationship`: relation, either symmetric or asymmetric, holding among speakers
-   - `moderator`: presence of a moderator
-   - `topic`: either free or fixed
    - `year`: year of collection
    - `collection-point`: two-letter code of the collection area: `BO` for Bologna or `TO` for Turin.
    - Additionally, the [`metadata/conversations.tsv`](metadata/conversations.tsv) also contains a `participants` field that recaps the codes of the participants to that conversation
@@ -170,6 +167,7 @@ If you use the KIP module in your research, please also reference this repositor
   * Minor fix: empty turns in linear-orthographic were removed
 
 * YYYY-MM-DD v2.0.0
+  * Breaking: the `topic`, `participants-relationship` and `moderator` columns were removed from `metadata/conversations.tsv`
   * Breaking: the `variation` column of the `tsv/` files is now called `code-variation` and is a feature list holding all code-variation features of a token: `ContainsVariation=Yes|No` (unit level), `Code=Other|Unsure|Underspecified`, `Language=<ISO code>` and `Nonce=Yes`. It replaces the unit-level label (`none`/`some`/`unspecified`/`all`); `Language` and the `Variation=`/`Orthography=` features moved out of `jefferson_feats`
   * Breaking: the unit-initial `# ` / `#_ ` marker is now part of the `span` of the unit's first token, so the original transcription can be rebuilt from the `span` column
   * Normalization: spelling variants of interjections and discourse markers are standardized (e.g. `m` → `mh`, `mhm` and `mmh` → `mhmh`, `he` → `eh`, `va beh` → `vabbè`) and elision typos are corrected (e.g. `dell~` → `dell'`)
