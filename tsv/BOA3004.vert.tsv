@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO021	0	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.09	_	_	_	_
 0-1	BO021	0	1	stavo	stavo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	BO021	0	2	registrando	registrando	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3.51	_	_	_	_

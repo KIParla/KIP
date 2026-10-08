@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TO062	0	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=16.753	_	_	_	_
 0-1	TO062	0	1	buongiorno,	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=17.92	_	_	_	_
 1-0	TO062	1	0	buongiorno	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=18.286|End=18.863	_	_	_	_

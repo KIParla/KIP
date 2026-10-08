@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO112	0	0	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4.07	_	_	_	_
 0-1	BO112	0	1	sente?	sente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=4.96	_	_	_	_
 1-0	BO112	1	0	incominciamo,	incominciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=5.21|End=5.91	_	_	_	_

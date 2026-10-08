@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO156	0	0	dicevi	dicevi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=50.003	_	_	_	_
 0-1	BO156	0	1	all'	all'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 0-2	BO156	0	2	alma	alma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

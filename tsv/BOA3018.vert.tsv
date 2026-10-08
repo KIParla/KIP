@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO139	0	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=3.52|End=4.01	_	_	_	_
 1-0	BO145	1	0	devi	devi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4.05	_	_	_	_
 1-1	BO145	1	1	riprendere	riprendere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

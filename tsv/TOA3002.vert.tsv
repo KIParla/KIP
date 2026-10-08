@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TO029	0	0	appoggia[mo	appoggiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.588	_	_	_	8-10(0)
 0-1	TO029	0	1	qui].	qui	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1.277	_	_	_	0-3(0)
 1-0	TO035	1	0	[sì].	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=0.926	_	_	_	0-2(0)

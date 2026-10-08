@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO095	0	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=21.799	_	_	_	_
 0-1	BO095	0	1	sei	sei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	BO095	0	2	vegetariana	vegetariana	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

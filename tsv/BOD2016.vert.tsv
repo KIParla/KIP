@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO120	0	0	((canticchia))	((canticchia))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=0.16|End=1.76	_	_	_	_
 1-0	BO119	1	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.81|End=2.402	_	_	_	_
 2-0	BO119	2	0	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.022	_	_	_	_

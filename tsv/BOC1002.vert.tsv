@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO089	0	0	buongio[rno]	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=20.85|End=21.509	_	_	_	7-10(0)
 1-0	BO087	1	0	[ecco]	ecco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=21.23	_	_	_	0-4(0)
 1-1	BO087	1	1	buongiorno.	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=22.255	_	_	_	_

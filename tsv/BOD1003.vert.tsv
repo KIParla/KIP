@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO092	0	0	(noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.0	_	_	0-3(0)	_
 0-1	BO092	0	1	andiamo	andiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-7(0)	_
 0-2	BO092	0	2	a)	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-1(0)	_

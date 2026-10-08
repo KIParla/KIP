@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO049	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.32|End=0.755	_	_	_	_
 1-0	BO049	1	0	allora,	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=1.38|End=1.777	_	_	_	_
 2-0	BO049	2	0	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.029	_	_	_	_

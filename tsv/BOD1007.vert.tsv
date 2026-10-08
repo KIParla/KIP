@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO100	0	0	buonasera	buonasera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.296	_	_	_	_
 0-1	BO100	0	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	BO100	0	2	tutti,	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1.73	_	_	_	_

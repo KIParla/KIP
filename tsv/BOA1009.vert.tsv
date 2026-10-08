@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO026	0	0	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.17	_	_	_	_
 0-1	BO026	0	1	dimentica~	dimentica~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 0-2	BO026	0	2	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO002	0	0	e:[h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	Begin=16.23	0x1	_	_	1-2(0)
 0-1	BO002	0	1	mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=17.963	_	_	_	0-2(0)
 1-0	BO003	1	0	[eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	Begin=16.47	_	_	_	0-2(0)

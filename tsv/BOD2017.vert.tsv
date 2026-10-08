@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO119	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.65	_	_	_	_
 0-1	BO119	0	1	dovrebbe	dovrebbe	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	BO119	0	2	andare,	andare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=3.102	_	_	_	_

@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO026	0	0	°prego.°	prego	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	Begin=0.85|End=1.283	_	_	_	_
 1-0	BO042	1	0	°sì,	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=low	Begin=5.78	_	_	_	_
 1-1	BO042	1	1	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_

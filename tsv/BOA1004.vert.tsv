@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO027	0	0	>°buongiorno.°<	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	Begin=2.36|End=2.92	_	Fast=0-10(0)	_	_
 1-0	BO026	1	0	buongiorno.	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=3.13|End=3.74	_	_	_	_
 2-0	BO027	2	0	e::	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.779	0x2	_	_	_

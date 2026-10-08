@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO082	0	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=6.319	_	_	_	_
 0-1	BO082	0	1	prego.	prego	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=7.23	_	_	_	_
 1-0	BO083	1	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=8.629	_	_	_	_

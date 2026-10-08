@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TO024	0	0	((si_schiarisce_la_voce))	((si_schiarisce_la_voce))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=0.0|End=0.895	_	_	_	_
 1-0	TO024	1	0	matteo	matteo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.096	_	_	_	_
 1-1	TO024	1	1	bianchi	bianchi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3.733	_	_	_	_

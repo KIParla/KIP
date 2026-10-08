@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO026	0	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	Begin=6.57	0x1	_	_	_
 0-1	BO026	0	1	mh,	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=7.55	_	_	_	_
 1-0	BO026	1	0	'spetti	'spetti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Truncated=Yes	Begin=7.675	_	_	_	_

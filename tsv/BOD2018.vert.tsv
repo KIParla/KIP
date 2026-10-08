@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO118	0	0	dovresti	dovresti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.96	_	_	_	_
 0-1	BO118	0	1	parlarmi	parlarmi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	BO118	0	2	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

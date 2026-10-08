@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO026	0	0	ditemi.	ditemi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=12.59|End=13.218	_	_	_	_
 1-0	BO040	1	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=13.216	_	_	_	_
 1-1	BO040	1	1	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

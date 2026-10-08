@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TO004	0	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.34|End=1.93	_	_	_	_
 1-0	TO004	1	0	visto	visto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5.62	_	_	_	_
 1-1	TO004	1	1	che,	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=6.44	_	_	_	_

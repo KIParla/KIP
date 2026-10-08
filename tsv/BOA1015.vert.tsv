@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO045	0	0	°salve	salve	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=4.82	_	_	_	_
 0-1	BO045	0	1	(professores[sa)°]	professoressa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=5.58	_	_	0-13(0)	11-13(0)
 1-0	BO026	1	0	[s]alve.	salve	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=5.5|End=5.83	_	_	_	0-1(0)
