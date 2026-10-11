@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO139	0	0	eccoci	eccoci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.85	_	_	_	_
 0-1	BO139	0	1	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1.41	_	_	_	_
 1-0	BO148	1	0	weila	weila	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.67|End=2.21	_	_	_	_
@@ -524,7 +524,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 68-2	BO139	68	2	fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=148.673	_	_	_	_
 69-0	BO139	69	0	penso	penso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=148.728	_	_	_	_
 69-1	BO139	69	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-69-2	BO139	69	2	IL	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+69-2	BO139	69	2	IL	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 69-3	BO139	69	3	problema	problema	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 69-4	BO139	69	4	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 69-5	BO139	69	5	mondo	mondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -725,8 +725,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 100-8	BO148	100	8	ogni	ogni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 100-9	BO148	100	9	due	due	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 100-10	BO148	100	10	mesi,	mesi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=204.355	_	_	_	_
-101-0	BO139	101	0	[°mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=201.855	_	_	_	0-2(24)
-101-1	BO139	101	1	mh°]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=202.226	_	_	_	0-2(24)
+101-0	BO139	101	0	[°mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=201.855	_	_	_	0-2(24)
+101-1	BO139	101	1	mh°]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=202.226	_	_	_	0-2(24)
 102-0	BO148	102	0	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=204.932	_	_	_	_
 102-1	BO148	102	1	volta	volta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 102-2	BO148	102	2	ogni	ogni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -859,7 +859,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 118-3	BO148	118	3	quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 118-4	BO148	118	4	stanno	stanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 118-5	BO148	118	5	insieme	insieme	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=244.487	_	_	_	_
-119-0	BO139	119	0	[°mh°]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=242.819|End=243.041	_	_	_	0-2(28)
+119-0	BO139	119	0	[°mh°]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=242.819|End=243.041	_	_	_	0-2(28)
 120-0	BO148	120	0	>cioè<	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=244.487	_	Fast=0-4(0)	_	_
 120-1	BO148	120	1	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 120-2	BO148	120	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -948,8 +948,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 129-9	BO148	129	9	ab[bastanz]a	abbastanza	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	2-9(31)
 129-10	BO148	129	10	autistico	autistico	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 129-11	BO148	129	11	che:	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	2x1	_	_	_
-129-12	BO148	129	12	°è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-129-13	BO148	129	13	s~°	s~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=low	_	_	_	_	_
+129-12	BO148	129	12	°è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+129-13	BO148	129	13	s~°	s~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=Low	_	_	_	_	_
 129-14	BO148	129	14	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 129-15	BO148	129	15	stato	stato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=269.672	_	_	_	_
 130-0	BO139	130	0	[mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=267.82|End=268.064	_	_	_	0-2(31)

@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO057	0	0	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.026	_	_	_	_
 0-1	BO057	0	1	anna	anna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	BO057	0	2	paola.	paola	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=2.31	_	_	_	_
@@ -860,8 +860,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 113-15	BO070	113	15	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 113-16	BO070	113	16	vede	vede	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 113-17	BO070	113	17	pochissimo.	pochissimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=351.662	_	_	_	_
-114-0	BO070	114	0	°quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=351.846	_	_	_	_
-114-1	BO070	114	1	x°	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=low|Syllables=1	End=352.356	_	_	_	_
+114-0	BO070	114	0	°quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=351.846	_	_	_	_
+114-1	BO070	114	1	x°	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=1	End=352.356	_	_	_	_
 115-0	BO057	115	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=352.958	_	_	_	_
 115-1	BO057	115	1	quest~	quest~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 115-2	BO057	115	2	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1113,9 +1113,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 148-5	BO070	148	5	piano	piano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 148-6	BO070	148	6	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 148-7	BO070	148	7	studi.	studi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=454.067	_	_	_	_
-149-0	BO070	149	0	°piano	piano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=455.631	_	_	_	_
-149-1	BO070	149	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-149-2	BO070	149	2	studi.°	studi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	End=456.651	_	_	_	_
+149-0	BO070	149	0	°piano	piano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=455.631	_	_	_	_
+149-1	BO070	149	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+149-2	BO070	149	2	studi.°	studi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	End=456.651	_	_	_	_
 150-0	BO057	150	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=457.133	0x2	_	_	_
 150-1	BO057	150	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 150-2	BO057	150	2	m::h.	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=458.23	0x2	_	_	_
@@ -2664,7 +2664,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 365-3	BO057	365	3	bologna	bologna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 365-4	BO057	365	4	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 365-5	BO057	365	5	@nomepaese?	@nomepaese	_	_	_	_	_	anonymized	_	ContainsVariation=No	Intonation=Rising|Anonymized=Yes	End=1096.04	_	_	_	_
-366-0	BO070	366	0	°m:h°	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=low	Begin=1096.97	0x1	_	_	_
+366-0	BO070	366	0	°m:h°	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=Low	Begin=1096.97	0x1	_	_	_
 366-1	BO070	366	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 366-2	BO070	366	2	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 366-3	BO070	366	3	aria,	aria	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
@@ -2726,8 +2726,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 373-8	BO057	373	8	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 373-9	BO057	373	9	bologna?	bologna	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1117.39	_	_	_	_
 374-0	BO070	374	0	m::::h,	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=1118.201|End=1119.13	0x4	_	_	_
-375-0	BO070	375	0	°difficile	difficile	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1120.108	_	_	_	_
-375-1	BO070	375	1	questa°.	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	End=1121.3	_	_	_	_
+375-0	BO070	375	0	°difficile	difficile	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1120.108	_	_	_	_
+375-1	BO070	375	1	questa°.	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	End=1121.3	_	_	_	_
 376-0	BO070	376	0	forse	forse	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1122.87	_	_	_	_
 376-1	BO070	376	1	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 376-2	BO070	376	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

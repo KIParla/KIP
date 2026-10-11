@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO115	0	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.288	0x2	_	_	_
 0-1	BO115	0	1	parami	parami	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	BO115	0	2	della:	della	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	4x1	_	_	_
@@ -2006,8 +2006,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 328-6	BO098	328	6	bene.	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1014.861	_	_	_	_
 329-0	BO098	329	0	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1015.236	_	_	_	_
 329-1	BO098	329	1	lei.	lei	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1015.978	_	_	_	_
-330-0	BO115	330	0	°sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1017.546	_	_	_	_
-330-1	BO115	330	1	sì°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1018.28	_	_	_	_
+330-0	BO115	330	0	°sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1017.546	_	_	_	_
+330-1	BO115	330	1	sì°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1018.28	_	_	_	_
 331-0	BO115	331	0	mh.	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1021.011	_	_	_	_
 331-1	BO115	331	1	vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 331-2	BO115	331	2	martina,	martina	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_

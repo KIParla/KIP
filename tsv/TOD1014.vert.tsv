@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TO068	0	0	vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.13	_	_	_	_
 0-1	TO068	0	1	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	TO068	0	2	benvenu:ti:,	benvenuti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1.454	6x1,8x1	_	_	_
@@ -15326,7 +15326,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2768-4	???	2768	4	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2768-5	???	2768	5	primo	primo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2768-6	???	2768	6	anno.	anno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=7357.233	_	_	_	_
-2769-0	TO068	2769	0	AH	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=7357.295|End=7357.637	_	_	_	_
+2769-0	TO068	2769	0	AH	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=7357.295|End=7357.637	_	_	_	_
 2770-0	???	2770	0	eh,	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=7357.878|End=7358.214	_	_	_	_
 2771-0	???	2771	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=7358.511	_	_	_	_
 2771-1	???	2771	1	quindi::,	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=7359.353	5x2	_	_	_
@@ -15545,7 +15545,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2808-15	???	2808	15	corso	corso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2808-16	???	2808	16	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2808-17	???	2808	17	storia,	storia	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=7421.805	_	_	_	_
-2809-0	TO068	2809	0	AH,	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=high	Begin=7422.046|End=7422.35	_	_	_	_
+2809-0	TO068	2809	0	AH,	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=High	Begin=7422.046|End=7422.35	_	_	_	_
 2810-0	TO068	2810	0	okay,	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=7422.623|End=7423.045	_	_	_	_
 2811-0	TO068	2811	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=7423.115	_	_	_	_
 2811-1	TO068	2811	1	quindi:::,	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=7423.915	5x3	_	_	_

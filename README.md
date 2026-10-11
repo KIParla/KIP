@@ -33,7 +33,6 @@ This repository contains:
 
 * metadata for both speakers and conversations, in the [`metadata`](./metadata/) subfolder (see [metadata](#metadata) section below)
 * descriptions of the set of transcription conventions used for this module ([Transcription conventions](./enriched-notation.md))
-* statistical summaries of each conversation (token counts, speaking time per speaker, token/time rates, overlaps) are not in this repository: they are in the folder of this module in [KIParla-summaries](https://github.com/KIParla/KIParla-summaries)
 
 For each conversation you will find:
 
@@ -99,7 +98,7 @@ Each token is represented as 20 columns, as follows:
     - `unknown`: identifies unintelligible spans in transcription
     - `error`: residual class to mark cases where the transcription is not well formed according to enriched format. Therefore, the token is not analyzed and transcription will be corrected in future releases.
 13. `meta_label`: reserved; `_` for now
-14. `code-variation`: all variation features of the token (having to do with code switching and nonce formations), as pipe-separated `Key=Value` pairs (never empty, as the first one is always present):
+14. `code_variation`: all variation features of the token (having to do with code switching and nonce formations), as pipe-separated `Key=Value` pairs (never empty, as the first one is always present):
     - `ContainsVariation`: unit-level flag, repeated on every token of the unit. `Yes` if any token of the unit has a `Code`, `No` otherwise
     - `Code`: token-level code change (other than standard Italian). Values:
       - `Other`: the token is in another language — a `#word`, or any token after a `#_` marker (which covers the rest of the transcription unit, or the whole unit when it is unit-initial)
@@ -109,7 +108,7 @@ Each token is represented as 20 columns, as follows:
     - `Nonce=Yes`: nonce form that is not assignable to a given language, marked with `$` in the transcription
     Example: `ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE`
 
-    This module's transcriptions use no variation markers, so `code-variation` is always `ContainsVariation=No`.
+    This module's transcriptions use no variation markers, so `code_variation` is always `ContainsVariation=No`.
 15. `jefferson_feats`: pipe-separated list of word-level features derived from the transcription in enriched format. More specifically:
     - `SpaceAfter=No`: no whitespace between this token and the next (e.g., `l'` in `l'anno`)
     - `ProsodicLink=Yes`: a prosodic link (`=`) to the following token
@@ -168,7 +167,7 @@ If you use the KIP module in your research, please also reference this repositor
 
 * YYYY-MM-DD v2.0.0
   * Breaking: the `topic`, `participants-relationship` and `moderator` columns were removed from `metadata/conversations.tsv`
-  * Breaking: the `variation` column of the `tsv/` files is now called `code-variation` and is a feature list holding all code-variation features of a token: `ContainsVariation=Yes|No` (unit level), `Code=Other|Unsure|Underspecified`, `Language=<ISO code>` and `Nonce=Yes`. It replaces the unit-level label (`none`/`some`/`unspecified`/`all`); `Language` and the `Variation=`/`Orthography=` features moved out of `jefferson_feats`
+  * Breaking: the `variation` column of the `tsv/` files is now called `code_variation` and is a feature list holding all code_variation features of a token: `ContainsVariation=Yes|No` (unit level), `Code=Other|Unsure|Underspecified`, `Language=<ISO code>` and `Nonce=Yes`. It replaces the unit-level label (`none`/`some`/`unspecified`/`all`); `Language` and the `Variation=`/`Orthography=` features moved out of `jefferson_feats`
   * Breaking: the unit-initial `# ` / `#_ ` marker is now part of the `span` of the unit's first token, so the original transcription can be rebuilt from the `span` column
   * Normalization: spelling variants of interjections and discourse markers are standardized (e.g. `m` → `mh`, `mhm` and `mmh` → `mhmh`, `he` → `eh`, `va beh` → `vabbè`) and elision typos are corrected (e.g. `dell~` → `dell'`)
   * All files are UTF-8 (no BOM), LF line endings and Unicode NFC; `eaf/` is regenerated from `tsv/` (audio linked by relative path)

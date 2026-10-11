@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TO006	0	0	allora.	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1.275	_	_	_	_
 0-1	TO006	0	1	buonase[ra],	buonasera	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=2.108	_	_	_	7-9(0)
 1-0	TO008	1	0	[bu]uonasera.	buuonasera	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1.98|End=2.359	_	_	_	0-2(0)
@@ -439,7 +439,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 54-12	TO008	54	12	conoscenza	conoscenza	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 54-13	TO008	54	13	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	1-2(19)
 54-14	TO008	54	14	[terzi],	terzi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=161.335	_	_	_	0-4(19)
-55-0	TO006	55	0	°[mh]°	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=158.85|End=159.11	_	_	_	0-2(20)
+55-0	TO006	55	0	°[mh]°	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=158.85|End=159.11	_	_	_	0-2(20)
 56-0	TO006	56	0	[giusto].	giusto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=160.896|End=161.348	_	_	_	0-6(19)
 57-0	TO006	57	0	[>i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=161.498	_	Fast=0-1(0)	_	0-1(21)
 57-1	TO006	57	1	limiti	limiti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-6(0)	_	0-6(21)
@@ -1069,7 +1069,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 109-0	TO006	109	0	rientri,	rientri	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=361.454|End=362.11	_	_	_	_
 110-0	TO008	110	0	negli	negli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=363.501	_	_	_	_
 110-1	TO008	110	1	a~	a~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=363.942	_	_	_	_
-111-0	TO008	111	0	°m::h°	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=364.886|End=365.698	0x2	_	_	_
+111-0	TO008	111	0	°m::h°	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=364.886|End=365.698	0x2	_	_	_
 112-0	TO008	112	0	no.	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=367.284|End=367.423	_	_	_	_
 113-0	TO006	113	0	nell'	nell'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=368.004	_	_	_	_
 113-1	TO006	113	1	oggetto	oggetto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1124,7 +1124,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 115-45	TO006	115	45	comunque,	comunque	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
 115-46	TO006	115	46	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 115-47	TO006	115	47	bene.	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_
-115-48	TO006	115	48	°insomma.°	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	End=384.352	_	_	_	_
+115-48	TO006	115	48	°insomma.°	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	End=384.352	_	_	_	_
 116-0	TO006	116	0	questa	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=385.289	_	_	_	_
 116-1	TO006	116	1	parte	parte	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 116-2	TO006	116	2	finale,	finale	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
@@ -1441,14 +1441,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 149-10	TO006	149	10	utile	utile	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 149-11	TO006	149	11	dell'	dell'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 149-12	TO006	149	12	azionista.	azionista	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=512.811	_	_	_	_
-150-0	TO008	150	0	°l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=low	Begin=513.417	_	_	_	_
-150-1	TO008	150	1	interesse	interesse	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-150-2	TO008	150	2	dell'	dell'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=low	_	_	_	_	_
-150-3	TO008	150	3	obbligazionista,	obbligazionista	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=low	_	_	_	_	_
-150-4	TO008	150	4	dall'	dall'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=low	_	_	_	_	_
-150-5	TO008	150	5	utile	utile	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-150-6	TO008	150	6	dell'	dell'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=low	_	_	_	_	_
-150-7	TO008	150	7	azionista.°	azionista	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	End=516.645	_	_	_	_
+150-0	TO008	150	0	°l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=Low	Begin=513.417	_	_	_	_
+150-1	TO008	150	1	interesse	interesse	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+150-2	TO008	150	2	dell'	dell'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=Low	_	_	_	_	_
+150-3	TO008	150	3	obbligazionista,	obbligazionista	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=Low	_	_	_	_	_
+150-4	TO008	150	4	dall'	dall'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=Low	_	_	_	_	_
+150-5	TO008	150	5	utile	utile	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+150-6	TO008	150	6	dell'	dell'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=Low	_	_	_	_	_
+150-7	TO008	150	7	azionista.°	azionista	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	End=516.645	_	_	_	_
 151-0	TO006	151	0	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=522.376	_	_	_	_
 151-1	TO006	151	1	sostanza	sostanza	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 151-2	TO006	151	2	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1696,7 +1696,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 180-24	TO006	180	24	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 180-25	TO006	180	25	rendimento	rendimento	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 180-26	TO006	180	26	certo,	certo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=595.035	_	_	_	_
-181-0	TO008	181	0	°[sì].°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	Begin=588.011|End=588.306	_	_	_	0-2(65)
+181-0	TO008	181	0	°[sì].°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	Begin=588.011|End=588.306	_	_	_	0-2(65)
 182-0	TO008	182	0	[mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	Begin=591.97	_	_	_	0-2(66)
 182-1	TO008	182	1	sì].	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=592.286	_	_	_	0-2(66)
 183-0	TO006	183	0	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=596.78	_	_	_	_
@@ -2193,7 +2193,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 234-4	TO006	234	4	ah.	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_
 234-5	TO006	234	5	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 234-6	TO006	234	6	scusi.	scusi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=769.507	_	_	_	_
-235-0	???	235	0	[°(posso)?°]	posso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=low	Begin=768.165|End=768.666	_	_	0-5(0)	0-5(87)
+235-0	???	235	0	[°(posso)?°]	posso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=Low	Begin=768.165|End=768.666	_	_	0-5(0)	0-5(87)
 236-0	TO006	236	0	dunque.	dunque	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=771.934	_	_	_	_
 236-1	TO006	236	1	dicevamo.	dicevamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_
 236-2	TO006	236	2	ormai	ormai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2514,7 +2514,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 261-1	TO008	261	1	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(96)
 261-2	TO008	261	2	solo	solo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(96)
 261-3	TO008	261	3	se].	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=878.255	_	_	_	0-2(96)
-262-0	TO008	262	0	°[sì].°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	Begin=881.972|End=882.356	_	_	_	0-2(97)
+262-0	TO008	262	0	°[sì].°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	Begin=881.972|End=882.356	_	_	_	0-2(97)
 263-0	TO008	263	0	sì.	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=887.069|End=887.293	_	_	_	_
 264-0	TO006	264	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=887.633	_	_	_	_
 264-1	TO006	264	1	quelle	quelle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2908,8 +2908,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 291-7	TO008	291	7	chiamata	chiamata	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-8(110)
 291-8	TO008	291	8	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(110)
 291-9	TO008	291	9	causa].	causa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=989.98	_	_	_	0-5(110)
-292-0	TO008	292	0	°[sì].°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	Begin=992.719|End=992.977	_	_	_	0-2(111)
-293-0	TO008	293	0	°[sì].°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	Begin=997.018|End=997.301	_	_	_	0-2(112)
+292-0	TO008	292	0	°[sì].°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	Begin=992.719|End=992.977	_	_	_	0-2(111)
+293-0	TO008	293	0	°[sì].°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	Begin=997.018|End=997.301	_	_	_	0-2(112)
 294-0	TO006	294	0	comunque.	comunque	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=999.257	_	_	_	_
 294-1	TO006	294	1	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 294-2	TO006	294	2	bene.	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_

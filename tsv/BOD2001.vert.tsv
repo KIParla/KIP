@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TO999	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.464	_	_	_	_
 0-1	TO999	0	1	allora,	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=3.795	_	_	_	_
 1-0	TO999	1	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4.75	0x2	_	_	_
@@ -1715,7 +1715,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 119-2	BO014	119	2	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(30)
 119-3	BO014	119	3	finito].	finito	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	0-6(30)
 119-4	BO014	119	4	((ridendo))	((ridendo))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=611.39	_	_	_	_
-120-0	BO014	120	0	[°spero°].	spero	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	Begin=614.07|End=614.71	_	_	_	0-5(29)
+120-0	BO014	120	0	[°spero°].	spero	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	Begin=614.07|End=614.71	_	_	_	0-5(29)
 121-0	TO999	121	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=621.347	_	_	_	_
 121-1	TO999	121	1	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 121-2	TO999	121	2	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

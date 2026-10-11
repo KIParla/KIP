@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TO038	0	0	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.0	_	_	_	_
 0-1	TO038	0	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	TO038	0	2	sacco	sacco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2343,7 +2343,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 337-6	TO038	337	6	finire::,	finire	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=813.82	5x2	_	_	_
 338-0	TO040	338	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=813.655|End=814.024	_	_	_	_
 339-0	TO039	339	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=814.049	_	_	_	_
-339-1	TO039	339	1	°esatto.°	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	End=815.012	_	_	_	_
+339-1	TO039	339	1	°esatto.°	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	End=815.012	_	_	_	_
 340-0	TO039	340	0	quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=815.691	_	_	_	_
 340-1	TO039	340	1	col	col	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 340-2	TO039	340	2	tonno.	tonno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_
@@ -3037,7 +3037,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 428-0	TO040	428	0	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1056.728	_	_	_	_
 428-1	TO040	428	1	scrivo,	scrivo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
 428-2	TO040	428	2	((al_telefono))	((al_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1057.227	_	_	_	_
-429-0	TO040	429	0	EH.	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=high	Begin=1059.435	_	_	_	_
+429-0	TO040	429	0	EH.	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=High	Begin=1059.435	_	_	_	_
 429-1	TO040	429	1	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 429-2	TO040	429	2	dovrei	dovrei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 429-3	TO040	429	3	tene~,	tene~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Interrupted=Yes	_	_	_	_	_
@@ -4203,10 +4203,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 627-3	TO038	627	3	paura	paura	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 627-4	TO038	627	4	eh,	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1451.941	_	_	_	_
 628-0	TO040	628	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1452.014|End=1452.612	_	_	_	_
-629-0	TO038	629	0	NO.	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=high	Begin=1452.325	_	_	_	_
-629-1	TO038	629	1	NON	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
-629-2	TO038	629	2	È	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
-629-3	TO038	629	3	VERO,	vero	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=high	End=1453.249	_	_	_	_
+629-0	TO038	629	0	NO.	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=High	Begin=1452.325	_	_	_	_
+629-1	TO038	629	1	NON	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
+629-2	TO038	629	2	È	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
+629-3	TO038	629	3	VERO,	vero	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=High	End=1453.249	_	_	_	_
 630-0	TO031	630	0	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1453.872	_	_	_	_
 630-1	TO031	630	1	muro.	muro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1454.474	_	_	_	_
 631-0	TO038	631	0	[ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1454.479	_	_	_	0-2(176)
@@ -4385,7 +4385,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 666-1	TO031	666	1	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 666-2	TO031	666	2	rivoluzione	rivoluzione	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 666-3	TO031	666	3	francese.	francese	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1531.183	_	_	_	_
-667-0	TO031	667	0	°quattordici,°	quattordici	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=low	Begin=1537.067|End=1538.191	_	_	_	_
+667-0	TO031	667	0	°quattordici,°	quattordici	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=Low	Begin=1537.067|End=1538.191	_	_	_	_
 668-0	TO038	668	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1541.728	_	_	_	_
 668-1	TO038	668	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 668-2	TO038	668	2	né	né	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4445,7 +4445,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 678-4	TO031	678	4	un'	un'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 678-5	TO031	678	5	altra	altra	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 678-6	TO031	678	6	(roba,)	roba	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1567.009	_	_	0-4(0)	_
-679-0	TO031	679	0	AH.	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=high	Begin=1568.913	_	_	_	_
+679-0	TO031	679	0	AH.	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=High	Begin=1568.913	_	_	_	_
 679-1	TO031	679	1	e:::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x3	_	_	_
 679-2	TO031	679	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 679-3	TO031	679	3	titanic	titanic	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

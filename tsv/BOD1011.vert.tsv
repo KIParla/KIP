@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO112	0	0	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4.07	_	_	_	_
 0-1	BO112	0	1	sente?	sente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=4.96	_	_	_	_
 1-0	BO112	1	0	incominciamo,	incominciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=5.21|End=5.91	_	_	_	_
@@ -749,9 +749,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 81-11	BO112	81	11	così?	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=306.293	_	_	_	_
 82-0	BO112	82	0	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=306.83	_	_	_	_
 82-1	BO112	82	1	più?	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=307.8	_	_	_	_
-83-0	BO112	83	0	°vediamo	vediamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=308.72	_	_	_	_
-83-1	BO112	83	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-83-2	BO112	83	2	po',°	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=low	End=309.63	_	_	_	_
+83-0	BO112	83	0	°vediamo	vediamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=308.72	_	_	_	_
+83-1	BO112	83	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+83-2	BO112	83	2	po',°	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=Low	End=309.63	_	_	_	_
 84-0	BO112	84	0	così	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=311.546	_	_	_	_
 84-1	BO112	84	1	naturalmente,	naturalmente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=312.921	_	_	_	_
 85-0	BO112	85	0	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=314.155	_	_	_	_
@@ -2715,7 +2715,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 336-8	BO112	336	8	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 336-9	BO112	336	9	voce	voce	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 336-10	BO112	336	10	alta,	alta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1180.881	_	_	_	_
-337-0	BO112	337	0	°poi°	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1182.57|End=1183.225	_	_	_	_
+337-0	BO112	337	0	°poi°	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1182.57|End=1183.225	_	_	_	_
 338-0	BO112	338	0	lei	lei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1183.74	_	_	_	_
 338-1	BO112	338	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 338-2	BO112	338	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4963,7 +4963,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 633-1	BO112	633	1	alzato	alzato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 633-2	BO112	633	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 633-3	BO112	633	3	mano?	mano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=2156.02	_	_	_	_
-634-0	BO112	634	0	°no°.	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	Begin=2156.265|End=2156.73	_	_	_	_
+634-0	BO112	634	0	°no°.	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	Begin=2156.265|End=2156.73	_	_	_	_
 635-0	BO112	635	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=2165.73	_	_	_	_
 635-1	BO112	635	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 635-2	BO112	635	2	deve	deve	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -8175,7 +8175,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1087-13	???	1087	13	avrei	avrei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1087-14	???	1087	14	voluto	voluto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1087-15	???	1087	15	scrivere	scrivere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1087-16	???	1087	16	MOLTO	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+1087-16	???	1087	16	MOLTO	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 1087-17	???	1087	17	pericoloso.	pericoloso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=3520.653	_	_	_	_
 1088-0	BO112	1088	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=3520.965	_	_	_	_
 1088-1	BO112	1088	1	okay.	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=3522.1	_	_	_	_
@@ -10788,9 +10788,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1470-0	BO112	1470	0	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4668.49	_	_	_	_
 1470-1	BO112	1470	1	sbagliato	sbagliato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1470-2	BO112	1470	2	penna?	penna	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=4669.505	_	_	_	_
-1471-0	BO112	1471	0	°beh	beh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=4674.26	_	_	_	_
-1471-1	BO112	1471	1	però,	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=low	_	_	_	_	_
-1471-2	BO112	1471	2	xxxxx°	xxxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=low|Syllables=5	End=4676.201	_	_	_	_
+1471-0	BO112	1471	0	°beh	beh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=4674.26	_	_	_	_
+1471-1	BO112	1471	1	però,	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=Low	_	_	_	_	_
+1471-2	BO112	1471	2	xxxxx°	xxxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=5	End=4676.201	_	_	_	_
 1472-0	BO112	1472	0	vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4685.095	_	_	_	_
 1472-1	BO112	1472	1	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1472-2	BO112	1472	2	arrendo.	arrendo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=4686.111	_	_	_	_

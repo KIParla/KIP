@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO117	0	0	o:kay,	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=2.41|End=3.31	0x1	_	_	_
 1-0	BO117	1	0	all:ora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=6.98|End=8.53	2x1	_	_	_
 2-0	BO117	2	0	e:::hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=8.855	0x3	_	_	_
@@ -10,8 +10,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2-6	BO117	2	6	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2-7	BO117	2	7	frequen[tato]	frequentato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	7-11(0)
 2-8	BO117	2	8	e::hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=13.81	0x2	_	_	_
-3-0	BO141	3	0	[°sì,	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=low	Begin=11.955	_	_	_	0-2(0)
-3-1	BO141	3	1	(esatto)°]	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=12.825	_	_	0-6(0)	0-6(0)
+3-0	BO141	3	0	[°sì,	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=Low	Begin=11.955	_	_	_	0-2(0)
+3-1	BO141	3	1	(esatto)°]	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=12.825	_	_	0-6(0)	0-6(0)
 4-0	BO117	4	0	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=14.61	_	_	_	_
 4-1	BO117	4	1	direi	direi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 4-2	BO117	4	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1271,8 +1271,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 119-9	BO117	119	9	nella	nella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 119-10	BO117	119	10	parte	parte	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 119-11	BO117	119	11	fin[ale::	finale	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	5x2	_	_	3-6(22)
-119-12	BO117	119	12	°del	del	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	0-3(22)
-119-13	BO117	119	13	corso°	corso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	0-5(22)
+119-12	BO117	119	12	°del	del	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-3(22)
+119-13	BO117	119	13	corso°	corso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-5(22)
 119-14	BO117	119	14	mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=477.248	_	_	_	0-2(22)
 120-0	BO141	120	0	[nella	nella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=475.648	_	_	_	0-5(22)
 120-1	BO141	120	1	linguistica	linguistica	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-11(22)

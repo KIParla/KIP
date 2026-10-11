@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	T0032	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1.38	_	_	_	_
 0-1	T0032	0	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	T0032	0	2	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1027,9 +1027,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 138-9	TO030	138	9	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=511.856	_	_	_	_
 139-0	TO030	139	0	dio	dio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=512.393	_	_	_	_
 139-1	TO030	139	1	porcone	porcone	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=513.557	_	_	_	_
-140-0	T0032	140	0	°cazzo	cazzo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=514.352	_	_	_	_
-140-1	T0032	140	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-140-2	T0032	140	2	orrenda::°	orrenda	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=515.691	6x2	_	_	_
+140-0	T0032	140	0	°cazzo	cazzo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=514.352	_	_	_	_
+140-1	T0032	140	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+140-2	T0032	140	2	orrenda::°	orrenda	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=515.691	6x2	_	_	_
 141-0	TO030	141	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=515.691	_	_	_	_
 141-1	TO030	141	1	lei	lei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 141-2	TO030	141	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1754,7 +1754,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 270-7	T0032	270	7	mezzo	mezzo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 270-8	T0032	270	8	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 270-9	T0032	270	9	pasta?	pasta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=915.079	_	_	_	_
-271-0	TO030	271	0	°sì°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=low	Begin=915.54	_	_	_	_
+271-0	TO030	271	0	°sì°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=Low	Begin=915.54	_	_	_	_
 271-1	TO030	271	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 271-2	TO030	271	2	bryan	bryan	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 271-3	TO030	271	3	cranston	cranston	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3675,8 +3675,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 549-4	TO030	549	4	segreto	segreto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 549-5	TO030	549	5	tuo	tuo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 549-6	TO030	549	6	papà	papà	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-549-7	TO030	549	7	°[secondo	secondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	0-7(6)
-549-8	TO030	549	8	me]°	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1808.868	_	_	_	0-2(6)
+549-7	TO030	549	7	°[secondo	secondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-7(6)
+549-8	TO030	549	8	me]°	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1808.868	_	_	_	0-2(6)
 550-0	T0032	550	0	[un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1808.321	_	_	_	0-2(6)
 550-1	T0032	550	1	paio]	paio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(6)
 550-2	T0032	550	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

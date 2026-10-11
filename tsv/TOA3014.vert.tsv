@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TO085	0	0	((è_unica_lombarda_le_altre_due_sono_di_perugia))	((è_unica_lombarda_le_altre_due_sono_di_perugia))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=0.14|End=1.37	_	_	_	_
 1-0	TO095	1	0	((è_la_persona_più_vicina_al_microfono))	((è_la_persona_più_vicina_al_microfono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=0.174|End=1.364	_	_	_	_
 2-0	TO095	2	0	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.47	_	_	_	_
@@ -267,7 +267,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 46-2	TO085	46	2	quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 46-3	TO085	46	3	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 46-4	TO085	46	4	sei,	sei	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=78.608	_	_	_	_
-47-0	TO095	47	0	E:H	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=78.608|End=78.958	0x1	_	_	_
+47-0	TO095	47	0	E:H	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=78.608|End=78.958	0x1	_	_	_
 48-0	TO085	48	0	dai	dai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=79.262	_	_	_	_
 48-1	TO085	48	1	evita	evita	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=80.115	_	_	_	_
 49-0	TO091	49	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=80.403	_	_	_	_
@@ -445,8 +445,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 76-7	TO091	76	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 76-8	TO091	76	8	adoro.	adoro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=139.96	_	_	_	_
 77-0	TO095	77	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=140.15	_	_	_	_
-77-1	TO095	77	1	IO,	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=high	_	_	_	_	_
-77-2	TO095	77	2	IO,	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=high	_	_	_	_	_
+77-1	TO095	77	1	IO,	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=High	_	_	_	_	_
+77-2	TO095	77	2	IO,	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=High	_	_	_	_	_
 77-3	TO095	77	3	arrivavo	arrivavo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 77-4	TO095	77	4	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 77-5	TO095	77	5	macchina	macchina	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1713,10 +1713,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 284-1	TO095	284	1	sorella,	sorella	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=551.587	_	_	_	_
 285-0	TO085	285	0	bene,	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=551.587|End=552.105	_	_	_	_
 286-0	TO085	286	0	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=552.237	_	_	_	_
-286-1	TO085	286	1	MIE	mie	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+286-1	TO085	286	1	MIE	mie	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 286-2	TO085	286	2	sorelle,	sorelle	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=553.022	_	_	_	_
 287-0	TO095	287	0	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=553.03	_	_	_	_
-287-1	TO095	287	1	TUE	tue	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+287-1	TO095	287	1	TUE	tue	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 287-2	TO095	287	2	sorelle	sorelle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 287-3	TO095	287	3	vero.	vero	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=554.19	_	_	_	_
 288-0	TO085	288	0	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=554.245	_	_	_	_

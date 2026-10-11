@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TO024	0	0	((si_schiarisce_la_voce))	((si_schiarisce_la_voce))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=0.0|End=0.895	_	_	_	_
 1-0	TO024	1	0	matteo	matteo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.096	_	_	_	_
 1-1	TO024	1	1	bianchi	bianchi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3.733	_	_	_	_
@@ -389,7 +389,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 56-2	TO024	56	2	firmare	firmare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 56-3	TO024	56	3	qua?	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=182.109	_	_	_	_
 57-0	???	57	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=182.487|End=182.726	_	_	_	_
-58-0	TO024	58	0	°quattordici°?	quattordici	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=low	Begin=197.622|End=198.547	_	_	_	_
+58-0	TO024	58	0	°quattordici°?	quattordici	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=Low	Begin=197.622|End=198.547	_	_	_	_
 59-0	???	59	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=198.547|End=198.955	_	_	_	_
 60-0	TO024	60	0	ah.	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=200.575	_	_	_	_
 60-1	TO024	60	1	dovevo	dovevo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1371,7 +1371,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 132-12	TO023	132	12	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 132-13	TO023	132	13	una,	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
 132-14	TO023	132	14	[punizione].	punizione	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=636.055	_	_	_	0-9(53)
-133-0	TO024	133	0	[NO.	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=high	Begin=635.33	_	_	_	0-2(53)
+133-0	TO024	133	0	[NO.	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=High	Begin=635.33	_	_	_	0-2(53)
 133-1	TO024	133	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(53)
 133-2	TO024	133	2	que~]	que~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	0-4(53)
 133-3	TO024	133	3	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1783,7 +1783,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 168-0	TO024	168	0	[leg]ge?	legge	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=828.208|End=829.038	_	_	_	0-3(66)
 169-0	TO023	169	0	[ovve~]	ovve~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=828.208|End=828.593	_	_	_	0-5(66)
 170-0	TO023	170	0	della,	della	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=829.875	_	_	_	_
-170-1	TO023	170	1	REGOLA	regola	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+170-1	TO023	170	1	REGOLA	regola	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 170-2	TO023	170	2	scusi.	scusi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_
 170-3	TO023	170	3	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 170-4	TO023	170	4	regola.	regola	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=832.242	_	_	_	_

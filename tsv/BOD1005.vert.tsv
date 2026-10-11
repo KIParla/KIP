@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO094	0	0	riprendiamo	riprendiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=19.53	_	_	_	_
 0-1	BO094	0	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	BO094	0	2	nostra	nostra	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5828,9 +5828,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 866-11	BO094	866	11	facciamo	facciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 866-12	BO094	866	12	qualche	qualche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 866-13	BO094	866	13	esempio.	esempio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=3538.112	_	_	_	_
-867-0	BO094	867	0	°facciamo	facciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=3553.015	_	_	_	_
-867-1	BO094	867	1	qualche	qualche	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-867-2	BO094	867	2	esempio°	esempio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=3554.32	_	_	_	_
+867-0	BO094	867	0	°facciamo	facciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=3553.015	_	_	_	_
+867-1	BO094	867	1	qualche	qualche	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+867-2	BO094	867	2	esempio°	esempio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=3554.32	_	_	_	_
 868-0	BO094	868	0	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=3555.232	_	_	_	_
 868-1	BO094	868	1	prendiamo	prendiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 868-2	BO094	868	2	qualsiasi	qualsiasi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

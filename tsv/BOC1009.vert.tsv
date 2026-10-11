@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO117	0	0	okay.	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1.97|End=2.249	_	_	_	_
 1-0	BO117	1	0	((tossisce))	((tossisce))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2.544|End=3.264	_	_	_	_
 2-0	BO117	2	0	dunque	dunque	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.933	_	_	_	_
@@ -117,7 +117,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 22-0	???	22	0	((bussa))	((bussa))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=68.259|End=68.891	_	_	_	_
 23-0	BO142	23	0	e:h,	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=68.667|End=69.175	0x1	_	_	_
 24-0	BO117	24	0	avanti.	avanti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=69.763|End=70.367	_	_	_	_
-25-0	???	25	0	°scusatemi°.	scusatemi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	Begin=72.227|End=73.176	_	_	_	_
+25-0	???	25	0	°scusatemi°.	scusatemi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	Begin=72.227|End=73.176	_	_	_	_
 26-0	BO117	26	0	perfetto	perfetto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=73.341	_	_	_	_
 26-1	BO117	26	1	grazie	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 26-2	BO117	26	2	mille.	mille	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=74.576	_	_	_	_
@@ -1186,7 +1186,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 195-14	BO142	195	14	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 195-15	BO142	195	15	fondo.	fondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=603.533	_	_	_	_
 196-0	BO117	196	0	mhmhmh.	mhmhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=604.016|End=604.55	_	_	_	_
-197-0	BO142	197	0	°ehm:°,	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=low	Begin=605.101|End=605.711	2x1	_	_	_
+197-0	BO142	197	0	°ehm:°,	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=Low	Begin=605.101|End=605.711	2x1	_	_	_
 198-0	BO117	198	0	e:	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=606.652	0x1	_	_	_
 198-1	BO117	198	1	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 198-2	BO117	198	2	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1470,6 +1470,6 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 231-6	BO142	231	6	insomma	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 231-7	BO142	231	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 231-8	BO142	231	8	globale	globale	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-231-9	BO142	231	9	°ecco°.	ecco	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	End=740.205	_	_	_	_
+231-9	BO142	231	9	°ecco°.	ecco	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	End=740.205	_	_	_	_
 232-0	BO117	232	0	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=740.617	_	_	_	_
 232-1	BO117	232	1	bene.	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=741.161	_	_	_	_

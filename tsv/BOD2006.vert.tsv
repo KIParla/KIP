@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO049	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.43|End=0.65	_	_	_	_
 1-0	BO049	1	0	cia:o,	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=2.22|End=2.79	2x1	_	_	_
 2-0	BO051	2	0	cia:o	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.793|End=3.029	2x1	_	_	_
@@ -2370,7 +2370,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 327-34	BO051	327	34	turisti	turisti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 327-35	BO051	327	35	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 327-36	BO051	327	36	sì.	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_
-327-37	BO051	327	37	Sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+327-37	BO051	327	37	Sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 327-38	BO051	327	38	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 327-39	BO051	327	39	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 327-40	BO051	327	40	alteri	alteri	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2756,7 +2756,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 360-26	BO051	360	26	settimane:	settimane	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	8x1	_	_	_
 360-27	BO051	360	27	andiamo	andiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 360-28	BO051	360	28	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-360-29	BO051	360	29	Budapest.	budapest	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=high	End=1107.87	_	_	_	_
+360-29	BO051	360	29	Budapest.	budapest	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=High	End=1107.87	_	_	_	_
 361-0	BO049	361	0	ecco.	ecco	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|PauseAfter=Yes	Begin=1107.88	_	_	_	_
 361-1	BO049	361	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 361-2	BO049	361	2	bravi.	bravi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_

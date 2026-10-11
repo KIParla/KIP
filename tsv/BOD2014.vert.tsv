@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO113	0	0	okay.	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1.621	_	_	_	_
 0-1	BO113	0	1	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	BO113	0	2	bene.	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_
@@ -3303,7 +3303,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 483-5	BO113	483	5	amico,	amico	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
 483-6	BO113	483	6	non::	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1341.0	2x2	_	_	_
 484-0	BO113	484	0	lo,	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=1342.681	_	_	_	_
-484-1	BO113	484	1	A:::H	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=high	_	0x3	_	_	_
+484-1	BO113	484	1	A:::H	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=High	_	0x3	_	_	_
 484-2	BO113	484	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 484-3	BO113	484	3	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 484-4	BO113	484	4	son	son	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

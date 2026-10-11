@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO089	0	0	buongio[rno]	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=20.85|End=21.509	_	_	_	7-10(0)
 1-0	BO087	1	0	[ecco]	ecco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=21.23	_	_	_	0-4(0)
 1-1	BO087	1	1	buongiorno.	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=22.255	_	_	_	_
@@ -121,7 +121,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 28-1	BO089	28	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 28-2	BO089	28	2	sì,	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=85.258	_	_	_	_
 29-0	BO089	29	0	e::::hm::::	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=85.686|End=87.305	0x4,2x4	_	_	_
-30-0	BO089	30	0	°cosa°	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=87.87	_	_	_	_
+30-0	BO089	30	0	°cosa°	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=87.87	_	_	_	_
 30-1	BO089	30	1	stavo	stavo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 30-2	BO089	30	2	dicendo,	dicendo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
 30-3	BO089	30	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -303,7 +303,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 48-2	BO087	48	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 48-3	BO087	48	3	dire	dire	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 48-4	BO087	48	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-48-5	BO087	48	5	FONTE	fonte	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+48-5	BO087	48	5	FONTE	fonte	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 48-6	BO087	48	6	delle	delle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 48-7	BO087	48	7	notizie	notizie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 48-8	BO087	48	8	bibliografiche	bibliografiche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -640,7 +640,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 86-11	BO087	86	11	bibliografia	bibliografia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 86-12	BO087	86	12	delle	delle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 86-13	BO087	86	13	opere	opere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-86-14	BO087	86	14	CINESI	cinesi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+86-14	BO087	86	14	CINESI	cinesi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 86-15	BO087	86	15	tra[dotte	tradotte	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	3-8(22)
 86-16	BO087	86	16	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(22)
 86-17	BO087	86	17	italiano	italiano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-8(22)
@@ -1287,7 +1287,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 181-9	BO089	181	9	dell'	dell'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 181-10	BO089	181	10	opera	opera	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 181-11	BO089	181	11	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-181-12	BO089	181	12	[°tradotta°],	tradotta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=low	End=518.573	_	_	_	0-8(49)
+181-12	BO089	181	12	[°tradotta°],	tradotta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=Low	End=518.573	_	_	_	0-8(49)
 182-0	BO087	182	0	[perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=517.299	_	_	_	0-6(49)
 182-1	BO087	182	1	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(49)
 182-2	BO087	182	2	riportato	riportato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-9(49)
@@ -1581,7 +1581,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 231-1	BO087	231	1	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 231-2	BO087	231	2	ordine	ordine	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 231-3	BO087	231	3	alfabetico	alfabetico	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-231-4	BO087	231	4	MA	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+231-4	BO087	231	4	MA	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 231-5	BO087	231	5	lasciando	lasciando	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 231-6	BO087	231	6	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 231-7	BO087	231	7	ordine	ordine	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2378,7 +2378,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 355-0	BO087	355	0	può	può	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=877.08	_	_	_	_
 355-1	BO087	355	1	essere	essere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 355-2	BO087	355	2	diversa,	diversa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=878.141	_	_	_	_
-356-0	BO087	356	0	TRE:,	tre	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=high	Begin=879.081|End=879.82	2x1	_	_	_
+356-0	BO087	356	0	TRE:,	tre	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=High	Begin=879.081|End=879.82	2x1	_	_	_
 357-0	BO087	357	0	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=880.332	_	_	_	_
 357-1	BO087	357	1	numero	numero	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 357-2	BO087	357	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2439,7 +2439,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 367-7	BO087	367	7	anno?	anno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=908.22	_	_	_	_
 368-0	BO089	368	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=908.22	_	_	_	_
 368-1	BO089	368	1	mh,	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=908.49	_	_	_	_
-369-0	BO087	369	0	°quindi°,	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|PauseAfter=Yes|Volume=low	Begin=908.495	_	_	_	_
+369-0	BO087	369	0	°quindi°,	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|PauseAfter=Yes|Volume=Low	Begin=908.495	_	_	_	_
 369-1	BO087	369	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 369-2	BO087	369	2	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 369-3	BO087	369	3	sarà	sarà	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3249,7 +3249,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 489-6	BO089	489	6	tra	tra	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(151)
 489-7	BO089	489	7	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	0-2(151)
 489-8	BO089	489	8	altro].	altro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1176.438	_	_	_	0-5(151)
-490-0	BO087	490	0	PU::RE	pure	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1176.479|End=1177.293	1x2	_	_	_
+490-0	BO087	490	0	PU::RE	pure	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1176.479|End=1177.293	1x2	_	_	_
 491-0	BO089	491	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1177.316	_	_	_	_
 491-1	BO089	491	1	sì.	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1177.512	_	_	_	_
 492-0	BO087	492	0	maledetta	maledetta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1177.512	_	_	_	_
@@ -3389,7 +3389,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 514-0	BO087	514	0	[e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1213.656	_	_	_	0-1(166)
 514-1	BO087	514	1	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(166)
 514-2	BO087	514	2	materia:li	materiali	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	6x1	_	_	0-9(166)
-514-3	BO087	514	3	°xx°]	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	PauseAfter=Yes|Volume=low|Syllables=2	_	_	_	_	0-2(166)
+514-3	BO087	514	3	°xx°]	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	PauseAfter=Yes|Volume=Low|Syllables=2	_	_	_	_	0-2(166)
 514-4	BO087	514	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 514-5	BO087	514	5	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 514-6	BO087	514	6	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3401,11 +3401,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 514-12	BO087	514	12	dove	dove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 514-13	BO087	514	13	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 514-14	BO087	514	14	finiti?	finiti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1218.54	_	_	_	_
-515-0	BO089	515	0	°non::	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1218.541	2x2	_	_	_
-515-1	BO089	515	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-515-2	BO089	515	2	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-515-3	BO089	515	3	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-515-4	BO089	515	4	idea°	idea	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1219.803	_	_	_	_
+515-0	BO089	515	0	°non::	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1218.541	2x2	_	_	_
+515-1	BO089	515	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+515-2	BO089	515	2	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+515-3	BO089	515	3	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+515-4	BO089	515	4	idea°	idea	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1219.803	_	_	_	_
 516-0	BO087	516	0	adesso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1219.836	_	_	_	_
 516-1	BO087	516	1	lei	lei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 516-2	BO087	516	2	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3467,7 +3467,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 523-2	BO089	523	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 523-3	BO089	523	3	glielo	glielo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 523-4	BO089	523	4	chie[derò].	chiederò	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1232.62	_	_	_	4-8(172)
-524-0	BO087	524	0	[°perché°]	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=low	Begin=1232.2	_	_	_	0-6(172)
+524-0	BO087	524	0	[°perché°]	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=Low	Begin=1232.2	_	_	_	0-6(172)
 524-1	BO087	524	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 524-2	BO087	524	2	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 524-3	BO087	524	3	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4123,7 +4123,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 640-23	BO089	640	23	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 640-24	BO089	640	24	dei	dei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 640-25	BO089	640	25	vari	vari	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-640-26	BO089	640	26	documeÌnti,	documeìnti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=high	End=1492.742	_	_	_	_
+640-26	BO089	640	26	documeÌnti,	documeìnti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=High	End=1492.742	_	_	_	_
 641-0	BO089	641	0	e:::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1492.99	0x3	_	_	_
 641-1	BO089	641	1	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 641-2	BO089	641	2	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4230,9 +4230,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 651-8	BO087	651	8	mobili?	mobili	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1527.59	_	_	_	_
 652-0	BO089	652	0	e::::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1528.44	0x4	_	_	_
 652-1	BO089	652	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-652-2	BO089	652	2	°no°.	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	End=1530.251	_	_	_	_
-653-0	BO089	653	0	°no°.	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	Begin=1531.159|End=1531.662	_	_	_	_
-654-0	BO087	654	0	°male.°	male	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	Begin=1531.673|End=1532.14	_	_	_	_
+652-2	BO089	652	2	°no°.	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	End=1530.251	_	_	_	_
+653-0	BO089	653	0	°no°.	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	Begin=1531.159|End=1531.662	_	_	_	_
+654-0	BO087	654	0	°male.°	male	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	Begin=1531.673|End=1532.14	_	_	_	_
 655-0	BO089	655	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1532.459	_	_	_	_
 655-1	BO089	655	1	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 655-2	BO089	655	2	bene.	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1534.304	_	_	_	_

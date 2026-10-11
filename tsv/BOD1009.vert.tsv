@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO102	0	0	credevo	credevo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.06	_	_	_	_
 0-1	BO102	0	1	fosse	fosse	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	BO102	0	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1111,8 +1111,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 107-6	BO102	107	6	territorio	territorio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 107-7	BO102	107	7	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 107-8	BO102	107	8	ruvido.	ruvido	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=588.65	_	_	_	_
-108-0	BO102	108	0	È	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=588.903	_	_	_	_
-108-1	BO102	108	1	RUVIDO	ruvido	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=589.76	_	_	_	_
+108-0	BO102	108	0	È	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=588.903	_	_	_	_
+108-1	BO102	108	1	RUVIDO	ruvido	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=589.76	_	_	_	_
 109-0	BO102	109	0	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=590.703	_	_	_	_
 109-1	BO102	109	1	spazio	spazio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 109-2	BO102	109	2	politico	politico	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1658,7 +1658,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 144-6	BO102	144	6	fondamento	fondamento	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 144-7	BO102	144	7	essenziale	essenziale	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 144-8	BO102	144	8	nella	nella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-144-9	BO102	144	9	GEOgrafia	geografia	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=859.498	_	_	_	_
+144-9	BO102	144	9	GEOgrafia	geografia	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=859.498	_	_	_	_
 145-0	BO102	145	0	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=861.97	_	_	_	_
 145-1	BO102	145	1	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 145-2	BO102	145	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2184,7 +2184,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 189-21	BO102	189	21	solo	solo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 189-22	BO102	189	22	politica,	politica	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
 189-23	BO102	189	23	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-189-24	BO102	189	24	INternazionale	internazionale	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=1136.291	_	_	_	_
+189-24	BO102	189	24	INternazionale	internazionale	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=1136.291	_	_	_	_
 190-0	BO102	190	0	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1136.393	_	_	_	_
 190-1	BO102	190	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 190-2	BO102	190	2	noi,	noi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
@@ -5420,9 +5420,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 540-13	BO102	540	13	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 540-14	BO102	540	14	esiste	esiste	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 540-15	BO102	540	15	più.	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=2842.88	_	_	_	_
-541-0	BO102	541	0	NON	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=2843.553	_	_	_	_
-541-1	BO102	541	1	ESISTE	esiste	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
-541-2	BO102	541	2	PIÙ	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+541-0	BO102	541	0	NON	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=2843.553	_	_	_	_
+541-1	BO102	541	1	ESISTE	esiste	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
+541-2	BO102	541	2	PIÙ	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 541-3	BO102	541	3	intanto	intanto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 541-4	BO102	541	4	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 541-5	BO102	541	5	esiste	esiste	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
@@ -5589,9 +5589,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 557-9	BO102	557	9	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 557-10	BO102	557	10	armato.	armato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=2940.81	_	_	_	_
 558-0	BO102	558	0	come?	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=2943.623	_	_	_	_
-558-1	BO102	558	1	°dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-558-2	BO102	558	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-558-3	BO102	558	3	secondo.°	secondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	End=2945.48	_	_	_	_
+558-1	BO102	558	1	°dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+558-2	BO102	558	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+558-3	BO102	558	3	secondo.°	secondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	End=2945.48	_	_	_	_
 559-0	BO102	559	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2945.611	_	_	_	_
 559-1	BO102	559	1	abitate	abitate	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 559-2	BO102	559	2	sull'	sull'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_

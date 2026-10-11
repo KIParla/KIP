@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TO034	0	0	te	te	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.765	_	_	_	_
 0-1	TO034	0	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	TO034	0	2	metto	metto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1826,7 +1826,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 200-3	TO029	200	3	meno	meno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 200-4	TO029	200	4	esplicita	esplicita	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 200-5	TO029	200	5	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-200-6	TO029	200	6	°appunto°	appunto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=654.822	_	_	_	_
+200-6	TO029	200	6	°appunto°	appunto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=654.822	_	_	_	_
 201-0	TO029	201	0	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=655.397	_	_	_	_
 201-1	TO029	201	1	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 201-2	TO029	201	2	sapendo	sapendo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2436,12 +2436,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 283-21	TO033	283	21	ottobre	ottobre	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 283-22	TO033	283	22	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	_	_	_	_	_
 283-23	TO033	283	23	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=870.669	_	_	_	_
-284-0	TO029	284	0	°aveva	aveva	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=870.669	_	_	_	_
-284-1	TO029	284	1	scritto	scritto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-284-2	TO029	284	2	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=low	_	_	_	_	_
-284-3	TO029	284	3	introduzione	introduzione	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-284-4	TO029	284	4	alla	alla	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-284-5	TO029	284	5	tesi?°	tesi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=low	End=872.141	_	_	_	_
+284-0	TO029	284	0	°aveva	aveva	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=870.669	_	_	_	_
+284-1	TO029	284	1	scritto	scritto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+284-2	TO029	284	2	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=Low	_	_	_	_	_
+284-3	TO029	284	3	introduzione	introduzione	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+284-4	TO029	284	4	alla	alla	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+284-5	TO029	284	5	tesi?°	tesi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=Low	End=872.141	_	_	_	_
 285-0	TO034	285	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=872.222	_	_	_	_
 285-1	TO034	285	1	voleva	voleva	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 285-2	TO034	285	2	scrivere	scrivere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5255,7 +5255,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 606-3	TO029	606	3	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 606-4	TO029	606	4	[ottocento	ottocento	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-9(199)
 606-5	TO029	606	5	euro]?	euro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1736.713	_	_	_	0-4(199)
-607-0	TO034	607	0	[HA	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1735.614	_	_	_	0-2(199)
+607-0	TO034	607	0	[HA	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1735.614	_	_	_	0-2(199)
 607-1	TO034	607	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(199)
 607-2	TO034	607	2	monolocale]	monolocale	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1736.887	_	_	_	0-10(199)
 608-0	TO034	608	0	anche:::	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1737.167	4x3	_	_	_

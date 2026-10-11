@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TO065	0	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.83	_	_	_	_
 0-1	TO065	0	1	nei	nei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	TO065	0	2	programmi	programmi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2234,7 +2234,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 336-3	TO065	336	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(146)
 336-4	TO065	336	4	devo	devo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(146)
 336-5	TO065	336	5	dire].	dire	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	0-4(146)
-336-6	TO065	336	6	In	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+336-6	TO065	336	6	In	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 336-7	TO065	336	7	generale,	generale	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=730.211	_	_	_	_
 337-0	TO065	337	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=730.668	_	_	_	_
 337-1	TO065	337	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

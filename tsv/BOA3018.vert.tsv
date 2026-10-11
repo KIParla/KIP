@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO139	0	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=3.52|End=4.01	_	_	_	_
 1-0	BO145	1	0	devi	devi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4.05	_	_	_	_
 1-1	BO145	1	1	riprendere	riprendere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -991,9 +991,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 186-1	BO139	186	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 186-2	BO139	186	2	cose	cose	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 186-3	BO139	186	3	di:	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x1	_	_	_
-186-4	BO139	186	4	>°che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	Fast=0-3(0)	_	_
-186-5	BO139	186	5	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	Fast=0-2(0)	_	_
-186-6	BO139	186	6	so°<	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=394.951	_	Fast=0-2(0)	_	_
+186-4	BO139	186	4	>°che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	Fast=0-3(0)	_	_
+186-5	BO139	186	5	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	Fast=0-2(0)	_	_
+186-6	BO139	186	6	so°<	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=394.951	_	Fast=0-2(0)	_	_
 187-0	BO139	187	0	tren[ta:]	trenta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=395.266|End=396.256	5x1	_	_	4-6(37)
 188-0	BO145	188	0	[cinquan]t'	cinquant'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=395.746	_	_	_	0-7(37)
 188-1	BO145	188	1	anni	anni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1385,7 +1385,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 268-7	BO145	268	7	forse	forse	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 268-8	BO145	268	8	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	_	_	_	_	_
 268-9	BO145	268	9	m:h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=524.735	0x1	_	_	_
-269-0	BO145	269	0	°è°	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=525.67	_	_	_	_
+269-0	BO145	269	0	°è°	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=525.67	_	_	_	_
 269-1	BO145	269	1	è:	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_
 269-2	BO145	269	2	inerente	inerente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 269-3	BO145	269	3	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1453,7 +1453,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 278-5	BO145	278	5	[della]	della	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(71)
 278-6	BO145	278	6	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=552.53	_	_	_	_
 279-0	BO139	279	0	[mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=551.65|End=551.95	_	_	_	0-2(71)
-280-0	BO139	280	0	°mh°	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=552.575|End=552.925	_	_	_	_
+280-0	BO139	280	0	°mh°	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=552.575|End=552.925	_	_	_	_
 281-0	BO145	281	0	>cioè<	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=553.31	_	Fast=0-4(0)	_	_
 281-1	BO145	281	1	magari	magari	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 281-2	BO145	281	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3603,7 +3603,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 680-1	BO145	680	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 680-2	BO145	680	2	bellezza	bellezza	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 680-3	BO145	680	3	del:	del	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1356.51	2x1	_	_	_
-681-0	BO145	681	0	(°>del<°)l'	dell'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=low	Begin=1356.8	_	Fast=0-3(0)	0-3(0)	_
+681-0	BO145	681	0	(°>del<°)l'	dell'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=Low	Begin=1356.8	_	Fast=0-3(0)	0-3(0)	_
 681-1	BO145	681	1	onestà	onestà	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 681-2	BO145	681	2	intellettuale	intellettuale	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 681-3	BO145	681	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3686,7 +3686,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 695-8	BO139	695	8	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 695-9	BO139	695	9	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 695-10	BO139	695	10	dire:	dire	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	3x1	_	_	_
-695-11	BO139	695	11	°e:h°di	ehdi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	0x1	_	_	_
+695-11	BO139	695	11	°e:h°di	ehdi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	0x1	_	_	_
 695-12	BO139	695	12	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 695-13	BO139	695	13	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1386.98	_	_	_	_
 696-0	BO139	696	0	prende	prende	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1387.89	_	_	_	_
@@ -3699,13 +3699,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 696-7	BO139	696	7	sulla	sulla	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 696-8	BO139	696	8	scena	scena	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 696-9	BO139	696	9	musicale	musicale	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1390.61	_	_	_	_
-697-0	BO139	697	0	°vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1391.22	_	_	_	_
-697-1	BO139	697	1	tanto	tanto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-697-2	BO139	697	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-697-3	BO139	697	3	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-697-4	BO139	697	4	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-697-5	BO139	697	5	seguo	seguo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-697-6	BO139	697	6	x°	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=low|Syllables=1	_	_	_	_	_
+697-0	BO139	697	0	°vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1391.22	_	_	_	_
+697-1	BO139	697	1	tanto	tanto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+697-2	BO139	697	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+697-3	BO139	697	3	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+697-4	BO139	697	4	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+697-5	BO139	697	5	seguo	seguo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+697-6	BO139	697	6	x°	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=1	_	_	_	_	_
 697-7	BO139	697	7	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1392.92	_	_	_	_
 698-0	BO145	698	0	certo	certo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1393.03|End=1393.56	_	_	_	_
 699-0	BO139	699	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1393.58|End=1394.36	0x1	_	_	_
@@ -4383,8 +4383,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 790-24	BO139	790	24	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 790-25	BO139	790	25	tempo	tempo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 790-26	BO139	790	26	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1606.86	_	_	_	_
-791-0	BO145	791	0	°belli	belli	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1608.12	_	_	_	_
-791-1	BO145	791	1	belli°	belli	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
+791-0	BO145	791	0	°belli	belli	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1608.12	_	_	_	_
+791-1	BO145	791	1	belli°	belli	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 791-2	BO145	791	2	[eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(180)
 791-3	BO145	791	3	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(180)
 791-4	BO145	791	4	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(180)

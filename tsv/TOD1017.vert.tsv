@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TO077	0	0	buongiorno	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.63|End=3.52	_	_	_	_
 1-0	TO077	1	0	dunque	dunque	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=8.189	_	_	_	_
 1-1	TO077	1	1	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_
@@ -46,7 +46,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 6-6	TO077	6	6	tre	tre	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 6-7	TO077	6	7	lezioni	lezioni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 6-8	TO077	6	8	diciamo	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-6-9	TO077	6	9	(°insomma°)	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=37.09	_	_	0-7(0)	_
+6-9	TO077	6	9	(°insomma°)	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=37.09	_	_	0-7(0)	_
 7-0	TO077	7	0	e::hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=37.569|End=38.853	0x2	_	_	_
 8-0	TO077	8	0	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=39.54	_	_	_	_
 8-1	TO077	8	1	avete	avete	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -295,7 +295,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 43-3	TO077	43	3	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 43-4	TO077	43	4	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 43-5	TO077	43	5	sia	sia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-43-6	TO077	43	6	°insomma°	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=177.335	_	_	_	_
+43-6	TO077	43	6	°insomma°	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=177.335	_	_	_	_
 44-0	TO077	44	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=177.48	0x1	_	_	_
 44-1	TO077	44	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 44-2	TO077	44	2	autore	autore	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -737,8 +737,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 95-5	TO077	95	5	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 95-6	TO077	95	6	libro	libro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 95-7	TO077	95	7	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-95-8	TO077	95	8	°diego	diego	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-95-9	TO077	95	9	giachetti.°	giachetti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	End=402.8	_	_	_	_
+95-8	TO077	95	8	°diego	diego	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+95-9	TO077	95	9	giachetti.°	giachetti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	End=402.8	_	_	_	_
 96-0	TO077	96	0	detto	detto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=403.16	_	_	_	_
 96-1	TO077	96	1	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 96-2	TO077	96	2	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1898,10 +1898,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 268-4	TO077	268	4	dicitura	dicitura	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 268-5	TO077	268	5	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 268-6	TO077	268	6	interventismo	interventismo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-268-7	TO077	268	7	°nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-268-8	TO077	268	8	periodo	periodo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-268-9	TO077	268	9	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-268-10	TO077	268	10	guerra°	guerra	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1119.772	_	_	_	_
+268-7	TO077	268	7	°nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+268-8	TO077	268	8	periodo	periodo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+268-9	TO077	268	9	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+268-10	TO077	268	10	guerra°	guerra	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1119.772	_	_	_	_
 269-0	TO077	269	0	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1120.411	_	_	_	_
 269-1	TO077	269	1	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 269-2	TO077	269	2	in~	in~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
@@ -2091,7 +2091,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 292-7	TO077	292	7	fasci	fasci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 292-8	TO077	292	8	italiani	italiani	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 292-9	TO077	292	9	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-292-10	TO077	292	10	°combattimento°	combattimento	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1237.721	_	_	_	_
+292-10	TO077	292	10	°combattimento°	combattimento	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1237.721	_	_	_	_
 293-0	TO077	293	0	tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1237.888	_	_	_	_
 293-1	TO077	293	1	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1239.293	_	_	_	_
 294-0	TO077	294	0	posizioni	posizioni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1239.507	_	_	_	_
@@ -2148,7 +2148,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 301-1	TO077	301	1	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 301-2	TO077	301	2	patria:::	patria	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	5x3	_	_	_
 301-3	TO077	301	3	eccetera,	eccetera	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
-301-4	TO077	301	4	°eccetera°	eccetera	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1273.943	_	_	_	_
+301-4	TO077	301	4	°eccetera°	eccetera	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1273.943	_	_	_	_
 302-0	TO077	302	0	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1274.242	_	_	_	_
 302-1	TO077	302	1	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 302-2	TO077	302	2	qui	qui	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5930,7 +5930,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 902-8	TO077	902	8	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 902-9	TO077	902	9	stesso	stesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 902-10	TO077	902	10	re	re	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3760.044	_	_	_	_
-903-0	TO077	903	0	°diciamo°	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=3761.029	_	_	_	_
+903-0	TO077	903	0	°diciamo°	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=3761.029	_	_	_	_
 903-1	TO077	903	1	tant'	tant'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 903-2	TO077	903	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 903-3	TO077	903	3	vero	vero	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6246,7 +6246,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 943-1	TO077	943	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 943-2	TO077	943	2	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 943-3	TO077	943	3	dubbio	dubbio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-943-4	TO077	943	4	°intendiamo°	intendiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=3938.62	_	_	_	_
+943-4	TO077	943	4	°intendiamo°	intendiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=3938.62	_	_	_	_
 944-0	TO077	944	0	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3938.908	_	_	_	_
 944-1	TO077	944	1	semmai	semmai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 944-2	TO077	944	2	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x2	_	_	_

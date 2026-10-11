@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TO002	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1.456	_	_	_	_
 0-1	TO002	0	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	TO002	0	2	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -174,7 +174,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 24-0	TO003	24	0	quella:	quella	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=63.564	5x1	_	_	_
 24-1	TO003	24	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 24-2	TO003	24	2	[co]sì.	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=64.527	_	_	_	0-2(3)
-25-0	TO002	25	0	[°certo°]	certo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=63.848|End=64.34	_	_	_	0-5(3)
+25-0	TO002	25	0	[°certo°]	certo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=63.848|End=64.34	_	_	_	0-5(3)
 26-0	TO003	26	0	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=65.05	_	_	_	_
 26-1	TO003	26	1	soprattutto:	soprattutto	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	10x1	_	_	_
 26-2	TO003	26	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -346,8 +346,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 37-16	TO002	37	16	[insomma]	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-7(5)
 37-17	TO002	37	17	ecco	ecco	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 37-18	TO002	37	18	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-37-19	TO002	37	19	[°non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	0-3(6)
-37-20	TO002	37	20	x:°]	x	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=125.399	0x1	_	_	0-1(6)
+37-19	TO002	37	19	[°non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-3(6)
+37-20	TO002	37	20	x:°]	x	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=125.399	0x1	_	_	0-1(6)
 38-0	TO003	38	0	[sì].	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=124.066|End=124.451	_	_	_	0-2(5)
 39-0	TO003	39	0	[beh	beh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=124.801	_	_	_	0-3(6)
 39-1	TO003	39	1	certo].	certo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=125.398	_	_	_	0-5(6)
@@ -459,8 +459,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 44-7	TO002	44	7	di::	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=163.466	1x2	_	_	_
 45-0	TO002	45	0	fare	fare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=164.261	_	_	_	_
 45-1	TO002	45	1	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-45-2	TO002	45	2	°in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-45-3	TO002	45	3	real[tà°]?	realtà	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=low	End=165.538	_	_	_	4-6(8)
+45-2	TO002	45	2	°in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+45-3	TO002	45	3	real[tà°]?	realtà	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=Low	End=165.538	_	_	_	4-6(8)
 46-0	TO003	46	0	[di]	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=165.38	_	_	_	0-2(8)
 46-1	TO003	46	1	mettersi	mettersi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 46-2	TO003	46	2	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1307,8 +1307,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 129-15	TO002	129	15	possono	possono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 129-16	TO002	129	16	essere	essere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 129-17	TO002	129	17	usate,	usate	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=463.708	_	_	_	_
-130-0	TO003	130	0	[°sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=464.211	_	_	_	0-2(33)
-130-1	TO003	130	1	xxx°]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=low|Syllables=3	End=464.886	_	_	_	0-3(33)
+130-0	TO003	130	0	[°sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=464.211	_	_	_	0-2(33)
+130-1	TO003	130	1	xxx°]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=3	End=464.886	_	_	_	0-3(33)
 131-0	TO002	131	0	[una	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=464.213	_	_	_	0-3(33)
 131-1	TO002	131	1	fami]glia	famiglia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(33)
 131-2	TO002	131	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1854,8 +1854,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 187-0	TO002	187	0	a:h	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=671.66|End=672.155	0x1	_	_	_
 188-0	TO002	188	0	m:h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=673.531|End=674.108	0x1	_	_	_
 189-0	TO003	189	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=674.82|End=677.403	_	_	_	_
-190-0	TO003	190	0	°eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=698.318	_	_	_	_
-190-1	TO003	190	1	sì.°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	End=698.618	_	_	_	_
+190-0	TO003	190	0	°eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=698.318	_	_	_	_
+190-1	TO003	190	1	sì.°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	End=698.618	_	_	_	_
 191-0	TO003	191	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=703.445|End=703.965	_	_	_	_
 192-0	TO002	192	0	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=720.838	_	_	_	_
 192-1	TO002	192	1	avrei	avrei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2619,7 +2619,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 306-8	TO002	306	8	aspetti	aspetti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 306-9	TO002	306	9	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	_	_	_	_	_
 306-10	TO002	306	10	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1057.773	0x2	_	_	_
-307-0	TO003	307	0	[°oppure°]	oppure	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1053.63|End=1054.635	_	_	_	0-6(67)
+307-0	TO003	307	0	[°oppure°]	oppure	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1053.63|End=1054.635	_	_	_	0-6(67)
 308-0	TO002	308	0	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1058.211	_	_	_	_
 308-1	TO002	308	1	modo	modo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 308-2	TO002	308	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

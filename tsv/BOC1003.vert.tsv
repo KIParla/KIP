@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO090	0	0	salve.	salve	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=3.432|End=3.973	_	_	_	_
 1-0	BO087	1	0	buongiorno.	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=4.29|End=4.952	_	_	_	_
 2-0	BO090	2	0	chiudo::,	chiudo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|PauseAfter=Yes	Begin=7.335	5x2	_	_	_
@@ -155,7 +155,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 25-1	BO087	25	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(9)
 25-2	BO087	25	2	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(9)
 25-3	BO087	25	3	capito].	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=65.239	_	_	_	0-6(9)
-26-0	BO087	26	0	AVANTI.	avanti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=high	Begin=65.333|End=66.12	_	_	_	_
+26-0	BO087	26	0	AVANTI.	avanti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=High	Begin=65.333|End=66.12	_	_	_	_
 27-0	???	27	0	buongiorno.	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=68.521|End=69.296	_	_	_	_
 28-0	BO087	28	0	buongiorno.	buongiorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=69.439|End=70.18	_	_	_	_
 29-0	???	29	0	attendo.	attendo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=70.256	_	_	_	_
@@ -625,7 +625,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 77-3	BO090	77	3	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 77-4	BO090	77	4	ne~	ne~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
 77-5	BO090	77	5	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-77-6	BO090	77	6	°eh°	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=low	_	_	_	_	_
+77-6	BO090	77	6	°eh°	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=Low	_	_	_	_	_
 77-7	BO090	77	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 77-8	BO090	77	8	sì,	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
 77-9	BO090	77	9	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -945,8 +945,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 115-2	BO090	115	2	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 115-3	BO090	115	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 115-4	BO090	115	4	propagandistico	propagandistico	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-115-5	BO090	115	5	°per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes|Volume=low	_	_	_	_	_
-115-6	BO090	115	6	i°	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=low	_	_	_	_	_
+115-5	BO090	115	5	°per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes|Volume=Low	_	_	_	_	_
+115-6	BO090	115	6	i°	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=Low	_	_	_	_	_
 115-7	BO090	115	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 115-8	BO090	115	8	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 115-9	BO090	115	9	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2572,7 +2572,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 309-1	BO087	309	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 309-2	BO087	309	2	bellissimo	bellissimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 309-3	BO087	309	3	[libro	libro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(91)
-309-4	BO087	309	4	°xxx°].	xxx	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	End=802.84	_	_	_	0-3(91)
+309-4	BO087	309	4	°xxx°].	xxx	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	End=802.84	_	_	_	0-3(91)
 310-0	BO090	310	0	[s:olo	solo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=801.87	0x1	_	_	0-4(91)
 310-1	BO090	310	1	che],	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=802.837	_	_	_	0-3(91)
 311-0	BO090	311	0	diciamo,	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=802.924|End=803.473	_	_	_	_
@@ -2714,7 +2714,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 325-6	BO087	325	6	partire.	partire	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=843.08	_	_	_	_
 326-0	BO090	326	0	[mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=843.36	_	_	_	0-2(92)
 326-1	BO090	326	1	mh],	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=843.738	_	_	_	0-2(92)
-327-0	BO087	327	0	[°cioè°]	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=843.36	_	_	_	0-4(92)
+327-0	BO087	327	0	[°cioè°]	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=843.36	_	_	_	0-4(92)
 327-1	BO087	327	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 327-2	BO087	327	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 327-3	BO087	327	3	libro	libro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2736,8 +2736,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 327-19	BO087	327	19	sicuramente	sicuramente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 327-20	BO087	327	20	ideologizzandolo,	ideologizzandolo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=850.98	_	_	_	_
 328-0	BO090	328	0	[mh],	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=848.202|End=848.565	_	_	_	0-2(93)
-329-0	BO087	329	0	°e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes|Volume=low	Begin=851.64	0x2	_	_	_
-329-1	BO087	329	1	m::::::h,°	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=low	End=853.93	0x6	_	_	_
+329-0	BO087	329	0	°e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes|Volume=Low	Begin=851.64	0x2	_	_	_
+329-1	BO087	329	1	m::::::h,°	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=Low	End=853.93	0x6	_	_	_
 330-0	BO087	330	0	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=853.93	_	_	_	_
 330-1	BO087	330	1	storia,	storia	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
 330-2	BO087	330	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3596,7 +3596,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 439-4	BO087	439	4	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 439-5	BO087	439	5	censura	censura	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 439-6	BO087	439	6	laica,	laica	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1155.86	_	_	_	_
-440-0	BO087	440	0	°pote~°	pote~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|PauseAfter=Yes|Volume=low	Begin=1155.9	_	_	_	_
+440-0	BO087	440	0	°pote~°	pote~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|PauseAfter=Yes|Volume=Low	Begin=1155.9	_	_	_	_
 440-1	BO087	440	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 440-2	BO087	440	2	abbastanza	abbastanza	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 440-3	BO087	440	3	potente,	potente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1157.807	_	_	_	_

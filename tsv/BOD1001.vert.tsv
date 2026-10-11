@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	TO999	0	0	intorno	intorno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.0	_	_	_	_
 0-1	TO999	0	1	alle	alle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	TO999	0	2	dieci	dieci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -598,8 +598,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 89-1	BO013	89	1	cose	cose	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 89-2	BO013	89	2	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 89-3	BO013	89	3	trovano,	trovano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
-89-4	BO013	89	4	°su	su	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-89-5	BO013	89	5	xxx°	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=low|Syllables=3	End=203.452	_	_	_	_
+89-4	BO013	89	4	°su	su	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+89-5	BO013	89	5	xxx°	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=3	End=203.452	_	_	_	_
 90-0	BO013	90	0	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=204.87	_	_	_	_
 90-1	BO013	90	1	trovato?	trovato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=205.588	_	_	_	_
 91-0	TO999	91	0	sì::	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=206.035	1x2	_	_	_
@@ -1498,7 +1498,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 237-17	BO013	237	17	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 237-18	BO013	237	18	concreto	concreto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 237-19	BO013	237	19	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-237-20	BO013	237	20	IL	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+237-20	BO013	237	20	IL	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 237-21	BO013	237	21	nemico	nemico	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 237-22	BO013	237	22	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 237-23	BO013	237	23	tutta	tutta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -14570,7 +14570,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1410-0	???	1410	0	grazie	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5776.172	_	_	_	_
 1410-1	???	1410	1	mille	mille	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=5776.784	_	_	_	_
 1411-0	BO013	1411	0	niente	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5776.784	_	_	_	_
-1411-1	BO013	1411	1	°niente°	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=5777.74	_	_	_	_
+1411-1	BO013	1411	1	°niente°	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=5777.74	_	_	_	_
 1412-0	BO013	1412	0	prego	prego	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5778.58	_	_	_	_
 1412-1	BO013	1412	1	prego	prego	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1412-2	BO013	1412	2	prenda	prenda	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=5779.437	_	_	_	_

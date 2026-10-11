@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BO021	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.3|End=0.81	_	_	_	_
 1-0	BO021	1	0	spero	spero	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.82	_	_	_	_
 1-1	BO021	1	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4634,7 +4634,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 628-1	BO021	628	1	russel?	russel	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1593.258	_	_	_	_
 629-0	BO073	629	0	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1593.615	_	_	_	_
 629-1	BO073	629	1	cane	cane	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1594.249	_	_	_	_
-630-0	BO021	630	0	AH	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1594.268|End=1594.593	_	_	_	_
+630-0	BO021	630	0	AH	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1594.268|End=1594.593	_	_	_	_
 631-0	BO073	631	0	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1594.624	_	_	_	_
 631-1	BO073	631	1	presente	presente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 631-2	BO073	631	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5281,7 +5281,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 719-2	BO073	719	2	politica,	politica	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1826.397	_	_	_	_
 720-0	BO021	720	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1826.397	_	_	_	_
 720-1	BO021	720	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-720-2	BO021	720	2	PALLE,	palle	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=high	End=1827.442	_	_	_	_
+720-2	BO021	720	2	PALLE,	palle	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=High	End=1827.442	_	_	_	_
 721-0	BO073	721	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1827.846	_	_	_	_
 721-1	BO073	721	1	terribile,	terribile	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1828.399	_	_	_	_
 722-0	BO072	722	0	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1828.564	_	_	_	_
@@ -5623,7 +5623,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 769-0	BO073	769	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1935.56	_	_	_	_
 769-1	BO073	769	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 769-2	BO073	769	2	studiavo	studiavo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-769-3	BO073	769	3	MAI	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=high	_	_	_	_	_
+769-3	BO073	769	3	MAI	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=High	_	_	_	_	_
 769-4	BO073	769	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 769-5	BO073	769	5	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 769-6	BO073	769	6	infatti	infatti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
