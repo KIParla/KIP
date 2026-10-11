@@ -1,6 +1,6 @@
 name: KIP
 title: KIP
-version: 'dev'
+version: '2.0.0'
 prerelease: true
 nav:
   - modules/ROOT/nav.adoc
