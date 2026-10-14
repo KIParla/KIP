@@ -1962,7 +1962,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 261-4	BO091	261	4	allo	allo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 261-5	BO091	261	5	specialista,	specialista	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=717.37	_	_	_	_
 262-0	BO091	262	0	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	Begin=717.78	_	_	_	_
-262-1	BO091	262	1	e,:::h	e,:::h	_	_	_	_	_	error	_	ContainsVariation=No	ProsodicLink=Yes	_	_	_	_	_
+262-1	BO091	262	1	e:::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	_	0x3	_	_	_
 262-2	BO091	262	2	m:::h,	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=719.47	0x3	_	_	_
 263-0	BO091	263	0	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=719.622	_	_	_	_
 263-1	BO091	263	1	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
