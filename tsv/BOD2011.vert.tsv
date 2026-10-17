@@ -245,7 +245,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 39-6	BO075	39	6	nell'	nell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 39-7	BO075	39	7	am~	am~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 39-8	BO075	39	8	nell'	nell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-39-9	BO075	39	9	ambito	ambito	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(8)
+39-9	BO075	39	9	ambito	ambito	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 39-10	BO075	39	10	[e:]	e	_	_	_	_	_	linguistic	_	_	_	End=85.91	0x1	_	_	0-1(8)
 40-0	BO049	40	0	[okay].	okay	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=85.17|End=85.926	_	_	_	0-4(8)
 41-0	BO075	41	0	poi	poi	_	_	_	_	_	linguistic	_	_	_	Begin=86.32	_	_	_	_
@@ -845,8 +845,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 122-11	BO075	122	11	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 122-12	BO075	122	12	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 122-13	BO075	122	13	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-122-14	BO075	122	14	stata	stata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(39)
-122-15	BO075	122	15	[e:h]	eh	_	_	_	_	_	linguistic	_	_	_	End=265.2	0x1	_	_	0-1(39)
+122-14	BO075	122	14	stata	stata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+122-15	BO075	122	15	[e:h]	eh	_	_	_	_	_	linguistic	_	_	_	End=265.2	0x1	_	_	0-2(39)
 123-0	BO049	123	0	[c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=264.925	_	_	_	0-2(39)
 123-1	BO049	123	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(39)
 123-2	BO049	123	2	s]tata	stata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(39)
@@ -903,7 +903,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 127-12	BO075	127	12	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 127-13	BO075	127	13	amici	amici	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 127-14	BO075	127	14	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-127-15	BO075	127	15	fratel[li]	fratelli	_	_	_	_	_	linguistic	_	_	_	End=278.82	_	_	_	5-8(41)
+127-15	BO075	127	15	fratel[li]	fratelli	_	_	_	_	_	linguistic	_	_	_	End=278.82	_	_	_	6-8(41)
 128-0	BO049	128	0	[ok]ay	okay	_	_	_	_	_	linguistic	_	_	_	Begin=278.591|End=279.3	_	_	_	0-2(41)
 129-0	BO075	129	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=279.35	_	_	_	_
 129-1	BO075	129	1	[spesso]	spesso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(42)
@@ -1091,7 +1091,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 161-4	BO075	161	4	[(dai)	dai	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-3(0)	0-3(47)
 161-5	BO075	161	5	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(47)
 161-6	BO075	161	6	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(47)
-161-7	BO075	161	7	sp]e~	spe~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-1(47)
+161-7	BO075	161	7	sp]e~	spe~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-2(47)
 161-8	BO075	161	8	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=334.46	_	_	_	_
 162-0	BO049	162	0	[m:h].	mh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=333.275|End=333.77	0x1	_	_	0-2(47)
 163-0	BO049	163	0	be:ne	bene	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=334.533	1x1	_	_	_
@@ -1263,7 +1263,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 188-0	BO075	188	0	e:h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=387.425	0x1	_	_	_
 188-1	BO075	188	1	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 188-2	BO075	188	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-188-3	BO075	188	3	ospeda[le].	ospedale	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=388.79	_	_	_	5-8(52)
+188-3	BO075	188	3	ospeda[le].	ospedale	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=388.79	_	_	_	6-8(52)
 189-0	BO049	189	0	[a]:h,	ah	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=388.59|End=389.08	0x1	_	_	0-1(52)
 190-0	BO075	190	0	ed	ed	_	_	_	_	_	linguistic	_	_	_	Begin=389.121	_	_	_	_
 190-1	BO075	190	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2143,7 +2143,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 352-12	BO075	352	12	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
 352-13	BO075	352	13	vivevano	vivevano	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-8(0)	_	_
 352-14	BO075	352	14	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
-352-15	BO075	352	15	londra<	londra	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
+352-15	BO075	352	15	londra<	londra	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
 352-16	BO075	352	16	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 352-17	BO075	352	17	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 352-18	BO075	352	18	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2393,7 +2393,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 386-7	BO075	386	7	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 386-8	BO075	386	8	cose	cose	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 386-9	BO075	386	9	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-386-10	BO075	386	10	im[para]	impara	_	_	_	_	_	linguistic	_	_	_	End=723.3	_	_	_	1-6(129)
+386-10	BO075	386	10	im[para]	impara	_	_	_	_	_	linguistic	_	_	_	End=723.3	_	_	_	2-6(129)
 387-0	BO049	387	0	[lo	lo	_	_	_	_	_	linguistic	_	_	_	Begin=722.996	_	_	_	0-2(129)
 387-1	BO049	387	1	impa]ra	impara	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(129)
 387-2	BO049	387	2	sì	sì	_	_	_	_	_	linguistic	_	_	_	End=724.03	_	_	_	_
@@ -2898,7 +2898,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 477-7	BO075	477	7	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 477-8	BO075	477	8	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 477-9	BO075	477	9	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-477-10	BO075	477	10	spa[zio	spazio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(159)
+477-10	BO075	477	10	spa[zio	spazio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(159)
 477-11	BO075	477	11	e::h	eh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	0x2	_	_	0-2(159)
 477-12	BO075	477	12	m:h]	mh	_	_	_	_	_	linguistic	_	_	_	End=873.09	0x1	_	_	0-2(159)
 478-0	BO049	478	0	[ah]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=872.52|End=873.01	_	_	_	0-2(159)
@@ -3713,7 +3713,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 622-7	BO075	622	7	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 622-8	BO075	622	8	obiettivo	obiettivo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 622-9	BO075	622	9	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-622-10	BO075	622	10	assoluta[mente	assolutamente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-13(212)
+622-10	BO075	622	10	assoluta[mente	assolutamente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	8-13(212)
 622-11	BO075	622	11	quello]	quello	_	_	_	_	_	linguistic	_	_	_	End=1126.87	_	_	_	0-6(212)
 623-0	BO049	623	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1126.16	_	_	_	0-2(212)
 623-1	BO049	623	1	dove	dove	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(212)
@@ -4108,7 +4108,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 683-14	BO075	683	14	lì	lì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 683-15	BO075	683	15	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 683-16	BO075	683	16	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-683-17	BO075	683	17	tutt(e)	tutte	_	_	_	_	_	linguistic	_	_	_	End=1254.68	_	_	3-5(0)	_
+683-17	BO075	683	17	tutt(e)	tutte	_	_	_	_	_	linguistic	_	_	_	End=1254.68	_	_	4-5(0)	_
 684-0	BO075	684	0	e::h	eh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=1255.335	0x2	_	_	_
 684-1	BO075	684	1	m::h	mh	_	_	_	_	_	linguistic	_	_	_	End=1256.34	0x2	_	_	_
 685-0	BO075	685	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1257.411	_	_	_	_
@@ -4238,7 +4238,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 707-5	BO075	707	5	anch'	anch'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(233)
 707-6	BO075	707	6	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(233)
 707-7	BO075	707	7	immagino	immagino	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(233)
-707-8	BO075	707	8	sia]	sia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(233)
+707-8	BO075	707	8	sia]	sia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(233)
 707-9	BO075	707	9	diversa	diversa	_	_	_	_	_	linguistic	_	_	_	End=1292.3	_	_	_	_
 708-0	BO049	708	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1292.113|End=1293.05	_	_	_	_
 709-0	BO075	709	0	no	no	_	_	_	_	_	linguistic	_	_	_	Begin=1292.665	_	_	_	_

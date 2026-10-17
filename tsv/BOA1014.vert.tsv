@@ -11,8 +11,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 3-2	BO044	3	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 3-3	BO044	3	3	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 3-4	BO044	3	4	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-3-5	BO044	3	5	ragazza	ragazza	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
-3-6	BO044	3	6	°fuo[ri.°]	fuori	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Volume=Low	End=7.82	_	_	_	1-5(0)
+3-5	BO044	3	5	ragazza	ragazza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+3-6	BO044	3	6	°fuo[ri.°]	fuori	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Volume=Low	End=7.82	_	_	_	3-5(0)
 4-0	BO026	4	0	[ah]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=7.73	_	_	_	0-2(0)
 4-1	BO026	4	1	okay.	okay	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=8.215	_	_	_	_
 5-0	BO044	5	0	allora,	allora	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=9.43|End=9.737	_	_	_	_
@@ -593,9 +593,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 104-10	BO044	104	10	passat~	passat~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 104-11	BO044	104	11	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 104-12	BO044	104	12	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-104-13	BO044	104	13	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(16)
+104-13	BO044	104	13	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 104-14	BO044	104	14	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(16)
-104-15	BO044	104	15	email]	email	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(16)
+104-15	BO044	104	15	email]	email	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(16)
 104-16	BO044	104	16	gliela	gliela	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 104-17	BO044	104	17	devo	devo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 104-18	BO044	104	18	comunque	comunque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

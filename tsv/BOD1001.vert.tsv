@@ -142,8 +142,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 19-12	TO999	19	12	dati	dati	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 19-13	TO999	19	13	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 19-14	TO999	19	14	italiano	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-19-15	TO999	19	15	parlato	parlato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-7(3)
-19-16	TO999	19	16	[che]	che	_	_	_	_	_	linguistic	_	_	_	End=58.828	_	_	_	0-2(3)
+19-15	TO999	19	15	parlato	parlato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+19-16	TO999	19	16	[che]	che	_	_	_	_	_	linguistic	_	_	_	End=58.828	_	_	_	0-3(3)
 20-0	BO013	20	0	[eh]	eh	_	_	_	_	_	linguistic	_	_	_	Begin=58.467	_	_	_	0-2(3)
 20-1	BO013	20	1	infatti	infatti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 20-2	BO013	20	2	[quello]	quello	_	_	_	_	_	linguistic	_	_	_	End=59.49	_	_	_	0-6(4)
@@ -800,7 +800,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 122-6	TO999	122	6	vedere	vedere	_	_	_	_	_	linguistic	_	_	_	End=376.905	_	_	_	_
 123-0	TO999	123	0	grazie	grazie	_	_	_	_	_	linguistic	_	_	_	Begin=379.135	_	_	_	_
 123-1	TO999	123	1	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-123-2	TO999	123	2	informa[zio::ne]	informazione	_	_	_	_	_	linguistic	_	_	_	End=380.605	9x2	_	_	6-12(33)
+123-2	TO999	123	2	informa[zio::ne]	informazione	_	_	_	_	_	linguistic	_	_	_	End=380.605	9x2	_	_	7-12(33)
 124-0	BO013	124	0	[no:	no	_	_	_	_	_	linguistic	_	_	_	Begin=380.258	1x1	_	_	0-2(33)
 124-1	BO013	124	1	per]	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(33)
 124-2	BO013	124	2	carità	carità	_	_	_	_	_	linguistic	_	_	_	End=381.008	_	_	_	_

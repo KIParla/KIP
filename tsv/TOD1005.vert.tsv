@@ -375,7 +375,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 61-10	TO017	61	10	corso,	corso	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 61-11	TO017	61	11	>lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
 61-12	TO017	61	12	potete	potete	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
-61-13	TO017	61	13	fare<	fare	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=3-4(0)|Fast=0-4(0)	_	_
+61-13	TO017	61	13	fare<	fare	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
 61-14	TO017	61	14	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-2(0)	_	_
 61-15	TO017	61	15	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-3(0)	_	_
 61-16	TO017	61	16	>frequentanti<	frequentanti	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-12(1)	_	_
@@ -479,7 +479,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 71-21	TO017	71	21	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 71-22	TO017	71	22	de:ntro	dentro	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
 71-23	TO017	71	23	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-71-24	TO017	71	24	dipart[imen]to	dipartimento	_	_	_	_	_	linguistic	_	_	_	End=299.088	_	_	_	5-10(29)
+71-24	TO017	71	24	dipart[imen]to	dipartimento	_	_	_	_	_	linguistic	_	_	_	End=299.088	_	_	_	6-10(29)
 72-0	??	72	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=298.839	_	_	_	0-2(29)
 72-1	??	72	1	infa]tti.	infatti	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=299.497	_	_	_	0-4(29)
 73-0	TO017	73	0	figurati	figurati	_	_	_	_	_	linguistic	_	_	_	Begin=299.478	_	_	_	_
@@ -525,7 +525,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 80-6	TO017	80	6	(insomma)	insomma	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-7(0)	_
 80-7	TO017	80	7	è	è	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 80-8	TO017	80	8	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-80-9	TO017	80	9	s(i)	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(1)	_
+80-9	TO017	80	9	s(i)	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	1-2(1)	_
 80-10	TO017	80	10	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 80-11	TO017	80	11	oltre	oltre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 80-12	TO017	80	12	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -631,8 +631,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 100-10	TO017	100	10	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 100-11	TO017	100	11	volta	volta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 100-12	TO017	100	12	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-100-13	TO017	100	13	ovviamente	ovviamente	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=9-10(0)	_	_
-100-14	TO017	100	14	>ovviamente<	ovviamente	_	_	_	_	_	linguistic	_	_	_	End=449.798	_	Fast=0-9(0)	_	_
+100-13	TO017	100	13	ovviamente	ovviamente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+100-14	TO017	100	14	>ovviamente<	ovviamente	_	_	_	_	_	linguistic	_	_	_	End=449.798	_	Fast=0-10(0)	_	_
 101-0	TO017	101	0	dovrebbe	dovrebbe	_	_	_	_	_	linguistic	_	_	_	Begin=450.272	_	_	_	_
 101-1	TO017	101	1	essere	essere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 101-2	TO017	101	2	ovvio	ovvio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1694,9 +1694,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 239-10	TO017	239	10	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 239-11	TO017	239	11	tanto	tanto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 239-12	TO017	239	12	lavoro	lavoro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-239-13	TO017	239	13	sui	sui	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=2-3(0)	_	_
+239-13	TO017	239	13	sui	sui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 239-14	TO017	239	14	<dialetti	dialetti	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-8(0)	_	_
-239-15	TO017	239	15	arabi>	arabi	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-4(0)	_	_
+239-15	TO017	239	15	arabi>	arabi	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-5(0)	_	_
 239-16	TO017	239	16	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 239-17	TO017	239	17	poco	poco	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 239-18	TO017	239	18	di	di	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
@@ -5089,12 +5089,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 908-0	TO017	908	0	°(c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No|Volume=Low	Begin=2253.87	_	_	0-2(0)	_
 908-1	TO017	908	1	è	è	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	0-1(0)	_
 908-2	TO017	908	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No|Volume=Low	_	_	_	0-2(0)	_
-908-3	TO017	908	3	altra)°	altra	_	_	_	_	_	linguistic	_	_	Volume=Low	End=2254.13	_	_	0-4(0)	_
+908-3	TO017	908	3	altra)°	altra	_	_	_	_	_	linguistic	_	_	Volume=Low	End=2254.13	_	_	0-5(0)	_
 909-0	TO017	909	0	((canticchia))	((canticchia))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2257.445|End=2258.125	_	_	_	_
 910-0	TO017	910	0	°dov'	dov'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No|Volume=Low	Begin=2264.15	_	_	_	_
 910-1	TO017	910	1	è	è	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
 910-2	TO017	910	2	(la)	la	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	0-2(0)	_
-910-3	TO017	910	3	mapp(a),°	mappa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|Volume=Low	End=2264.58	_	_	3-5(1)	_
+910-3	TO017	910	3	mapp(a),°	mappa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|Volume=Low	End=2264.58	_	_	4-5(1)	_
 911-0	TO017	911	0	°(n)on	non	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=2266.98	_	_	0-1(0)	_
 911-1	TO017	911	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No|Volume=Low	_	_	_	_	_
 911-2	TO017	911	2	è°.	è	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Volume=Low	End=2267.29	_	_	_	_
@@ -5369,7 +5369,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 984-11	TO017	984	11	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
 984-12	TO017	984	12	tantissima	tantissima	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-10(0)	_	_
 984-13	TO017	984	13	variazione	variazione	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-10(0)	_	_
-984-14	TO017	984	14	comunque<.	comunque	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2395.65	_	Fast=0-7(0)	_	_
+984-14	TO017	984	14	comunque<.	comunque	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2395.65	_	Fast=0-8(0)	_	_
 985-0	TO017	985	0	okay,	okay	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=2395.842|End=2396.122	_	_	_	_
 986-0	TO017	986	0	>stiamo	stiamo	_	_	_	_	_	linguistic	_	_	_	Begin=2396.287	_	Fast=0-6(0)	_	_
 986-1	TO017	986	1	parlando<,	parlando	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2397.017	_	Fast=0-8(0)	_	_
@@ -5936,8 +5936,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1104-2	TO017	1104	2	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1104-3	TO017	1104	3	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1104-4	TO017	1104	4	entra	entra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1104-5	TO017	1104	5	mai	mai	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=2-3(0)	_	_
-1104-6	TO017	1104	6	<niente>	niente	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-5(0)	_	_
+1104-5	TO017	1104	5	mai	mai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+1104-6	TO017	1104	6	<niente>	niente	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-6(0)	_	_
 1104-7	TO017	1104	7	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1104-8	TO017	1104	8	quello	quello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1104-9	TO017	1104	9	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6607,7 +6607,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1210-5	TO017	1210	5	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1210-6	TO017	1210	6	considerazione	considerazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1210-7	TO017	1210	7	soprattutto	soprattutto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1210-8	TO017	1210	8	<quando>	quando	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-6(0)|Fast=5-6(0)	_	_
+1210-8	TO017	1210	8	<quando>	quando	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-6(0)	_	_
 1210-9	TO017	1210	9	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
 1210-10	TO017	1210	10	occupiamo	occupiamo	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-9(0)	_	_
 1210-11	TO017	1210	11	<di>,	di	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2877.385	_	Slow=0-2(1)	_	_
@@ -7018,10 +7018,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1288-8	TO017	1288	8	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
 1288-9	TO017	1288	9	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-2(0)	_	_
 1288-10	TO017	1288	10	arabo	arabo	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
-1288-11	TO017	1288	11	standard	standard	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-8(0)	7-8(1)	_
-1288-12	TO017	1288	12	(non)	non	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	0-2(1)	_
+1288-11	TO017	1288	11	standard	standard	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-8(0)	_	_
+1288-12	TO017	1288	12	(non)	non	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	0-3(1)	_
 1288-13	TO017	1288	13	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
-1288-14	TO017	1288	14	parlato<	parlato	_	_	_	_	_	linguistic	_	_	_	End=3057.88	_	Fast=0-6(0)	_	_
+1288-14	TO017	1288	14	parlato<	parlato	_	_	_	_	_	linguistic	_	_	_	End=3057.88	_	Fast=0-7(0)	_	_
 1289-0	??	1289	0	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	Begin=3058.206	_	_	_	_
 1289-1	??	1289	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1289-2	??	1289	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -8150,7 +8150,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1494-0	TO017	1494	0	<nell'	nell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=3496.515	_	Slow=0-5(0)	_	_
 1494-1	TO017	1494	1	est	est	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-3(0)	_	_
 1494-2	TO017	1494	2	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Slow=0-5(0)	_	_
-1494-3	TO017	1494	3	iran>,	iran	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=3498.255	_	Slow=0-3(0)	_	_
+1494-3	TO017	1494	3	iran>,	iran	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=3498.255	_	Slow=0-4(0)	_	_
 1495-0	TO017	1495	0	in	in	_	_	_	_	_	linguistic	_	_	_	Begin=3498.32	_	_	_	_
 1495-1	TO017	1495	1	afghanistan,	afghanistan	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=3499.51	_	_	_	_
 1496-0	TO017	1496	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=3499.8	_	_	_	_
@@ -8244,8 +8244,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1505-12	TO017	1505	12	cristiani	cristiani	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1505-13	TO017	1505	13	maroniti	maroniti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1505-14	TO017	1505	14	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1505-15	TO017	1505	15	venivano	venivano	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=7-8(0)	_	_
-1505-16	TO017	1505	16	>probabilmente<	probabilmente	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-12(0)	_	_
+1505-15	TO017	1505	15	venivano	venivano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+1505-16	TO017	1505	16	>probabilmente<	probabilmente	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-13(0)	_	_
 1505-17	TO017	1505	17	dal	dal	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1505-18	TO017	1505	18	libano	libano	_	_	_	_	_	linguistic	_	_	_	End=3532.81	_	_	_	_
 1506-0	TO017	1506	0	che	che	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=3534.11	_	_	_	_

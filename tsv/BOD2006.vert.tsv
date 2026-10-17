@@ -582,7 +582,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 112-2	BO051	112	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(19)
 112-3	BO051	112	3	im~	im~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-3(19)
 112-4	BO051	112	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(19)
-112-5	BO051	112	5	importante]	importante	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-9(19)
+112-5	BO051	112	5	importante]	importante	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-10(19)
 112-6	BO051	112	6	é	é	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 112-7	BO051	112	7	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 112-8	BO051	112	8	sia	sia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -600,7 +600,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 112-20	BO051	112	20	rimanere::	rimanere	_	_	_	_	_	linguistic	_	_	_	_	7x2	_	_	_
 112-21	BO051	112	21	anche::::	anche	_	_	_	_	_	linguistic	_	_	_	_	4x4	_	_	_
 112-22	BO051	112	22	[da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(20)
-112-23	BO051	112	23	so]:li	soli	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	0-1(20)
+112-23	BO051	112	23	so]:li	soli	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	0-2(20)
 112-24	BO051	112	24	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 112-25	BO051	112	25	ca:sa::	casa	_	_	_	_	_	linguistic	_	_	_	_	1x1,3x2	_	_	_
 112-26	BO051	112	26	contemporaneamente.	contemporaneamente	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=263.01	_	_	_	_
@@ -1145,7 +1145,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 183-5	BO051	183	5	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 183-6	BO051	183	6	punti	punti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 183-7	BO051	183	7	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-183-8	BO051	183	8	vi[sta].	vista	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=466.82	_	_	_	1-5(43)
+183-8	BO051	183	8	vi[sta].	vista	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=466.82	_	_	_	2-5(43)
 184-0	BO049	184	0	[s]í.	sí	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=466.633|End=467.073	_	_	_	0-1(?)
 185-0	BO051	185	0	direi,	direi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=466.961	_	_	_	_
 185-1	BO051	185	1	sí.	sí	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=467.811	_	_	_	_
@@ -1415,7 +1415,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 216-12	BO049	216	12	particolare	particolare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 216-13	BO049	216	13	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 216-14	BO049	216	14	puó	puó	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-216-15	BO049	216	15	interessar[e::]	interessare	_	_	_	_	_	linguistic	_	_	_	End=577.671	10x2	_	_	9-11(49)
+216-15	BO049	216	15	interessar[e::]	interessare	_	_	_	_	_	linguistic	_	_	_	End=577.671	10x2	_	_	10-11(49)
 217-0	BO051	217	0	[i]	i	_	_	_	_	_	linguistic	_	_	_	Begin=577.45	_	_	_	0-1(49)
 217-1	BO051	217	1	bar	bar	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 217-2	BO051	217	2	brutti?	brutti	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=578.92	_	_	_	_

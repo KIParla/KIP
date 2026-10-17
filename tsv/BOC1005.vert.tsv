@@ -2099,7 +2099,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 248-5	BO105	248	5	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 248-6	BO105	248	6	laterizzazione	laterizzazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 248-7	BO105	248	7	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-248-8	BO105	248	8	aprendimen[to].	aprendimento	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=923.92	_	_	_	8-11(49)
+248-8	BO105	248	8	aprendimen[to].	aprendimento	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=923.92	_	_	_	10-12(49)
 249-0	BO104	249	0	[una]?	una	_	_	_	_	_	linguistic	_	_	Intonation=Rising	Begin=923.61|End=924.02	_	_	_	0-3(49)
 250-0	BO105	250	0	laterizza[zio~]	laterizzazio~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	Begin=924.266|End=925.54	_	_	_	9-13(50)
 251-0	BO104	251	0	[late]rali[zzazione]	lateralizzazione	_	_	_	_	_	linguistic	_	_	_	Begin=925.013|End=926.36	_	_	_	0-4(50),8-16(51)
@@ -2364,7 +2364,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 285-4	BO105	285	4	far	far	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 285-5	BO105	285	5	diminuire	diminuire	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 285-6	BO105	285	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-285-7	BO105	285	7	ansie[tà	ansietà	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-7(57)
+285-7	BO105	285	7	ansie[tà	ansietà	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-7(57)
 285-8	BO105	285	8	ne~]	ne~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-3(57)
 285-9	BO105	285	9	negli	negli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 285-10	BO105	285	10	apprendenti.	apprendenti	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
@@ -2684,7 +2684,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 321-1	BO105	321	1	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 321-2	BO105	321	2	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 321-3	BO105	321	3	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(64)
-321-4	BO105	321	4	altra].	altra	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1156.35	_	_	_	0-4(64)
+321-4	BO105	321	4	altra].	altra	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1156.35	_	_	_	0-5(64)
 322-0	BO104	322	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1155.961	_	_	_	0-2(64)
 322-1	BO104	322	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=1156.435	_	_	_	0-2(64)
 323-0	BO104	323	0	okay,	okay	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=1158.09|End=1158.72	_	_	_	_

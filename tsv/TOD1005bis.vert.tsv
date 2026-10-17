@@ -1395,7 +1395,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 237-4	TO017	237	4	nell'	nell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No|Volume=Low	_	_	_	_	_
 237-5	TO017	237	5	indoeuropeo°	indoeuropeo	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
 237-6	TO017	237	6	<nell'	nell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Slow=0-5(0)	_	_
-237-7	TO017	237	7	indoeuropeistica>	indoeuropeistica	_	_	_	_	_	linguistic	_	_	_	End=555.0	_	Slow=0-15(0)	_	_
+237-7	TO017	237	7	indoeuropeistica>	indoeuropeistica	_	_	_	_	_	linguistic	_	_	_	End=555.0	_	Slow=0-16(0)	_	_
 238-0	TO017	238	0	la	la	_	_	_	_	_	linguistic	_	_	_	Begin=555.301	_	_	_	_
 238-1	TO017	238	1	linguistica	linguistica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 238-2	TO017	238	2	storica,	storica	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=556.332	_	_	_	_

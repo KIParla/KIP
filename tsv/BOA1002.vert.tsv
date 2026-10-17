@@ -124,14 +124,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 23-18	BO031	23	18	corso	corso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 23-19	BO031	23	19	legato	legato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 23-20	BO031	23	20	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-23-21	BO031	23	21	università	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	9-10(10)
-23-22	BO031	23	22	[per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	2-3(0)	0-3(10)
-23-23	BO031	23	23	(dare)]	dare	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-3(0)	0-4(10)
+23-21	BO031	23	21	università	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+23-22	BO031	23	22	[per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(10)
+23-23	BO031	23	23	(dare)]	dare	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-4(0)	0-4(10)
 23-24	BO031	23	24	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 23-25	BO031	23	25	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-23-26	BO031	23	26	esame	esame	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(11)
+23-26	BO031	23	26	esame	esame	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 23-27	BO031	23	27	[di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(11)
-23-28	BO031	23	28	finlandese].	finlandese	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=76.201	_	_	_	0-8(11)
+23-28	BO031	23	28	finlandese].	finlandese	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=76.201	_	_	_	0-10(11)
 24-0	BO026	24	0	[°mh	mh	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=74.716	_	_	_	0-2(10)
 24-1	BO026	24	1	mh°]	mh	_	_	_	_	_	linguistic	_	_	Volume=Low	End=75.105	_	_	_	0-2(10)
 25-0	BO030	25	0	[quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=75.349	_	_	_	0-6(11)
@@ -174,8 +174,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 28-13	BO031	28	13	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 28-14	BO031	28	14	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 28-15	BO031	28	15	penso	penso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-28-16	BO031	28	16	t[utti.	tutti	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	0-5(15)
-28-17	BO031	28	17	asp]ettano	aspettano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(15)
+28-16	BO031	28	16	t[utti.	tutti	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	1-5(15)
+28-17	BO031	28	17	asp]ettano	aspettano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(15)
 28-18	BO031	28	18	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 28-19	BO031	28	19	mezzanotte	mezzanotte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 28-20	BO031	28	20	precisa	precisa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -243,7 +243,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 37-5	BO026	37	5	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(19)
 37-6	BO026	37	6	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(19)
 37-7	BO026	37	7	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(19)
-37-8	BO026	37	8	appello]	appello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(19)
+37-8	BO026	37	8	appello]	appello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(19)
 37-9	BO026	37	9	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 37-10	BO026	37	10	giugno.	giugno	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=108.085	_	_	_	_
 38-0	BO028	38	0	[(lo)	lo	_	_	_	_	_	linguistic	_	_	_	Begin=106.064	_	_	0-2(0)	0-2(19)
@@ -479,7 +479,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 62-4	BO032	62	4	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 62-5	BO032	62	5	infatti	infatti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 62-6	BO032	62	6	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-62-7	BO032	62	7	ave[va	aveva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(30)
+62-7	BO032	62	7	ave[va	aveva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(30)
 62-8	BO032	62	8	detto]	detto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(30)
 62-9	BO032	62	9	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 62-10	BO032	62	10	lei	lei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -488,7 +488,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 62-13	BO032	62	13	già	già	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 62-14	BO032	62	14	trattato	trattato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 62-15	BO032	62	15	eventualmente	eventualmente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-62-16	BO032	62	16	po[teva],	poteva	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=185.579	_	_	_	0-5(29)
+62-16	BO032	62	16	po[teva],	poteva	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=185.579	_	_	_	2-6(29)
 63-0	BO026	63	0	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=181.944|End=182.366	_	_	_	0-2(30)
 64-0	BO026	64	0	[ave]va	aveva	_	_	_	_	_	linguistic	_	_	_	Begin=185.34	_	_	_	0-3(29)
 64-1	BO026	64	1	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -596,7 +596,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 75-12	BO032	75	12	cose	cose	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 75-13	BO032	75	13	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 75-14	BO032	75	14	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-75-15	BO032	75	15	entra[vano	entravano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-9(36)
+75-15	BO032	75	15	entra[vano	entravano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-9(36)
 75-16	BO032	75	16	(niente)],	niente	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=221.211	_	_	0-6(0)	0-6(36)
 76-0	BO026	76	0	[allora	allora	_	_	_	_	_	linguistic	_	_	_	Begin=220.615	_	_	_	0-6(36)
 76-1	BO026	76	1	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(36)
@@ -899,7 +899,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 142-9	BO030	142	9	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 142-10	BO030	142	10	[per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(52)
 142-11	BO030	142	11	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(52)
-142-12	BO030	142	12	orale].	orale	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=346.935	_	_	_	0-4(52)
+142-12	BO030	142	12	orale].	orale	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=346.935	_	_	_	0-5(52)
 143-0	BO026	143	0	[vale	vale	_	_	_	_	_	linguistic	_	_	_	Begin=346.165	_	_	_	0-4(52)
 143-1	BO026	143	1	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(52)
 143-2	BO026	143	2	pe]r	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(52)
@@ -1027,9 +1027,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 168-15	BO026	168	15	posso	posso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 168-16	BO026	168	16	occuparmi	occuparmi	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 168-17	BO026	168	17	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-168-18	BO026	168	18	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-2(59)
+168-18	BO026	168	18	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 168-19	BO026	168	19	[dettaglio	dettaglio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-9(59)
-168-20	BO026	168	20	di],	di	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=394.449	_	_	_	0-1(59)
+168-20	BO026	168	20	di],	di	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=394.449	_	_	_	0-2(59)
 169-0	BO028	169	0	[okay].	okay	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=390.681|End=391.088	_	_	_	0-4(58)
 170-0	BO032	170	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=393.77	_	_	_	0-2(59)
 170-1	BO032	170	1	vabbè	vabbè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(59)

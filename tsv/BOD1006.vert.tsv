@@ -4550,7 +4550,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 560-6	BO099	560	6	cos'	cos'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 560-7	BO099	560	7	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 560-8	BO099	560	8	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(13)
-560-9	BO099	560	9	allegori~]	allegori~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-8(13)
+560-9	BO099	560	9	allegori~]	allegori~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-9(13)
 560-10	BO099	560	10	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=2270.458	_	_	_	_
 561-0	??	561	0	[xxx]xxxx	xxxxxxx	_	_	_	_	_	unknown	_	_	Syllables=7	Begin=2268.759|End=2272.337	_	_	_	0-3(13)
 562-0	BO099	562	0	no	no	_	_	_	_	_	linguistic	_	_	_	Begin=2272.355	_	_	_	_

@@ -4951,7 +4951,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 486-32	BO102	486	32	facciam	facciam	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-7(0)	_	_
 486-33	BO102	486	33	storia	storia	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
 486-34	BO102	486	34	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-5(0)	_	_
-486-35	BO102	486	35	arte<,	arte	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	Fast=0-3(0)	_	_
+486-35	BO102	486	35	arte<,	arte	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	Fast=0-4(0)	_	_
 486-36	BO102	486	36	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 486-37	BO102	486	37	ci	ci	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 486-38	BO102	486	38	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
@@ -4987,14 +4987,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 490-20	BO102	490	20	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 490-21	BO102	490	21	sapete.	sapete	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
 490-22	BO102	490	22	ma:	ma	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
-490-23	BO102	490	23	quello:	quello	_	_	_	_	_	linguistic	_	_	_	_	5x1	Fast=5-6(0)	_	_
+490-23	BO102	490	23	quello:	quello	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	_
 490-24	BO102	490	24	>è	è	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
 490-25	BO102	490	25	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
 490-26	BO102	490	26	conflitto	conflitto	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-9(0)	_	_
 490-27	BO102	490	27	politico	politico	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-8(0)	_	_
 490-28	BO102	490	28	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
 490-29	BO102	490	29	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
-490-30	BO102	490	30	natura<.	natura	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2618.056	_	Fast=0-4(0)	_	_
+490-30	BO102	490	30	natura<.	natura	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2618.056	_	Fast=0-6(0)	_	_
 491-0	BO102	491	0	questa:	questa	_	_	_	_	_	linguistic	_	_	_	Begin=2618.758	5x1	_	_	_
 491-1	BO102	491	1	rappresentazione:	rappresentazione	_	_	_	_	_	linguistic	_	_	_	End=2620.896	15x1	_	_	_
 492-0	BO102	492	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=2622.376	_	_	_	_

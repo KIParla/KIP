@@ -407,7 +407,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 82-0	TO092	82	0	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	Begin=166.723	_	Fast=0-4(0)	_	_
 82-1	TO092	82	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 82-2	TO092	82	2	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-82-3	TO092	82	3	i[l	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(13)
+82-3	TO092	82	3	i[l	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-2(13)
 82-4	TO092	82	4	ba::r]	bar	_	_	_	_	_	linguistic	_	_	_	End=168.062	1x2	_	_	0-3(13)
 83-0	TO085	83	0	[è	è	_	_	_	_	_	linguistic	_	_	_	Begin=167.311	_	_	_	0-1(13)
 83-1	TO085	83	1	turisti]co	turistico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(13)
@@ -420,8 +420,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 84-5	TO092	84	5	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 84-6	TO092	84	6	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 84-7	TO092	84	7	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-84-8	TO092	84	8	pa[ssatoia	passatoia	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=8-9(0)	_	0-9(14)
-84-9	TO092	84	9	>cioè<]	cioè	_	_	_	_	_	linguistic	_	_	_	End=171.758	_	Fast=0-3(0)	_	0-4(14)
+84-8	TO092	84	8	pa[ssatoia	passatoia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-9(14)
+84-9	TO092	84	9	>cioè<]	cioè	_	_	_	_	_	linguistic	_	_	_	End=171.758	_	Fast=0-4(0)	_	0-4(14)
 85-0	TO094	85	0	[m::h	mh	_	_	_	_	_	linguistic	_	_	_	Begin=170.304	0x2	_	_	0-2(14)
 85-1	TO094	85	1	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(14)
 85-2	TO094	85	2	pur]troppo	purtroppo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(14)
@@ -459,7 +459,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 90-6	TO092	90	6	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 90-7	TO092	90	7	ora	ora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 90-8	TO092	90	8	ad	ad	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-90-9	TO092	90	9	and[are	andare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(16)
+90-9	TO092	90	9	and[are	andare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(16)
 90-10	TO092	90	10	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(16)
 90-11	TO092	90	11	sirmio]ne	sirmione	_	_	_	_	_	linguistic	_	_	_	End=183.146	_	_	_	0-6(16)
 91-0	TO094	91	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=182.065|End=182.55	_	_	_	0-2(16)
@@ -1869,7 +1869,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 407-1	TO085	407	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(111)
 407-2	TO085	407	2	]ero	ero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 407-3	TO085	407	3	anch'	anch'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-407-4	TO085	407	4	i[o:::]	io	_	_	_	_	_	linguistic	_	_	_	End=661.339	1x3	_	_	0-2(112)
+407-4	TO085	407	4	i[o:::]	io	_	_	_	_	_	linguistic	_	_	_	End=661.339	1x3	_	_	1-2(112)
 408-0	TO094	408	0	[che	che	_	_	_	_	_	linguistic	_	_	_	Begin=660.909	_	_	_	0-3(112)
 408-1	TO094	408	1	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(112)
 408-2	TO094	408	2	abbia]mo	abbiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(112)
@@ -2841,7 +2841,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 597-3	TO094	597	3	fanno	fanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 597-4	TO094	597	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 597-5	TO094	597	5	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-597-6	TO094	597	6	pros[simo	prossimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-8(150)
+597-6	TO094	597	6	pros[simo	prossimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-8(150)
 597-7	TO094	597	7	hanno]	hanno	_	_	_	_	_	linguistic	_	_	_	End=1025.332	_	_	_	0-5(150)
 598-0	TO085	598	0	[sì::]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1024.911|End=1025.329	1x2	_	_	0-2(150)
 599-0	TO094	599	0	un	un	_	_	_	_	_	linguistic	_	_	_	Begin=1025.348	_	_	_	_

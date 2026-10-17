@@ -1232,7 +1232,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 181-4	T0032	181	4	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 181-5	T0032	181	5	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 181-6	T0032	181	6	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-181-7	T0032	181	7	nea[nche]	neanche	_	_	_	_	_	linguistic	_	_	_	End=646.349	_	_	_	2-7(46)
+181-7	T0032	181	7	nea[nche]	neanche	_	_	_	_	_	linguistic	_	_	_	End=646.349	_	_	_	3-7(46)
 182-0	TO030	182	0	[que]sta	questa	_	_	_	_	_	linguistic	_	_	_	Begin=645.888	_	_	_	0-3(46)
 182-1	TO030	182	1	foto	foto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 182-2	TO030	182	2	cos'	cos'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -3520,7 +3520,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 524-7	TO030	524	7	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 524-8	TO030	524	8	sei	sei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 524-9	TO030	524	9	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-524-10	TO030	524	10	accor[do	accordo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-7(0)
+524-10	TO030	524	10	accor[do	accordo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-7(0)
 524-11	TO030	524	11	su	su	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(0)
 524-12	TO030	524	12	questo]?	questo	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1745.984	_	_	_	0-6(0)
 525-0	T0032	525	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1745.129	_	_	_	0-2(0)

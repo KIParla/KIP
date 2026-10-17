@@ -64,11 +64,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 12-7	BO104	12	7	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 12-8	BO104	12	8	accademico::	accademico	_	_	_	_	_	linguistic	_	_	_	_	9x2	_	_	_
 12-9	BO104	12	9	duemilasedici	duemilasedici	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-12-10	BO104	12	10	duemila[diciasse]tte,	duemiladiciassette	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	6-15(4)
+12-10	BO104	12	10	duemila[diciasse]tte,	duemiladiciassette	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	7-15(4)
 12-11	BO104	12	11	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 12-12	BO104	12	12	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 12-13	BO104	12	13	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-12-14	BO104	12	14	frequentant[e:]?	frequentante	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=98.052	11x1	_	_	10-12(5)
+12-14	BO104	12	14	frequentant[e:]?	frequentante	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=98.052	11x1	_	_	11-12(5)
 13-0	BO144	13	0	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=96.115|End=96.43	_	_	_	0-2(4)
 14-0	BO144	14	0	[s]ì.	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=97.86|End=98.23	_	_	_	0-1(5)
 15-0	BO104	15	0	da	da	_	_	_	_	_	linguistic	_	_	_	Begin=98.25	_	_	_	_
@@ -2700,7 +2700,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 394-13	BO104	394	13	sociale,	sociale	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 394-14	BO104	394	14	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 394-15	BO104	394	15	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-394-16	BO104	394	16	tecn[ologi]e	tecnologie	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-8(46)
+394-16	BO104	394	16	tecn[ologi]e	tecnologie	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-9(46)
 394-17	BO104	394	17	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 394-18	BO104	394	18	avuto,	avuto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 394-19	BO104	394	19	sull'	sull'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -3593,7 +3593,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 534-5	BO104	534	5	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 534-6	BO104	534	6	progetti	progetti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 534-7	BO104	534	7	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-534-8	BO104	534	8	intercompren[sione	intercomprensione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	11-17(13)
+534-8	BO104	534	8	intercompren[sione	intercomprensione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	12-17(13)
 534-9	BO104	534	9	linguis]tica:,	linguistica	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1417.82	10x1	_	_	0-7(13)
 535-0	BO144	535	0	[ah,	ah	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=1416.56	_	_	_	0-2(13)
 535-1	BO144	535	1	okay].	okay	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1417.332	_	_	_	0-4(13)

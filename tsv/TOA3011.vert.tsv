@@ -93,7 +93,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 17-1	TO085	17	1	pure)]	pure	_	_	_	_	_	linguistic	_	_	_	End=21.517	_	_	0-4(0)	0-4(4)
 18-0	TO086	18	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=22.588	_	_	_	_
 18-1	TO086	18	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-18-2	TO086	18	2	que[sto	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(5)
+18-2	TO086	18	2	que[sto	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(5)
 18-3	TO086	18	3	verbo::]	verbo	_	_	_	_	_	linguistic	_	_	_	End=23.909	4x2	_	_	0-5(5)
 19-0	TO085	19	0	[no::	no	_	_	_	_	_	linguistic	_	_	_	Begin=23.026	1x2	_	_	0-2(5)
 19-1	TO085	19	1	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(5)
@@ -1368,7 +1368,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 234-2	TO085	234	2	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(79)
 234-3	TO085	234	3	]è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 234-4	TO085	234	4	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-234-5	TO085	234	5	mo[tivo]	motivo	_	_	_	_	_	linguistic	_	_	_	End=389.041	_	_	_	1-6(341)
+234-5	TO085	234	5	mo[tivo]	motivo	_	_	_	_	_	linguistic	_	_	_	End=389.041	_	_	_	2-6(341)
 235-0	TO086	235	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=388.106	_	_	_	0-2(341)
 235-1	TO086	235	1	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(341)
 235-2	TO086	235	2	motivo	motivo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(341)
@@ -1708,7 +1708,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 290-1	TO087	290	1	età::	età	_	_	_	_	_	linguistic	_	_	_	_	2x2	_	_	0-3(347)
 290-2	TO087	290	2	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(347)
 290-3	TO087	290	3	cos'	cos'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-4(347)
-290-4	TO087	290	4	è]	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+290-4	TO087	290	4	è]	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(347)
 290-5	TO087	290	5	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 290-6	TO087	290	6	accentata	accentata	_	_	_	_	_	linguistic	_	_	_	End=466.958	_	_	_	_
 291-0	TO085	291	0	[xxx]	xxx	_	_	_	_	_	unknown	_	_	Syllables=3	Begin=464.578|End=465.677	_	_	_	0-3(347)
@@ -2233,19 +2233,19 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 383-2	TO085	383	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 383-3	TO085	383	3	ipa	ipa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 383-4	TO085	383	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-383-5	TO085	383	5	ipa	ipa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-3(133)
+383-5	TO085	383	5	ipa	ipa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 383-6	TO085	383	6	[mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(133)
 383-7	TO085	383	7	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(133)
 383-8	TO085	383	8	chiesto	chiesto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(133)
 383-9	TO085	383	9	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(133)
 383-10	TO085	383	10	insegnargli	insegnargli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-11(133)
 383-11	TO085	383	11	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(133)
-383-12	TO085	383	12	ipa]	ipa	_	_	_	_	_	linguistic	_	_	_	End=593.243	_	_	_	0-1(133)
+383-12	TO085	383	12	ipa]	ipa	_	_	_	_	_	linguistic	_	_	_	End=593.243	_	_	_	0-3(133)
 384-0	TO087	384	0	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=591.034	_	_	_	0-2(133)
 384-1	TO087	384	1	ipa	ipa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(133)
 384-2	TO087	384	2	a:h	ah	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	0-2(133)
 384-3	TO087	384	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(133)
-384-4	TO087	384	4	ipa]	ipa	_	_	_	_	_	linguistic	_	_	_	End=593.263	_	_	_	0-2(133)
+384-4	TO087	384	4	ipa]	ipa	_	_	_	_	_	linguistic	_	_	_	End=593.263	_	_	_	0-3(133)
 385-0	TO086	385	0	[beh	beh	_	_	_	_	_	linguistic	_	_	_	Begin=593.378	_	_	_	0-3(134)
 385-1	TO086	385	1	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(134)
 385-2	TO086	385	2	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(134)
@@ -2272,7 +2272,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 388-1	TO086	388	1	ipa	ipa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(136)
 388-2	TO086	388	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(136)
 388-3	TO086	388	3	molto]	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(136)
-388-4	TO086	388	4	concre[to	concreto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-8(137)
+388-4	TO086	388	4	concre[to	concreto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-8(137)
 388-5	TO086	388	5	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(137)
 388-6	TO086	388	6	cosa::]	cosa	_	_	_	_	_	linguistic	_	_	_	End=598.855	3x2	_	_	0-4(137)
 389-0	TO085	389	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=597.567	_	_	_	0-2(137)
@@ -2947,7 +2947,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 505-4	TO085	505	4	chiamano?	chiamano	_	_	_	_	_	linguistic	_	_	Intonation=Rising	_	_	_	_	_
 505-5	TO085	505	5	ghesci	ghesci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 505-6	TO085	505	6	[no]	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(179)
-505-7	TO085	505	7	age[sci]	agesci	_	_	_	_	_	linguistic	_	_	_	End=771.811	_	_	_	2-6(180)
+505-7	TO085	505	7	age[sci]	agesci	_	_	_	_	_	linguistic	_	_	_	End=771.811	_	_	_	3-6(180)
 506-0	TO087	506	0	[agesci]	agesci	_	_	_	_	_	linguistic	_	_	_	Begin=770.472|End=771.156	_	_	_	0-6(179)
 507-0	TO088	507	0	[ghe]sci	ghesci	_	_	_	_	_	linguistic	_	_	_	Begin=771.423|End=772.224	_	_	_	0-3(180)
 508-0	TO086	508	0	[com'	com'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=772.219	_	_	_	0-4(182)
@@ -2964,7 +2964,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 510-3	TO085	510	3	no]mi	nomi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(183)
 510-4	TO085	510	4	sembrano	sembrano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 510-5	TO085	510	5	troppo	troppo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-510-6	TO085	510	6	gi[apponesi]	giapponesi	_	_	_	_	_	linguistic	_	_	_	End=775.509	_	_	_	1-10(184)
+510-6	TO085	510	6	gi[apponesi]	giapponesi	_	_	_	_	_	linguistic	_	_	_	End=775.509	_	_	_	2-10(184)
 511-0	TO087	511	0	[di	di	_	_	_	_	_	linguistic	_	_	_	Begin=774.806	_	_	_	0-2(184)
 511-1	TO087	511	1	sicuro]	sicuro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(184)
 511-2	TO087	511	2	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4360,7 +4360,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 742-6	TO086	742	6	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(271)
 742-7	TO086	742	7	sia	sia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(271)
 742-8	TO086	742	8	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-3(271)
-742-9	TO086	742	9	app]	app	_	_	_	_	_	linguistic	_	_	_	End=1135.995	_	_	_	0-2(271)
+742-9	TO086	742	9	app]	app	_	_	_	_	_	linguistic	_	_	_	End=1135.995	_	_	_	0-3(271)
 743-0	TO085	743	0	[però	però	_	_	_	_	_	linguistic	_	_	_	Begin=1134.759	_	_	_	0-4(?)
 743-1	TO085	743	1	cerca	cerca	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(?)
 743-2	TO085	743	2	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(?)
@@ -4407,7 +4407,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 748-13	TO086	748	13	magari	magari	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(274)
 748-14	TO086	748	14	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(274)
 748-15	TO086	748	15	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(274)
-748-16	TO086	748	16	già]	già	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(274)
+748-16	TO086	748	16	già]	già	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(274)
 748-17	TO086	748	17	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	End=1147.316	_	_	_	_
 749-0	TO085	749	0	[che	che	_	_	_	_	_	linguistic	_	_	_	Begin=1145.139	_	_	_	0-3(274)
 749-1	TO085	749	1	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(274)

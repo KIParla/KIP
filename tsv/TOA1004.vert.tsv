@@ -528,7 +528,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 88-1	TO073	88	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 88-2	TO073	88	2	ufficio	ufficio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 88-3	TO073	88	3	mobilità	mobilità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-88-4	TO073	88	4	internazional(e)	internazionale	_	_	_	_	_	linguistic	_	_	_	_	_	_	12-14(0)	_
+88-4	TO073	88	4	internazional(e)	internazionale	_	_	_	_	_	linguistic	_	_	_	_	_	_	13-14(0)	_
 88-5	TO073	88	5	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 88-6	TO073	88	6	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 88-7	TO073	88	7	detto	detto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1003,8 +1003,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 158-9	TO074	158	9	]è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 158-10	TO074	158	10	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 158-11	TO074	158	11	bando	bando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-158-12	TO074	158	12	uguale	uguale	_	_	_	_	_	linguistic	_	_	_	_	_	_	5-6(0)	_
-158-13	TO074	158	13	(s)	s	_	_	_	_	_	linguistic	_	_	_	End=343.176	_	_	_	_
+158-12	TO074	158	12	uguale	uguale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+158-13	TO074	158	13	(s)	s	_	_	_	_	_	linguistic	_	_	_	End=343.176	_	_	0-1(0)	_
 159-0	TO073	159	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=343.504	_	_	_	_
 159-1	TO073	159	1	infatti	infatti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 159-2	TO073	159	2	(n~)	n~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	0-2(0)	_
@@ -1160,7 +1160,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 182-6	TO074	182	6	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 182-7	TO074	182	7	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 182-8	TO074	182	8	problema	problema	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-182-9	TO074	182	9	s[olo	solo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(36)
+182-9	TO074	182	9	s[olo	solo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-4(36)
 182-10	TO074	182	10	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(36)
 182-11	TO074	182	11	quando	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(36)
 182-12	TO074	182	12	poi]	poi	_	_	_	_	_	linguistic	_	_	_	End=388.614	_	_	_	0-3(36)
@@ -1231,7 +1231,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 195-3	TO074	195	3	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 195-4	TO074	195	4	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 195-5	TO074	195	5	prima	prima	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-195-6	TO074	195	6	selezion[e	selezione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-9(39)
+195-6	TO074	195	6	selezion[e	selezione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	8-9(39)
 195-7	TO074	195	7	va	va	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(39)
 195-8	TO074	195	8	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(39)
 195-9	TO074	195	9	aut]omatico	automatico	_	_	_	_	_	linguistic	_	_	_	End=415.721	_	_	_	0-3(39)
@@ -2540,7 +2540,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 433-1	TO074	433	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 433-2	TO074	433	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 433-3	TO074	433	3	approfondimento	approfondimento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-433-4	TO074	433	4	teoric[o]	teorico	_	_	_	_	_	linguistic	_	_	_	End=908.516	_	_	_	5-7(95)
+433-4	TO074	433	4	teoric[o]	teorico	_	_	_	_	_	linguistic	_	_	_	End=908.516	_	_	_	6-7(95)
 434-0	TO072	434	0	[cert]o	certo	_	_	_	_	_	linguistic	_	_	_	Begin=908.172	_	_	_	0-4(95)
 434-1	TO072	434	1	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 434-2	TO072	434	2	dov[rebbe	dovrebbe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-8(96)
@@ -4436,7 +4436,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 805-3	TO074	805	3	p~	p~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 805-4	TO074	805	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 805-5	TO074	805	5	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-805-6	TO074	805	6	vist(o)	visto	_	_	_	_	_	linguistic	_	_	_	_	_	_	2-4(0)	_
+805-6	TO074	805	6	vist(o)	visto	_	_	_	_	_	linguistic	_	_	_	_	_	_	4-5(0)	_
 805-7	TO074	805	7	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 805-8	TO074	805	8	cercavo	cercavo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 805-9	TO074	805	9	qua	qua	_	_	_	_	_	linguistic	_	_	_	End=1841.481	_	_	_	_
@@ -4563,7 +4563,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 837-0	TO074	837	0	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1929.876	_	_	_	_
 837-1	TO074	837	1	accesso	accesso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 837-2	TO074	837	2	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-837-3	TO074	837	3	universit[à:]	università	_	_	_	_	_	linguistic	_	_	_	End=1931.65	9x1	_	_	7-10(140)
+837-3	TO074	837	3	universit[à:]	università	_	_	_	_	_	linguistic	_	_	_	End=1931.65	9x1	_	_	9-10(140)
 838-0	TO072	838	0	[o]kay	okay	_	_	_	_	_	linguistic	_	_	_	Begin=1931.492|End=1932.042	_	_	_	0-1(140)
 839-0	TO074	839	0	eh	eh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=1932.308	_	_	_	_
 839-1	TO074	839	1	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -5039,7 +5039,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 932-9	TO072	932	9	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(164)
 932-10	TO072	932	10	s]empre	sempre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(164)
 932-11	TO072	932	11	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-932-12	TO072	932	12	p[o':]	po'	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	0-3(165)
+932-12	TO072	932	12	p[o':]	po'	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	1-3(165)
 932-13	TO072	932	13	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=2179.33	_	_	_	_
 933-0	TO074	933	0	[certo	certo	_	_	_	_	_	linguistic	_	_	_	Begin=2176.285	_	_	_	0-5(163)
 933-1	TO074	933	1	certo	certo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(163)

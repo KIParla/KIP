@@ -226,7 +226,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 34-7	BO143	34	7	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 34-8	BO143	34	8	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 34-9	BO143	34	9	euron	euron	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-34-10	BO143	34	10	ci[nque].	cinque	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=113.1	_	_	_	1-6(5)
+34-10	BO143	34	10	ci[nque].	cinque	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=113.1	_	_	_	2-6(5)
 35-0	BO092	35	0	[mh],	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	Begin=112.83	_	_	_	0-2(5)
 35-1	BO092	35	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 35-2	BO092	35	2	bene,	bene	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
@@ -650,7 +650,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 77-4	BO092	77	4	caso	caso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 77-5	BO092	77	5	specifico	specifico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 77-6	BO092	77	6	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-77-7	BO092	77	7	inter<comprens[ione>],	intercomprensione	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=253.56	_	Slow=4-17(0)	_	12-17(12)
+77-7	BO092	77	7	inter<comprens[ione>],	intercomprensione	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=253.56	_	Slow=5-17(0)	_	13-17(12)
 78-0	BO143	78	0	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=253.235|End=253.559	_	_	_	0-2(12)
 79-0	BO092	79	0	su	su	_	_	_	_	_	linguistic	_	_	_	Begin=253.6	_	_	_	_
 79-1	BO092	79	1	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -956,7 +956,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 105-19	BO143	105	19	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 105-20	BO143	105	20	trovato	trovato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 105-21	BO143	105	21	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-105-22	BO143	105	22	inter[essante	interessante	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-12(17)
+105-22	BO143	105	22	inter[essante	interessante	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-12(17)
 105-23	BO143	105	23	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(17)
 105-24	BO143	105	24	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(17)
 105-25	BO143	105	25	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(17)
@@ -1894,7 +1894,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 202-5	BO143	202	5	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 202-6	BO143	202	6	ritmo	ritmo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 202-7	BO143	202	7	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-202-8	BO143	202	8	el[oquio,	eloquio	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	1-7(33)
+202-8	BO143	202	8	el[oquio,	eloquio	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	2-7(33)
 202-9	BO143	202	9	la]	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(33)
 202-10	BO143	202	10	velocità,	velocità	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=630.29	_	_	_	_
 203-0	BO092	203	0	[mh],	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=629.25|End=629.582	_	_	_	0-2(33)
@@ -2150,12 +2150,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 237-8	BO092	237	8	dare	dare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 237-9	BO092	237	9	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 237-10	BO092	237	10	idea	idea	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-237-11	BO092	237	11	gen[erale	generale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-8(44)
+237-11	BO092	237	11	gen[erale	generale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-8(44)
 237-12	BO092	237	12	un]	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(44)
 237-13	BO092	237	13	[qua:dro,	quadro	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	2x1	_	_	0-6(45)
 237-14	BO092	237	14	sulla:],	sulla	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	4x1	_	_	0-5(45)
 237-15	BO092	237	15	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-237-16	BO092	237	16	progressi[one:],	progressione	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=714.59	11x1	_	_	8-12(43)
+237-16	BO092	237	16	progressi[one:],	progressione	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=714.59	11x1	_	_	9-12(43)
 238-0	BO143	238	0	[sì],	sì	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=711.688|End=712.03	_	_	_	0-2(44)
 239-0	BO143	239	0	[probabilmente	probabilmente	_	_	_	_	_	linguistic	_	_	_	Begin=712.107	_	_	_	0-13(45)
 239-1	BO143	239	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(45)
@@ -2456,7 +2456,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 276-0	BO092	276	0	abilità,	abilità	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	Begin=807.134	_	_	_	_
 276-1	BO092	276	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 276-2	BO092	276	2	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-276-3	BO092	276	3	apprend[ente].	apprendente	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=809.15	_	_	_	6-11(57)
+276-3	BO092	276	3	apprend[ente].	apprendente	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=809.15	_	_	_	7-11(57)
 277-0	BO143	277	0	[sì],	sì	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=808.759|End=809.207	_	_	_	0-2(57)
 278-0	BO092	278	0	ecco	ecco	_	_	_	_	_	linguistic	_	_	_	Begin=809.21	_	_	_	_
 278-1	BO092	278	1	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3381,7 +3381,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 379-8	BO143	379	8	identità	identità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 379-9	BO143	379	9	linguistica	linguistica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 379-10	BO143	379	10	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-379-11	BO143	379	11	apprend[ente],	apprendente	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1122.63	_	_	_	5-10(69)
+379-11	BO143	379	11	apprend[ente],	apprendente	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1122.63	_	_	_	7-11(69)
 380-0	BO092	380	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1122.343	_	_	_	0-2(69)
 380-1	BO092	380	1	mh,	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 380-2	BO092	380	2	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3876,7 +3876,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 443-10	BO092	443	10	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 443-11	BO092	443	11	parte	parte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 443-12	BO092	443	12	[dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(83)
-443-13	BO092	443	13	esa]me,	esame	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1334.56	_	_	_	0-2(83)
+443-13	BO092	443	13	esa]me,	esame	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1334.56	_	_	_	0-3(83)
 444-0	BO143	444	0	[okay].	okay	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1333.864|End=1334.301	_	_	_	0-4(83)
 445-0	BO092	445	0	adesso	adesso	_	_	_	_	_	linguistic	_	_	_	Begin=1334.615	_	_	_	_
 445-1	BO092	445	1	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

@@ -925,7 +925,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 200-3	BO147	200	3	pure	pure	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 200-4	BO147	200	4	lei	lei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 200-5	BO147	200	5	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-200-6	BO147	200	6	studia(re)	studiare	_	_	_	_	_	linguistic	_	_	_	End=335.027	_	_	5-8(0)	_
+200-6	BO147	200	6	studia(re)	studiare	_	_	_	_	_	linguistic	_	_	_	End=335.027	_	_	6-8(0)	_
 201-0	BO139	201	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=335.812|End=336.462	_	_	_	_
 202-0	BO145	202	0	chi	chi	_	_	_	_	_	linguistic	_	_	_	Begin=336.462	_	_	_	_
 202-1	BO145	202	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -1010,7 +1010,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 222-3	BO147	222	3	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 222-4	BO147	222	4	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 222-5	BO147	222	5	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-222-6	BO147	222	6	le[i:	lei	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	1-3(47)
+222-6	BO147	222	6	le[i:	lei	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	2-3(47)
 222-7	BO147	222	7	là	là	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(47)
 222-8	BO147	222	8	in]	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(47)
 222-9	BO147	222	9	camera	camera	_	_	_	_	_	linguistic	_	_	_	End=366.027	_	_	_	_
@@ -1180,7 +1180,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 262-29	BO147	262	29	[chi	chi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(57)
 262-30	BO147	262	30	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(57)
 262-31	BO147	262	31	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(57)
-262-32	BO147	262	32	eh]	eh	_	_	_	_	_	linguistic	_	_	_	End=414.658	_	_	_	0-1(57)
+262-32	BO147	262	32	eh]	eh	_	_	_	_	_	linguistic	_	_	_	End=414.658	_	_	_	0-2(57)
 263-0	BO146	263	0	[(tanto	tanto	_	_	_	_	_	linguistic	_	_	_	Begin=409.368	_	_	0-5(0)	0-5(58)
 263-1	BO146	263	1	ormai	ormai	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-5(0)	0-5(58)
 263-2	BO146	263	2	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-3(0)	0-3(58)
@@ -1525,7 +1525,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 344-0	BO147	344	0	((tossisce))	((tossisce))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=531.246|End=534.176	_	_	_	_
 345-0	BO139	345	0	x	x	_	_	_	_	_	unknown	_	_	Syllables=1	Begin=532.536	_	_	_	_
 345-1	BO139	345	1	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-345-2	BO139	345	2	in[tervista	intervista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-10(337)
+345-2	BO139	345	2	in[tervista	intervista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-10(337)
 345-3	BO139	345	3	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(337)
 345-4	BO139	345	4	cui	cui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(337)
 345-5	BO139	345	5	x	x	_	_	_	_	_	unknown	_	_	ProsodicLink=Yes|Syllables=1	_	_	_	_	0-1(337)
@@ -1893,7 +1893,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 448-2	BO146	448	2	audio	audio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(120)
 448-3	BO146	448	3	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(120)
 448-4	BO146	448	4	t'	t'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(120)
-448-5	BO146	448	5	(ha]	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(120)
+448-5	BO146	448	5	(ha]	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(120)
 448-6	BO146	448	6	mandato	mandato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 448-7	BO146	448	7	lei	lei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 448-8	BO146	448	8	oggi	oggi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1905,7 +1905,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 453-0	BO145	453	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=664.203	_	_	_	_
 453-1	BO145	453	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 453-2	BO145	453	2	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-453-3	BO145	453	3	senti[to	sentito	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-7(343)
+453-3	BO145	453	3	senti[to	sentito	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-7(343)
 453-4	BO145	453	4	perché:	perché	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	0-6(343)
 453-5	BO145	453	5	stava	stava	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(343)
 453-6	BO145	453	6	uscendo	uscendo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(343)
@@ -1996,7 +1996,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 478-0	BO146	478	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=702.312	_	_	_	_
 478-1	BO146	478	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 478-2	BO146	478	2	(l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	0-2(0)	_
-478-3	BO146	478	3	uovo)	uovo	_	_	_	_	_	linguistic	_	_	_	End=702.792	_	_	0-3(0)	_
+478-3	BO146	478	3	uovo)	uovo	_	_	_	_	_	linguistic	_	_	_	End=702.792	_	_	0-4(0)	_
 479-0	BO147	479	0	([m:h)]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=702.782|End=703.522	0x1	_	0-2(0)	0-2(127)
 480-0	BO145	480	0	[da'.	da'	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Truncated=Yes	Begin=702.897	_	_	_	0-3(127)
 480-1	BO145	480	1	o]kay	okay	_	_	_	_	_	linguistic	_	_	_	End=703.837	_	_	_	0-1(127)
@@ -2167,7 +2167,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 530-3	BO145	530	3	cos'	cos'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 530-4	BO145	530	4	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 530-5	BO145	530	5	IL	il	_	_	_	_	_	linguistic	_	_	Volume=High	_	_	_	_	_
-530-6	BO145	530	6	BADIL[E]	badile	_	_	_	_	_	linguistic	_	_	Volume=High	End=771.24	_	_	_	4-6(138)
+530-6	BO145	530	6	BADIL[E]	badile	_	_	_	_	_	linguistic	_	_	Volume=High	End=771.24	_	_	_	5-6(138)
 531-0	BO139	531	0	[sì]:	sì	_	_	_	_	_	linguistic	_	_	_	Begin=771.098	1x1	_	_	0-2(138)
 531-1	BO139	531	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 531-2	BO139	531	2	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2414,11 +2414,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 602-7	BO139	602	7	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 602-8	BO139	602	8	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 602-9	BO139	602	9	me	me	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-602-10	BO139	602	10	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-2(160)
+602-10	BO139	602	10	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 602-11	BO139	602	11	[non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(160)
 602-12	BO139	602	12	me	me	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(160)
 602-13	BO139	602	13	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(160)
-602-14	BO139	602	14	fa]	fa	_	_	_	_	_	linguistic	_	_	_	End=895.385	_	_	_	0-1(160)
+602-14	BO139	602	14	fa]	fa	_	_	_	_	_	linguistic	_	_	_	End=895.385	_	_	_	0-2(160)
 603-0	BO145	603	0	[che	che	_	_	_	_	_	linguistic	_	_	_	Begin=894.785	_	_	_	0-3(160)
 603-1	BO145	603	1	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(160)
 603-2	BO145	603	2	detto]?	detto	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=895.415	_	_	_	0-5(160)
@@ -2717,7 +2717,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 649-8	BO139	649	8	pia]ce	piace	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(181)
 649-9	BO139	649	9	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 649-10	BO139	649	10	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-649-11	BO139	649	11	sempli[cemente	semplicemente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-13(182)
+649-11	BO139	649	11	sempli[cemente	semplicemente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-13(182)
 649-12	BO139	649	12	non:]	non	_	_	_	_	_	linguistic	_	_	_	End=972.32	2x1	_	_	0-3(182)
 650-0	BO145	650	0	[xxx	xxx	_	_	_	_	_	unknown	_	_	Syllables=3	Begin=970.14	_	_	_	0-3(181)
 650-1	BO145	650	1	male]	male	_	_	_	_	_	linguistic	_	_	_	End=971.16	_	_	_	0-4(181)
@@ -2999,7 +2999,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 716-5	BO139	716	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 716-6	BO139	716	6	uovo	uovo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 716-7	BO139	716	7	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-716-8	BO139	716	8	pas[qua]	pasqua	_	_	_	_	_	linguistic	_	_	_	End=1140.278	_	_	_	2-6(189)
+716-8	BO139	716	8	pas[qua]	pasqua	_	_	_	_	_	linguistic	_	_	_	End=1140.278	_	_	_	3-6(189)
 717-0	BO145	717	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1139.914|End=1140.278	_	_	_	0-2(189)
 718-0	BO145	718	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1140.514|End=1141.059	_	_	_	_
 719-0	BO139	719	0	(>se	se	_	_	_	_	_	linguistic	_	_	_	Begin=1140.727	_	Fast=0-2(0)	0-2(0)	_
@@ -3212,7 +3212,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 768-0	BO147	768	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1195.518	_	_	_	_
 768-1	BO147	768	1	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 768-2	BO147	768	2	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-768-3	BO147	768	3	s[oldi]?	soldi	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1196.076	_	_	_	0-5(208)
+768-3	BO147	768	3	s[oldi]?	soldi	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1196.076	_	_	_	1-5(208)
 769-0	BO145	769	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1195.676	_	_	_	0-2(208)
 769-1	BO145	769	1	sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	0-2(208)
 769-2	BO145	769	2	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3727,7 +3727,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 920-3	BO139	920	3	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 920-4	BO139	920	4	riascoltando	riascoltando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 920-5	BO139	920	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-920-6	BO139	920	6	a[udio	audio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(257)
+920-6	BO139	920	6	a[udio	audio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(257)
 920-7	BO139	920	7	di]	di	_	_	_	_	_	linguistic	_	_	_	End=1423.127	_	_	_	0-2(257)
 921-0	BO145	921	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1421.556|End=1422.356	_	_	_	_
 922-0	BO147	922	0	[questa	questa	_	_	_	_	_	linguistic	_	_	_	Begin=1422.731	_	_	_	0-6(257)
@@ -3973,7 +3973,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 950-11	BO139	950	11	xxxxx	xxxxx	_	_	_	_	_	unknown	_	_	Syllables=5	_	_	_	_	_
 950-12	BO139	950	12	solo	solo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 950-13	BO139	950	13	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-950-14	BO139	950	14	infor[mazione]	informazione	_	_	_	_	_	linguistic	_	_	_	End=1489.509	_	_	_	4-12(270)
+950-14	BO139	950	14	infor[mazione]	informazione	_	_	_	_	_	linguistic	_	_	_	End=1489.509	_	_	_	5-12(270)
 951-0	BO147	951	0	[(mi)	mi	_	_	_	_	_	linguistic	_	_	_	Begin=1488.763	_	_	0-2(0)	0-2(270)
 951-1	BO147	951	1	immagino	immagino	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(270)
 951-2	BO147	951	2	la]	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(270)
@@ -4089,7 +4089,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 978-0	BO139	978	0	[perch]é	perché	_	_	_	_	_	linguistic	_	_	_	Begin=1544.281	_	_	_	0-5(275)
 978-1	BO139	978	1	xx	xx	_	_	_	_	_	unknown	_	_	Syllables=2	_	_	_	_	_
 978-2	BO139	978	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-978-3	BO139	978	3	insal[ata]	insalata	_	_	_	_	_	linguistic	_	_	_	End=1545.515	_	_	_	4-8(276)
+978-3	BO139	978	3	insal[ata]	insalata	_	_	_	_	_	linguistic	_	_	_	End=1545.515	_	_	_	5-8(276)
 979-0	BO145	979	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1545.23	_	_	_	0-2(276)
 979-1	BO145	979	1	t]e	te	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(276)
 979-2	BO145	979	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -4099,7 +4099,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 979-6	BO145	979	6	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 979-7	BO145	979	7	avevo	avevo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 979-8	BO145	979	8	solo	solo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-979-9	BO145	979	9	ques[to]	questo	_	_	_	_	_	linguistic	_	_	_	End=1547.899	_	_	_	2-5(277)
+979-9	BO145	979	9	ques[to]	questo	_	_	_	_	_	linguistic	_	_	_	End=1547.899	_	_	_	4-6(277)
 980-0	BO139	980	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1547.446	_	_	_	0-2(277)
 980-1	BO139	980	1	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(277)
 980-2	BO139	980	2	vole]vo	volevo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(277)
@@ -4377,7 +4377,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1047-4	BO145	1047	4	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1047-5	BO145	1047	5	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1047-6	BO145	1047	6	voce	voce	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1047-7	BO145	1047	7	squill[ante]	squillante	_	_	_	_	_	linguistic	_	_	_	End=1645.35	_	_	_	5-10(298)
+1047-7	BO145	1047	7	squill[ante]	squillante	_	_	_	_	_	linguistic	_	_	_	End=1645.35	_	_	_	6-10(298)
 1048-0	BO147	1048	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1645.171	_	_	_	0-2(298)
 1048-1	BO147	1048	1	ch]e	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(298)
 1048-2	BO147	1048	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4541,7 +4541,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1085-2	BO139	1085	2	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1085-3	BO139	1085	3	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1085-4	BO139	1085	4	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1085-5	BO139	1085	5	rag[ione]	ragione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-7(356)
+1085-5	BO139	1085	5	rag[ione]	ragione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-7(356)
 1085-6	BO139	1085	6	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1691.832	_	_	_	_
 1086-0	BO147	1086	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1691.619|End=1693.402	_	_	_	_
 1087-0	BO145	1087	0	[ma]	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1691.657	_	_	_	0-2(356)
@@ -4558,7 +4558,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1087-11	BO145	1087	11	quando	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1087-12	BO145	1087	12	(sono)	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-4(0)	_
 1087-13	BO145	1087	13	nata	nata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1087-14	BO145	1087	14	p[enso]	penso	_	_	_	_	_	linguistic	_	_	_	End=1696.59	_	_	_	0-5(358)
+1087-14	BO145	1087	14	p[enso]	penso	_	_	_	_	_	linguistic	_	_	_	End=1696.59	_	_	_	1-5(358)
 1088-0	BO146	1088	0	[xxxx]	xxxx	_	_	_	_	_	unknown	_	_	Syllables=4	Begin=1692.006|End=1693.123	_	_	_	0-4(357)
 1089-0	BO139	1089	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1696.111	_	_	_	0-2(358)
 1089-1	BO139	1089	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=1696.694	_	_	_	0-2(358)
@@ -4664,7 +4664,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1108-6	BO147	1108	6	s'	s'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1108-7	BO147	1108	7	(è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1108-8	BO147	1108	8	passato	passato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1108-9	BO147	1108	9	ovvia[mente]	ovviamente	_	_	_	_	_	linguistic	_	_	_	End=1730.893	_	_	_	4-10(312)
+1108-9	BO147	1108	9	ovvia[mente]	ovviamente	_	_	_	_	_	linguistic	_	_	_	End=1730.893	_	_	_	5-10(312)
 1109-0	BO146	1109	0	xx	xx	_	_	_	_	_	unknown	_	_	Syllables=2	Begin=1730.252	_	_	_	_
 1109-1	BO146	1109	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	End=1730.91	_	_	_	_
 1110-0	BO147	1110	0	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1731.135	_	_	_	_
@@ -4673,7 +4673,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1110-3	BO147	1110	3	(di)	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	_
 1110-4	BO147	1110	4	santa	santa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1110-5	BO147	1110	5	maria	maria	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1110-6	BO147	1110	6	n(u)ova	nuova	_	_	_	_	_	linguistic	_	_	_	End=1732.735	_	_	0-2(1)	_
+1110-6	BO147	1110	6	n(u)ova	nuova	_	_	_	_	_	linguistic	_	_	_	End=1732.735	_	_	1-2(1)	_
 1111-0	BO139	1111	0	mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1733.698|End=1734.064	_	_	_	_
 1112-0	BO139	1112	0	ho	ho	_	_	_	_	_	linguistic	_	_	_	Begin=1734.635	_	_	_	_
 1112-1	BO139	1112	1	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -4800,7 +4800,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1141-5	BO147	1141	5	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1141-6	BO147	1141	6	neanche	neanche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1141-7	BO147	1141	7	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1141-8	BO147	1141	8	vit[a	vita	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-4(320)
+1141-8	BO147	1141	8	vit[a	vita	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-4(320)
 1141-9	BO147	1141	9	universitaria]	universitaria	_	_	_	_	_	linguistic	_	_	_	End=1778.607	_	_	_	0-13(320)
 1142-0	BO145	1142	0	[poi	poi	_	_	_	_	_	linguistic	_	_	_	Begin=1777.14	_	_	_	0-3(320)
 1142-1	BO145	1142	1	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(320)

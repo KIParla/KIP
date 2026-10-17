@@ -1832,9 +1832,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 395-4	TO091	395	4	'na	'na	_	_	_	_	_	linguistic	_	_	Truncated=Yes	_	_	_	_	_
 395-5	TO091	395	5	parte	parte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 395-6	TO091	395	6	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-395-7	TO091	395	7	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(121)
+395-7	TO091	395	7	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 395-8	TO091	395	8	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(121)
-395-9	TO091	395	9	alimentari],	alimentari	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=615.05	_	_	_	0-8(121)
+395-9	TO091	395	9	alimentari],	alimentari	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=615.05	_	_	_	0-10(121)
 396-0	TO090	396	0	[banglar	banglar	_	_	_	_	_	linguistic	_	_	_	Begin=613.835	_	_	_	0-7(121)
 396-1	TO090	396	1	sostanzialmente]	sostanzialmente	_	_	_	_	_	linguistic	_	_	_	End=614.67	_	_	_	0-15(121)
 397-0	TO091	397	0	dove	dove	_	_	_	_	_	linguistic	_	_	_	Begin=615.125	_	_	_	_
@@ -1848,7 +1848,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 397-8	TO091	397	8	xxx	xxx	_	_	_	_	_	unknown	_	_	Syllables=3	_	_	_	_	_
 397-9	TO091	397	9	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 397-10	TO091	397	10	bangla,	bangla	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
-397-11	TO091	397	11	[alimentari],	alimentari	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=619.075	_	_	_	0-9(122)
+397-11	TO091	397	11	[alimentari],	alimentari	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=619.075	_	_	_	0-10(122)
 398-0	TO085	398	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=618.4	_	_	_	0-2(?)
 398-1	TO085	398	1	ce	ce	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(?)
 398-2	TO085	398	2	ne	ne	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(?)
@@ -2123,7 +2123,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 440-5	TO091	440	5	me	me	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	_
 440-6	TO091	440	6	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	_
 440-7	TO091	440	7	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	0-2(0)	_
-440-8	TO091	440	8	ho)	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-1(0)	_
+440-8	TO091	440	8	ho)	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	_
 440-9	TO091	440	9	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 440-10	TO091	440	10	lapsus,	lapsus	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=696.414	_	_	_	_
 441-0	TO090	441	0	e::h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=696.633	0x2	_	_	_
@@ -2656,7 +2656,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 525-2	TO089	525	2	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 525-3	TO089	525	3	sopra	sopra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 525-4	TO089	525	4	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-525-5	TO089	525	5	biblio[teca]	biblioteca	_	_	_	_	_	linguistic	_	_	_	End=820.282	_	_	_	5-10(170)
+525-5	TO089	525	5	biblio[teca]	biblioteca	_	_	_	_	_	linguistic	_	_	_	End=820.282	_	_	_	6-10(170)
 526-0	TO091	526	0	[(quella)]	quella	_	_	_	_	_	linguistic	_	_	_	Begin=820.049	_	_	0-6(0)	0-6(170)
 526-1	TO091	526	1	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 526-2	TO091	526	2	biblioteca,	biblioteca	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=821.087	_	_	_	_
@@ -2670,7 +2670,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 527-7	TO091	527	7	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(171)
 527-8	TO091	527	8	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(171)
 527-9	TO091	527	9	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(171)
-527-10	TO091	527	10	residenza]	residenza	_	_	_	_	_	linguistic	_	_	_	End=823.124	_	_	_	0-8(171)
+527-10	TO091	527	10	residenza]	residenza	_	_	_	_	_	linguistic	_	_	_	End=823.124	_	_	_	0-9(171)
 528-0	TO090	528	0	[quella	quella	_	_	_	_	_	linguistic	_	_	_	Begin=822.18	_	_	_	0-6(171)
 528-1	TO090	528	1	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(171)
 528-2	TO090	528	2	fronte	fronte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(171)
@@ -3158,7 +3158,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 595-11	TO089	595	11	quando	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(191)
 595-12	TO089	595	12	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(191)
 595-13	TO089	595	13	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(191)
-595-14	TO089	595	14	visto]	visto	_	_	_	_	_	linguistic	_	_	_	End=942.135	_	_	_	0-4(191)
+595-14	TO089	595	14	visto]	visto	_	_	_	_	_	linguistic	_	_	_	End=942.135	_	_	_	0-5(191)
 596-0	TO090	596	0	i	i	_	_	_	_	_	linguistic	_	_	_	Begin=943.513	_	_	_	_
 596-1	TO090	596	1	caperti,	caperti	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=944.247	_	_	_	_
 597-0	TO089	597	0	i	i	_	_	_	_	_	linguistic	_	_	_	Begin=944.282	_	_	_	_
@@ -3297,12 +3297,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 614-15	TO090	614	15	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 614-16	TO090	614	16	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 614-17	TO090	614	17	vero	vero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-614-18	TO090	614	18	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(200)
+614-18	TO090	614	18	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 614-19	TO090	614	19	[stavolta	stavolta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(200)
 614-20	TO090	614	20	li	li	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(200)
 614-21	TO090	614	21	abbiam	abbiam	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(200)
 614-22	TO090	614	22	visti	visti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(200)
-614-23	TO090	614	23	insieme]	insieme	_	_	_	_	_	linguistic	_	_	_	End=976.364	_	_	_	0-6(200)
+614-23	TO090	614	23	insieme]	insieme	_	_	_	_	_	linguistic	_	_	_	End=976.364	_	_	_	0-7(200)
 615-0	TO089	615	0	[u:::	u	_	_	_	_	_	linguistic	_	_	_	Begin=975.469	0x3	_	_	0-1(200)
 615-1	TO089	615	1	mado]nna,	madonna	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=976.717	_	_	_	0-4(200)
 616-0	TO089	616	0	eh?	eh	_	_	_	_	_	linguistic	_	_	Intonation=Rising	Begin=976.899|End=977.35	_	_	_	_

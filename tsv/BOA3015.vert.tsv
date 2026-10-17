@@ -405,7 +405,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 31-13	BO115	31	13	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 31-14	BO115	31	14	cercavi	cercavi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 31-15	BO115	31	15	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-31-16	BO115	31	16	inqu[ilino:	inquilino	_	_	_	_	_	linguistic	_	_	_	_	8x1	_	_	3-9(3)
+31-16	BO115	31	16	inqu[ilino:	inquilino	_	_	_	_	_	linguistic	_	_	_	_	8x1	_	_	4-9(3)
 31-17	BO115	31	17	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(3)
 31-18	BO115	31	18	roba	roba	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(3)
 31-19	BO115	31	19	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(3)
@@ -2339,7 +2339,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 200-11	BO086	200	11	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 200-12	BO086	200	12	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 200-13	BO086	200	13	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-200-14	BO086	200	14	son[o::]	sono	_	_	_	_	_	linguistic	_	_	_	End=825.398	3x2	_	_	2-4(27)
+200-14	BO086	200	14	son[o::]	sono	_	_	_	_	_	linguistic	_	_	_	End=825.398	3x2	_	_	3-4(27)
 201-0	BO115	201	0	[ah]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=825.204	_	_	_	0-2(27)
 201-1	BO115	201	1	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 201-2	BO115	201	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2958,11 +2958,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 262-15	BO086	262	15	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 262-16	BO086	262	16	detto.	detto	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
 262-17	BO086	262	17	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-262-18	BO086	262	18	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-2(41)
+262-18	BO086	262	18	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 262-19	BO086	262	19	[so	so	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(41)
 262-20	BO086	262	20	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(41)
 262-21	BO086	262	21	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(41)
-262-22	BO086	262	22	ricordo],	ricordo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1043.76	_	_	_	0-6(41)
+262-22	BO086	262	22	ricordo],	ricordo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1043.76	_	_	_	0-7(41)
 263-0	BO115	263	0	[cioè	cioè	_	_	_	_	_	linguistic	_	_	_	Begin=1043.178	_	_	_	0-4(41)
 263-1	BO115	263	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(41)
 263-2	BO115	263	2	proprio]	proprio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(41)
@@ -3044,7 +3044,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 271-4	BO115	271	4	'sta	'sta	_	_	_	_	_	linguistic	_	_	Truncated=Yes	_	_	_	_	_
 271-5	BO115	271	5	tipa,	tipa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 271-6	BO115	271	6	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-271-7	BO115	271	7	amic[a:]	amica	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	4x1	_	_	3-5(46)
+271-7	BO115	271	7	amic[a:]	amica	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	4x1	_	_	4-5(46)
 271-8	BO115	271	8	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 271-9	BO115	271	9	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 271-10	BO115	271	10	amica	amica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3111,7 +3111,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 278-22	BO086	278	22	mio	mio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 278-23	BO086	278	23	vicino	vicino	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 278-24	BO086	278	24	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-278-25	BO086	278	25	c[asa].	casa	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1081.47	_	_	_	0-3(51)
+278-25	BO086	278	25	c[asa].	casa	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1081.47	_	_	_	1-4(51)
 279-0	BO115	279	0	[eh].	eh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1077.425|End=1077.786	_	_	_	0-2(53)
 280-0	BO115	280	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1078.26	_	_	_	0-2(50)
 280-1	BO115	280	1	vedi]	vedi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(50)
@@ -3472,7 +3472,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 332-3	BO086	332	3	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 332-4	BO086	332	4	ancora	ancora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 332-5	BO086	332	5	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-332-6	BO086	332	6	nu[mero]?	numero	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1196.52	_	_	_	1-6(70)
+332-6	BO086	332	6	nu[mero]?	numero	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1196.52	_	_	_	2-6(70)
 333-0	BO115	333	0	[n::]o.	no	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1196.32|End=1196.994	0x2	_	_	0-1(70)
 334-0	BO086	334	0	allora	allora	_	_	_	_	_	linguistic	_	_	_	Begin=1197.01	_	_	_	_
 334-1	BO086	334	1	te	te	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3724,7 +3724,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 373-2	BO086	373	2	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 373-3	BO086	373	3	visto	visto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 373-4	BO086	373	4	[quest'	quest'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-6(79)
-373-5	BO086	373	5	anno],	anno	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-3(79)
+373-5	BO086	373	5	anno],	anno	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-4(79)
 373-6	BO086	373	6	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 373-7	BO086	373	7	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 373-8	BO086	373	8	sembrava	sembrava	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3764,10 +3764,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 376-8	BO115	376	8	ìo	ìo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 376-9	BO115	376	9	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 376-10	BO115	376	10	volte	volte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-376-11	BO115	376	11	so[no	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(80)
+376-11	BO115	376	11	so[no	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-4(80)
 376-12	BO115	376	12	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(80)
 376-13	BO115	376	13	po'	po'	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(80)
-376-14	BO115	376	14	assente]	assente	_	_	_	_	_	linguistic	_	_	_	End=1282.122	_	_	_	0-6(80)
+376-14	BO115	376	14	assente]	assente	_	_	_	_	_	linguistic	_	_	_	End=1282.122	_	_	_	0-7(80)
 377-0	BO086	377	0	[sì.	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1281.247	_	_	_	0-2(80)
 377-1	BO086	377	1	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(80)
 377-2	BO086	377	2	no],	no	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-2(80)

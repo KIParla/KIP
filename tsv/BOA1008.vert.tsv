@@ -145,7 +145,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 29-1	BO036	29	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 29-2	BO036	29	2	indice	indice	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 29-3	BO036	29	3	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-29-4	BO036	29	4	realt[à	realtà	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-6(11)
+29-4	BO036	29	4	realt[à	realtà	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(11)
 29-5	BO036	29	5	no].	no	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	0-2(11)
 29-6	BO036	29	6	però:	però	_	_	_	_	_	linguistic	_	_	_	End=52.395	3x1	_	_	_
 30-0	BO026	30	0	[no].	no	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=51.326|End=51.58	_	_	_	0-2(11)
@@ -198,7 +198,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 41-6	BO026	41	6	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 41-7	BO026	41	7	concluso,	concluso	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 41-8	BO026	41	8	quasi	quasi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-41-9	BO026	41	9	con[cluso]?	concluso	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=70.511	_	_	_	2-8(15)
+41-9	BO026	41	9	con[cluso]?	concluso	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=70.511	_	_	_	3-8(15)
 42-0	BO036	42	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=70.172	_	_	_	0-2(15)
 42-1	BO036	42	1	siamo	siamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 42-2	BO036	42	2	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

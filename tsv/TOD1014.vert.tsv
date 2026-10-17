@@ -3615,9 +3615,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 663-6	??	663	6	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 663-7	??	663	7	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 663-8	??	663	8	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-663-9	??	663	9	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-2(124)
+663-9	??	663	9	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 663-10	??	663	10	[costumista,	costumista	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-10(124)
-663-11	??	663	11	truccatore],	truccatore	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-9(124)
+663-11	??	663	11	truccatore],	truccatore	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-10(124)
 663-12	??	663	12	truccatrice,	truccatrice	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1474.688	_	_	_	_
 664-0	TO068	664	0	[certo],	certo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=1472.46|End=1473.075	_	_	_	0-5(124)
 665-0	??	665	0	questo	questo	_	_	_	_	_	linguistic	_	_	_	Begin=1476.219	_	_	_	_
@@ -14908,7 +14908,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2699-1	TO068	2699	1	influsso,	influsso	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 2699-2	TO068	2699	2	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(119)
 2699-3	TO068	2699	3	influenza,	influenza	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-9(119)
-2699-4	TO068	2699	4	della]	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(119)
+2699-4	TO068	2699	4	della]	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(119)
 2699-5	TO068	2699	5	storia	storia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 2699-6	TO068	2699	6	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 2699-7	TO068	2699	7	arte,	arte	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=7194.597	_	_	_	_
@@ -15185,7 +15185,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2747-12	TO068	2747	12	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(131)
 2747-13	TO068	2747	13	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(131)
 2747-14	TO068	2747	14	artista	artista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(131)
-2747-15	TO068	2747	15	xxx]	xxx	_	_	_	_	_	unknown	_	_	Syllables=3	_	_	_	_	0-2(131)
+2747-15	TO068	2747	15	xxx]	xxx	_	_	_	_	_	unknown	_	_	Syllables=3	_	_	_	_	0-3(131)
 2747-16	TO068	2747	16	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 2747-17	TO068	2747	17	sempre,	sempre	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=7305.448	_	_	_	_
 2748-0	??	2748	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=7302.415	_	_	_	0-2(131)

@@ -6215,7 +6215,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 798-17	BO112	798	17	[non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(8)
 798-18	BO112	798	18	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(8)
 798-19	BO112	798	19	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(8)
-798-20	BO112	798	20	capito].	capito	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2676.058	_	_	_	0-5(8)
+798-20	BO112	798	20	capito].	capito	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2676.058	_	_	_	0-6(8)
 799-0	??	799	0	[nel	nel	_	_	_	_	_	linguistic	_	_	_	Begin=2675.376	_	_	_	0-3(8)
 799-1	??	799	1	senso::]	senso	_	_	_	_	_	linguistic	_	_	_	End=2676.096	4x2	_	_	0-5(8)
 800-0	??	800	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=2676.445	_	_	_	_
@@ -6325,7 +6325,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 818-19	??	818	19	uno	uno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 818-20	??	818	20	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 818-21	??	818	21	due	due	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-818-22	??	818	22	sog[getti	soggetti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-8(15)
+818-22	??	818	22	sog[getti	soggetti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-8(15)
 818-23	??	818	23	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(15)
 818-24	??	818	24	xx]	xx	_	_	_	_	_	unknown	_	_	Syllables=2	End=2736.176	_	_	_	0-2(15)
 819-0	BO112	819	0	[questo]	questo	_	_	_	_	_	linguistic	_	_	_	Begin=2735.793	_	_	_	0-6(15)
@@ -6340,7 +6340,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 819-9	BO112	819	9	combinato,	combinato	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 819-10	BO112	819	10	[matrimonio	matrimonio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-10(16)
 819-11	BO112	819	11	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(16)
-819-12	BO112	819	12	amore].	amore	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2739.11	_	_	_	0-4(16)
+819-12	BO112	819	12	amore].	amore	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2739.11	_	_	_	0-5(16)
 820-0	??	820	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2738.441	_	_	_	0-2(16)
 820-1	??	820	1	però],	però	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-4(16)
 820-2	??	820	2	qualcuno	qualcuno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

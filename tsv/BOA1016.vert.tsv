@@ -340,9 +340,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 51-9	BO083	51	9	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 51-10	BO083	51	10	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 51-11	BO083	51	11	alterazione	alterazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-51-12	BO083	51	12	seman[tica	semantica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-9(10)
+51-12	BO083	51	12	seman[tica	semantica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-9(10)
 51-13	BO083	51	13	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(10)
-51-14	BO083	51	14	quin]di	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(10)
+51-14	BO083	51	14	quin]di	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(10)
 51-15	BO083	51	15	prendere	prendere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 51-16	BO083	51	16	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 51-17	BO083	51	17	parola	parola	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -548,7 +548,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 79-8	BO082	79	8	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 79-9	BO082	79	9	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 79-10	BO082	79	10	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-79-11	BO082	79	11	registra[tore]	registratore	_	_	_	_	_	linguistic	_	_	_	End=228.465	_	_	_	7-12(19)
+79-11	BO082	79	11	registra[tore]	registratore	_	_	_	_	_	linguistic	_	_	_	End=228.465	_	_	_	8-12(19)
 80-0	BO083	80	0	[no]	no	_	_	_	_	_	linguistic	_	_	_	Begin=227.76	_	_	_	0-2(19)
 80-1	BO083	80	1	du	du	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 80-2	BO083	80	2	due	due	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -580,7 +580,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 83-11	BO083	83	11	connesso	connesso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 83-12	BO083	83	12	soprattutto	soprattutto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 83-13	BO083	83	13	al	al	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-83-14	BO083	83	14	concet[to	concetto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-8(20)
+83-14	BO083	83	14	concet[to	concetto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-8(20)
 83-15	BO083	83	15	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(20)
 83-16	BO083	83	16	varie]tà	varietà	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(20)
 83-17	BO083	83	17	linguistica::	linguistica	_	_	_	_	_	linguistic	_	_	_	_	10x2	_	_	_
@@ -1107,7 +1107,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 153-9	BO083	153	9	zingaro	zingaro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 153-10	BO083	153	10	nei	nei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 153-11	BO083	153	11	gerghi	gerghi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-153-12	BO083	153	12	italian[i	italiani	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-8(47)
+153-12	BO083	153	12	italian[i	italiani	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-8(47)
 153-13	BO083	153	13	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(47)
 153-14	BO083	153	14	malavita].	malavita	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=441.9	_	_	_	0-8(47)
 154-0	BO082	154	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=440.841	_	_	_	0-2(47)
@@ -1486,7 +1486,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 188-7	BO082	188	7	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 188-8	BO082	188	8	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 188-9	BO082	188	9	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-188-10	BO082	188	10	proble[ma,	problema	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	5-8(61)
+188-10	BO082	188	10	proble[ma,	problema	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	6-8(61)
 188-11	BO082	188	11	comunque],	comunque	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=573.761	_	_	_	0-8(61)
 189-0	BO083	189	0	[ah],	ah	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	Begin=572.57	_	_	_	_
 189-1	BO083	189	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_

@@ -75,7 +75,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 14-4	BO033	14	4	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 14-5	BO033	14	5	tirocinio:	tirocinio	_	_	_	_	_	linguistic	_	_	_	_	8x1	_	_	_
 14-6	BO033	14	6	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-14-7	BO033	14	7	e[stero]	estero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(2)
+14-7	BO033	14	7	e[stero]	estero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-6(2)
 14-8	BO033	14	8	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 14-9	BO033	14	9	settembre,	settembre	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=39.041	_	_	_	_
 15-0	BO026	15	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=37.501	_	_	_	0-2(2)
@@ -105,7 +105,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 19-0	BO033	19	0	a	a	_	_	_	_	_	linguistic	_	_	_	Begin=47.24	_	_	_	_
 19-1	BO033	19	1	canterbury.	canterbury	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=48.124	_	_	_	_
 20-0	BO033	20	0	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=48.256	_	_	_	_
-20-1	BO033	20	1	univer[sità	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-10(4)
+20-1	BO033	20	1	univer[sità	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-10(4)
 20-2	BO033	20	2	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(4)
 20-3	BO033	20	3	kent].	kent	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=49.89	_	_	_	0-4(4)
 21-0	BO026	21	0	[<ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=48.701	_	Slow=0-2(0)	_	0-2(4)
@@ -231,7 +231,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 38-3	BO033	38	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 38-4	BO033	38	4	università	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 38-5	BO033	38	5	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-38-6	BO033	38	6	k[ent]	kent	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(11)
+38-6	BO033	38	6	k[ent]	kent	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-4(11)
 38-7	BO033	38	7	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 38-8	BO033	38	8	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 38-9	BO033	38	9	è::	è	_	_	_	_	_	linguistic	_	_	_	End=92.623	0x2	_	_	_
@@ -241,7 +241,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 40-2	BO033	40	2	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 40-3	BO033	40	3	dipartimento	dipartimento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 40-4	BO033	40	4	di:	di	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
-40-5	BO033	40	5	italianisti[ca]::	italianistica	_	_	_	_	_	linguistic	_	_	_	End=95.866	12x2	_	_	10-13(12)
+40-5	BO033	40	5	italianisti[ca]::	italianistica	_	_	_	_	_	linguistic	_	_	_	End=95.866	12x2	_	_	11-13(12)
 41-0	BO026	41	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=94.93	_	_	_	0-2(12)
 41-1	BO026	41	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=95.29	_	_	_	0-2(12)
 42-0	BO033	42	0	di	di	_	_	_	_	_	linguistic	_	_	_	Begin=96.33	_	_	_	_
@@ -476,7 +476,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 74-8	BO026	74	8	perché::	perché	_	_	_	_	_	linguistic	_	_	_	_	5x2	_	_	_
 74-9	BO026	74	9	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 74-10	BO026	74	10	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-74-11	BO026	74	11	stat[a:	stata	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	3-5(28)
+74-11	BO026	74	11	stat[a:	stata	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	4-5(28)
 74-12	BO026	74	12	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(28)
 74-13	BO026	74	13	grande	grande	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(28)
 74-14	BO026	74	14	produzione],	produzione	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=192.746	_	_	_	0-10(28)
@@ -491,14 +491,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 75-8	BO033	75	8	è]	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(28)
 75-9	BO033	75	9	<un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Slow=0-3(0)	_	_
 75-10	BO033	75	10	enorme	enorme	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-6(0)	_	_
-75-11	BO033	75	11	biblioteca>	biblioteca	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-9(0)	_	_
+75-11	BO033	75	11	biblioteca>	biblioteca	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-10(0)	_	_
 75-12	BO033	75	12	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 75-13	BO033	75	13	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 75-14	BO033	75	14	lì	lì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 75-15	BO033	75	15	punto	punto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 75-16	BO033	75	16	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-75-17	BO033	75	17	rac[cog]liere:	raccogliere	_	_	_	_	_	linguistic	_	_	_	_	10x1	_	_	1-5(29)
-75-18	BO033	75	18	[ta]ntissimo	tantissimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(30)
+75-17	BO033	75	17	rac[cog]liere:	raccogliere	_	_	_	_	_	linguistic	_	_	_	_	10x1	_	_	3-6(29)
+75-18	BO033	75	18	[ta]ntissimo	tantissimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(30)
 75-19	BO033	75	19	materiale.	materiale	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=198.53	_	_	_	_
 76-0	BO026	76	0	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=196.526|End=196.781	_	_	_	0-2(29)
 77-0	BO026	77	0	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=197.178|End=197.435	_	_	_	0-2(30)
@@ -666,8 +666,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 103-8	BO033	103	8	introduzione	introduzione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 103-9	BO033	103	9	teoric[a	teorica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-7(33)
 103-10	BO033	103	10	sull]'	sull'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-4(33)
-103-11	BO033	103	11	aca[demi]c	academic	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-7(34)
-103-12	BO033	103	12	writi[ng],	writing	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=308.837	_	_	_	4-7(35)
+103-11	BO033	103	11	aca[demi]c	academic	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-7(34)
+103-12	BO033	103	12	writi[ng],	writing	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=308.837	_	_	_	5-7(35)
 104-0	BO026	104	0	[certo].	certo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=306.941|End=307.43	_	_	_	0-5(33)
 105-0	BO026	105	0	[certo].	certo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=307.58|End=307.975	_	_	_	0-5(34)
 106-0	BO026	106	0	[ce]rto.	certo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=308.645|End=309.031	_	_	_	0-2(35)

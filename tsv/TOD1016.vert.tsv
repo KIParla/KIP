@@ -1965,7 +1965,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 279-12	TO070	279	12	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
 279-13	TO070	279	13	parte	parte	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
 279-14	TO070	279	14	già	già	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
-279-15	TO070	279	15	beethoven<	beethoven	_	_	_	_	_	linguistic	_	_	_	End=839.96	_	Fast=0-8(0)	_	_
+279-15	TO070	279	15	beethoven<	beethoven	_	_	_	_	_	linguistic	_	_	_	End=839.96	_	Fast=0-9(0)	_	_
 280-0	TO070	280	0	e::::h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=840.328|End=841.441	0x4	_	_	_
 281-0	TO070	281	0	mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=841.75	_	_	_	_
 281-1	TO070	281	1	sforzava	sforzava	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4096,7 +4096,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 596-6	TO070	596	6	sarà	sarà	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 596-7	TO070	596	7	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 596-8	TO070	596	8	orchestra	orchestra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-596-9	TO070	596	9	moderna	moderna	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=5-7(0)	_	_
+596-9	TO070	596	9	moderna	moderna	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 596-10	TO070	596	10	>ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
 596-11	TO070	596	11	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
 596-12	TO070	596	12	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
@@ -4105,7 +4105,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 596-15	TO070	596	15	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-2(0)	_	_
 596-16	TO070	596	16	orchestra	orchestra	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-9(0)	_	_
 596-17	TO070	596	17	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
-596-18	TO070	596	18	monteverdi<,	monteverdi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2124.829	_	Fast=0-7(0)	_	_
+596-18	TO070	596	18	monteverdi<,	monteverdi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2124.829	_	Fast=0-10(0)	_	_
 597-0	TO070	597	0	ed	ed	_	_	_	_	_	linguistic	_	_	_	Begin=2124.891	_	_	_	_
 597-1	TO070	597	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 597-2	TO070	597	2	lanciata	lanciata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

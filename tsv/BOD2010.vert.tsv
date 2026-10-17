@@ -938,7 +938,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 135-0	BO074	135	0	cos'	cos'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=354.796	_	_	_	_
 135-1	BO074	135	1	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 135-2	BO074	135	2	ingegneristico	ingegneristico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-135-3	BO074	135	3	architettoni[co]	architettonico	_	_	_	_	_	linguistic	_	_	_	End=357.006	_	_	_	11-14(39)
+135-3	BO074	135	3	architettoni[co]	architettonico	_	_	_	_	_	linguistic	_	_	_	End=357.006	_	_	_	12-14(39)
 136-0	BO049	136	0	[ah	ah	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=356.171	_	_	_	0-2(39)
 136-1	BO049	136	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(39)
 136-2	BO049	136	2	sì]	sì	_	_	_	_	_	linguistic	_	_	_	End=357.07	_	_	_	0-2(39)
@@ -1363,7 +1363,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 205-8	BO049	205	8	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
 205-9	BO049	205	9	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
 205-10	BO049	205	10	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
-205-11	BO049	205	11	bello<	bello	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
+205-11	BO049	205	11	bello<	bello	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
 205-12	BO049	205	12	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 205-13	BO049	205	13	treno	treno	_	_	_	_	_	linguistic	_	_	_	End=522.707	_	_	_	_
 206-0	BO074	206	0	il	il	_	_	_	_	_	linguistic	_	_	_	Begin=522.707	_	_	_	_
@@ -1885,10 +1885,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 284-6	BO074	284	6	aveva	aveva	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-5(0)	_	_
 284-7	BO074	284	7	scoperto	scoperto	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-8(0)	_	_
 284-8	BO074	284	8	lui	lui	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-3(0)	_	_
-284-9	BO074	284	9	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(1)	_	_
+284-9	BO074	284	9	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-1(0)	_	_
 284-10	BO074	284	10	>me	me	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(1)	_	_
 284-11	BO074	284	11	n~	n~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	Fast=0-2(1)	_	_
-284-12	BO074	284	12	ha<	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+284-12	BO074	284	12	ha<	ha	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(1)	_	_
 284-13	BO074	284	13	parlato	parlato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 284-14	BO074	284	14	subito	subito	_	_	_	_	_	linguistic	_	_	_	End=722.911	_	_	_	_
 285-0	BO074	285	0	e::	e	_	_	_	_	_	linguistic	_	_	_	Begin=723.696	0x2	_	_	_
@@ -1959,9 +1959,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 298-2	BO049	298	2	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 298-3	BO049	298	3	tutto	tutto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 298-4	BO049	298	4	dall'	dall'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-298-5	BO049	298	5	iniz[io	inizio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(17)
+298-5	BO049	298	5	iniz[io	inizio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-6(17)
 298-6	BO049	298	6	alla	alla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(17)
-298-7	BO049	298	7	fi]ne?	fine	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=751.17	_	_	_	0-1(17)
+298-7	BO049	298	7	fi]ne?	fine	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=751.17	_	_	_	0-2(17)
 299-0	BO074	299	0	[°sì°]	sì	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=750.656|End=751.088	_	_	_	0-2(17)
 300-0	BO049	300	0	>quanto<	quanto	_	_	_	_	_	linguistic	_	_	_	Begin=751.198	_	Fast=0-6(0)	_	_
 300-1	BO049	300	1	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2403,8 +2403,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 364-5	BO074	364	5	erano::	erano	_	_	_	_	_	linguistic	_	_	_	_	4x2	_	_	_
 364-6	BO074	364	6	durante	durante	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 364-7	BO074	364	7	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-364-8	BO074	364	8	cammino	cammino	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=6-7(0)	_	_
-364-9	BO074	364	9	>sentivam~<	sentivam~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	Fast=0-8(0)	_	_
+364-8	BO074	364	8	cammino	cammino	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+364-9	BO074	364	9	>sentivam~<	sentivam~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	Fast=0-9(0)	_	_
 364-10	BO074	364	10	delle	delle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 364-11	BO074	364	11	frasi	frasi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 364-12	BO074	364	12	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2666,7 +2666,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 397-7	BO074	397	7	inizio	inizio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 397-8	BO074	397	8	eravamo	eravamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 397-9	BO074	397	9	ancora	ancora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-397-10	BO074	397	10	erav<amo>	eravamo	_	_	_	_	_	linguistic	_	_	_	End=1037.404	_	Slow=3-7(0)	_	_
+397-10	BO074	397	10	erav<amo>	eravamo	_	_	_	_	_	linguistic	_	_	_	End=1037.404	_	Slow=4-7(0)	_	_
 398-0	BO074	398	0	se	se	_	_	_	_	_	linguistic	_	_	_	Begin=1037.535	_	_	_	_
 398-1	BO074	398	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 398-2	BO074	398	2	ricordo	ricordo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

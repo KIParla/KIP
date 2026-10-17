@@ -57,7 +57,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 9-1	TO037	9	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 9-2	TO037	9	2	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 9-3	TO037	9	3	devo	devo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-9-4	TO037	9	4	me[ttere]?	mettere	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=17.062	_	_	_	1-7(3)
+9-4	TO037	9	4	me[ttere]?	mettere	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=17.062	_	_	_	2-7(3)
 10-0	TO036	10	0	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=16.696	_	_	_	0-2(3)
 10-1	TO036	10	1	ace]:to	aceto	_	_	_	_	_	linguistic	_	_	_	End=17.8	2x1	_	_	0-3(3)
 11-0	TO029	11	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=17.8	_	_	_	_
@@ -1037,7 +1037,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 183-4	TO037	183	4	fumi	fumi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 183-5	TO037	183	5	del::	del	_	_	_	_	_	linguistic	_	_	_	_	2x2	_	_	_
 183-6	TO037	183	6	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-183-7	TO037	183	7	bica[rbonato]	bicarbonato	_	_	_	_	_	linguistic	_	_	_	End=404.31	_	_	_	3-11(31)
+183-7	TO037	183	7	bica[rbonato]	bicarbonato	_	_	_	_	_	linguistic	_	_	_	End=404.31	_	_	_	4-11(31)
 184-0	TO036	184	0	[non	non	_	_	_	_	_	linguistic	_	_	_	Begin=403.503	_	_	_	0-3(?)
 184-1	TO036	184	1	usarli:]	usarli	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	0-6(?)
 184-2	TO036	184	2	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2254,7 +2254,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 386-11	TO036	386	11	kalke	kalke	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 386-12	TO036	386	12	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 386-13	TO036	386	13	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-386-14	TO036	386	14	chi[ama	chiama	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(80)
+386-14	TO036	386	14	chi[ama	chiama	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(80)
 386-15	TO036	386	15	ki~]?	ki~	_	_	_	_	_	linguistic	_	_	Intonation=Rising|Interrupted=Yes	End=844.137	_	_	_	0-3(80)
 387-0	TO037	387	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=843.702	_	_	_	0-2(80)
 387-1	TO037	387	1	papà	papà	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(80)
@@ -3347,7 +3347,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 558-12	TO037	558	12	lui	lui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 558-13	TO037	558	13	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 558-14	TO037	558	14	sop~	sop~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
-558-15	TO037	558	15	sopr[aelevato]	sopraelevato	_	_	_	_	_	linguistic	_	_	_	End=1295.255	_	_	_	3-12(109)
+558-15	TO037	558	15	sopr[aelevato]	sopraelevato	_	_	_	_	_	linguistic	_	_	_	End=1295.255	_	_	_	4-12(109)
 559-0	TO036	559	0	[no]	no	_	_	_	_	_	linguistic	_	_	_	Begin=1294.882	_	_	_	0-2(109)
 559-1	TO036	559	1	quello	quello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 559-2	TO036	559	2	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3986,11 +3986,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 663-2	TO036	663	2	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 663-3	TO036	663	3	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 663-4	TO036	663	4	struttur~	struttur~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
-663-5	TO036	663	5	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-2(139)
+663-5	TO036	663	5	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 663-6	TO036	663	6	[secondo	secondo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(139)
 663-7	TO036	663	7	me	me	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(139)
 663-8	TO036	663	8	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(139)
-663-9	TO036	663	9	grande]	grande	_	_	_	_	_	linguistic	_	_	_	End=1498.131	_	_	_	0-5(139)
+663-9	TO036	663	9	grande]	grande	_	_	_	_	_	linguistic	_	_	_	End=1498.131	_	_	_	0-6(139)
 664-0	TO037	664	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1496.901	_	_	_	0-2(139)
 664-1	TO037	664	1	forse	forse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(139)
 664-2	TO037	664	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(139)

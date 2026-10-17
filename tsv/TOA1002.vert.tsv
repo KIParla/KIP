@@ -648,7 +648,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 84-11	TO026	84	11	va?	va	_	_	_	_	_	linguistic	_	_	Intonation=Rising	_	_	_	_	_
 84-12	TO026	84	12	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 84-13	TO026	84	13	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-84-14	TO026	84	14	ri[cordo	ricordo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-7(26)
+84-14	TO026	84	14	ri[cordo	ricordo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-7(26)
 84-15	TO026	84	15	più],	più	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=241.484	_	_	_	0-3(26)
 85-0	TO028	85	0	[e:h]	eh	_	_	_	_	_	linguistic	_	_	_	Begin=241.269	0x1	_	_	0-2(26)
 85-1	TO028	85	1	alla	alla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1217,9 +1217,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 147-24	TO026	147	24	offerto	offerto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(53)
 147-25	TO026	147	25	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(53)
 147-26	TO026	147	26	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(53)
-147-27	TO026	147	27	prima]	prima	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-4(53)
+147-27	TO026	147	27	prima]	prima	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-5(53)
 147-28	TO026	147	28	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-147-29	TO026	147	29	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-2(54)
+147-29	TO026	147	29	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 147-30	TO026	147	30	[dice::]	dice	_	_	_	_	_	linguistic	_	_	_	End=439.974	3x2	_	_	0-4(54)
 148-0	TO028	148	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=432.332	_	_	_	0-2(51)
 148-1	TO028	148	1	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(51)
@@ -1346,7 +1346,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 163-9	TO026	163	9	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(59)
 163-10	TO026	163	10	volta	volta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(59)
 163-11	TO026	163	11	scors~	scors~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-6(59)
-163-12	TO026	163	12	sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=479.145	_	_	_	0-1(59)
+163-12	TO026	163	12	sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=479.145	_	_	_	0-2(59)
 164-0	TO028	164	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=477.576	_	_	_	0-2(59)
 164-1	TO028	164	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(59)
 164-2	TO028	164	2	sì]	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(59)
@@ -1373,8 +1373,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 166-3	TO026	166	3	altro	altro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 166-4	TO026	166	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 166-5	TO026	166	5	ultimo	ultimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-166-6	TO026	166	6	dubbio	dubbio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(61)
-166-7	TO026	166	7	[no]?	no	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=484.906	_	_	_	0-1(61)
+166-6	TO026	166	6	dubbio	dubbio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+166-7	TO026	166	7	[no]?	no	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=484.906	_	_	_	0-2(61)
 167-0	TO028	167	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=484.737|End=484.906	_	_	_	0-2(61)
 168-0	TO026	168	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=485.599	_	_	_	_
 168-1	TO026	168	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1391,8 +1391,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 169-9	TO028	169	9	economia	economia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 169-10	TO028	169	10	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 169-11	TO028	169	11	gestione	gestione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-169-12	TO028	169	12	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	4-5(64)
-169-13	TO028	169	13	[impre]sa,	impresa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=490.064	_	_	_	0-4(64)
+169-12	TO028	169	12	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+169-13	TO028	169	13	[impre]sa,	impresa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=490.064	_	_	_	0-5(64)
 170-0	TO026	170	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=487.7	_	_	_	0-2(63)
 170-1	TO026	170	1	sì]	sì	_	_	_	_	_	linguistic	_	_	_	End=488.142	_	_	_	0-2(63)
 171-0	TO026	171	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=489.612	_	_	_	0-2(64)
@@ -1487,7 +1487,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 182-10	TO028	182	10	comunicazione	comunicazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 182-11	TO028	182	11	applicati	applicati	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 182-12	TO028	182	12	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-182-13	TO028	182	13	educaz[ione],	educazione	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=519.755	_	_	_	3-8(70)
+182-13	TO028	182	13	educaz[ione],	educazione	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=519.755	_	_	_	6-10(70)
 183-0	TO026	183	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=519.45|End=519.745	_	_	_	0-2(70)
 184-0	TO028	184	0	solo	solo	_	_	_	_	_	linguistic	_	_	_	Begin=520.133	_	_	_	_
 184-1	TO028	184	1	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1797,13 +1797,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 222-30	TO026	222	30	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 222-31	TO026	222	31	possono	possono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 222-32	TO026	222	32	chiederlo	chiederlo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-222-33	TO026	222	33	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-2(83)
+222-33	TO026	222	33	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 222-34	TO026	222	34	[(diciamo	diciamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-7(0)	0-7(83)
 222-35	TO026	222	35	né	né	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	0-2(83)
 222-36	TO026	222	36	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	0-2(83)
 222-37	TO026	222	37	madrid	madrid	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-6(0)	0-6(83)
-222-38	TO026	222	38	né)	né	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-1(0)	0-2(83)
-222-39	TO026	222	39	xx]	xx	_	_	_	_	_	unknown	_	_	Syllables=2	End=619.977	_	_	_	0-1(83)
+222-38	TO026	222	38	né)	né	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	0-2(83)
+222-39	TO026	222	39	xx]	xx	_	_	_	_	_	unknown	_	_	Syllables=2	End=619.977	_	_	_	0-2(83)
 223-0	TO028	223	0	[no:	no	_	_	_	_	_	linguistic	_	_	_	Begin=619.179	1x1	_	_	0-2(83)
 223-1	TO028	223	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(83)
 223-2	TO028	223	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(83)
@@ -1938,7 +1938,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 237-3	TO026	237	3	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 237-4	TO026	237	4	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 237-5	TO026	237	5	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-237-6	TO026	237	6	cor[so::]	corso	_	_	_	_	_	linguistic	_	_	_	_	4x2	_	_	2-5(91)
+237-6	TO026	237	6	cor[so::]	corso	_	_	_	_	_	linguistic	_	_	_	_	4x2	_	_	3-5(91)
 237-7	TO026	237	7	introduttivo::	introduttivo	_	_	_	_	_	linguistic	_	_	_	_	11x2	_	_	_
 237-8	TO026	237	8	[diciamo	diciamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(92)
 237-9	TO026	237	9	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(92)
@@ -1962,8 +1962,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 240-7	TO028	240	7	problema	problema	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 240-8	TO028	240	8	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 240-9	TO028	240	9	lì	lì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-240-10	TO028	240	10	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=3-4(0)	_	_
-240-11	TO028	240	11	<quattro>	quattro	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-6(0)	_	_
+240-10	TO028	240	10	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+240-11	TO028	240	11	<quattro>	quattro	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-7(0)	_	_
 240-12	TO028	240	12	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 240-13	TO028	240	13	danno	danno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 240-14	TO028	240	14	quattro	quattro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2110,7 +2110,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 261-7	TO026	261	7	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 261-8	TO026	261	8	soltanto	soltanto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 261-9	TO026	261	9	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-261-10	TO026	261	10	approvazi[one]?	approvazione	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=731.681	_	_	_	8-12(96)
+261-10	TO026	261	10	approvazi[one]?	approvazione	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=731.681	_	_	_	9-12(96)
 262-0	TO028	262	0	[a:h]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=728.601|End=729.004	0x1	_	_	0-2(95)
 263-0	TO028	263	0	[questo	questo	_	_	_	_	_	linguistic	_	_	_	Begin=731.273	_	_	_	0-6(96)
 263-1	TO028	263	1	no]n	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(96)

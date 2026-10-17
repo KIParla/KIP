@@ -68,7 +68,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 8-30	BO026	8	30	(me	me	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(1)	_
 8-31	BO026	8	31	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(1)	_
 8-32	BO026	8	32	dia)	dia	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-3(1)	_
-8-33	BO026	8	33	per[ché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(1)
+8-33	BO026	8	33	per[ché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(1)
 8-34	BO026	8	34	(riguardare,)]	riguardare	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=29.701	_	_	0-10(2)	0-10(1)
 9-0	BO043	9	0	[e:h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=24.378	0x1	_	_	0-2(0)
 9-1	BO043	9	1	qualcosa],	qualcosa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=25.413	_	_	_	0-8(0)
@@ -145,7 +145,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 20-6	BO043	20	6	qui	qui	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-3(0)	_	_
 20-7	BO043	20	7	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-2(0)	_	_
 20-8	BO043	20	8	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-2(0)	_	_
-20-9	BO043	20	9	vu[ole>].	vuole	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=51.44	_	Slow=0-5(0)	_	1-5(9)
+20-9	BO043	20	9	vu[ole>].	vuole	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=51.44	_	Slow=0-5(0)	_	2-5(9)
 21-0	BO026	21	0	[ah].	ah	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=51.03|End=51.4	_	_	_	0-2(9)
 22-0	BO026	22	0	uh	uh	_	_	_	_	_	linguistic	_	_	_	Begin=51.99	_	_	_	_
 22-1	BO026	22	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -753,7 +753,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 110-20	BO043	110	20	concentrarci	concentrarci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 110-21	BO043	110	21	magari	magari	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 110-22	BO043	110	22	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-110-23	BO043	110	23	su[lla	sulla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(35)
+110-23	BO043	110	23	su[lla	sulla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(35)
 110-24	BO043	110	24	sociolinguistica].	sociolinguistica	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=291.05	_	_	_	0-16(35)
 111-0	BO026	111	0	[sì.	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling|PauseAfter=Yes	Begin=289.811	_	_	_	0-2(35)
 111-1	BO026	111	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(35)
@@ -1082,7 +1082,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 169-0	BO026	169	0	[molto].	molto	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=447.6|End=448.15	_	_	_	0-5(55)
 170-0	BO026	170	0	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=448.495	_	_	_	0-2(56)
 170-1	BO026	170	1	articolo::	articolo	_	_	_	_	_	linguistic	_	_	_	_	7x2	_	_	0-8(56)
-170-2	BO026	170	2	fran]ces[e:::	francese	_	_	_	_	_	linguistic	_	_	_	_	7x3	_	_	0-4(56),6-8(57)
+170-2	BO026	170	2	fran]ces[e:::	francese	_	_	_	_	_	linguistic	_	_	_	_	7x3	_	_	0-4(56),7-8(57)
 170-3	BO026	170	3	alge]rino?	algerino	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=452.541	_	_	_	0-4(57)
 171-0	BO043	171	0	[e:h],	eh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=451.366|End=452.0	0x1	_	_	0-2(57)
 172-0	BO043	172	0	sì.	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=452.936	_	_	_	_
@@ -1186,12 +1186,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 188-3	BO026	188	3	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 188-4	BO026	188	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 188-5	BO026	188	5	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-188-6	BO026	188	6	citat[o::],	citato	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=494.41	5x2	_	_	4-6(66)
+188-6	BO026	188	6	citat[o::],	citato	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=494.41	5x2	_	_	5-6(66)
 189-0	BO043	189	0	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=492.476|End=492.803	_	_	_	0-2(65)
 190-0	BO043	190	0	[e::h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=493.678	0x2	_	_	0-2(66)
 190-1	BO043	190	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(66)
 190-2	BO043	190	2	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(66)
-190-3	BO043	190	3	tr]ovat[o:]	trovato	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	6x1	_	_	0-2(66),5-7(67)
+190-3	BO043	190	3	tr]ovat[o:]	trovato	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	6x1	_	_	0-2(66),6-7(67)
 190-4	BO043	190	4	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 190-5	BO043	190	5	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 190-6	BO043	190	6	e:h	eh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	0x1	_	_	_
@@ -1534,7 +1534,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 259-4	BO043	259	4	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 259-5	BO043	259	5	vari	vari	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 259-6	BO043	259	6	aspetti	aspetti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-259-7	BO043	259	7	comun[i	comuni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-6(90)
+259-7	BO043	259	7	comun[i	comuni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(90)
 259-8	BO043	259	8	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(90)
 259-9	BO043	259	9	tr]ovo	trovo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(90)
 259-10	BO043	259	10	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1609,7 +1609,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 273-4	BO043	273	4	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 273-5	BO043	273	5	film	film	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 273-6	BO043	273	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-273-7	BO043	273	7	assed[io	assedio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-7(95)
+273-7	BO043	273	7	assed[io	assedio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-7(95)
 273-8	BO043	273	8	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(95)
 273-9	BO043	273	9	so],	so	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=681.11	_	_	_	0-2(95)
 274-0	BO026	274	0	[avevamo	avevamo	_	_	_	_	_	linguistic	_	_	_	Begin=680.53	_	_	_	0-7(95)
@@ -1855,7 +1855,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 315-9	BO043	315	9	utilizzarlo	utilizzarlo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 315-10	BO043	315	10	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 315-11	BO043	315	11	certi	certi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-315-12	BO043	315	12	a[spetti]?	aspetti	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=775.28	_	_	_	0-7(113)
+315-12	BO043	315	12	a[spetti]?	aspetti	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=775.28	_	_	_	1-7(113)
 316-0	BO026	316	0	[io	io	_	_	_	_	_	linguistic	_	_	_	Begin=774.7	_	_	_	0-2(113)
 316-1	BO026	316	1	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(113)
 316-2	BO026	316	2	l]o	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(113)
@@ -1881,16 +1881,16 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 318-9	BO026	318	9	visto	visto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 318-10	BO026	318	10	e::	e	_	_	_	_	_	linguistic	_	_	_	_	0x2	_	_	_
 318-11	BO026	318	11	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-318-12	BO026	318	12	deci[de:	decide	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	1-6(115)
-318-13	BO026	318	13	eh]	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+318-12	BO026	318	12	deci[de:	decide	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	4-6(115)
+318-13	BO026	318	13	eh]	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(115)
 318-14	BO026	318	14	quando	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 318-15	BO026	318	15	va	va	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 318-16	BO026	318	16	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 318-17	BO026	318	17	descrivere	descrivere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 318-18	BO026	318	18	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-318-19	BO026	318	19	campione	campione	_	_	_	_	_	linguistic	_	_	_	_	_	_	6-8(0)	_
+318-19	BO026	318	19	campione	campione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 318-20	BO026	318	20	(si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	_
-318-21	BO026	318	21	dice),	dice	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=787.53	_	_	0-2(0)	_
+318-21	BO026	318	21	dice),	dice	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=787.53	_	_	0-4(0)	_
 319-0	BO043	319	0	[mh	mh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=784.27	_	_	_	0-2(115)
 319-1	BO043	319	1	mh],	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=784.821	_	_	_	0-2(115)
 320-0	BO026	320	0	si,	si	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=787.65|End=788.0	_	_	_	_
@@ -2082,7 +2082,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 351-15	BO026	351	15	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(124)
 351-16	BO026	351	16	nuovo]	nuovo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(124)
 351-17	BO026	351	17	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-351-18	BO026	351	18	qu[adro],	quadro	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=863.645	_	_	_	1-6(125)
+351-18	BO026	351	18	qu[adro],	quadro	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=863.645	_	_	_	2-6(125)
 352-0	BO043	352	0	[va	va	_	_	_	_	_	linguistic	_	_	_	Begin=861.856	_	_	_	0-2(124)
 352-1	BO043	352	1	bene.	bene	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	0-4(124)
 352-2	BO043	352	2	certo].	certo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=862.918	_	_	_	0-5(124)

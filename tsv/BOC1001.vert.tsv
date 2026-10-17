@@ -701,8 +701,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 89-9	BO087	89	9	nome	nome	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 89-10	BO087	89	10	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 89-11	BO087	89	11	comune	comune	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-89-12	BO087	89	12	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Slow=3-5(0)	_	_
-89-13	BO087	89	13	<evangelistario>.	evangelistario	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=315.823	_	Slow=0-12(0)	_	_
+89-12	BO087	89	12	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+89-13	BO087	89	13	<evangelistario>.	evangelistario	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=315.823	_	Slow=0-14(0)	_	_
 90-0	BO088	90	0	e::h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=317.556	0x2	_	_	_
 90-1	BO088	90	1	bri~	bri~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 90-2	BO088	90	2	no.	no	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=318.752	_	_	_	_
@@ -869,7 +869,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 119-2	BO088	119	2	programma	programma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 119-3	BO088	119	3	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 119-4	BO088	119	4	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-119-5	BO088	119	5	scor[so],	scorso	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=407.431	_	_	_	3-6(25)
+119-5	BO088	119	5	scor[so],	scorso	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=407.431	_	_	_	4-6(25)
 120-0	BO087	120	0	[ah]:	ah	_	_	_	_	_	linguistic	_	_	_	Begin=406.827	1x1	_	_	0-2(25)
 120-1	BO087	120	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 120-2	BO087	120	2	sì,	sì	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
@@ -1532,7 +1532,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 200-9	BO088	200	9	espulsione	espulsione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 200-10	BO088	200	10	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 200-11	BO088	200	11	gesuiti	gesuiti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-200-12	BO088	200	12	d[a::],	da	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=747.182	1x2	_	_	0-2(39)
+200-12	BO088	200	12	d[a::],	da	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=747.182	1x2	_	_	1-2(39)
 201-0	BO087	201	0	[si]	si	_	_	_	_	_	linguistic	_	_	_	Begin=747.02	_	_	_	0-2(39)
 201-1	BO087	201	1	ricorda	ricorda	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 201-2	BO087	201	2	sa	sa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1541,7 +1541,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 201-5	BO087	201	5	differenza	differenza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 201-6	BO087	201	6	tra	tra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 201-7	BO087	201	7	<l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Slow=0-2(0)	_	_
-201-8	BO087	201	8	espulsione>	espulsione	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-10(0)|Fast=9-10(0)	_	_
+201-8	BO087	201	8	espulsione>	espulsione	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-10(0)	_	_
 201-9	BO087	201	9	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
 201-10	BO087	201	10	gesuiti	gesuiti	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-7(0)	_	_
 201-11	BO087	201	11	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
