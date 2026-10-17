@@ -174,7 +174,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 33-1	BO145	33	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 33-2	BO145	33	2	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 33-3	BO145	33	3	quest'	quest'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-33-4	BO145	33	4	altr(a)	altra	_	_	_	_	_	linguistic	_	_	_	End=56.9	_	_	2-4(0)	_
+33-4	BO145	33	4	altr(a)	altra	_	_	_	_	_	linguistic	_	_	_	End=56.9	_	_	4-5(0)	_
 34-0	BO139	34	0	mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=56.945|End=57.275	_	_	_	_
 35-0	BO145	35	0	comunque	comunque	_	_	_	_	_	linguistic	_	_	_	Begin=57.605	_	_	_	_
 35-1	BO145	35	1	dicevo	dicevo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -204,7 +204,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 39-10	BO145	39	10	s'	s'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 39-11	BO145	39	11	(intreccia	intreccia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 39-12	BO145	39	12	blblbl	blblbl	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-39-13	BO145	39	13	cos[ì]	così	_	_	_	_	_	linguistic	_	_	_	End=68.765	_	_	_	2-4(12)
+39-13	BO145	39	13	cos[ì]	così	_	_	_	_	_	linguistic	_	_	_	End=68.765	_	_	_	3-4(12)
 40-0	BO139	40	0	[bl]blbl	blblbl	_	_	_	_	_	linguistic	_	_	_	Begin=68.605|End=69.105	_	_	_	0-2(12)
 41-0	BO145	41	0	eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=69.29|End=69.73	_	_	_	_
 42-0	BO145	42	0	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=70.385	_	Fast=0-4(0)	_	_
@@ -998,7 +998,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 188-0	BO145	188	0	[cinquan]t'	cinquant'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=395.746	_	_	_	0-7(37)
 188-1	BO145	188	1	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 188-2	BO145	188	2	fa	fa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-188-3	BO145	188	3	ma[ssimo]	massimo	_	_	_	_	_	linguistic	_	_	_	End=397.886	_	_	_	1-7(38)
+188-3	BO145	188	3	ma[ssimo]	massimo	_	_	_	_	_	linguistic	_	_	_	End=397.886	_	_	_	2-7(38)
 189-0	BO139	189	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=397.241	_	_	_	0-2(38)
 189-1	BO139	189	1	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(38)
 189-2	BO139	189	2	vo~	vo~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-3(38)
@@ -1310,8 +1310,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 250-23	BO145	250	23	te	te	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 250-24	BO145	250	24	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 250-25	BO145	250	25	m'	m'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-250-26	BO145	250	26	(insul[ti	insulti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-7(62)
-250-27	BO145	250	27	o]	o	_	_	_	_	_	linguistic	_	_	_	End=502.23	_	_	_	_
+250-26	BO145	250	26	(insul[ti	insulti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-7(62)
+250-27	BO145	250	27	o]	o	_	_	_	_	_	linguistic	_	_	_	End=502.23	_	_	_	0-1(62)
 251-0	BO139	251	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=497.27|End=499.23	_	_	_	_
 252-0	BO139	252	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=499.985|End=501.495	_	_	_	_
 253-0	BO139	253	0	[anche	anche	_	_	_	_	_	linguistic	_	_	_	Begin=501.925	_	_	_	0-5(64)
@@ -1853,7 +1853,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 338-1	BO139	338	1	me	me	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 338-2	BO139	338	2	dà	dà	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 338-3	BO139	338	3	quell'	quell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-338-4	BO139	338	4	impress[ione	impressione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-11(86)
+338-4	BO139	338	4	impress[ione	impressione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-11(86)
 338-5	BO139	338	5	lì	lì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(86)
 338-6	BO139	338	6	almeno]	almeno	_	_	_	_	_	linguistic	_	_	_	End=687.112	_	_	_	0-6(86)
 339-0	BO145	339	0	[potrebbe	potrebbe	_	_	_	_	_	linguistic	_	_	_	Begin=686.252	_	_	_	0-8(86)
@@ -1916,7 +1916,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 352-4	BO145	352	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 352-5	BO145	352	5	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 352-6	BO145	352	6	fatta	fatta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-352-7	BO145	352	7	veni(re)	venire	_	_	_	_	_	linguistic	_	_	_	_	_	_	3-6(0)	_
+352-7	BO145	352	7	veni(re)	venire	_	_	_	_	_	linguistic	_	_	_	_	_	_	4-6(0)	_
 352-8	BO145	352	8	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 352-9	BO145	352	9	mente	mente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 352-10	BO145	352	10	te	te	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3881,7 +3881,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 727-1	BO139	727	1	opera	opera	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 727-2	BO139	727	2	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 727-3	BO139	727	3	arte	arte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-727-4	BO139	727	4	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=2-3(0)	_	_
+727-4	BO139	727	4	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 727-5	BO139	727	5	<rimane:>	rimane	_	_	_	_	_	linguistic	_	_	_	_	5x1	Slow=0-6(0)	_	_
 727-6	BO139	727	6	nel	nel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 727-7	BO139	727	7	tempo	tempo	_	_	_	_	_	linguistic	_	_	_	End=1458.37	_	_	_	_
@@ -3955,9 +3955,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 736-9	BO139	736	9	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 736-10	BO139	736	10	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 736-11	BO139	736	11	artista	artista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-736-12	BO139	736	12	gran[dissi(mo)	grandissimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	7-10(0)	2-11(166)
+736-12	BO139	736	12	gran[dissi(mo)	grandissimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	9-11(0)	4-11(166)
 736-13	BO139	736	13	xx	xx	_	_	_	_	_	unknown	_	_	Syllables=2	_	_	_	_	0-2(166)
-736-14	BO139	736	14	ques]ta	questa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(166)
+736-14	BO139	736	14	ques]ta	questa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(166)
 736-15	BO139	736	15	canzone	canzone	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 736-16	BO139	736	16	così	così	_	_	_	_	_	linguistic	_	_	_	End=1479.37	_	_	_	_
 737-0	BO145	737	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1477.85	_	_	_	0-2(166)
@@ -4446,7 +4446,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 799-9	BO145	799	9	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 799-10	BO145	799	10	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 799-11	BO145	799	11	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-799-12	BO145	799	12	fa(re)	fare	_	_	_	_	_	linguistic	_	_	_	End=1629.21	_	_	1-4(1)	_
+799-12	BO145	799	12	fa(re)	fare	_	_	_	_	_	linguistic	_	_	_	End=1629.21	_	_	2-4(1)	_
 800-0	BO139	800	0	ventisette	ventisette	_	_	_	_	_	linguistic	_	_	_	Begin=1630.07	_	_	_	_
 800-1	BO139	800	1	minuti	minuti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 800-2	BO139	800	2	perfetto.	perfetto	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1631.52	_	_	_	_

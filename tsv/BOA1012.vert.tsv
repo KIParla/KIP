@@ -52,7 +52,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 9-1	BO042	9	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 9-2	BO042	9	2	orale	orale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 9-3	BO042	9	3	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-9-4	BO042	9	4	l[uglio].	luglio	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=30.07	_	_	_	0-6(1)
+9-4	BO042	9	4	l[uglio].	luglio	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=30.07	_	_	_	1-6(1)
 10-0	BO026	10	0	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=29.668|End=30.073	_	_	_	0-2(1)
 11-0	BO026	11	0	nella	nella	_	_	_	_	_	linguistic	_	_	_	Begin=30.438	_	_	_	_
 11-1	BO026	11	1	stessa	stessa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -134,7 +134,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 30-16	BO026	30	16	spostata	spostata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 30-17	BO026	30	17	a:ll'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	0x1	_	_	_
 30-18	BO026	30	18	appello	appello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-30-19	BO026	30	19	successivo	successivo	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
+30-19	BO026	30	19	successivo	successivo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 30-20	BO026	30	20	°non	non	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
 30-21	BO026	30	21	risulta	risulta	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
 30-22	BO026	30	22	da	da	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
@@ -168,7 +168,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 33-2	BO042	33	2	solo	solo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 33-3	BO042	33	3	quello	quello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 33-4	BO042	33	4	aperto	aperto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-33-5	BO042	33	5	giu[sto]?	giusto	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=78.088	_	_	_	2-6(10)
+33-5	BO042	33	5	giu[sto]?	giusto	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=78.088	_	_	_	3-6(10)
 34-0	BO026	34	0	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=77.681|End=78.058	_	_	_	0-2(10)
 35-0	BO026	35	0	sì.	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=78.118|End=78.327	_	_	_	_
 36-0	BO042	36	0	e::h	eh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=78.331	0x2	_	_	_
@@ -305,7 +305,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 54-10	BO026	54	10	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 54-11	BO026	54	11	dieci	dieci	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 54-12	BO026	54	12	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-54-13	BO026	54	13	lu[glio],	luglio	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=126.501	_	_	_	1-6(18)
+54-13	BO026	54	13	lu[glio],	luglio	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=126.501	_	_	_	2-6(18)
 55-0	BO042	55	0	[lo	lo	_	_	_	_	_	linguistic	_	_	_	Begin=126.076	_	_	_	0-2(18)
 55-1	BO042	55	1	so].	so	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=126.53	_	_	_	0-2(18)
 56-0	BO026	56	0	°ma	ma	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=126.59	_	_	_	_
@@ -391,7 +391,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 66-12	BO042	66	12	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 66-13	BO042	66	13	dodici	dodici	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 66-14	BO042	66	14	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-66-15	BO042	66	15	ora[le].	orale	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=156.22	_	_	_	2-5(24)
+66-15	BO042	66	15	ora[le].	orale	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=156.22	_	_	_	3-5(24)
 67-0	BO026	67	0	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=153.445|End=153.891	_	_	_	0-2(23)
 68-0	BO026	68	0	[il]	il	_	_	_	_	_	linguistic	_	_	_	Begin=156.1	_	_	_	0-2(24)
 68-1	BO026	68	1	dodici,	dodici	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=157.08	_	_	_	_
@@ -505,7 +505,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 92-11	BO042	92	11	ricordar[le	ricordarle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	8-10(32)
 92-12	BO042	92	12	del]l'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-3(32)
 92-13	BO042	92	13	orale	orale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-92-14	BO042	92	14	poc[o:]	poco	_	_	_	_	_	linguistic	_	_	_	End=207.48	3x1	_	_	2-4(33)
+92-14	BO042	92	14	poc[o:]	poco	_	_	_	_	_	linguistic	_	_	_	End=207.48	3x1	_	_	3-4(33)
 93-0	BO026	93	0	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=205.896|End=206.216	_	_	_	0-2(32)
 94-0	BO026	94	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=207.005	_	_	_	0-2(33)
 94-1	BO026	94	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(33)

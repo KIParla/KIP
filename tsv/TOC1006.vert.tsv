@@ -58,7 +58,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 9-5	TO024	9	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 9-6	TO024	9	6	ultimo	ultimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 9-7	TO024	9	7	giorno	giorno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-9-8	TO024	9	8	scher[zo.	scherzo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	4-7(4)
+9-8	TO024	9	8	scher[zo.	scherzo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	5-7(4)
 9-9	TO024	9	9	ALLORA],	allora	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|Volume=High	_	_	_	_	0-6(4)
 9-10	TO024	9	10	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 9-11	TO024	9	11	cosa,	cosa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
@@ -69,7 +69,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 9-16	TO024	9	16	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 9-17	TO024	9	17	scegliere	scegliere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 9-18	TO024	9	18	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-9-19	TO024	9	19	doman[da].	domanda	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=41.338	_	_	_	4-7(5)
+9-19	TO024	9	19	doman[da].	domanda	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=41.338	_	_	_	5-7(5)
 10-0	TO022	10	0	[xx]	xx	_	_	_	_	_	unknown	_	_	Syllables=2	Begin=34.284|End=34.721	_	_	_	0-2(3)
 11-0	TO022	11	0	[no.	no	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=36.617	_	_	_	0-2(4)
 11-1	TO022	11	1	no].	no	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	0-2(4)
@@ -317,7 +317,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 33-9	TO024	33	9	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(11)
 33-10	TO024	33	10	hanno]	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(11)
 33-11	TO024	33	11	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-33-12	TO024	33	12	nien[te.	niente	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	3-6(12)
+33-12	TO024	33	12	nien[te.	niente	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	4-6(12)
 33-13	TO024	33	13	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(12)
 33-14	TO024	33	14	hanno]	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(12)
 33-15	TO024	33	15	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

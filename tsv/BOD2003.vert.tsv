@@ -2470,7 +2470,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 339-2	BO070	339	2	arredamento,	arredamento	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
 339-3	BO070	339	3	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 339-4	BO070	339	4	[com'	com'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-4(2)
-339-5	BO070	339	5	è],	è	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1012.101	_	_	_	_
+339-5	BO070	339	5	è],	è	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1012.101	_	_	_	0-1(2)
 340-0	BO057	340	0	[cioè	cioè	_	_	_	_	_	linguistic	_	_	_	Begin=1011.467	_	_	_	0-4(2)
 340-1	BO057	340	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(2)
 340-2	BO057	340	2	acco]glie:nte,	accogliente	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	7x1	_	_	0-4(2)

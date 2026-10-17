@@ -373,12 +373,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 65-10	TO095	65	10	quanta	quanta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 65-11	TO095	65	11	gente	gente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 65-12	TO095	65	12	s'	s'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-65-13	TO095	65	13	(è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(13)
+65-13	TO095	65	13	(è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 65-14	TO095	65	14	[fatto,	fatto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-5(13)
 65-15	TO095	65	15	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(13)
 65-16	TO095	65	16	tutte	tutte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(13)
 65-17	TO095	65	17	ste	ste	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(13)
-65-18	TO095	65	18	cose],	cose	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-2(13)
+65-18	TO095	65	18	cose],	cose	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-4(13)
 65-19	TO095	65	19	vabbè	vabbè	_	_	_	_	_	linguistic	_	_	_	End=113.75	_	_	_	_
 66-0	TO091	66	0	[u::	u	_	_	_	_	_	linguistic	_	_	_	Begin=112.513	0x2	_	_	0-1(13)
 66-1	TO091	66	1	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(13)
@@ -771,7 +771,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 116-7	TO091	116	7	de	de	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(25)
 116-8	TO091	116	8	rapporto	rapporto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(25)
 116-9	TO091	116	9	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(25)
-116-10	TO091	116	10	hanno]	hanno	_	_	_	_	_	linguistic	_	_	_	End=226.898	_	_	_	0-4(25)
+116-10	TO091	116	10	hanno]	hanno	_	_	_	_	_	linguistic	_	_	_	End=226.898	_	_	_	0-5(25)
 117-0	TO095	117	0	[lei	lei	_	_	_	_	_	linguistic	_	_	_	Begin=225.66	_	_	_	0-3(25)
 117-1	TO095	117	1	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(25)
 117-2	TO095	117	2	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(25)
@@ -803,9 +803,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 118-23	TO095	118	23	me	me	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 118-24	TO095	118	24	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 118-25	TO095	118	25	me	me	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-118-26	TO095	118	26	frega	frega	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(26)
+118-26	TO095	118	26	frega	frega	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 118-27	TO095	118	27	[di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(26)
-118-28	TO095	118	28	lei]	lei	_	_	_	_	_	linguistic	_	_	_	End=232.162	_	_	_	0-2(26)
+118-28	TO095	118	28	lei]	lei	_	_	_	_	_	linguistic	_	_	_	End=232.162	_	_	_	0-3(26)
 119-0	TO091	119	0	[no::]	no	_	_	_	_	_	linguistic	_	_	_	Begin=231.865	1x2	_	_	0-2(26)
 119-1	TO091	119	1	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 119-2	TO091	119	2	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1493,7 +1493,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 232-13	TO095	232	13	tu	tu	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 232-14	TO095	232	14	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 232-15	TO095	232	15	[c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(55)
-232-16	TO095	232	16	eri].	eri	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=460.817	_	_	_	0-2(55)
+232-16	TO095	232	16	eri].	eri	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=460.817	_	_	_	0-3(55)
 233-0	TO085	233	0	[no]	no	_	_	_	_	_	linguistic	_	_	_	Begin=460.456	_	_	_	0-2(55)
 233-1	TO085	233	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 233-2	TO085	233	2	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_

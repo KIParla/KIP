@@ -1525,7 +1525,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 262-5	BO096	262	5	ce	ce	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(1)
 262-6	BO096	262	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(1)
 262-7	BO096	262	7	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(1)
-262-8	BO096	262	8	io]	io	_	_	_	_	_	linguistic	_	_	_	End=1354.664	_	_	_	0-1(1)
+262-8	BO096	262	8	io]	io	_	_	_	_	_	linguistic	_	_	_	End=1354.664	_	_	_	0-2(1)
 263-0	BO095	263	0	[non	non	_	_	_	_	_	linguistic	_	_	_	Begin=1353.831	_	_	_	0-3(1)
 263-1	BO095	263	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(1)
 263-2	BO095	263	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(1)
@@ -2141,7 +2141,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 358-9	BO096	358	9	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 358-10	BO096	358	10	interno	interno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 358-11	BO096	358	11	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-358-12	BO096	358	12	fami[glia]	famiglia	_	_	_	_	_	linguistic	_	_	_	End=1711.756	_	_	_	3-8(21)
+358-12	BO096	358	12	fami[glia]	famiglia	_	_	_	_	_	linguistic	_	_	_	End=1711.756	_	_	_	4-8(21)
 359-0	BO095	359	0	[oh]	oh	_	_	_	_	_	linguistic	_	_	_	Begin=1711.429	_	_	_	0-2(21)
 359-1	BO095	359	1	no::	no	_	_	_	_	_	linguistic	_	_	_	End=1712.251	1x2	_	_	_
 360-0	BO096	360	0	tutti	tutti	_	_	_	_	_	linguistic	_	_	_	Begin=1715.826	_	_	_	_

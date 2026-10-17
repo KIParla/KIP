@@ -630,7 +630,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 67-12	BO021	67	12	[m'	m'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(15)
 67-13	BO021	67	13	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(15)
 67-14	BO021	67	14	mandato	mandato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(15)
-67-15	BO021	67	15	mamma]	mamma	_	_	_	_	_	linguistic	_	_	_	End=221.221	_	_	_	0-4(15)
+67-15	BO021	67	15	mamma]	mamma	_	_	_	_	_	linguistic	_	_	_	End=221.221	_	_	_	0-5(15)
 68-0	BO047	68	0	[(madonna)]	madonna	_	_	_	_	_	linguistic	_	_	_	Begin=220.347	_	_	0-7(0)	0-7(15)
 68-1	BO047	68	1	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 68-2	BO047	68	2	mozzarelle	mozzarelle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1433,7 +1433,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 186-9	BO021	186	9	gli	gli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 186-10	BO021	186	10	amici	amici	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 186-11	BO021	186	11	al	al	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-186-12	BO021	186	12	prate[llo]	pratello	_	_	_	_	_	linguistic	_	_	_	End=513.977	_	_	_	4-8(41)
+186-12	BO021	186	12	prate[llo]	pratello	_	_	_	_	_	linguistic	_	_	_	End=513.977	_	_	_	5-8(41)
 187-0	??	187	0	[fanculo]	fanculo	_	_	_	_	_	linguistic	_	_	_	Begin=513.796|End=514.575	_	_	_	0-7(?)
 188-0	BO021	188	0	[qui]ndi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=514.115	_	_	_	0-3(42)
 188-1	BO021	188	1	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2089,8 +2089,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 258-15	BO021	258	15	senza	senza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 258-16	BO021	258	16	trucco,	trucco	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
 258-17	BO021	258	17	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-258-18	BO021	258	18	belle	belle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(55)
-258-19	BO021	258	19	[tranquille]	tranquille	_	_	_	_	_	linguistic	_	_	_	End=752.652	_	_	_	0-9(55)
+258-18	BO021	258	18	belle	belle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+258-19	BO021	258	19	[tranquille]	tranquille	_	_	_	_	_	linguistic	_	_	_	End=752.652	_	_	_	0-10(55)
 259-0	BO047	259	0	[i	i	_	_	_	_	_	linguistic	_	_	_	Begin=751.32	_	_	_	0-1(55)
 259-1	BO047	259	1	ragazzi]?	ragazzi	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=752.643	_	_	_	0-7(55)
 260-0	BO021	260	0	mah,	mah	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=754.079	_	_	_	_
@@ -2840,8 +2840,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 363-8	BO046	363	8	vuoi	vuoi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 363-9	BO046	363	9	venire	venire	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 363-10	BO046	363	10	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-363-11	BO046	363	11	incontro	incontro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-8(92)
-363-12	BO046	363	12	[XXX]	xxx	_	_	_	_	_	linguistic	_	_	Volume=High	End=1041.458	_	_	_	0-2(92)
+363-11	BO046	363	11	incontro	incontro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+363-12	BO046	363	12	[XXX]	xxx	_	_	_	_	_	linguistic	_	_	Volume=High	End=1041.458	_	_	_	0-3(92)
 364-0	BO047	364	0	[ma]	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1040.442	_	_	_	0-2(92)
 364-1	BO047	364	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 364-2	BO047	364	2	incontro	incontro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -5046,7 +5046,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 666-8	BO021	666	8	studio	studio	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
 666-9	BO021	666	9	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
 666-10	BO021	666	10	via	via	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
-666-11	BO021	666	11	petroni<	petroni	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
+666-11	BO021	666	11	petroni<	petroni	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-7(0)	_	_
 666-12	BO021	666	12	ed	ed	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 666-13	BO021	666	13	aldrovandi.	aldrovandi	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1764.482	_	_	_	_
 667-0	BO047	667	0	ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1765.117	_	_	_	_
@@ -6281,12 +6281,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 869-4	BO021	869	4	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 869-5	BO021	869	5	tutta	tutta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 869-6	BO021	869	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-869-7	BO021	869	7	informa[tiva,	informativa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	5-11(220)
+869-7	BO021	869	7	informa[tiva,	informativa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	7-11(220)
 869-8	BO021	869	8	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(220)
 869-9	BO021	869	9	te	te	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(220)
 869-10	BO021	869	10	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(220)
 869-11	BO021	869	11	vuoi	vuoi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(220)
-869-12	BO021	869	12	leggere]	leggere	_	_	_	_	_	linguistic	_	_	_	End=2159.745	_	_	_	0-6(220)
+869-12	BO021	869	12	leggere]	leggere	_	_	_	_	_	linguistic	_	_	_	End=2159.745	_	_	_	0-7(220)
 870-0	BO046	870	0	[qua	qua	_	_	_	_	_	linguistic	_	_	_	Begin=2158.366	_	_	_	0-3(220)
 870-1	BO046	870	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(220)
 870-2	BO046	870	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(220)
@@ -7422,7 +7422,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1043-7	BO048	1043	7	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1043-8	BO048	1043	8	cos~	cos~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 1043-9	BO048	1043	9	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1043-10	BO048	1043	10	appun[tamento:],	appuntamento	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2639.301	11x1	_	_	3-12(4)
+1043-10	BO048	1043	10	appun[tamento:],	appuntamento	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2639.301	11x1	_	_	5-12(4)
 1044-0	BO021	1044	0	[a::h].	ah	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=2638.593	0x2	_	_	0-2(4)
 1044-1	BO021	1044	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1044-2	BO021	1044	2	vero	vero	_	_	_	_	_	linguistic	_	_	_	End=2640.209	_	_	_	_

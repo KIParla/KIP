@@ -80,7 +80,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 7-32	BO048	7	32	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
 7-33	BO048	7	33	giro	giro	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
 7-34	BO048	7	34	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
-7-35	BO048	7	35	tutti<	tutti	_	_	_	_	_	linguistic	_	_	_	End=23.76	_	Fast=0-4(0)	_	_
+7-35	BO048	7	35	tutti<	tutti	_	_	_	_	_	linguistic	_	_	_	End=23.76	_	Fast=0-5(0)	_	_
 8-0	BO021	8	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=23.77	_	_	_	_
 8-1	BO021	8	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 8-2	BO021	8	2	sapeva	sapeva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1046,7 +1046,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 157-6	BO071	157	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 157-7	BO071	157	7	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 157-8	BO071	157	8	ancora	ancora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-157-9	BO071	157	9	trova[ta]	trovata	_	_	_	_	_	linguistic	_	_	_	End=359.31	_	_	_	3-6(40)
+157-9	BO071	157	9	trova[ta]	trovata	_	_	_	_	_	linguistic	_	_	_	End=359.31	_	_	_	5-7(40)
 158-0	BO072	158	0	[quando]	quando	_	_	_	_	_	linguistic	_	_	_	Begin=358.7	_	_	_	0-6(40)
 158-1	BO072	158	1	mando	mando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 158-2	BO072	158	2	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

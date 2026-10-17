@@ -1646,7 +1646,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 95-11	BO100	95	11	>nella	nella	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
 95-12	BO100	95	12	storia	storia	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
 95-13	BO100	95	13	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-5(0)	_	_
-95-14	BO100	95	14	arte<	arte	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
+95-14	BO100	95	14	arte<	arte	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
 95-15	BO100	95	15	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 95-16	BO100	95	16	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 95-17	BO100	95	17	concentra	concentra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

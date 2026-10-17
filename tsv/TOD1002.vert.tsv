@@ -3047,7 +3047,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 519-32	TO004	519	32	signora	signora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 519-33	TO004	519	33	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 519-34	TO004	519	34	<novant'	novant'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Slow=0-7(0)	_	_
-519-35	TO004	519	35	a:nni>	anni	_	_	_	_	_	linguistic	_	_	_	End=1600.617	0x1	Slow=0-3(0)	_	_
+519-35	TO004	519	35	a:nni>	anni	_	_	_	_	_	linguistic	_	_	_	End=1600.617	0x1	Slow=0-4(0)	_	_
 520-0	TO004	520	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=1600.782	_	_	_	_
 520-1	TO004	520	1	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 520-2	TO004	520	2	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -7846,7 +7846,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1419-4	TO004	1419	4	idea	idea	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1419-5	TO004	1419	5	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1419-6	TO004	1419	6	informazione,	informazione	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
-1419-7	TO004	1419	7	<una>,	una	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=4251.479	_	Slow=0-2(0)	_	_
+1419-7	TO004	1419	7	<una>,	una	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=4251.479	_	Slow=0-3(0)	_	_
 1420-0	TO004	1420	0	rappresentazione	rappresentazione	_	_	_	_	_	linguistic	_	_	_	Begin=4252.868	_	_	_	_
 1420-1	TO004	1420	1	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1420-2	TO004	1420	2	sembra	sembra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

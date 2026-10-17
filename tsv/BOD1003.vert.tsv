@@ -8120,7 +8120,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 842-25	BO092	842	25	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-2(0)	_	_
 842-26	BO092	842	26	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
 842-27	BO092	842	27	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-2(0)	_	_
-842-28	BO092	842	28	aereoporto<	aereoporto	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-8(0)	_	_
+842-28	BO092	842	28	aereoporto<	aereoporto	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-10(0)	_	_
 842-29	BO092	842	29	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 842-30	BO092	842	30	dirne	dirne	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 842-31	BO092	842	31	una.	una	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=4577.69	_	_	_	_

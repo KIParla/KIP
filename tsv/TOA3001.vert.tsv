@@ -498,10 +498,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 63-5	TO033	63	5	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 63-6	TO033	63	6	coda	coda	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 63-7	TO033	63	7	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-63-8	TO033	63	8	paglia	paglia	_	_	_	_	_	linguistic	_	_	_	_	_	_	5-6(0)	_
+63-8	TO033	63	8	paglia	paglia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 63-9	TO033	63	9	(la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	_
 63-10	TO033	63	10	coscienza	coscienza	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-9(0)	_
-63-11	TO033	63	11	sporca)	sporca	_	_	_	_	_	linguistic	_	_	_	End=201.799	_	_	0-5(0)	_
+63-11	TO033	63	11	sporca)	sporca	_	_	_	_	_	linguistic	_	_	_	End=201.799	_	_	0-6(0)	_
 64-0	TO029	64	0	ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=203.716	_	_	_	_
 64-1	TO029	64	1	poi,	poi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=204.189	_	_	_	_
 65-0	TO029	65	0	il	il	_	_	_	_	_	linguistic	_	_	_	Begin=205.642	_	_	_	_
@@ -1406,7 +1406,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 163-3	TO034	163	3	estate	estate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 163-4	TO034	163	4	dopo	dopo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 163-5	TO034	163	5	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-163-6	TO034	163	6	doman[da]	domanda	_	_	_	_	_	linguistic	_	_	_	End=511.876	_	_	_	4-7(38)
+163-6	TO034	163	6	doman[da]	domanda	_	_	_	_	_	linguistic	_	_	_	End=511.876	_	_	_	5-7(38)
 164-0	TO029	164	0	[eh]	eh	_	_	_	_	_	linguistic	_	_	_	Begin=511.579|End=511.841	_	_	_	0-2(38)
 165-0	TO034	165	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=512.029|End=512.501	_	_	_	_
 166-0	TO034	166	0	ti	ti	_	_	_	_	_	linguistic	_	_	_	Begin=512.923	_	_	_	_
@@ -2683,7 +2683,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 304-9	TO034	304	9	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 304-10	TO034	304	10	prendersi	prendersi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 304-11	TO034	304	11	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-304-12	TO034	304	12	dottor[ato]	dottorato	_	_	_	_	_	linguistic	_	_	_	End=948.03	_	_	_	5-9(74)
+304-12	TO034	304	12	dottor[ato]	dottorato	_	_	_	_	_	linguistic	_	_	_	End=948.03	_	_	_	6-9(74)
 305-0	TO029	305	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=947.362	_	_	_	0-2(74)
 305-1	TO029	305	1	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 305-2	TO029	305	2	cioè::	cioè	_	_	_	_	_	linguistic	_	_	_	End=948.715	3x2	_	_	_
@@ -2961,7 +2961,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 347-1	TO034	347	1	ann~	ann~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 347-2	TO034	347	2	[cioè	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(88)
 347-3	TO034	347	3	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(88)
-347-4	TO034	347	4	anno]	anno	_	_	_	_	_	linguistic	_	_	_	End=1058.48	_	_	_	0-3(88)
+347-4	TO034	347	4	anno]	anno	_	_	_	_	_	linguistic	_	_	_	End=1058.48	_	_	_	0-4(88)
 348-0	TO029	348	0	[e	e	_	_	_	_	_	linguistic	_	_	_	Begin=1057.297	_	_	_	0-1(88)
 348-1	TO029	348	1	quelli	quelli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(88)
 348-2	TO029	348	2	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(88)
@@ -4133,7 +4133,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 484-2	TO033	484	2	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-1(0)	_
 484-3	TO033	484	3	on	on	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	_
 484-4	TO033	484	4	n'	n'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	0-2(0)	_
-484-5	TO033	484	5	a)	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+484-5	TO033	484	5	a)	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-1(0)	_
 484-6	TO033	484	6	rien	rien	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 484-7	TO033	484	7	compris	compris	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 484-8	TO033	484	8	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
@@ -4894,7 +4894,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 563-9	TO033	563	9	vorrei	vorrei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 563-10	TO033	563	10	fare	fare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 563-11	TO033	563	11	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-563-12	TO033	563	12	co[rso	corso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(183)
+563-12	TO033	563	12	co[rso	corso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(183)
 563-13	TO033	563	13	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(183)
 563-14	TO033	563	14	france]se	francese	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(183)
 563-15	TO033	563	15	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -5728,7 +5728,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 659-27	TO033	659	27	ritardo:::	ritardo	_	_	_	_	_	linguistic	_	_	_	End=1884.172	6x3	_	_	_
 660-0	TO033	660	0	di	di	_	_	_	_	_	linguistic	_	_	_	Begin=1884.856	_	_	_	_
 660-1	TO033	660	1	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-660-2	TO033	660	2	or[a:::]	ora	_	_	_	_	_	linguistic	_	_	_	End=1885.665	2x3	_	_	1-3(216)
+660-2	TO033	660	2	or[a:::]	ora	_	_	_	_	_	linguistic	_	_	_	End=1885.665	2x3	_	_	2-3(216)
 661-0	TO029	661	0	[se::]mpre	sempre	_	_	_	_	_	linguistic	_	_	_	Begin=1885.417|End=1885.994	1x2	_	_	0-2(216)
 662-0	TO033	662	0	al:::	al	_	_	_	_	_	linguistic	_	_	_	Begin=1886.203	1x3	_	_	_
 662-1	TO033	662	1	[xxx]	xxx	_	_	_	_	_	unknown	_	_	Syllables=3	End=1887.731	_	_	_	0-3(217)

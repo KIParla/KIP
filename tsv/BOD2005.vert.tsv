@@ -305,7 +305,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 45-9	BO021	45	9	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 45-10	BO021	45	10	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 45-11	BO021	45	11	cane::	cane	_	_	_	_	_	linguistic	_	_	_	_	3x2	_	_	_
-45-12	BO021	45	12	mau[rizio]?	maurizio	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=113.257	_	_	_	2-8(15)
+45-12	BO021	45	12	mau[rizio]?	maurizio	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=113.257	_	_	_	3-8(15)
 46-0	BO073	46	0	[eh:]	eh	_	_	_	_	_	linguistic	_	_	_	Begin=112.365|End=113.253	1x1	_	_	0-2(15)
 47-0	BO073	47	0	boh	boh	_	_	_	_	_	linguistic	_	_	_	Begin=113.392	_	_	_	_
 47-1	BO073	47	1	ah	ah	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -499,7 +499,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 67-11	BO073	67	11	cosa	cosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 67-12	BO073	67	12	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 67-13	BO073	67	13	metti	metti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-67-14	BO073	67	14	ch[e::]	che	_	_	_	_	_	linguistic	_	_	_	End=184.233	2x2	_	_	1-3(23)
+67-14	BO073	67	14	ch[e::]	che	_	_	_	_	_	linguistic	_	_	_	End=184.233	2x2	_	_	2-3(23)
 68-0	BO021	68	0	[(per	per	_	_	_	_	_	linguistic	_	_	_	Begin=184.02	_	_	0-3(0)	0-3(23)
 68-1	BO021	68	1	una)]	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-3(0)	0-3(23)
 68-2	BO021	68	2	casa	casa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -558,7 +558,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 75-11	BO021	75	11	p~	p~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 75-12	BO021	75	12	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 75-13	BO021	75	13	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-75-14	BO021	75	14	cam[biata]?	cambiata	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=201.13	_	_	_	1-7(26)
+75-14	BO021	75	14	cam[biata]?	cambiata	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=201.13	_	_	_	3-8(26)
 76-0	BO073	76	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=200.69	_	_	_	0-2(26)
 76-1	BO073	76	1	no]	no	_	_	_	_	_	linguistic	_	_	_	End=201.199	_	_	_	0-2(26)
 77-0	BO073	77	0	ho	ho	_	_	_	_	_	linguistic	_	_	_	Begin=201.76	_	_	_	_
@@ -1064,7 +1064,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 143-4	BO073	143	4	stavano	stavano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 143-5	BO073	143	5	ristrutturando	ristrutturando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 143-6	BO073	143	6	tutto::	tutto	_	_	_	_	_	linguistic	_	_	_	_	4x2	_	_	_
-143-7	BO073	143	7	han[no::]	hanno	_	_	_	_	_	linguistic	_	_	_	End=369.827	4x2	_	_	2-5(47)
+143-7	BO073	143	7	han[no::]	hanno	_	_	_	_	_	linguistic	_	_	_	End=369.827	4x2	_	_	3-5(47)
 144-0	BO021	144	0	[a:h]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=369.307|End=369.82	0x1	_	_	0-2(47)
 145-0	BO073	145	0	alzato::	alzato	_	_	_	_	_	linguistic	_	_	_	Begin=369.889	5x2	_	_	_
 145-1	BO073	145	1	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3470,7 +3470,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 471-23	BO021	471	23	vivere	vivere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 471-24	BO021	471	24	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 471-25	BO021	471	25	lui	lui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-471-26	BO021	471	26	anzitut[to]	anzitutto	_	_	_	_	_	linguistic	_	_	_	End=1184.149	_	_	_	6-9(129)
+471-26	BO021	471	26	anzitut[to]	anzitutto	_	_	_	_	_	linguistic	_	_	_	End=1184.149	_	_	_	7-9(129)
 472-0	BO073	472	0	allora,	allora	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=1181.376|End=1181.976	_	_	_	_
 473-0	BO073	473	0	[è	è	_	_	_	_	_	linguistic	_	_	_	Begin=1183.586	_	_	_	0-1(129)
 473-1	BO073	473	1	la]	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(129)
@@ -4668,9 +4668,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 638-4	BO021	638	4	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 638-5	BO021	638	5	ce	ce	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 638-6	BO021	638	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-638-7	BO021	638	7	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-3(41)
+638-7	BO021	638	7	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 638-8	BO021	638	8	[da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(41)
-638-9	BO021	638	9	poco],	poco	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1607.683	_	_	_	0-3(41)
+638-9	BO021	638	9	poco],	poco	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1607.683	_	_	_	0-4(41)
 639-0	BO073	639	0	[è	è	_	_	_	_	_	linguistic	_	_	_	Begin=1607.22	_	_	_	0-1(41)
 639-1	BO073	639	1	piccolo]	piccolo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(41)
 639-2	BO073	639	2	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -5568,7 +5568,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 763-5	BO072	763	5	vuole	vuole	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 763-6	BO072	763	6	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 763-7	BO072	763	7	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-763-8	BO072	763	8	accar[ezzi]	accarezzi	_	_	_	_	_	linguistic	_	_	_	End=1920.153	_	_	_	4-9(83)
+763-8	BO072	763	8	accar[ezzi]	accarezzi	_	_	_	_	_	linguistic	_	_	_	End=1920.153	_	_	_	5-9(83)
 764-0	BO073	764	0	[no].	no	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1919.89|End=1920.134	_	_	_	0-2(83)
 765-0	BO072	765	0	comunque	comunque	_	_	_	_	_	linguistic	_	_	_	Begin=1920.84	_	_	_	_
 765-1	BO072	765	1	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

@@ -438,7 +438,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 61-3	BO037	61	3	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 61-4	BO037	61	4	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 61-5	BO037	61	5	poco	poco	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-61-6	BO037	61	6	tend[enzialmente	tendenzialmente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-15(31)
+61-6	BO037	61	6	tend[enzialmente	tendenzialmente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-15(31)
 61-7	BO037	61	7	tutti	tutti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(31)
 61-8	BO037	61	8	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(31)
 61-9	BO037	61	9	lav~]	lav~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=142.668	_	_	_	0-4(31)
@@ -630,7 +630,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 88-4	BO037	88	4	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(46)
 88-5	BO037	88	5	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(46)
 88-6	BO037	88	6	proble]ma	problema	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(46)
-88-7	BO037	88	7	pe[rché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-6(48)
+88-7	BO037	88	7	pe[rché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(48)
 88-8	BO037	88	8	sono:]	sono	_	_	_	_	_	linguistic	_	_	_	End=202.267	3x1	_	_	0-4(48)
 89-0	BO026	89	0	[su	su	_	_	_	_	_	linguistic	_	_	_	Begin=201.236	_	_	_	0-2(48)
 89-1	BO026	89	1	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(48)
@@ -668,7 +668,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 93-10	BO037	93	10	accordo	accordo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 93-11	BO037	93	11	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 93-12	BO037	93	12	già	già	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-93-13	BO037	93	13	andat[a	andata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-6(51)
+93-13	BO037	93	13	andat[a	andata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(51)
 93-14	BO037	93	14	ricevimento],	ricevimento	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=214.885	_	_	_	0-11(51)
 94-0	BO026	94	0	[perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=213.656	_	_	_	0-6(51)
 94-1	BO026	94	1	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(51)
@@ -816,7 +816,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 109-13	BO026	109	13	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 109-14	BO026	109	14	servizio	servizio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 109-15	BO026	109	15	studenti	studenti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-109-16	BO026	109	16	disa[bili].	disabili	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=267.155	_	_	_	3-8(57)
+109-16	BO026	109	16	disa[bili].	disabili	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=267.155	_	_	_	4-8(57)
 110-0	BO037	110	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=266.775	_	_	_	0-2(57)
 110-1	BO037	110	1	m]h.	mh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=267.215	_	_	_	0-1(57)
 111-0	BO026	111	0	forse	forse	_	_	_	_	_	linguistic	_	_	_	Begin=267.306	_	_	_	_
@@ -902,10 +902,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 119-7	BO026	119	7	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 119-8	BO026	119	8	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 119-9	BO026	119	9	patto	patto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-119-10	BO026	119	10	ch[e	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-3(61)
+119-10	BO026	119	10	ch[e	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-3(61)
 119-11	BO026	119	11	sulla	sulla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(61)
 119-12	BO026	119	12	p]arte	parte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(61)
-119-13	BO026	119	13	specialistic[a:	specialistica	_	_	_	_	_	linguistic	_	_	_	_	12x1	_	_	11-13(62)
+119-13	BO026	119	13	specialistic[a:	specialistica	_	_	_	_	_	linguistic	_	_	_	_	12x1	_	_	12-13(62)
 119-14	BO026	119	14	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(62)
 119-15	BO026	119	15	docente	docente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(62)
 119-16	BO026	119	16	relatore	relatore	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(62)
@@ -1125,7 +1125,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 148-22	BO037	148	22	c]ultura	cultura	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(75)
 148-23	BO037	148	23	udente	udente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 148-24	BO037	148	24	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-148-25	BO037	148	25	com[un]que	comunque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(76)
+148-25	BO037	148	25	com[un]que	comunque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(76)
 148-26	BO037	148	26	cose	cose	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 148-27	BO037	148	27	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 148-28	BO037	148	28	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1160,7 +1160,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 152-18	BO037	152	18	insegnanti:	insegnanti	_	_	_	_	_	linguistic	_	_	_	_	9x1	_	_	_
 152-19	BO037	152	19	sia	sia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 152-20	BO037	152	20	sordi	sordi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-152-21	BO037	152	21	c[he	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(80)
+152-21	BO037	152	21	c[he	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-3(80)
 152-22	BO037	152	22	udenti].	udenti	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=382.226	_	_	_	0-6(80)
 153-0	BO026	153	0	[certo].	certo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=376.14|End=376.536	_	_	_	0-5(79)
 154-0	BO026	154	0	[deve	deve	_	_	_	_	_	linguistic	_	_	_	Begin=381.041	_	_	_	0-4(80)
@@ -1261,7 +1261,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 164-14	BO037	164	14	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 164-15	BO037	164	15	estate	estate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 164-16	BO037	164	16	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-164-17	BO037	164	17	diffi[cile],	difficile	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=414.591	_	_	_	4-9(89)
+164-17	BO037	164	17	diffi[cile],	difficile	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=414.591	_	_	_	5-9(89)
 165-0	BO026	165	0	[°sì.°]	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Volume=Low	Begin=410.025|End=410.203	_	_	_	0-2(88)
 166-0	BO026	166	0	[°mh	mh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes|Volume=Low	Begin=414.02	_	_	_	0-2(89)
 166-1	BO026	166	1	mh°]	mh	_	_	_	_	_	linguistic	_	_	Volume=Low	End=414.581	_	_	_	0-2(89)
@@ -1281,7 +1281,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 168-7	BO037	168	7	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 168-8	BO037	168	8	poi,	poi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=419.45	_	_	_	_
 169-0	BO026	169	0	°d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No|Volume=Low	Begin=419.885	_	_	_	_
-169-1	BO026	169	1	acc[ordo.°]	accordo	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Volume=Low	End=420.56	_	_	_	2-7(90)
+169-1	BO026	169	1	acc[ordo.°]	accordo	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Volume=Low	End=420.56	_	_	_	3-7(90)
 170-0	BO037	170	0	[e:]	e	_	_	_	_	_	linguistic	_	_	_	Begin=420.16	0x1	_	_	0-1(90)
 170-1	BO037	170	1	nel	nel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 170-2	BO037	170	2	frattempo	frattempo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

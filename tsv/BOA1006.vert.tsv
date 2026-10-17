@@ -86,8 +86,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 15-15	BO034	15	15	re~	re~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
 15-16	BO034	15	16	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 15-17	BO034	15	17	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-15-18	BO034	15	18	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(5)
-15-19	BO034	15	19	[relatric(e)],	relatrice	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=35.708	_	_	6-8(0)	0-9(5)
+15-18	BO034	15	18	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+15-19	BO034	15	19	[relatric(e)],	relatrice	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=35.708	_	_	8-9(0)	0-9(5)
 16-0	BO026	16	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=33.61	_	_	_	0-2(4)
 16-1	BO026	16	1	sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=33.99	_	_	_	0-2(4)
 17-0	BO026	17	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=34.946	_	_	_	0-2(5)
@@ -145,7 +145,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 21-10	BO026	21	10	già	già	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 21-11	BO026	21	11	chi	chi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 21-12	BO026	21	12	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-21-13	BO026	21	13	sostitui[sce].	sostituisce	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=51.268	_	_	_	7-11(9)
+21-13	BO026	21	13	sostitui[sce].	sostituisce	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=51.268	_	_	_	8-11(9)
 22-0	BO034	22	0	[no]	no	_	_	_	_	_	linguistic	_	_	_	Begin=50.99	_	_	_	0-2(9)
 22-1	BO034	22	1	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 22-2	BO034	22	2	[sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(10)
@@ -755,7 +755,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 102-7	BO026	102	7	di::	di	_	_	_	_	_	linguistic	_	_	_	_	1x2	_	_	_
 102-8	BO026	102	8	progetti	progetti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 102-9	BO026	102	9	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-102-10	BO026	102	10	in[terno	interno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-7(33)
+102-10	BO026	102	10	in[terno	interno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-7(33)
 102-11	BO026	102	11	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(33)
 102-12	BO026	102	12	prog]etti	progetti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(33)
 102-13	BO026	102	13	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1182,7 +1182,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 185-12	BO026	185	12	due	due	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 185-13	BO026	185	13	su	su	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 185-14	BO026	185	14	treviso	treviso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-185-15	BO026	185	15	l(e)	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	_
+185-15	BO026	185	15	l(e)	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	1-2(0)	_
 185-16	BO026	185	16	scuola	scuola	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 185-17	BO026	185	17	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 185-18	BO026	185	18	treviso,	treviso	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=476.063	_	_	_	_

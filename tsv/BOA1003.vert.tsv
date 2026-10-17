@@ -62,7 +62,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 11-3	BO026	11	3	italiano	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 11-4	BO026	11	4	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 11-5	BO026	11	5	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-11-6	BO026	11	6	stu[dio].	studio	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=20.946	_	_	_	2-6(4)
+11-6	BO026	11	6	stu[dio].	studio	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=20.946	_	_	_	3-6(4)
 12-0	BO032	12	0	[e:]	e	_	_	_	_	_	linguistic	_	_	_	Begin=20.715	0x1	_	_	0-1(4)
 12-1	BO032	12	1	questa	questa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 12-2	BO032	12	2	[parte],	parte	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=21.743	_	_	_	0-5(5)
@@ -318,7 +318,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 45-17	BO032	45	17	quello	quello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 45-18	BO032	45	18	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 45-19	BO032	45	19	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(26)
-45-20	BO032	45	20	appr]ofondim[ento]:	approfondimento	_	_	_	_	_	linguistic	_	_	_	_	14x1	_	_	0-4(26),10-15(23)
+45-20	BO032	45	20	appr]ofondim[ento]:	approfondimento	_	_	_	_	_	linguistic	_	_	_	_	14x1	_	_	0-4(26),11-15(23)
 45-21	BO032	45	21	metodologico.	metodologico	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=90.085	_	_	_	_
 46-0	BO026	46	0	[°sì.°]	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Volume=Low	Begin=86.051|End=86.235	_	_	_	0-2(25)
 47-0	BO026	47	0	[°sì.°]	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Volume=Low	Begin=88.353|End=88.629	_	_	_	0-2(26)
@@ -357,7 +357,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 53-8	BO032	53	8	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
 53-9	BO032	53	9	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-2(0)	_	_
 53-10	BO032	53	10	orale	orale	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
-53-11	BO032	53	11	port[ando]	portando	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-8(0)	_	3-8(30)
+53-11	BO032	53	11	port[ando]	portando	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-8(0)	_	4-8(30)
 53-12	BO032	53	12	questo<.	questo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=101.501	_	Fast=0-6(0)	_	_
 54-0	BO026	54	0	[va	va	_	_	_	_	_	linguistic	_	_	_	Begin=98.696	_	_	_	0-2(29)
 54-1	BO026	54	1	bene]?	bene	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=99.127	_	_	_	0-4(29)

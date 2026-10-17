@@ -1198,10 +1198,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 162-3	BO085	162	3	quest'	quest'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 162-4	BO085	162	4	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 162-5	BO085	162	5	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-162-6	BO085	162	6	u[no	uno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(40)
+162-6	BO085	162	6	u[no	uno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-3(40)
 162-7	BO085	162	7	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(40)
 162-8	BO085	162	8	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(40)
-162-9	BO085	162	9	pros]simo	prossimo	_	_	_	_	_	linguistic	_	_	_	End=352.34	_	_	_	0-3(40)
+162-9	BO085	162	9	pros]simo	prossimo	_	_	_	_	_	linguistic	_	_	_	End=352.34	_	_	_	0-4(40)
 163-0	BO082	163	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=351.374	_	_	_	0-2(40)
 163-1	BO082	163	1	sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=351.86	_	_	_	0-2(40)
 164-0	BO082	164	0	no	no	_	_	_	_	_	linguistic	_	_	_	Begin=352.369	_	_	_	_
@@ -1492,7 +1492,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 188-7	BO082	188	7	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 188-8	BO082	188	8	estero	estero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 188-9	BO082	188	9	[all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-4(47)
-188-10	BO082	188	10	università].	università	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=432.142	_	_	_	0-9(47)
+188-10	BO082	188	10	università].	università	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=432.142	_	_	_	0-10(47)
 189-0	BO085	189	0	[e:::]	e	_	_	_	_	_	linguistic	_	_	_	Begin=431.267	0x3	_	_	0-1(47)
 189-1	BO085	189	1	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 189-2	BO085	189	2	università	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1548,7 +1548,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 193-4	BO082	193	4	quella	quella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(48)
 193-5	BO082	193	5	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(48)
 193-6	BO082	193	6	ufficio	ufficio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(48)
-193-7	BO082	193	7	dida]ttico	didattico	_	_	_	_	_	linguistic	_	_	_	End=447.58	_	_	_	0-3(48)
+193-7	BO082	193	7	dida]ttico	didattico	_	_	_	_	_	linguistic	_	_	_	End=447.58	_	_	_	0-4(48)
 194-0	BO085	194	0	okay.	okay	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=447.61|End=448.051	_	_	_	_
 195-0	BO085	195	0	era	era	_	_	_	_	_	linguistic	_	_	_	Begin=448.051	_	_	_	_
 195-1	BO085	195	1	que	que	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

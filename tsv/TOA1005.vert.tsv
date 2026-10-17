@@ -72,7 +72,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 7-14	TO076	7	14	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(3)
 7-15	TO076	7	15	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-3(3)
 7-16	TO076	7	16	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(3)
-7-17	TO076	7	17	studentessa]	studentessa	_	_	_	_	_	linguistic	_	_	_	End=17.859	_	_	_	0-10(3)
+7-17	TO076	7	17	studentessa]	studentessa	_	_	_	_	_	linguistic	_	_	_	End=17.859	_	_	_	0-11(3)
 8-0	TO075	8	0	[bravissima,	bravissima	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=16.582	_	_	_	0-10(3)
 8-1	TO075	8	1	bravissima	bravissima	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-10(3)
 8-2	TO075	8	2	>adesso<]	adesso	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	0-6(3)
@@ -234,7 +234,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 29-7	TO076	29	7	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 29-8	TO076	29	8	india	india	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 29-9	TO076	29	9	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-29-10	TO076	29	10	f[osse	fosse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(11)
+29-10	TO076	29	10	f[osse	fosse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(11)
 29-11	TO076	29	11	possibile]	possibile	_	_	_	_	_	linguistic	_	_	_	End=65.597	_	_	_	0-9(11)
 30-0	TO075	30	0	[(molto)	molto	_	_	_	_	_	linguistic	_	_	_	Begin=62.502	_	_	0-5(0)	0-5(10)
 30-1	TO075	30	1	xx]	xx	_	_	_	_	_	unknown	_	_	Syllables=2	End=63.276	_	_	_	0-2(10)
@@ -1713,8 +1713,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 267-8	TO076	267	8	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 267-9	TO076	267	9	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 267-10	TO076	267	10	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-267-11	TO076	267	11	assolutamente	assolutamente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	12-13(59)
-267-12	TO076	267	12	[problema]	problema	_	_	_	_	_	linguistic	_	_	_	End=607.87	_	_	_	0-7(59)
+267-11	TO076	267	11	assolutamente	assolutamente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+267-12	TO076	267	12	[problema]	problema	_	_	_	_	_	linguistic	_	_	_	End=607.87	_	_	_	0-8(59)
 268-0	TO075	268	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=607.173	_	_	_	0-2(59)
 268-1	TO075	268	1	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(59)
 268-2	TO075	268	2	ma]	ma	_	_	_	_	_	linguistic	_	_	_	End=607.877	_	_	_	0-2(59)

@@ -737,7 +737,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 128-4	BO082	128	4	secondo	secondo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 128-5	BO082	128	5	me	me	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 128-6	BO082	128	6	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-128-7	BO082	128	7	lura[ghi],	luraghi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=260.5	_	_	_	3-7(31)
+128-7	BO082	128	7	lura[ghi],	luraghi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=260.5	_	_	_	4-7(31)
 129-0	BO084	129	0	[però]	però	_	_	_	_	_	linguistic	_	_	_	Begin=260.12	_	_	_	0-4(31)
 129-1	BO084	129	1	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 129-2	BO084	129	2	[posso]:::	posso	_	_	_	_	_	linguistic	_	_	_	_	4x3	_	_	0-5(32)
@@ -831,7 +831,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 142-14	BO084	142	14	ad	ad	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 142-15	BO084	142	15	esempio	esempio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 142-16	BO084	142	16	movimenti	movimenti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-142-17	BO084	142	17	femmi[nisti].	femministi	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=287.406	_	_	_	4-10(38)
+142-17	BO084	142	17	femmi[nisti].	femministi	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=287.406	_	_	_	5-10(38)
 143-0	BO082	143	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=286.875	_	_	_	0-2(38)
 143-1	BO082	143	1	però	però	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 143-2	BO082	143	2	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1224,7 +1224,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 204-3	BO084	204	3	quelli	quelli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 204-4	BO084	204	4	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 204-5	BO084	204	5	alma	alma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-204-6	BO084	204	6	saba[ti]ni.	sabatini	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=414.939	_	_	_	3-6(54)
+204-6	BO084	204	6	saba[ti]ni.	sabatini	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=414.939	_	_	_	4-6(54)
 205-0	BO082	205	0	[e:]?	e	_	_	_	_	_	linguistic	_	_	Intonation=Rising	Begin=413.28|End=413.54	0x1	_	_	0-1(53)
 206-0	BO082	206	0	[poi],	poi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=414.36|End=414.71	_	_	_	0-3(54)
 207-0	BO082	207	0	può	può	_	_	_	_	_	linguistic	_	_	_	Begin=415.477	_	_	_	_

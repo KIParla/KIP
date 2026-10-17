@@ -1479,7 +1479,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 208-11	BO148	208	11	parte	parte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 208-12	BO148	208	12	tanto	tanto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 208-13	BO148	208	13	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-208-14	BO148	208	14	indipen[dente	indipendente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-12(51)
+208-14	BO148	208	14	indipen[dente	indipendente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-12(51)
 208-15	BO148	208	15	do]ve	dove	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(51)
 208-16	BO148	208	16	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 208-17	BO148	208	17	facesse	facesse	_	_	_	_	_	linguistic	_	_	_	End=416.798	_	_	_	_
@@ -2018,7 +2018,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 288-1	BO148	288	1	sarebbe	sarebbe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 288-2	BO148	288	2	stato	stato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 288-3	BO148	288	3	qualcos'	qualcos'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-288-4	BO148	288	4	alt[ro]	altro	_	_	_	_	_	linguistic	_	_	_	End=570.362	_	_	_	2-5(69)
+288-4	BO148	288	4	alt[ro]	altro	_	_	_	_	_	linguistic	_	_	_	End=570.362	_	_	_	3-5(69)
 289-0	BO139	289	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=570.145	_	_	_	0-2(69)
 289-1	BO139	289	1	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 289-2	BO139	289	2	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2437,7 +2437,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 352-5	BO148	352	5	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 352-6	BO148	352	6	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 352-7	BO148	352	7	[dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(90)
-352-8	BO148	352	8	i]nnamoramento	innamoramento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+352-8	BO148	352	8	i]nnamoramento	innamoramento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(90)
 352-9	BO148	352	9	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=689.374	_	_	_	_
 353-0	BO139	353	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=688.132|End=688.49	_	_	_	0-2(90)
 354-0	BO148	354	0	o	o	_	_	_	_	_	linguistic	_	_	_	Begin=689.374	_	_	_	_
@@ -2725,7 +2725,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 402-20	BO148	402	20	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 402-21	BO148	402	21	germania	germania	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 402-22	BO148	402	22	dal	dal	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-402-23	BO148	402	23	profe[ssore]	professore	_	_	_	_	_	linguistic	_	_	_	End=774.699	_	_	_	4-10(105)
+402-23	BO148	402	23	profe[ssore]	professore	_	_	_	_	_	linguistic	_	_	_	End=774.699	_	_	_	5-10(105)
 403-0	BO139	403	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=774.17|End=774.665	_	_	_	0-2(105)
 404-0	BO148	404	0	boh	boh	_	_	_	_	_	linguistic	_	_	_	Begin=775.989|End=776.339	_	_	_	_
 405-0	BO148	405	0	perché:	perché	_	_	_	_	_	linguistic	_	_	_	Begin=776.533	5x1	_	_	_

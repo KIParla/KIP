@@ -3426,7 +3426,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 412-4	BO103	412	4	sovraimporre.	sovraimporre	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
 412-5	BO103	412	5	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 412-6	BO103	412	6	super	super	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-412-7	BO103	412	7	im[porre]	imporre	_	_	_	_	_	linguistic	_	_	_	End=1858.2	_	_	_	1-7(9)
+412-7	BO103	412	7	im[porre]	imporre	_	_	_	_	_	linguistic	_	_	_	End=1858.2	_	_	_	2-7(9)
 413-0	??	413	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1857.9	_	_	_	0-2(9)
 413-1	??	413	1	va]bbè.	vabbè	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1858.593	_	_	_	0-2(9)
 414-0	BO103	414	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=1858.56	_	_	_	_
@@ -6741,7 +6741,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 840-8	BO103	840	8	>qui	qui	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
 840-9	BO103	840	9	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
 840-10	BO103	840	10	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-2(0)	_	_
-840-11	BO103	840	11	è<	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+840-11	BO103	840	11	è<	è	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
 840-12	BO103	840	12	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 840-13	BO103	840	13	semplicemente	semplicemente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 840-14	BO103	840	14	una,	una	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_

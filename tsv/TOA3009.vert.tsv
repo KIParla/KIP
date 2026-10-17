@@ -128,9 +128,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 16-5	TO052	16	5	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 16-6	TO052	16	6	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 16-7	TO052	16	7	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-16-8	TO052	16	8	mo[t~	mot~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-4(5)
+16-8	TO052	16	8	mo[t~	mot~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	2-4(5)
 16-9	TO052	16	9	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(5)
-16-10	TO052	16	10	s]ono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+16-10	TO052	16	10	s]ono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(5)
 16-11	TO052	16	11	vari	vari	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 16-12	TO052	16	12	motivi	motivi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 16-13	TO052	16	13	secondo	secondo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -289,7 +289,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 34-8	TO052	34	8	figlio	figlio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 34-9	TO052	34	9	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 34-10	TO052	34	10	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-34-11	TO052	34	11	pad[re],	padre	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=96.275	_	_	_	2-5(8)
+34-11	TO052	34	11	pad[re],	padre	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=96.275	_	_	_	3-5(8)
 35-0	TO053	35	0	[figli	figli	_	_	_	_	_	linguistic	_	_	_	Begin=96.101	_	_	_	0-5(8)
 35-1	TO053	35	1	d]'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-1(8)
 35-2	TO053	35	2	arte	arte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -588,7 +588,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 70-6	TO052	70	6	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 70-7	TO052	70	7	ascoltato	ascoltato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 70-8	TO052	70	8	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-70-9	TO052	70	9	dett[o	detto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(19)
+70-9	TO052	70	9	dett[o	detto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(19)
 70-10	TO052	70	10	okay],	okay	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=200.715	_	_	_	0-4(19)
 71-0	TO048	71	0	[°e	e	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=199.835	_	_	_	0-1(19)
 71-1	TO048	71	1	poi	poi	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	0-3(19)
@@ -2313,7 +2313,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 323-9	TO052	323	9	chiamato	chiamato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 323-10	TO052	323	10	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 323-11	TO052	323	11	corazzata	corazzata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-323-12	TO052	323	12	k[otiomkin	kotiomkin	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-9(83)
+323-12	TO052	323	12	k[otiomkin	kotiomkin	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-9(83)
 323-13	TO052	323	13	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(83)
 323-14	TO052	323	14	i]nvece	invece	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(83)
 323-15	TO052	323	15	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2322,7 +2322,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 323-18	TO052	323	18	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 323-19	TO052	323	19	altro	altro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 323-20	TO052	323	20	nome	nome	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-323-21	TO052	323	21	molt[o	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(84)
+323-21	TO052	323	21	molt[o	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(84)
 323-22	TO052	323	22	simile].	simile	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=911.914	_	_	_	0-6(84)
 324-0	TO053	324	0	[davvero]?	davvero	_	_	_	_	_	linguistic	_	_	Intonation=Rising	Begin=903.486|End=904.538	_	_	_	0-7(82)
 325-0	TO048	325	0	[kotiomkin	kotiomkin	_	_	_	_	_	linguistic	_	_	_	Begin=907.286	_	_	_	0-9(83)
@@ -2855,7 +2855,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 425-5	TO052	425	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No|Volume=Low	_	_	_	_	_
 425-6	TO052	425	6	hai	hai	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
 425-7	TO052	425	7	cancellata	cancellata	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
-425-8	TO052	425	8	veram[ente?°]	veramente	_	_	_	_	_	linguistic	_	_	Intonation=Rising|Volume=Low	End=1215.693	_	_	_	4-9(103)
+425-8	TO052	425	8	veram[ente?°]	veramente	_	_	_	_	_	linguistic	_	_	Intonation=Rising|Volume=Low	End=1215.693	_	_	_	5-9(103)
 426-0	TO048	426	0	[no].	no	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1215.285|End=1215.683	_	_	_	0-2(103)
 427-0	TO052	427	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=1217.196	_	_	_	_
 427-1	TO052	427	1	cancellare.	cancellare	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1218.155	_	_	_	_
@@ -3048,11 +3048,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 460-11	TO052	460	11	quando	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(107)
 460-12	TO052	460	12	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(107)
 460-13	TO052	460	13	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(107)
-460-14	TO052	460	14	la]	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(107)
+460-14	TO052	460	14	la]	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(107)
 460-15	TO052	460	15	svolta	svolta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 460-16	TO052	460	16	religiosa	religiosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-460-17	TO052	460	17	tipo	tipo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-4(108)
-460-18	TO052	460	18	[pseudoreligio]sa,	pseudoreligiosa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1304.207	_	_	_	0-12(108)
+460-17	TO052	460	17	tipo	tipo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+460-18	TO052	460	18	[pseudoreligio]sa,	pseudoreligiosa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1304.207	_	_	_	0-13(108)
 461-0	TO048	461	0	[infatti	infatti	_	_	_	_	_	linguistic	_	_	_	Begin=1298.595	_	_	_	0-7(107)
 461-1	TO048	461	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(107)
 461-2	TO048	461	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(107)
@@ -3063,7 +3063,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 461-7	TO048	461	7	letto	letto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(107)
 461-8	TO048	461	8	pure	pure	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(107)
 461-9	TO048	461	9	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(107)
-461-10	TO048	461	10	alchi~]	alchi~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=1300.957	_	_	_	0-5(107)
+461-10	TO048	461	10	alchi~]	alchi~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=1300.957	_	_	_	0-6(107)
 462-0	TO048	462	0	[che	che	_	_	_	_	_	linguistic	_	_	_	Begin=1302.531	_	_	_	0-3(108)
 462-1	TO048	462	1	però	però	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-4(108)
 462-2	TO048	462	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(108)

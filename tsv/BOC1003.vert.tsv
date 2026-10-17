@@ -782,7 +782,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 96-6	BO090	96	6	al	al	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 96-7	BO090	96	7	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 96-8	BO090	96	8	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-96-9	BO090	96	9	in[terno	interno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-7(31)
+96-9	BO090	96	9	in[terno	interno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-7(31)
 96-10	BO090	96	10	quin]di:::,	quindi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=272.69	5x3	_	_	0-4(31)
 97-0	BO087	97	0	[venti	venti	_	_	_	_	_	linguistic	_	_	_	Begin=268.632	_	_	_	0-5(30)
 97-1	BO087	97	1	pagine	pagine	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(30)
@@ -837,14 +837,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 103-4	BO090	103	4	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(33)
 103-5	BO090	103	5	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(33)
 103-6	BO090	103	6	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(33)
-103-7	BO090	103	7	il]	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(33)
+103-7	BO090	103	7	il]	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(33)
 103-8	BO090	103	8	libro	libro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 103-9	BO090	103	9	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 103-10	BO090	103	10	vuole::	vuole	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	4x2	_	_	_
 103-11	BO090	103	11	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-103-12	BO090	103	12	vederlo	vederlo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-7(34)
+103-12	BO090	103	12	vederlo	vederlo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 103-13	BO090	103	13	[poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(34)
-103-14	BO090	103	14	dopo].	dopo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=283.047	_	_	_	0-3(34)
+103-14	BO090	103	14	dopo].	dopo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=283.047	_	_	_	0-4(34)
 104-0	BO087	104	0	[sì,	sì	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	Begin=282.51	_	_	_	0-2(34)
 104-1	BO087	104	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(34)
 104-2	BO087	104	2	sì],	sì	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	0-2(34)
@@ -1225,8 +1225,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 144-8	BO087	144	8	damnatio	damnatio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(48)
 144-9	BO087	144	9	memoria]	memoria	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(48)
 144-10	BO087	144	10	nella	nella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-144-11	BO087	144	11	bologn[a	bologna	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-7(45)
-144-12	BO087	144	12	co]mu[nista	comunista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(45),3-9(47)
+144-11	BO087	144	11	bologn[a	bologna	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-7(45)
+144-12	BO087	144	12	co]mu[nista	comunista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(45),4-9(47)
 144-13	BO087	144	13	post~	post~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-5(47)
 144-14	BO087	144	14	fasc]ista	fascista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(47)
 144-15	BO087	144	15	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=402.166	_	_	_	_
@@ -2468,7 +2468,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 294-7	BO090	294	7	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 294-8	BO090	294	8	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 294-9	BO090	294	9	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-294-10	BO090	294	10	ne[l	nel	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	_	_	_	1-3(82)
+294-10	BO090	294	10	ne[l	nel	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	_	_	_	2-3(82)
 294-11	BO090	294	11	e:h],	eh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=774.16	0x1	_	_	0-2(82)
 295-0	BO087	295	0	[o	o	_	_	_	_	_	linguistic	_	_	_	Begin=773.83	_	_	_	0-1(82)
 295-1	BO087	295	1	al	al	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(82)
@@ -2490,7 +2490,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 296-14	BO090	296	14	logica	logica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(83)
 296-15	BO090	296	15	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(83)
 296-16	BO090	296	16	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(83)
-296-17	BO090	296	17	vis]t[o:::	visto	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	4x3	_	_	0-3(83),3-5(84)
+296-17	BO090	296	17	vis]t[o:::	visto	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	4x3	_	_	0-3(83),4-5(84)
 296-18	BO090	296	18	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(84)
 296-19	BO090	296	19	no],	no	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=780.3	_	_	_	0-2(84)
 297-0	BO087	297	0	((sbadiglia))	((sbadiglia))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=776.769	_	_	_	_
@@ -3145,7 +3145,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 375-5	BO090	375	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 375-6	BO090	375	6	altro	altro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 375-7	BO090	375	7	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-375-8	BO090	375	8	co[munque	comunque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-8(99)
+375-8	BO090	375	8	co[munque	comunque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-8(99)
 375-9	BO090	375	9	lo],	lo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=993.961	_	_	_	0-2(99)
 376-0	BO087	376	0	[e:h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=993.61	0x1	_	_	0-2(99)
 376-1	BO087	376	1	lo]	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(99)
@@ -3172,7 +3172,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 377-19	BO090	377	19	molti	molti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 377-20	BO090	377	20	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 377-21	BO090	377	21	direttori:::	direttori	_	_	_	_	_	linguistic	_	_	_	_	8x3	_	_	_
-377-22	BO090	377	22	venn[ero],	vennero	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1001.4	_	_	_	3-7(100)
+377-22	BO090	377	22	venn[ero],	vennero	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1001.4	_	_	_	4-7(100)
 378-0	BO087	378	0	[a	a	_	_	_	_	_	linguistic	_	_	_	Begin=1001.27	_	_	_	0-1(100)
 378-1	BO087	378	1	pa]rma	parma	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-2(100)
 378-2	BO087	378	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
@@ -3617,7 +3617,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 441-14	BO087	441	14	indice,	indice	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 441-15	BO087	441	15	roma::na,	romana	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	3x2	_	_	_
 441-16	BO087	441	16	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-441-17	BO087	441	17	[mh],	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1165.012	_	_	_	0-1(110)
+441-17	BO087	441	17	[mh],	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1165.012	_	_	_	0-2(110)
 442-0	BO090	442	0	[mh].	mh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1163.132|End=1163.461	_	_	_	0-2(109)
 443-0	BO090	443	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1164.629	_	_	_	0-2(110)
 443-1	BO090	443	1	sì],	sì	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1165.015	_	_	_	0-2(110)
@@ -3679,7 +3679,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 451-5	BO087	451	5	elemento	elemento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 451-6	BO087	451	6	importante,	importante	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 451-7	BO087	451	7	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-451-8	BO087	451	8	orientamen[to	orientamento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	9-12(113)
+451-8	BO087	451	8	orientamen[to	orientamento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	10-12(113)
 451-9	BO087	451	9	della]	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(113)
 451-10	BO087	451	10	lettura:,	lettura	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1189.37	6x1	_	_	_
 452-0	BO090	452	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1188.165	_	_	_	0-2(113)

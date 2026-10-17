@@ -1234,7 +1234,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 226-3	TO085	226	3	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 226-4	TO085	226	4	sole	sole	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 226-5	TO085	226	5	due	due	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-226-6	TO085	226	6	setti[mane	settimane	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-9(38)
+226-6	TO085	226	6	setti[mane	settimane	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-9(38)
 226-7	TO085	226	7	fa]	fa	_	_	_	_	_	linguistic	_	_	_	End=655.446	_	_	_	0-2(38)
 227-0	TO086	227	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=654.748	_	_	_	0-2(38)
 227-1	TO086	227	1	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(38)
@@ -1282,7 +1282,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 234-9	TO086	234	9	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 234-10	TO086	234	10	studio	studio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 234-11	TO086	234	11	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-234-12	TO086	234	12	pi[ù::]	più	_	_	_	_	_	linguistic	_	_	_	End=667.549	2x2	_	_	0-3(41)
+234-12	TO086	234	12	pi[ù::]	più	_	_	_	_	_	linguistic	_	_	_	End=667.549	2x2	_	_	2-3(41)
 235-0	TO085	235	0	[m:h]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=667.186|End=667.549	0x1	_	_	0-2(41)
 236-0	TO085	236	0	poi	poi	_	_	_	_	_	linguistic	_	_	_	Begin=707.096	_	_	_	_
 236-1	TO085	236	1	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1532,7 +1532,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 281-2	TO085	281	2	riallocazione	riallocazione	_	_	_	_	_	linguistic	_	_	_	End=836.347	_	_	_	_
 282-0	TO086	282	0	anch'	anch'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=837.249	_	_	_	_
 282-1	TO086	282	1	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-282-2	TO086	282	2	s[tavo	stavo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(49)
+282-2	TO086	282	2	s[tavo	stavo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(49)
 282-3	TO086	282	3	pensando]	pensando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(49)
 282-4	TO086	282	4	magari::	magari	_	_	_	_	_	linguistic	_	_	_	End=839.604	5x2	_	_	_
 283-0	TO085	283	0	[ve:ro]?	vero	_	_	_	_	_	linguistic	_	_	Intonation=Rising	Begin=837.752|End=838.657	1x1	_	_	0-4(49)
@@ -1618,7 +1618,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 298-10	TO086	298	10	solito	solito	_	_	_	_	_	linguistic	_	_	_	End=888.952	_	_	_	_
 299-0	TO086	299	0	dev'	dev'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=888.976	_	_	_	_
 299-1	TO086	299	1	essere	essere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-299-2	TO086	299	2	buonis[sima]	buonissima	_	_	_	_	_	linguistic	_	_	_	End=890.134	_	_	_	5-10(51)
+299-2	TO086	299	2	buonis[sima]	buonissima	_	_	_	_	_	linguistic	_	_	_	End=890.134	_	_	_	6-10(51)
 300-0	TO085	300	0	[buoni]ssima	buonissima	_	_	_	_	_	linguistic	_	_	_	Begin=889.653|End=890.758	_	_	_	0-5(51)
 301-0	TO086	301	0	no	no	_	_	_	_	_	linguistic	_	_	_	Begin=890.96	_	_	_	_
 301-1	TO086	301	1	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

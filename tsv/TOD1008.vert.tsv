@@ -6492,7 +6492,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1261-5	TO062	1261	5	farete	farete	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1261-6	TO062	1261	6	quest'	quest'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1261-7	TO062	1261	7	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1261-8	TO062	1261	8	pe[rò]	però	_	_	_	_	_	linguistic	_	_	_	End=2996.33	_	_	_	1-4(1)
+1261-8	TO062	1261	8	pe[rò]	però	_	_	_	_	_	linguistic	_	_	_	End=2996.33	_	_	_	2-4(1)
 1262-0	??	1262	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2996.143|End=2996.333	_	_	_	0-2(1)
 1263-0	TO062	1263	0	va	va	_	_	_	_	_	linguistic	_	_	_	Begin=2996.426	_	_	_	_
 1263-1	TO062	1263	1	bene.	bene	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2996.926	_	_	_	_

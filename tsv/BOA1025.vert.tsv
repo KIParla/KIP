@@ -631,7 +631,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 128-16	BO005	128	16	visto	visto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 128-17	BO005	128	17	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 128-18	BO005	128	18	nella:	nella	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	_
-128-19	BO005	128	19	(guide),	guide	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=214.75	_	_	0-4(0)	_
+128-19	BO005	128	19	(guide),	guide	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=214.75	_	_	0-5(0)	_
 129-0	BO117	129	0	esatto.	esatto	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=214.95|End=215.59	_	_	_	_
 130-0	BO005	130	0	lo	lo	_	_	_	_	_	linguistic	_	_	_	Begin=215.641	_	_	_	_
 130-1	BO005	130	1	posso	posso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -713,10 +713,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 143-11	BO005	143	11	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 143-12	BO005	143	12	introduzione	introduzione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 143-13	BO005	143	13	conclusione	conclusione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-143-14	BO005	143	14	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	1-2(0)	_
-143-15	BO005	143	15	(po')	po'	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	_
-143-16	BO005	143	16	°o	o	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	0-1(40)
-143-17	BO005	143	17	[semplicemente],°	semplicemente	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|Volume=Low	End=246.0	_	_	_	0-12(40)
+143-14	BO005	143	14	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+143-15	BO005	143	15	(po')	po'	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-3(0)	_
+143-16	BO005	143	16	°o	o	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
+143-17	BO005	143	17	[semplicemente],°	semplicemente	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|Volume=Low	End=246.0	_	_	_	0-13(40)
 144-0	BO117	144	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=245.33	_	_	_	0-2(40)
 144-1	BO117	144	1	no]é	noé	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(40)
 144-2	BO117	144	2	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

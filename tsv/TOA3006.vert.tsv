@@ -605,7 +605,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 67-30	TO030	67	30	che:	che	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
 67-31	TO030	67	31	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 67-32	TO030	67	32	fregano	fregano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-67-33	TO030	67	33	fondamental[mente],	fondamentalmente	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=184.357	_	_	_	9-15(38)
+67-33	TO030	67	33	fondamental[mente],	fondamentalmente	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=184.357	_	_	_	11-16(38)
 68-0	TO054	68	0	[esat]to.	esatto	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=183.94|End=184.629	_	_	_	0-4(38)
 69-0	TO030	69	0	no	no	_	_	_	_	_	linguistic	_	_	_	Begin=184.616	_	_	_	_
 69-1	TO030	69	1	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1139,7 +1139,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 109-15	TO030	109	15	sentito	sentito	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 109-16	TO030	109	16	cos'	cos'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 109-17	TO030	109	17	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-109-18	TO030	109	18	det[to:	detto	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	2-5(62)
+109-18	TO030	109	18	det[to:	detto	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	3-5(62)
 109-19	TO030	109	19	alla,	alla	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-4(62)
 109-20	TO030	109	20	al	al	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	_	_	_	0-2(62)
 109-21	TO030	109	21	e:h	eh	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	0-2(62)
@@ -1499,8 +1499,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 134-25	TO030	134	25	centro	centro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 134-26	TO030	134	26	sperimentale,	sperimentale	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 134-27	TO030	134	27	però:	però	_	_	_	_	_	linguistic	_	_	_	_	3x1	_	_	_
-134-28	TO030	134	28	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-2(75)
-134-29	TO030	134	29	[lombar]dia,	lombardia	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=437.762	_	_	_	0-5(75)
+134-28	TO030	134	28	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+134-29	TO030	134	29	[lombar]dia,	lombardia	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=437.762	_	_	_	0-6(75)
 135-0	TO054	135	0	[sì],	sì	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=437.25|End=437.525	_	_	_	0-2(75)
 136-0	TO030	136	0	vuole	vuole	_	_	_	_	_	linguistic	_	_	_	Begin=438.176	_	_	_	_
 136-1	TO030	136	1	provare	provare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1610,7 +1610,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 141-17	TO030	141	17	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 141-18	TO030	141	18	vinto	vinto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 141-19	TO030	141	19	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-141-20	TO030	141	20	ro[ba,	roba	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	1-4(78)
+141-20	TO030	141	20	ro[ba,	roba	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	2-4(78)
 141-21	TO030	141	21	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(78)
 141-22	TO030	141	22	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(78)
 141-23	TO030	141	23	le]i	lei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(78)
@@ -1672,7 +1672,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 144-28	TO030	144	28	real~	real~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 144-29	TO030	144	29	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 144-30	TO030	144	30	poco	poco	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-144-31	TO030	144	31	reali[stico],	realistico	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=480.586	_	_	_	4-10(80)
+144-31	TO030	144	31	reali[stico],	realistico	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=480.586	_	_	_	5-10(80)
 145-0	TO054	145	0	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=480.136|End=480.641	_	_	_	0-2(80)
 146-0	TO054	146	0	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=480.972|End=481.551	_	_	_	0-2(81)
 147-0	TO030	147	0	[cioè].	cioè	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=480.977	_	_	_	0-4(81)
@@ -1752,10 +1752,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 150-26	TO030	150	26	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 150-27	TO030	150	27	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 150-28	TO030	150	28	prossimo,	prossimo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
-150-29	TO030	150	29	>(gli)	gli	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	0-2(0)	_
+150-29	TO030	150	29	>(gli)	gli	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	0-3(0)	_
 150-30	TO030	150	30	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
 150-31	TO030	150	31	detto	detto	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
-150-32	TO030	150	32	rossana<,	rossana	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	Fast=0-6(0)	_	_
+150-32	TO030	150	32	rossana<,	rossana	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	Fast=0-7(0)	_	_
 150-33	TO030	150	33	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 150-34	TO030	150	34	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 150-35	TO030	150	35	già	già	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2625,10 +2625,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 216-8	TO030	216	8	fini~	fini~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 216-9	TO030	216	9	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 216-10	TO030	216	10	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-216-11	TO030	216	11	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-4(108)
+216-11	TO030	216	11	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 216-12	TO030	216	12	[scolastico	scolastico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-10(108)
 216-13	TO030	216	13	tra	tra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(108)
-216-14	TO030	216	14	virgole~],	virgole~	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|Interrupted=Yes	End=754.31	_	_	_	0-7(108)
+216-14	TO030	216	14	virgole~],	virgole~	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|Interrupted=Yes	End=754.31	_	_	_	0-8(108)
 217-0	TO054	217	0	[quindi,	quindi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	Begin=753.059	_	_	_	0-6(108)
 217-1	TO054	217	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(108)
 217-2	TO054	217	2	quindi]	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(108)
@@ -2936,7 +2936,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 238-17	TO054	238	17	te	te	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 238-18	TO054	238	18	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 238-19	TO054	238	19	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-238-20	TO054	238	20	porta[ta.	portata	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	4-7(115)
+238-20	TO054	238	20	porta[ta.	portata	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	5-7(115)
 238-21	TO054	238	21	adesso],	adesso	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=853.984	_	_	_	0-6(115)
 239-0	TO030	239	0	[sì,	sì	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=850.518	_	_	_	0-2(116)
 239-1	TO030	239	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(116)
@@ -3309,7 +3309,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 268-1	TO030	268	1	è	è	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	_	_	_	_
 268-2	TO030	268	2	una:::	una	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	2x3	_	_	_
 268-3	TO030	268	3	alta	alta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-268-4	TO030	268	4	pos[sibilità:::]	possibilità	_	_	_	_	_	linguistic	_	_	_	_	10x3	_	_	2-11(131)
+268-4	TO030	268	4	pos[sibilità:::]	possibilità	_	_	_	_	_	linguistic	_	_	_	_	10x3	_	_	3-11(131)
 268-5	TO030	268	5	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 268-6	TO030	268	6	c~	c~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 268-7	TO030	268	7	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3321,7 +3321,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 268-13	TO030	268	13	[che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(132)
 268-14	TO030	268	14	che]	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(132)
 268-15	TO030	268	15	sarò	sarò	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-268-16	TO030	268	16	costrett[a].	costretta	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=969.52	_	_	_	7-9(133)
+268-16	TO030	268	16	costrett[a].	costretta	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=969.52	_	_	_	8-9(133)
 269-0	TO054	269	0	[probabilità::]	probabilità	_	_	_	_	_	linguistic	_	_	_	Begin=964.982|End=965.923	10x2	_	_	0-11(131)
 270-0	TO054	270	0	[e::h],	eh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=967.714|End=968.524	0x2	_	_	0-2(132)
 271-0	TO054	271	0	[s~]	s~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes|ProsodicLink=Yes	Begin=969.252	_	_	_	0-2(133)
@@ -3461,7 +3461,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 278-24	TO030	278	24	andati.	andati	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	0-6(137)
 278-25	TO030	278	25	certo.	certo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	0-5(137)
 278-26	TO030	278	26	nel	nel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(137)
-278-27	TO030	278	27	senso],	senso	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1006.04	_	_	_	0-4(137)
+278-27	TO030	278	27	senso],	senso	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1006.04	_	_	_	0-5(137)
 279-0	TO054	279	0	[EH.	eh	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Volume=High	Begin=1002.833	_	_	_	0-2(137)
 279-1	TO054	279	1	però	però	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(137)
 279-2	TO054	279	2	devi	devi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(137)
@@ -3715,9 +3715,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 293-30	TO030	293	30	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 293-31	TO030	293	31	torna:re.	tornare	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	4x1	_	_	_
 293-32	TO030	293	32	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-293-33	TO030	293	33	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(145)
+293-33	TO030	293	33	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 293-34	TO030	293	34	[non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(145)
-293-35	TO030	293	35	vorrei]	vorrei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(145)
+293-35	TO030	293	35	vorrei]	vorrei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(145)
 293-36	TO030	293	36	mai	mai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 293-37	TO030	293	37	dire	dire	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 293-38	TO030	293	38	vado	vado	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3951,7 +3951,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 319-4	TO030	319	4	aveva	aveva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 319-5	TO030	319	5	sofferta	sofferta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 319-6	TO030	319	6	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-319-7	TO030	319	7	sac[co	sacco	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(152)
+319-7	TO030	319	7	sac[co	sacco	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(152)
 319-8	TO030	319	8	eh].	eh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1149.827	_	_	_	0-2(152)
 320-0	TO054	320	0	[ci	ci	_	_	_	_	_	linguistic	_	_	_	Begin=1149.165	_	_	_	0-2(152)
 320-1	TO054	320	1	credo].	credo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1149.89	_	_	_	0-5(152)
@@ -4170,7 +4170,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 338-9	TO054	338	9	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 338-10	TO054	338	10	delle	delle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 338-11	TO054	338	11	scelte	scelte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-338-12	TO054	338	12	miglio[ri],	migliori	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1209.839	_	_	_	5-8(160)
+338-12	TO054	338	12	miglio[ri],	migliori	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1209.839	_	_	_	6-8(160)
 339-0	TO030	339	0	[ma]	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1209.641	_	_	_	0-2(161)
 339-1	TO030	339	1	sì:	sì	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
 339-2	TO030	339	2	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

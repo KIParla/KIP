@@ -262,20 +262,20 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 42-1	TO024	42	1	antichità	antichità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 42-2	TO024	42	2	[classica.	classica	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	0-8(14)
 42-3	TO024	42	3	de~	de~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-3(14)
-42-4	TO024	42	4	no(n)	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	1-3(0)	0-3(14)
+42-4	TO024	42	4	no(n)	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	2-3(0)	0-3(14)
 42-5	TO024	42	5	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(14)
-42-6	TO024	42	6	an]tichità	antichità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(14)
+42-6	TO024	42	6	an]tichità	antichità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(14)
 42-7	TO024	42	7	classica	classica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 42-8	TO024	42	8	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 42-9	TO024	42	9	cina	cina	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 42-10	TO024	42	10	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-42-11	TO024	42	11	anti[ca].	antica	_	_	_	_	_	linguistic	_	_	Intonation=Falling|PauseAfter=Yes	_	_	_	_	2-5(15)
+42-11	TO024	42	11	anti[ca].	antica	_	_	_	_	_	linguistic	_	_	Intonation=Falling|PauseAfter=Yes	_	_	_	_	4-6(15)
 42-12	TO024	42	12	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 42-13	TO024	42	13	prima	prima	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 42-14	TO024	42	14	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 42-15	TO024	42	15	impero.	impero	_	_	_	_	_	linguistic	_	_	Intonation=Falling|PauseAfter=Yes	_	_	_	_	_
 42-16	TO024	42	16	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-42-17	TO024	42	17	[mh].	mh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=130.276	_	_	_	_
+42-17	TO024	42	17	[mh].	mh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=130.276	_	_	_	0-2(16)
 43-0	TO023	43	0	[dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=122.954	_	_	_	0-5(14)
 43-1	TO023	43	1	antichità	antichità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-9(14)
 43-2	TO023	43	2	classica].	classica	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=124.662	_	_	_	0-8(14)
@@ -649,10 +649,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 72-23	TO024	72	23	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 72-24	TO024	72	24	contrapposte	contrapposte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 72-25	TO024	72	25	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-72-26	TO024	72	26	coesis[tenti	coesistenti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-11(23)
+72-26	TO024	72	26	coesis[tenti	coesistenti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-11(23)
 72-27	TO024	72	27	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(23)
 72-28	TO024	72	28	cina.	cina	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	0-4(23)
-72-29	TO024	72	29	cioè],	cioè	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=315.652	_	_	_	0-3(23)
+72-29	TO024	72	29	cioè],	cioè	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=315.652	_	_	_	0-4(23)
 73-0	TO023	73	0	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=301.985|End=302.501	_	_	_	0-2(22)
 74-0	TO023	74	0	[sì.	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling|PauseAfter=Yes	Begin=313.858	_	_	_	0-2(23)
 74-1	TO023	74	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(23)
@@ -678,7 +678,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 76-10	TO024	76	10	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(26)
 76-11	TO024	76	11	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(26)
 76-12	TO024	76	12	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(26)
-76-13	TO024	76	13	altra].	altra	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=325.091	_	_	_	0-4(26)
+76-13	TO024	76	13	altra].	altra	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=325.091	_	_	_	0-5(26)
 77-0	TO023	77	0	[i::	i	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=319.219	0x2	_	_	0-1(25)
 77-1	TO023	77	1	nizialmente],	nizialmente	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=320.611	_	_	_	0-11(25)
 78-0	TO023	78	0	[sì.	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=322.226	_	_	_	0-2(26)
@@ -716,7 +716,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 80-10	TO024	80	10	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 80-11	TO024	80	11	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 80-12	TO024	80	12	natura	natura	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-80-13	TO024	80	13	uma[na].	umana	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=336.615	_	_	_	2-5(29)
+80-13	TO024	80	13	uma[na].	umana	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=336.615	_	_	_	3-5(29)
 81-0	TO023	81	0	[però],	però	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=331.152|End=331.557	_	_	_	0-4(28)
 82-0	TO023	82	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=336.454	_	_	_	0-2(29)
 82-1	TO023	82	1	allora,	allora	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
@@ -888,7 +888,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 94-18	TO024	94	18	educati.	educati	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
 94-19	TO024	94	19	attraverso	attraverso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 94-20	TO024	94	20	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-94-21	TO024	94	21	educa[zione]	educazione	_	_	_	_	_	linguistic	_	_	_	End=413.139	_	_	_	4-10(36)
+94-21	TO024	94	21	educa[zione]	educazione	_	_	_	_	_	linguistic	_	_	_	End=413.139	_	_	_	5-10(36)
 95-0	TO023	95	0	[ho	ho	_	_	_	_	_	linguistic	_	_	_	Begin=412.716	_	_	_	0-2(36)
 95-1	TO023	95	1	ca]pito.	capito	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=413.479	_	_	_	0-2(36)
 96-0	TO024	96	0	((si_schiarisce_la_voce))	((si_schiarisce_la_voce))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=413.714	_	_	_	_
@@ -1007,7 +1007,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 102-12	TO024	102	12	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 102-13	TO024	102	13	applicazione	applicazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 102-14	TO024	102	14	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-102-15	TO024	102	15	leg[ge].	legge	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=466.234	_	_	_	2-5(39)
+102-15	TO024	102	15	leg[ge].	legge	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=466.234	_	_	_	3-5(39)
 103-0	TO023	103	0	[che	che	_	_	_	_	_	linguistic	_	_	_	Begin=463.923	_	_	_	0-3(40)
 103-1	TO023	103	1	c~]	c~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=464.24	_	_	_	0-2(40)
 104-0	TO023	104	0	[u]na	una	_	_	_	_	_	linguistic	_	_	_	Begin=466.11	_	_	_	0-1(39)
@@ -1167,7 +1167,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 119-13	TO024	119	13	costruito	costruito	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 119-14	TO024	119	14	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 119-15	TO024	119	15	impero,	impero	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
-119-16	TO024	119	16	sul[la	sulla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(47)
+119-16	TO024	119	16	sul[la	sulla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(47)
 119-17	TO024	119	17	base]	base	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(47)
 119-18	TO024	119	18	del	del	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	_	_	_	_
 119-19	TO024	119	19	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1181,7 +1181,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 122-3	TO024	122	3	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 122-4	TO024	122	4	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 122-5	TO024	122	5	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-122-6	TO024	122	6	po[i:],	poi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	2x1	_	_	1-3(48)
+122-6	TO024	122	6	po[i:],	poi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	2x1	_	_	2-3(48)
 122-7	TO024	122	7	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 122-8	TO024	122	8	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 122-9	TO024	122	9	prevalenza	prevalenza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1190,7 +1190,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 122-12	TO024	122	12	uno	uno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(49)
 122-13	TO024	122	13	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(49)
 122-14	TO024	122	14	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(49)
-122-15	TO024	122	15	altro].	altro	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	0-3(49)
+122-15	TO024	122	15	altro].	altro	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	0-5(49)
 122-16	TO024	122	16	però	però	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 122-17	TO024	122	17	proprio,	proprio	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 122-18	TO024	122	18	e::h	eh	_	_	_	_	_	linguistic	_	_	_	_	0x2	_	_	_
@@ -1208,7 +1208,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 122-30	TO024	122	30	far	far	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 122-31	TO024	122	31	tacere	tacere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 122-32	TO024	122	32	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-122-33	TO024	122	33	con[fucia]ni.	confuciani	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=564.513	_	_	_	0-6(50)
+122-33	TO024	122	33	con[fucia]ni.	confuciani	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=564.513	_	_	_	3-8(50)
 123-0	TO023	123	0	[okay	okay	_	_	_	_	_	linguistic	_	_	_	Begin=552.263	_	_	_	0-4(48)
 123-1	TO023	123	1	okay].	okay	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=553.044	_	_	_	0-4(48)
 124-0	TO023	124	0	[sì.	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=554.115	_	_	_	0-2(49)
@@ -1436,7 +1436,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 137-18	TO024	137	18	applicazione	applicazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 137-19	TO024	137	19	completa	completa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 137-20	TO024	137	20	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-137-21	TO024	137	21	parti[colar]mente	particolarmente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-9(56)
+137-21	TO024	137	21	parti[colar]mente	particolarmente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-10(56)
 137-22	TO024	137	22	rigorosa	rigorosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 137-23	TO024	137	23	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 137-24	TO024	137	24	legge,	legge	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=662.586	_	_	_	_
@@ -1905,7 +1905,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 179-16	TO023	179	16	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 179-17	TO023	179	17	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 179-18	TO023	179	18	quella	quella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-179-19	TO023	179	19	determi[nata	determinata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-11(68)
+179-19	TO023	179	19	determi[nata	determinata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-11(68)
 179-20	TO023	179	20	sentenza].	sentenza	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=888.042	_	_	_	0-8(68)
 180-0	TO024	180	0	[sì.	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling|PauseAfter=Yes	Begin=887.138	_	_	_	0-2(68)
 180-1	TO024	180	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(68)
@@ -2140,7 +2140,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 193-0	TO023	193	0	ehm:::	ehm	_	_	_	_	_	linguistic	_	_	_	Begin=1002.475|End=1003.654	2x3	_	_	_
 194-0	TO024	194	0	[cos]'	cos'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1004.529	_	_	_	0-3(73)
 194-1	TO024	194	1	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-194-2	TO024	194	2	succes[so].	successo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1005.844	_	_	_	5-8(74)
+194-2	TO024	194	2	succes[so].	successo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1005.844	_	_	_	6-8(74)
 195-0	TO023	195	0	[s~]	s~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	Begin=1004.529|End=1004.916	_	_	_	0-2(73)
 196-0	TO023	196	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1005.64	_	_	_	0-2(74)
 196-1	TO023	196	1	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2263,7 +2263,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 201-36	TO024	201	36	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 201-37	TO024	201	37	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 201-38	TO024	201	38	così	così	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-201-39	TO024	201	39	ve[loce].	veloce	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1057.184	_	_	_	1-6(78)
+201-39	TO024	201	39	ve[loce].	veloce	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1057.184	_	_	_	2-6(78)
 202-0	TO023	202	0	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1051.47|End=1051.845	_	_	_	0-2(77)
 203-0	TO023	203	0	[mh	mh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=1056.566	_	_	_	0-2(78)
 203-1	TO023	203	1	mh],	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1056.959	_	_	_	0-2(78)
@@ -2355,7 +2355,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 214-10	TO024	214	10	sistema	sistema	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(82)
 214-11	TO024	214	11	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(82)
 214-12	TO024	214	12	writ	writ	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	_	_	_	0-4(82)
-214-13	TO024	214	13	eh].	eh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1117.751	_	_	_	0-1(82)
+214-13	TO024	214	13	eh].	eh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1117.751	_	_	_	0-2(82)
 215-0	TO023	215	0	[ah.	ah	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1114.734	_	_	_	0-2(82)
 215-1	TO023	215	1	okay.	okay	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	0-4(82)
 215-2	TO023	215	2	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(82)
@@ -2402,7 +2402,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 217-28	TO024	217	28	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 217-29	TO024	217	29	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 217-30	TO024	217	30	queste	queste	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-217-31	TO024	217	31	rifor[me]?	riforme	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1136.686	_	_	_	4-7(84)
+217-31	TO024	217	31	rifor[me]?	riforme	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1136.686	_	_	_	5-7(84)
 218-0	TO023	218	0	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1136.411	_	_	_	0-2(85)
 218-1	TO023	218	1	i~	i~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 218-2	TO023	218	2	(una	una	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	_	_	0-3(0)	_
@@ -2470,7 +2470,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 223-46	TO023	223	46	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 223-47	TO023	223	47	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 223-48	TO023	223	48	sentenza	sentenza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-223-49	TO023	223	49	dove[va],	doveva	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1163.898	_	_	_	2-5(87)
+223-49	TO023	223	49	dove[va],	doveva	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1163.898	_	_	_	4-6(87)
 224-0	TO024	224	0	[no].	no	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1163.77	_	_	_	0-2(87)
 224-1	TO024	224	1	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 224-2	TO024	224	2	cosa,	cosa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
@@ -2480,7 +2480,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 224-6	TO024	224	6	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 224-7	TO024	224	7	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 224-8	TO024	224	8	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-224-9	TO024	224	9	for[mula	formula	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-7(88)
+224-9	TO024	224	9	for[mula	formula	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-7(88)
 224-10	TO024	224	10	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(88)
 224-11	TO024	224	11	sentenza]?	sentenza	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1168.255	_	_	_	0-8(88)
 225-0	TO023	225	0	[no.	no	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1166.758	_	_	_	0-2(88)

@@ -617,7 +617,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 121-4	BO098	121	4	detto	detto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 121-5	BO098	121	5	te	te	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 121-6	BO098	121	6	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-121-7	BO098	121	7	pote[vo	potevo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(19)
+121-7	BO098	121	7	pote[vo	potevo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-6(19)
 121-8	BO098	121	8	scherzare	scherzare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-9(19)
 121-9	BO098	121	9	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(19)
 121-10	BO098	121	10	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(19)
@@ -974,7 +974,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 175-15	BO098	175	15	madre	madre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 175-16	BO098	175	16	gli	gli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 175-17	BO098	175	17	preparava	preparava	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-175-18	BO098	175	18	tu[tto],	tutto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=517.549	_	_	_	1-5(26)
+175-18	BO098	175	18	tu[tto],	tutto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=517.549	_	_	_	2-5(26)
 176-0	BO115	176	0	[di]o,	dio	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=517.373|End=517.965	_	_	_	0-2(26)
 177-0	BO098	177	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=517.926|End=518.611	_	_	_	_
 178-0	BO098	178	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=519.043	_	_	_	_

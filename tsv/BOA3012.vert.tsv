@@ -1236,7 +1236,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 222-1	BO095	222	1	devo	devo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 222-2	BO095	222	2	chiedere	chiedere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 222-3	BO095	222	3	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-222-4	BO095	222	4	assistenz[a:::]	assistenza	_	_	_	_	_	linguistic	_	_	_	End=903.05	9x3	_	_	8-10(13)
+222-4	BO095	222	4	assistenz[a:::]	assistenza	_	_	_	_	_	linguistic	_	_	_	End=903.05	9x3	_	_	9-10(13)
 223-0	BO097	223	0	[ci]oè	cioè	_	_	_	_	_	linguistic	_	_	_	Begin=902.904	_	_	_	0-2(13)
 223-1	BO097	223	1	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 223-2	BO097	223	2	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
