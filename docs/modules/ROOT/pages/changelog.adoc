@@ -1,5 +1,15 @@
 = Changelog
 
+== v3.0.1 (2026-10-27)
+
+=== What's changed in 3.0.1
+
+* *BOA1001*: transcription, spans and features of the `tsv/` file revised in the lemmatization project (orthographic corrections, token spans, prolongations, pace and overlaps); the schema is unchanged.
+
+.eaf and linear files regenerated.
+
+link:https://github.com/KIParla/KIP/compare/v3.0.0...v3.0.1[Full Changelog]
+
 == v3.0.0 (2026-10-18)
 
 === What's changed in 3.0.0
