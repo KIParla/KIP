@@ -85,8 +85,8 @@ Each token is represented as 20 columns, as follows:
 4. `id`: token index within the transcription unit (0-based)
 5. `span`: portion of the original enriched transcription containing the token, including any variation marker that precedes it (`#`, `#*`, `$`, a unit-initial `# ` or `#_ `, or a `#_ ` later in the unit), so the original text can be rebuilt from this column
 6. `form`: orthographic form of the token. This differs from the `span` as special symbols are stripped out and represented as `jefferson_feats`. Moreover, shortpauses (`(.)` in the transcription) are represented as `[PAUSE]` and unintelligible tokens (sequences of `x` in the transcription) are represented as `x`
-7. `lemma`: reserved for a future lemmatization step; `_` for now
-8. `upos`: reserved for a future POS-tagging step; `_` for now
+7. `lemma`: lemma of the token, from the manual lemmatization (see [lemmatization-project](https://github.com/KIParla/lemmatization-project)); `_` in the conversations not yet lemmatized, for pauses and non-verbal behaviors, and for dialect tokens (marked `Lang=und` or `Dialect=Yes` in the lemmatization), whose Italian lemma has no column yet. For a multiword token (e.g. `della`) it is the lemmas of its syntactic words joined by `+` (`di+il`)
+8. `upos`: Universal Dependencies part of speech, from the manual POS-tagging; `_` in the conversations not yet lemmatized and for pauses and non-verbal behaviors (dialect tokens do have it). For a multiword token it is the tags of its syntactic words joined by `+` (`ADP+DET`)
 9. `xpos`: reserved; `_` for now
 10. `feats`: reserved; `_` for now
 11. `deprel`: reserved for a future dependency-parsing step; `_` for now
@@ -96,6 +96,7 @@ Each token is represented as 20 columns, as follows:
     - `shortpause`: identifies pauses
     - `unknown`: identifies unintelligible spans in transcription
     - `error`: residual class to mark cases where the transcription is not well formed according to enriched format. Therefore, the token is not analyzed and transcription will be corrected in future releases.
+    - `syntactic`: one syntactic word of a multiword token, only in the lemmatized conversations (see below)
 13. `meta_label`: reserved; `_` for now
 14. `code_variation`: all variation features of the token (having to do with code switching and nonce formations), as pipe-separated `Key=Value` pairs (never empty, as the first one is always present):
     - `ContainsVariation`: unit-level flag, repeated on every token of the unit. `Yes` if any token of the unit has a `Code`, `No` otherwise
@@ -129,6 +130,20 @@ Each token is represented as 20 columns, as follows:
 20. `overlaps`: comma-separated list of character spans participating in simultaneous speech, with an overlap group identifier
 	- Format: `<char_id_start>-<char_id_end>(<overlap_id>)`, where indices are zero-based, inclusive indices over `form` and `overlap_id` is the progressive number of the overlapping group within the TU
 	- Examples: the span `e[se]mp[i` would be encoded as `1-3(2),5-6(3)` meaning that characters from position one (inclusive) to three (exclusive) participate to span number 2 while the last character (with id 5) participates to the third overlapping span of the transcription unit. When the overlapping id was not decidable, a `?` is used
+
+### Lemmatization and syntactic words
+
+`lemma` and `upos` are filled in the conversations that have been manually lemmatized (at the moment BOA1001); the other conversations have `_`. The `linguistic_annotation` flag of a conversation tells which ones.
+
+A multiword token is a transcription token that corresponds to more than one syntactic word (`sulla` = `su` + `la`, `dell'` = `di` + `l'`). It keeps its row, with its `span`, `form` and `align`, and `lemma`/`upos` built from its words (`su+la`, `ADP+DET`). Right after it there is one row per word, with:
+
+- `token_id`: the token's id followed by a letter (`5-7a`, `5-7b`)
+- `type`: `syntactic`
+- `speaker` and `tu_id`: those of the multiword token
+- `form`, `lemma`, `upos`: those of the word
+- `_` in every other column, `id` and `span` included: these rows are not part of the transcription
+
+Everything derived from the transcription (the `linear-enriched` and `linear-orthographic` files, the `.eaf` files, the NoSketch Engine corpus, the token counts) ignores the `syntactic` rows. When counting or iterating over the tokens of a conversation, skip the rows with `type` equal to `syntactic`.
 
 ## Data access
 
