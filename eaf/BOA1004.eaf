@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T19:18:26+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-29T21:22:23+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="BOA1004.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="BOA1004.mp3" />
     </HEADER>
@@ -750,7 +750,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a25">
-                <ANNOTATION_VALUE>[ho da]to [l'esame di: didattica elle due] in triennale,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[ho da]to [l'esame di: didattica elledue] in triennale,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1649,7 +1649,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a63">
-                <ANNOTATION_VALUE>però lei non ha fatto didattica della lingua italiana [elle due].</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>però lei non ha fatto didattica della lingua italiana [elledue]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1789,7 +1789,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a147">
-                <ANNOTATION_VALUE>sarà comunque ridotta rispetto[a]quel quel programma.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sarà comunque ridotta rispetto a quel quel programma.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1869,12 +1869,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a205">
-                <ANNOTATION_VALUE>[di italiano L]due per lo [studio].</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[di italiano elle]due per lo [studio].</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a211">
-                <ANNOTATION_VALUE>[mentre qusto riguarda (la) seconda],</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[mentre questo riguarda (la) seconda],</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1924,7 +1924,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a260" ANNOTATION_REF="a259">
-                <ANNOTATION_VALUE>e::=mh valentini ed altri (accurati) sull'italiano:: le abilità di studio in italiano elle due.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e::=mh valentini ed altri (accurati) sull'italiano:: le abilità di studio in italiano elledue</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1989,7 +1989,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a302" ANNOTATION_REF="a301">
-                <ANNOTATION_VALUE>[in che anno, c~] co[s'era duemil duemila~ quattordi]ci.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[in che anno, c~] co[s'era duemil~ duemilaquattordi]ci.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2019,7 +2019,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a332" ANNOTATION_REF="a331">
-                <ANNOTATION_VALUE>[sì. questo volume d~ sulle abilità] di studio (in) elle due.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[sì. questo volume d~ sulle abilità] di studio (in) elledue</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2069,7 +2069,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a364" ANNOTATION_REF="a363">
-                <ANNOTATION_VALUE>[no no m~ me m]e lo scrivo io ades[so].</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[no no me me m]e lo scrivo io ades[so].</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

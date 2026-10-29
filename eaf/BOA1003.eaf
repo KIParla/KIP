@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T19:18:26+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-29T21:22:10+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="BOA1003.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="BOA1003.mp3" />
     </HEADER>
@@ -346,7 +346,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a39">
-                <ANNOTATION_VALUE>[e: alla] ca' foscari, c'era anche appunto (pao~) pallotti, ([va]goni), &gt;e: infatti alcuni&lt; e xxxx</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[e: alla] ca' foscari, c'era anche appunto (pao~) pallotti, ([va]goni), &gt;e: infatti alcuni&lt; e serragiotto</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -391,7 +391,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a75">
-                <ANNOTATION_VALUE>[ne scelgo]uno di questi e lo sosti[tuisco],</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[ne scelgo] uno di questi e lo sosti[tuisco],</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -446,7 +446,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a121">
-                <ANNOTATION_VALUE>&gt;sì. sì. no io xx mi iscrivo regolarmente e oggi le mando le mail ogg[i stesso] va bene,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&gt;sì. sì. no io xx mi iscrivo regolarmente e oggi le mando l'email ogg[i stesso] va bene,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -735,7 +735,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a77">
-                <ANNOTATION_VALUE>[entram]bi riguardano l'italiano per lo studio elle due per lo studio delle [(discipli]ne).</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[entram]bi riguardano l'italiano per lo studio elledue per lo studio delle [(discipli]ne).</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -770,7 +770,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a103">
-                <ANNOTATION_VALUE>e la il colloqui consiste, (.) così come descritto sul program[ma]: nella analisi di una sequenza di interazione in classe.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e la il colloquio consiste, (.) così come descritto sul program[ma]: nella analisi di una sequenza di interazione in classe.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
