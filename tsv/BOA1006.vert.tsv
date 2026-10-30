@@ -68,7 +68,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 14-5	BO034	14	5	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 14-6	BO034	14	6	mia	mia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 14-7	BO034	14	7	collega:	collega	_	_	_	_	_	linguistic	_	_	_	End=29.64	6x1	_	_	_
-15-0	BO034	15	0	a:	a	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=29.718	0x1	_	_	_
+15-0	BO034	15	0	ha:	ha	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=29.718	0x1	_	_	_
 15-1	BO034	15	1	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 15-2	BO034	15	2	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 15-3	BO034	15	3	scritto	scritto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -154,7 +154,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 23-1	BO026	23	1	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	0-2(10)
 23-2	BO026	23	2	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	0-2(10)
 23-3	BO026	23	3	no<	no	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	0-2(10)
-23-4	BO026	23	4	può]	può	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(10)
+23-4	BO026	23	4	dico],	dico	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-3(10)
 23-5	BO026	23	5	es~	es~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 23-6	BO026	23	6	infatti	infatti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 23-7	BO026	23	7	la:	la	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
@@ -613,8 +613,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 83-9	BO034	83	9	lavorando	lavorando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 83-10	BO034	83	10	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 83-11	BO034	83	11	alla	alla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-83-12	BO034	83	12	benedict	benedict	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-83-13	BO034	83	13	school.	school	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
+83-12	BO034	83	12	benedict	benedict	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
+83-13	BO034	83	13	school.	school	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Lang=en	_	_	_	_	_
 83-14	BO034	83	14	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 83-15	BO034	83	15	[scuola],	scuola	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=232.984	_	_	_	0-6(29)
 84-0	BO026	84	0	[m:h]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=232.446|End=232.966	0x1	_	_	0-2(29)
