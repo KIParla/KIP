@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T19:18:27+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-30T14:24:34+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="BOA1006.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="BOA1006.mp3" />
     </HEADER>
@@ -933,7 +933,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a31">
-                <ANNOTATION_VALUE>a:=le ha scritto dicendole che no:n=m:h che praticamente (.) h[a trovat]o un'altra re~ (.) un'altra [relatric(e)],</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ha:=le ha scritto dicendole che no:n=m:h che praticamente (.) h[a trovat]o un'altra re~ (.) un'altra [relatric(e)],</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1952,7 +1952,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a47">
-                <ANNOTATION_VALUE>[&gt;no no no no&lt; può] es~ infatti la: la:: [come si chiama la li~ licia]:</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[&gt;no no no no&lt; dico], es~ infatti la: la:: [come si chiama la li~ licia]:</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
