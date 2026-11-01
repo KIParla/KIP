@@ -1291,7 +1291,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 152-15a	BO037	152	_	_	di	di	ADP	_	_	_	syntactic	_	_	_	_	_	_	_	_
 152-15b	BO037	152	_	_	i	il	DET	_	_	_	syntactic	_	_	_	_	_	_	_	_
 152-16	BO037	152	16	segni	segni	segno	NOUN	_	_	_	linguistic	_	_	_	_	_	_	_	_
-152-17	BO037	152	17	di	di	di	ADP	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+152-17	BO037	152	17	di	di	di	ADP	_	_	_	linguistic	_	_	_	_	_	_	_	_
 152-18	BO037	152	18	insegnanti:	insegnanti	insegnante	NOUN	_	_	_	linguistic	_	_	_	_	9x1	_	_	_
 152-19	BO037	152	19	sia	sia	sia	CCONJ	_	_	_	linguistic	_	_	_	_	_	_	_	_
 152-20	BO037	152	20	sordi	sordi	sordare	VERB	_	_	_	linguistic	_	_	_	_	_	_	_	_

@@ -172,7 +172,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 23-12	BO021	23	12	[spazi]	spazi	spazio	NOUN	_	_	_	linguistic	_	_	_	End=73.087	_	_	_	0-5(6)
 24-0	BO046	24	0	[perché	perché	perché	SCONJ	_	_	_	linguistic	_	_	_	Begin=72.505	_	_	_	0-6(6)
 24-1	BO046	24	1	mh],	mh	mh	INTJ	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-2(6)
-24-2	BO046	24	2	>cioè<	cioè	cioè	CCONJ	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+24-2	BO046	24	2	>cioè<	cioè	cioè	CCONJ	_	_	_	linguistic	_	_	_	_	_	_	_	_
 24-4	BO046	24	3	è	è	essere	VERB	_	_	_	linguistic	_	_	_	_	_	_	_	_
 24-5	BO046	24	4	un	un	uno	DET	_	_	_	linguistic	_	_	_	_	_	_	_	_
 24-6	BO046	24	5	po'	po'	poco	ADV	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2205,7 +2205,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 260-2	BO021	260	2	ragazzi	ragazzi	ragazzo	NOUN	_	_	_	linguistic	_	_	_	_	_	_	_	_
 260-3	BO021	260	3	medio	medio	medio	ADV	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 260-4	BO021	260	4	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-260-5	BO021	260	5	>cioè<	cioè	cioè	CCONJ	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+260-5	BO021	260	5	>cioè<	cioè	cioè	CCONJ	_	_	_	linguistic	_	_	_	_	_	_	_	_
 260-7	BO021	260	6	un	un	uno	DET	_	_	_	linguistic	_	_	_	_	_	_	_	_
 260-8	BO021	260	7	po'	po'	poco	ADV	_	_	_	linguistic	_	_	_	_	_	_	_	_
 260-9	BO021	260	8	in	in	in	ADP	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2215,7 +2215,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 260-13	BO021	260	12	così	così	così	ADV	_	_	_	linguistic	_	_	_	End=758.886	_	_	_	_
 261-0	BO021	261	0	però	però	però	CCONJ	_	_	_	linguistic	_	_	_	Begin=759.671	_	_	_	_
 261-1	BO021	261	1	capì,	capì	capire	VERB	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
-261-2	BO021	261	2	>cioè<	cioè	cioè	CCONJ	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+261-2	BO021	261	2	>cioè<	cioè	cioè	CCONJ	_	_	_	linguistic	_	_	_	_	_	_	_	_
 261-3	BO021	261	3	tipo	tipo	tipo	NOUN	_	_	_	linguistic	_	_	_	_	_	_	_	_
 261-4	BO021	261	4	fa	fa	fare	VERB	_	_	_	linguistic	_	_	_	_	_	_	_	_
 261-5	BO021	261	5	conto,	conto	conto	NOUN	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
@@ -2330,7 +2330,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 268-16	BO021	268	16	ne	ne	ne	PRON	_	_	_	linguistic	_	_	_	_	_	_	_	_
 268-17	BO021	268	17	sono	sono	essere	AUX	_	_	_	linguistic	_	_	_	_	_	_	_	_
 268-18	BO021	268	18	andati	andati	andare	VERB	_	_	_	linguistic	_	_	_	End=795.8	_	_	_	_
-269-0	BO021	269	0	>cioè<	cioè	cioè	CCONJ	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=796.332	_	_	_	_
+269-0	BO021	269	0	>cioè<	cioè	cioè	CCONJ	_	_	_	linguistic	_	_	_	Begin=796.332	_	_	_	_
 269-2	BO021	269	1	fra'	fra'	fratello	NOUN	_	_	_	linguistic	_	_	Truncated=Yes|PauseAfter=Yes	_	_	_	_	_
 269-3	BO021	269	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 269-4	BO021	269	3	o::::h	oh	oh	INTJ	_	_	_	linguistic	_	_	_	End=797.919	0x4	_	_	_
@@ -2795,7 +2795,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 332-0	BO046	332	0	no	no	no	INTJ	_	_	_	linguistic	_	_	_	Begin=980.06	_	_	_	_
 332-1	BO046	332	1	grazie,	grazie	grazie	INTJ	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 332-2	BO046	332	2	[niente].	niente	niente	PRON	_	_	_	linguistic	_	_	Intonation=Falling	End=981.088	_	_	_	0-6(80)
-333-0	??	333	0	[don't	don't	do+not	VERB+ADV	_	_	_	linguistic	_	_	SpaceAfter=No|Lang=en	Begin=980.747	_	_	_	0-5(80)
+333-0	??	333	0	[don't	don't	do+not	VERB+ADV	_	_	_	linguistic	_	_	Lang=en	Begin=980.747	_	_	_	0-5(80)
 333-0a	??	333	_	_	do	do	VERB	_	_	_	syntactic	_	_	_	_	_	_	_	_
 333-0b	??	333	_	_	n't	not	ADV	_	_	_	syntactic	_	_	_	_	_	_	_	_
 333-2	??	333	1	worry.	worry	worry	VERB	_	_	_	linguistic	_	_	Intonation=Falling|Lang=en	_	_	_	_	_
@@ -4518,7 +4518,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 548-13b	BO046	548	_	_	la	il	DET	_	_	_	syntactic	_	_	_	_	_	_	_	_
 548-14	BO046	548	14	mia	mia	mio	DET	_	_	_	linguistic	_	_	_	_	_	_	_	_
 548-15	BO046	548	15	vita	vita	vita	NOUN	_	_	_	linguistic	_	_	_	End=1493.347	_	_	_	_
-549-0	BO021	549	0	perché	perché	perché	SCONJ	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1493.849	_	_	_	_
+549-0	BO021	549	0	perché	perché	perché	SCONJ	_	_	_	linguistic	_	_	_	Begin=1493.849	_	_	_	_
 549-1	BO021	549	1	è	è	essere	VERB	_	_	_	linguistic	_	_	_	_	_	_	_	_
 549-2	BO021	549	2	molisano	molisano	molisano	ADJ	_	_	_	linguistic	_	_	_	_	_	_	_	_
 549-3	BO021	549	3	uno	uno	uno	PRON	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6856,7 +6856,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 899-3	BO047	899	3	capito,	capito	capito	VERB	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 899-4	BO047	899	4	come,	come	come	ADP	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2244.932	_	_	_	_
 900-0	BO021	900	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2245.101|End=2245.654	_	_	_	_
-901-0	BO047	901	0	>cioè<	cioè	cioè	CCONJ	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=2245.828	_	_	_	_
+901-0	BO047	901	0	>cioè<	cioè	cioè	CCONJ	_	_	_	linguistic	_	_	_	Begin=2245.828	_	_	_	_
 901-2	BO047	901	1	il	il	il	DET	_	_	_	linguistic	_	_	_	_	_	_	_	_
 901-3	BO047	901	2	fine	fine	fine	NOUN	_	_	_	linguistic	_	_	_	_	_	_	_	_
 901-4	BO047	901	3	del~,	del~	del	DET	_	_	_	linguistic	_	_	Intonation=WeaklyRising|Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
@@ -7057,7 +7057,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 928-9	BO021	928	9	scelto	scelto	scegliere	VERB	_	_	_	linguistic	_	_	_	_	_	_	_	_
 928-10	BO021	928	10	di	di	di	ADP	_	_	_	linguistic	_	_	_	_	_	_	_	_
 928-11	BO021	928	11	dedi~	dedi~	dedi~	X	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
-928-12	BO021	928	12	>cioè<	cioè	cioè	CCONJ	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+928-12	BO021	928	12	>cioè<	cioè	cioè	CCONJ	_	_	_	linguistic	_	_	_	_	_	_	_	_
 928-14	BO021	928	13	di	di	di	ADP	_	_	_	linguistic	_	_	_	_	_	_	_	_
 928-15	BO021	928	14	occuparsi	occuparsi	occupare+si	VERB+PRON	_	_	_	linguistic	_	_	_	_	_	_	_	_
 928-15a	BO021	928	_	_	occupar	occupare	VERB	_	_	_	syntactic	_	_	_	_	_	_	_	_
@@ -8432,7 +8432,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1138-9	BO021	1138	9	ha	ha	avere	VERB	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1138-10	BO021	1138	10	neanche	neanche	neanche	ADV	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1138-11	BO021	1138	11	sens~	sens~	senso	NOUN	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
-1138-12	BO021	1138	12	>cioè<	cioè	cioè	CCONJ	_	_	_	linguistic	_	_	SpaceAfter=No	End=2866.565	_	_	_	_
+1138-12	BO021	1138	12	>cioè<	cioè	cioè	CCONJ	_	_	_	linguistic	_	_	_	End=2866.565	_	_	_	_
 1139-0	BO021	1139	0	al	al	a+il	ADP+DET	_	_	_	linguistic	_	_	_	Begin=2867.069	_	_	_	_
 1139-0a	BO021	1139	_	_	a	a	ADP	_	_	_	syntactic	_	_	_	_	_	_	_	_
 1139-0b	BO021	1139	_	_	il	il	DET	_	_	_	syntactic	_	_	_	_	_	_	_	_
@@ -9000,7 +9000,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1241-3	BO021	1241	3	far	far	fare	VERB	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1241-4	BO021	1241	4	finta,	finta	finta	NOUN	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
 1241-5	BO021	1241	5	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-1241-6	BO021	1241	6	>cioè<	cioè	cioè	CCONJ	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+1241-6	BO021	1241	6	>cioè<	cioè	cioè	CCONJ	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1241-8	BO021	1241	7	io	io	io	PRON	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1241-9	BO021	1241	8	c'	c'	ci	PRON	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1241-10	BO021	1241	9	ho	ho	avere	AUX	_	_	_	linguistic	_	_	_	_	_	_	_	_
