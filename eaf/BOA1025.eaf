@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T19:18:27+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-11-01T22:01:39+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="BOA1025.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="BOA1025.mp3" />
     </HEADER>
@@ -959,12 +959,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a290" ANNOTATION_REF="a289">
-                <ANNOTATION_VALUE>[mh no]é una ricerchina insomma che che mh appunto dicevo anche alla sua collega prima lo scopo è proprio,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[mh no] è una ricerchina insomma che che mh appunto dicevo anche alla sua collega prima lo scopo è proprio,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a292" ANNOTATION_REF="a291">
-                <ANNOTATION_VALUE>farvi lavorare in modo un po' più arrivo [no],</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>farvi lavorare in modo un po' più attivo [no],</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1513,12 +1513,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a35">
-                <ANNOTATION_VALUE>[q]uindo volevo avere un po' quello secondo,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[q]uindi volevo avere un po' quello secondo,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a39">
-                <ANNOTATION_VALUE>per esempio i:n &gt;noi in latino america usiamo troppo come mi puoi passare una&lt; &lt;tazzi:na&gt; di zucchero ma troppo.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>per esempio i:n &gt;noi in latinoamerica usiamo troppo come mi puoi passare una&lt; &lt;tazzi:na&gt; di zucchero ma troppo.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1573,7 +1573,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a69">
-                <ANNOTATION_VALUE>che su sketch engine funziona un po' così: mi dice un po' l'età e tutto quello, o no.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>che su sketchengine funziona un po' così: mi dice un po' l'età e tutto quello, o no.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1693,7 +1693,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a164" ANNOTATION_REF="a163">
-                <ANNOTATION_VALUE>ci ho provato già con lo sketch engine e:</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ci ho provato già con lo sketchengine e:</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
