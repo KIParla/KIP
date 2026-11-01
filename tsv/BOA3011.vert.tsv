@@ -470,7 +470,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 68-1	BO095	68	1	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 68-2	BO095	68	2	piace	piace	_	_	_	_	_	linguistic	_	_	_	End=220.537	_	_	_	_
 69-0	BO097	69	0	xxx	xxx	_	_	_	_	_	unknown	_	_	Syllables=3	Begin=220.583	_	_	_	_
-69-1	BO097	69	1	lettteratura	lettteratura	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+69-1	BO097	69	1	letteratura	letteratura	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 69-2	BO097	69	2	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 69-3	BO097	69	3	piace	piace	_	_	_	_	_	linguistic	_	_	_	End=222.543	_	_	_	_
 70-0	BO095	70	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=222.583	_	_	_	_
