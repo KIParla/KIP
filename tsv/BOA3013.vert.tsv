@@ -224,7 +224,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 37-1	BO095	37	1	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 37-2	BO095	37	2	finito,	finito	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 37-3	BO095	37	3	allora	allora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-37-4	BO095	37	4	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+37-4	BO095	37	4	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 37-5	BO095	37	5	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 37-6	BO095	37	6	stata	stata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 37-7	BO095	37	7	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -260,12 +260,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 42-3	BO095	42	3	comprato	comprato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 42-4	BO095	42	4	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 42-5	BO095	42	5	micro	micro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-42-6	BO095	42	6	esse	esse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-42-7	BO095	42	7	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-42-8	BO095	42	8	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-42-9	BO095	42	9	trentadue	trentadue	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-42-10	BO095	42	10	giga	giga	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-42-11	BO095	42	11	che::	che	_	_	_	_	_	linguistic	_	_	_	End=175.916	2x2	_	_	_
+42-6	BO095	42	6	essedi	essedi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+42-8	BO095	42	7	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+42-9	BO095	42	8	trentadue	trentadue	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+42-10	BO095	42	9	giga	giga	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+42-11	BO095	42	10	che::	che	_	_	_	_	_	linguistic	_	_	_	End=175.916	2x2	_	_	_
 43-0	BO095	43	0	insomma::	insomma	_	_	_	_	_	linguistic	_	_	_	Begin=176.286	6x2	_	_	_
 43-1	BO095	43	1	visto	visto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 43-2	BO095	43	2	che::	che	_	_	_	_	_	linguistic	_	_	_	_	2x2	_	_	_
@@ -429,7 +428,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 67-3	BO095	67	3	stesso	stesso	_	_	_	_	_	linguistic	_	_	_	End=249.464	_	_	_	_
 68-0	BO097	68	0	solo	solo	_	_	_	_	_	linguistic	_	_	_	Begin=249.464	_	_	_	_
 68-1	BO097	68	1	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-68-2	BO097	68	2	[addesso]	addesso	_	_	_	_	_	linguistic	_	_	_	End=250.144	_	_	_	0-7(15)
+68-2	BO097	68	2	[adesso]	adesso	_	_	_	_	_	linguistic	_	_	_	End=250.144	_	_	_	0-7(15)
 69-0	BO095	69	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=249.675	_	_	_	0-2(15)
 69-1	BO095	69	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(15)
 69-2	BO095	69	2	hai]	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(15)
