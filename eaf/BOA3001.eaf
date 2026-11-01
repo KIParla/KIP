@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T19:18:27+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-11-01T22:13:46+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="BOA3001.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="BOA3001.mp3" />
     </HEADER>
@@ -8833,7 +8833,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1072" ANNOTATION_REF="a1071">
-                <ANNOTATION_VALUE>[e] ci crehdo.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[e] ci credo</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10078,7 +10078,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2064" ANNOTATION_REF="a2063">
-                <ANNOTATION_VALUE>invece il fatto che [orlando bloom] è figo già di suo (.) poi lo fai interpretare (.) uno fi:go, è figo, all'enesima potehnza.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>invece il fatto che [orlando bloom] è figo già di suo (.) poi lo fai interpretare (.) uno fi:go, è figo, all'ennesima potenza</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10303,7 +10303,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2260" ANNOTATION_REF="a2259">
-                <ANNOTATION_VALUE>invece johhny depp fa come il vino (.) [più invehcchia] più è bono</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>invece johhny depp fa come il vino (.) [più invecchia] più è bono</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10623,7 +10623,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2528" ANNOTATION_REF="a2527">
-                <ANNOTATION_VALUE>cioè, diciamo. nei film di harry potter, nel sesto e nel settimo, faceva abbastahanza. schifo ((ride))</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>cioè, diciamo. nei film di harry potter, nel sesto e nel settimo, faceva abbastanza schifo ((ride))</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11588,7 +11588,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3408" ANNOTATION_REF="a3407">
-                <ANNOTATION_VALUE>ci avevano scritto (.) no, cedric, ti prego, non andare a twilighht. rimani con noi</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ci avevano scritto (.) no, cedric, ti prego, non andare a twilight. rimani con noi</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16587,7 +16587,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a218" ANNOTATION_REF="a217">
-                <ANNOTATION_VALUE>no ma anche col mio. tanto dopo:: [devo &gt;comunque&lt; ricaricar]lo. sì sì (.) così non perdi il tre gi</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>no ma anche col mio. tanto dopo:: [devo &gt;comunque&lt; ricaricar]lo. sì sì (.) così non perdi il tregi</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -17902,7 +17902,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1240" ANNOTATION_REF="a1239">
-                <ANNOTATION_VALUE>[che ansiha].</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[che ansia.]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -17937,7 +17937,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1270" ANNOTATION_REF="a1269">
-                <ANNOTATION_VALUE>[sì (.) ci divertiahm~]. ((ride))</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[sì (.) ci divertiam~] ((ride))</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18192,7 +18192,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1488" ANNOTATION_REF="a1487">
-                <ANNOTATION_VALUE>[in bi]blioteca ci son tutti=in biblioteca. in bi[blioteca possiamo beccare] (.) [tu~ tutti]. (.) andrea. (.) ((matteo)) (.) la marta</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[in bi]blioteca ci son tutti=in biblioteca. in bi[blioteca possiamo beccare] (.) [tu~ tutti]. (.) andrea. (.) matteo [(.)] la marta</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19387,7 +19387,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2386" ANNOTATION_REF="a2385">
-                <ANNOTATION_VALUE>anche mia mahmma.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>anche mia mamma</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19922,7 +19922,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2772" ANNOTATION_REF="a2771">
-                <ANNOTATION_VALUE>poi si vede proprio il passaggio &gt;perché&lt; passa dall'essere tutta strucca:ta::, (.) vestita da mamma::, così:, &gt;intanto&lt; le perde vent'anni ((ride))</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>poi si vede proprio il passaggio &gt;perché&lt; passa dall'essere tutta strucca:ta::, (.) vestita da mamma::, così:, &gt;intanto&lt; le~:: perde vent'anni ((ride))</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20057,7 +20057,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2866" ANNOTATION_REF="a2865">
-                <ANNOTATION_VALUE>anche &gt;luiè p~&lt; non &lt;poteva&gt; fare altro</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>anche &gt;lui&lt; &gt;è p~&lt; non &lt;poteva&gt; fare altro</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20467,7 +20467,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3160" ANNOTATION_REF="a3159">
-                <ANNOTATION_VALUE>bianca, &gt;e adess~ non è che io sia abbron~non è che io sia&lt; mulatta però così.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>bianca, &gt;e adess~ non è che io sia abbron~&lt; &gt;non è che io sia&lt; mulatta però così.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
