@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T19:18:28+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-11-01T22:38:17+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="BOA3015.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="BOA3015.mp3" />
     </HEADER>
@@ -2414,7 +2414,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a25">
-                <ANNOTATION_VALUE>però appunto::: eh il primo anno è stato: così un: (.) un un un anno molto di~ mh molto divertimento con molto divertimento, insomma molte uscite,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>però appunto::: eh il primo anno è stato: così un: (.) un un un anno molto di~ m~ molto divertimento con molto divertimento, insomma molte uscite,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2424,7 +2424,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a29">
-                <ANNOTATION_VALUE>sto sempre nei (.) nei soliti posti per esempio qua a santa cristina perche vengo a studiare vengo a lezione qua c'è i m~ i miei corsi sono qui,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sto sempre nei (.) nei soliti posti per esempio qua a santa cristina perché vengo a studiare vengo a lezione qua c'è i m~ i miei corsi sono qui,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2444,12 +2444,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a41">
-                <ANNOTATION_VALUE>e:hm (.) e niente questo posto tra l'altro, e::h la prima volta in cui ci son venuta io studiavo anco~ s mh facevo ancora il liceo,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e:hm (.) e niente questo posto tra l'altro, e::h la prima volta in cui ci son venuta io studiavo anco~ s~ m~ facevo ancora il liceo,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a43">
-                <ANNOTATION_VALUE>sto: penso era ultimo anno del lice, ed ero venuta a trovare simone, ti ricordi si[mone], ehm</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sto: penso era ultimo anno del liceo, ed ero venuta a trovare simone, ti ricordi si[mone], ehm</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2709,7 +2709,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a178" ANNOTATION_REF="a177">
-                <ANNOTATION_VALUE>però::m, non so forse un po' che la cosa che mi::</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>però::, non so forse un po' che la cosa che mi::</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2759,7 +2759,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a203">
-                <ANNOTATION_VALUE>però:: mh [sì].</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>però:: m~ [sì].</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2814,7 +2814,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a232" ANNOTATION_REF="a231">
-                <ANNOTATION_VALUE>ma è stata molto utile perché:: avrei moilte critiche da:: da fare,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ma è stata molto utile perché:: avrei molte critiche da:: da fare,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2929,7 +2929,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a288" ANNOTATION_REF="a287">
-                <ANNOTATION_VALUE>e::h devi devi::mh (.) poi girare, insomma sei sempre in movimento, non</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e::h devi devi:: mh (.) poi girare, insomma sei sempre in movimento, non</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2944,7 +2944,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a296" ANNOTATION_REF="a295">
-                <ANNOTATION_VALUE>[si].</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[sì].</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3054,7 +3054,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a352" ANNOTATION_REF="a351">
-                <ANNOTATION_VALUE>io non (.) voglio assolutamente tornarci a vevere là.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>io non (.) voglio assolutamente tornarci a vivere là.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3069,7 +3069,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a358" ANNOTATION_REF="a357">
-                <ANNOTATION_VALUE>vorei andare a losanna, in svizzera francese,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>vorrei andare a losanna, in svizzera francese,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3089,7 +3089,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a366" ANNOTATION_REF="a365">
-                <ANNOTATION_VALUE>e un po' perche vo~ ci tengo a (.) a tornare nel mio paese,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e un po' perché vo~ ci tengo a (.) a tornare nel mio paese,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3159,12 +3159,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a402" ANNOTATION_REF="a401">
-                <ANNOTATION_VALUE>eh e si no ma, losanna c'è il lago, si ci sono ci son[o::]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>eh e sì no ma, losanna c'è il lago, si ci sono ci son[o::]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a406" ANNOTATION_REF="a405">
-                <ANNOTATION_VALUE>[si] si.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[sì] sì.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3309,7 +3309,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a488" ANNOTATION_REF="a487">
-                <ANNOTATION_VALUE>[sì que~ quello è::] sem~ sì. ê così da quando: [si sono conosciuti].</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[sì que~ quello è::] sem~ sì. è così da quando: [si sono conosciuti].</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3319,7 +3319,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a496" ANNOTATION_REF="a495">
-                <ANNOTATION_VALUE>[sì] sì. è stato, ((inspira)) [allora, l'ho vis]to::, è passsato da bologna così. ve~ un giorno::</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[sì] sì. è stato, ((inspira)) [allora, l'ho vis]to::, è passato da bologna così. ve~ un giorno::</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3349,7 +3349,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a510" ANNOTATION_REF="a509">
-                <ANNOTATION_VALUE>e::: e ci sia~ e::entrambi ci siamo visti proprio: cam~ crescere e cambiare, però in età diverse. perché (.) quando lui mi ha (.) quando io l'ho conosciuto, io avevo:: un quindicianni non so.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e::: e ci sia~ e::ntrambi ci siamo visti proprio: cam~ crescere e cambiare, però in età diverse. perché (.) quando lui mi ha (.) quando io l'ho conosciuto, io avevo:: un quindici anni non so.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3359,7 +3359,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a514" ANNOTATION_REF="a513">
-                <ANNOTATION_VALUE>e quest'estate, e:hm quest'estate mh lui ha conosciuto:: lella, la sua ragazza,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e quest'estate, e:hm quest'estate m~ lui ha conosciuto:: lella, la sua ragazza,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3389,7 +3389,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a532" ANNOTATION_REF="a531">
-                <ANNOTATION_VALUE>[si sì] mara sì, [di ferra~ di ferre~ di ferrara di ferre]ra sì</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[si sì] mara sì, [di ferra~ di ferre~ di ferrara di ferra]ra sì</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3404,7 +3404,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a546" ANNOTATION_REF="a545">
-                <ANNOTATION_VALUE>[è per]che è di,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[è per]ché è di,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3469,7 +3469,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a590" ANNOTATION_REF="a589">
-                <ANNOTATION_VALUE>e:h si, che ridere.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e:h sì, che ridere.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3494,7 +3494,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a608" ANNOTATION_REF="a607">
-                <ANNOTATION_VALUE>ma (.) tu non eri ne~ el e=la::vendemmia dove l'avete fatta?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ma (.) tu non eri ne~ el e=la:: vendemmia dove l'avete fatta?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3564,12 +3564,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a652" ANNOTATION_REF="a651">
-                <ANNOTATION_VALUE>e:::: ma se ti va, se:: mh perché, no in verità appunto sono::</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e:::: ma se ti va, se:: m~ perché, no in verità appunto sono::</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a654" ANNOTATION_REF="a653">
-                <ANNOTATION_VALUE>[sono un po' sta]nca. no son~ non per questo. no sono un po' stanca perché, ho dato ieri un esame, e stamattina: mh non ho dormito. cioè ho dormito poco questa notte,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[sono un po' sta]nca. no son~ non per questo. no sono un po' stanca perché, ho dato ieri un esame, e stamattina: m~ non ho dormito. cioè ho dormito poco questa notte,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3599,7 +3599,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a674" ANNOTATION_REF="a673">
-                <ANNOTATION_VALUE>e si perché lui non non si fa vivo. cioè neanch'io mi sto facendo viva: con lui. però,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e sì perché lui non non si fa vivo. cioè neanch'io mi sto facendo viva: con lui. però,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3689,7 +3689,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a732" ANNOTATION_REF="a731">
-                <ANNOTATION_VALUE>no. allora la: mh (.) tai. no eh tai. cazzo dico ((ride)) aspetta, ((inspira)) come si chiama?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>no. allora la: m~ (.) tai. no eh tai. cazzo dico ((ride)) aspetta, ((inspira)) come si chiama?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4583,7 +4583,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a157">
-                <ANNOTATION_VALUE>io guarda son son stato in::: (.) in:: in erasmus, son tornato e avevo proprio voglia di [starci. percui] secondo me anche tu. se te ne vai, [ritorni],</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>io guarda son son stato in::: (.) in:: in erasmus, son tornato e avevo proprio voglia di [starci. per cui] secondo me anche tu. se te ne vai, [ritorni],</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4658,7 +4658,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a318" ANNOTATION_REF="a317">
-                <ANNOTATION_VALUE>anchìo adesso non xxx la stessa situazione.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>anch'io adesso non xxx la stessa situazione.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4698,7 +4698,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a400" ANNOTATION_REF="a399">
-                <ANNOTATION_VALUE>in mezzo ai mondi o no?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>in mezzo ai monti o no?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4743,7 +4743,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a462" ANNOTATION_REF="a461">
-                <ANNOTATION_VALUE>ma: tanto mi laureo, percui:: [sì].</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ma: tanto mi laureo, per cui:: [sì].</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4763,7 +4763,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a486" ANNOTATION_REF="a485">
-                <ANNOTATION_VALUE>matta ma incredibile. cioè vabbè no, in realtà, si=mh mettono assieme e si mollano, [una volta a settimana].</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>matta ma incredibile. cioè vabbè no, in realtà, si=m~ mettono assieme e si mollano, [una volta a settimana].</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4843,7 +4843,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a564" ANNOTATION_REF="a563">
-                <ANNOTATION_VALUE>[ah quindi] vivi:tipo in @nomeluogo. l[ì:].</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[ah quindi] vivi: tipo in @nomeluogo. l[ì:].</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4903,7 +4903,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a630" ANNOTATION_REF="a629">
-                <ANNOTATION_VALUE>[beh che] sei dall'altra parte dela città [però]::.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[beh che] sei dall'altra parte della città [però]::.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5028,7 +5028,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a754" ANNOTATION_REF="a753">
-                <ANNOTATION_VALUE>c'è in realtà lo capisco perché anch'ìo a volte so[no un po' assente]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>c'è in realtà lo capisco perché anch'io a volte so[no un po' assente]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
