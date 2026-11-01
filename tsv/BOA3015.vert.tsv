@@ -1987,7 +1987,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 156-5b	BO115	156	_	_	il	il	DET	_	_	_	syntactic	_	_	_	_	_	_	_	_
 156-6	BO115	156	6	futuro:,	futuro	futuro	NOUN	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=650.303	5x1	_	_	_
 157-0	BO086	157	0	sì	sì	sì	ADV	_	_	_	linguistic	_	_	_	Begin=650.316|End=650.655	_	_	_	_
-158-0	BO115	158	0	anch'	anch'	anche	ADV	_	_	_	linguistic	_	_	Truncated=Yes	Begin=650.684	_	_	_	_
+158-0	BO115	158	0	anch'	anch'	anche	ADV	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=650.684	_	_	_	_
 158-7	BO115	158	1	io	io	io	PRON	_	_	_	linguistic	_	_	_	_	_	_	_	_
 158-1	BO115	158	2	adesso	adesso	adesso	ADV	_	_	_	linguistic	_	_	_	_	_	_	_	_
 158-2	BO115	158	3	non	non	non	ADV	_	_	_	linguistic	_	_	_	_	_	_	_	_
